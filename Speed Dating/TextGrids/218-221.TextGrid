@@ -1,0 +1,284 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 247.195
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 247.195
+intervals: size = 36
+        intervals [1]:
+            xmin = 0
+            xmax = 4.8
+            text = ""
+        intervals [2]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "A friend with a buzzer."
+        intervals [3]:
+            xmin = 5.6
+            xmax = 6.8
+            text = ""
+        intervals [4]:
+            xmin = 6.8
+            xmax = 7.6
+            text = "Hi.  "
+        intervals [5]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 8.6
+            text = "Sorry, female221.  How's it going?"
+        intervals [7]:
+            xmin = 8.6
+            xmax = 10.8
+            text = ""
+        intervals [8]:
+            xmin = 10.8
+            xmax = 31.6
+            text = "I can never -- I can't figure in like the -- in the like the forms we get how ambitious people are.  I'm having a really hard time figuring that out.  And like I'm getting -- I'm getting like attractive, and I'm getting like -- well, sincerity, too, I usually like to collect a little more evidence.  They should have -- they should probably have a thing here like I would like -- hmm?"
+        intervals [9]:
+            xmin = 31.6
+            xmax = 31.8
+            text = ""
+        intervals [10]:
+            xmin = 31.8
+            xmax = 32.6
+            text = "Hmm?"
+        intervals [11]:
+            xmin = 32.6
+            xmax = 33.8
+            text = ""
+        intervals [12]:
+            xmin = 33.8
+            xmax = 43.6
+            text = "Pay attention, nameX, and the other people.  They should have some I think, yeah, sort of like I would have like to have collected more -- like, sort of -- they jury's still out.  But I guess that doesn't make -- very well."
+        intervals [13]:
+            xmin = 43.6
+            xmax = 44.8
+            text = ""
+        intervals [14]:
+            xmin = 44.8
+            xmax = 52.6
+            text = "Just snap impressions.  Yeah, but what if you really are sort of like a person who like really reserves judgment about people when they come up with these things?"
+        intervals [15]:
+            xmin = 52.6
+            xmax = 53.8
+            text = ""
+        intervals [16]:
+            xmin = 53.8
+            xmax = 55.6
+            text = "Then this is like the wrong thing to be -"
+        intervals [17]:
+            xmin = 55.6
+            xmax = 55.8
+            text = ""
+        intervals [18]:
+            xmin = 55.8
+            xmax = 59.6
+            text = "Then you should be like sitting around doing Kum-ba-ya or something?"
+        intervals [19]:
+            xmin = 59.6
+            xmax = 61.8
+            text = ""
+        intervals [20]:
+            xmin = 61.8
+            xmax = 65.6
+            text = "I don't know.  We could speak a little bit in Russian, try to mess with nameX."
+        intervals [21]:
+            xmin = 65.6
+            xmax = 202.8
+            text = ""
+        intervals [22]:
+            xmin = 202.8
+            xmax = 217.6
+            text = "What if we tried to mess with nameX's data by getting the exact same things, like uh, one was eight [phonetic] friendly, and you put like, 'I think I was eight friendly.' And it would like create an illusory correlation."
+        intervals [23]:
+            xmin = 217.6
+            xmax = 218.8
+            text = ""
+        intervals [24]:
+            xmin = 218.8
+            xmax = 220.6
+            text = "[laughter]."
+        intervals [25]:
+            xmin = 220.6
+            xmax = 220.8
+            text = ""
+        intervals [26]:
+            xmin = 220.8
+            xmax = 222.6
+            text = "Oh wait, it's female221 and male218."
+        intervals [27]:
+            xmin = 222.6
+            xmax = 222.8
+            text = ""
+        intervals [28]:
+            xmin = 222.8
+            xmax = 224.6
+            text = "Oh wait, it's female221 and male218."
+        intervals [29]:
+            xmin = 224.6
+            xmax = 227.8
+            text = ""
+        intervals [30]:
+            xmin = 227.8
+            xmax = 231.6
+            text = "Those are the deal [phonetic].  You need to get your microphone up a little bit higher."
+        intervals [31]:
+            xmin = 231.6
+            xmax = 234.8
+            text = ""
+        intervals [32]:
+            xmin = 234.8
+            xmax = 237.6
+            text = "Yours seems -- yours is like an exposed microphone.  You have like -"
+        intervals [33]:
+            xmin = 237.6
+            xmax = 240.8
+            text = ""
+        intervals [34]:
+            xmin = 240.8
+            xmax = 242.6
+            text = "Yeah, you have sort of like a -- yeah, it's sort of like a [unintelligible]."
+        intervals [35]:
+            xmin = 242.6
+            xmax = 242.8
+            text = ""
+        intervals [36]:
+            xmin = 242.8
+            xmax = 245.6
+            text = "female221, a pleasure as always."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 247.195
+intervals: size = 30
+        intervals [1]:
+            xmin = 5.395
+            xmax = 6.195
+            text = "Hi, male218.  "
+        intervals [2]:
+            xmin = 6.195
+            xmax = 6.395
+            text = ""
+        intervals [3]:
+            xmin = 6.395
+            xmax = 7.195
+            text = "Nice to meet you."
+        intervals [4]:
+            xmin = 7.195
+            xmax = 9.395
+            text = ""
+        intervals [5]:
+            xmin = 9.395
+            xmax = 10.195
+            text = "[laughter]."
+        intervals [6]:
+            xmin = 10.195
+            xmax = 30.395
+            text = ""
+        intervals [7]:
+            xmin = 30.395
+            xmax = 32.195
+            text = "Pay attention nameX [phonetic]."
+        intervals [8]:
+            xmin = 32.195
+            xmax = 33.195
+            text = "I said, pay attention nameX."
+        intervals [9]:
+            xmin = 33.195
+            xmax = 41.395
+            text = ""
+        intervals [10]:
+            xmin = 41.395
+            xmax = 47.195
+            text = "Right.  But maybe that's kind of the point, like it just -- initial impressions, can you really figure anything out?"
+        intervals [11]:
+            xmin = 47.195
+            xmax = 52.395
+            text = ""
+        intervals [12]:
+            xmin = 52.395
+            xmax = 54.195
+            text = "Well then, you're fucked."
+        intervals [13]:
+            xmin = 54.195
+            xmax = 54.395
+            text = ""
+        intervals [14]:
+            xmin = 54.395
+            xmax = 57.195
+            text = "This is not the place for you."
+        intervals [15]:
+            xmin = 57.195
+            xmax = 59.395
+            text = ""
+        intervals [16]:
+            xmin = 59.395
+            xmax = 60.195
+            text = "[laughter]."
+        intervals [17]:
+            xmin = 60.195
+            xmax = 216.395
+            text = ""
+        intervals [18]:
+            xmin = 216.395
+            xmax = 219.195
+            text = "Exactly.  'Those people must have had such a connection.'"
+        intervals [19]:
+            xmin = 219.195
+            xmax = 219.395
+            text = ""
+        intervals [20]:
+            xmin = 219.395
+            xmax = 221.195
+            text = "They clicked."
+        intervals [21]:
+            xmin = 221.195
+            xmax = 222.395
+            text = ""
+        intervals [22]:
+            xmin = 222.395
+            xmax = 223.195
+            text = "What?"
+        intervals [23]:
+            xmin = 223.195
+            xmax = 225.395
+            text = ""
+        intervals [24]:
+            xmin = 225.395
+            xmax = 228.195
+            text = "Yeah.  Therefore understandable and explicable."
+        intervals [25]:
+            xmin = 228.195
+            xmax = 234.395
+            text = ""
+        intervals [26]:
+            xmin = 234.395
+            xmax = 235.195
+            text = "It blocks -"
+        intervals [27]:
+            xmin = 235.195
+            xmax = 236.395
+            text = ""
+        intervals [28]:
+            xmin = 236.395
+            xmax = 239.195
+            text = "Yeah, I have a special -- I have a special edition."
+        intervals [29]:
+            xmin = 239.195
+            xmax = 246.395
+            text = ""
+        intervals [30]:
+            xmin = 246.395
+            xmax = 247.195
+            text = "Fuck off [phonetic]."

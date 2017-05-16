@@ -1,0 +1,328 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 262.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 262.6
+intervals: size = 40
+        intervals [1]:
+            xmin = 0
+            xmax = 103.8
+            text = ""
+        intervals [2]:
+            xmin = 103.8
+            xmax = 114.6
+            text = "That's okay, that's okay.  I don't like you anymore, but that's too late.  I understand.  It's not for you and you're a girl and I understand.  I understand.  "
+        intervals [3]:
+            xmin = 114.6
+            xmax = 119.8
+            text = ""
+        intervals [4]:
+            xmin = 119.8
+            xmax = 124.6
+            text = "Perfect, good, me too.  French guys are always late.  "
+        intervals [5]:
+            xmin = 124.6
+            xmax = 125.8
+            text = ""
+        intervals [6]:
+            xmin = 125.8
+            xmax = 127.6
+            text = "I'm from the South.  "
+        intervals [7]:
+            xmin = 127.6
+            xmax = 128.8
+            text = ""
+        intervals [8]:
+            xmin = 128.8
+            xmax = 130.6
+            text = "So yeah -- I'm eating.  "
+        intervals [9]:
+            xmin = 130.6
+            xmax = 131.8
+            text = ""
+        intervals [10]:
+            xmin = 131.8
+            xmax = 134.6
+            text = "Sure.  Take everything.  "
+        intervals [11]:
+            xmin = 134.6
+            xmax = 136.8
+            text = ""
+        intervals [12]:
+            xmin = 136.8
+            xmax = 137.6
+            text = "I don't want it actually.  "
+        intervals [13]:
+            xmin = 137.6
+            xmax = 138.8
+            text = ""
+        intervals [14]:
+            xmin = 138.8
+            xmax = 153.6
+            text = "I don't want to be fit.  Otherwise, I need to run [unintelligible].  How are you doing tonight with the dates, everything, good?  You're not tired?  A little bit?  "
+        intervals [15]:
+            xmin = 153.6
+            xmax = 154.8
+            text = ""
+        intervals [16]:
+            xmin = 154.8
+            xmax = 158.6
+            text = "Yeah.  Is this your first time speed dating?  Yeah?  "
+        intervals [17]:
+            xmin = 158.6
+            xmax = 159.8
+            text = ""
+        intervals [18]:
+            xmin = 159.8
+            xmax = 164.6
+            text = "Yeah?  Did you come with another friend or friends or you come by yourself?  "
+        intervals [19]:
+            xmin = 164.6
+            xmax = 167.8
+            text = ""
+        intervals [20]:
+            xmin = 167.8
+            xmax = 168.6
+            text = "You're by yourself?  Okay.  "
+        intervals [21]:
+            xmin = 168.6
+            xmax = 173.8
+            text = ""
+        intervals [22]:
+            xmin = 173.8
+            xmax = 176.6
+            text = "Sure.  You're in education?  "
+        intervals [23]:
+            xmin = 176.6
+            xmax = 176.8
+            text = ""
+        intervals [24]:
+            xmin = 176.8
+            xmax = 180.6
+            text = "Oh.  So you're doing that for research purposes?	 "
+        intervals [25]:
+            xmin = 180.6
+            xmax = 189.8
+            text = ""
+        intervals [26]:
+            xmin = 189.8
+            xmax = 193.6
+            text = "Yeah, I understand.  I understand, it's more for friends.  "
+        intervals [27]:
+            xmin = 193.6
+            xmax = 199.8
+            text = ""
+        intervals [28]:
+            xmin = 199.8
+            xmax = 200.6
+            text = "What?  "
+        intervals [29]:
+            xmin = 200.6
+            xmax = 203.8
+            text = ""
+        intervals [30]:
+            xmin = 203.8
+            xmax = 205.6
+            text = "Don't worry; you can say everything.  "
+        intervals [31]:
+            xmin = 205.6
+            xmax = 212.8
+            text = ""
+        intervals [32]:
+            xmin = 212.8
+            xmax = 229.6
+            text = "Yeah.  Yeah what do you do otherwise, like if it's evening time to have fun or what do you do, you study or you go out?  You watch movies?  You don't know?  "
+        intervals [33]:
+            xmin = 229.6
+            xmax = 239.8
+            text = ""
+        intervals [34]:
+            xmin = 239.8
+            xmax = 246.6
+            text = "Right, that's what I did.  I studied like hell the first quarter and then I don't know.  "
+        intervals [35]:
+            xmin = 246.6
+            xmax = 247.8
+            text = ""
+        intervals [36]:
+            xmin = 247.8
+            xmax = 249.6
+            text = "I stopped.  I don't --  "
+        intervals [37]:
+            xmin = 249.6
+            xmax = 250.8
+            text = ""
+        intervals [38]:
+            xmin = 250.8
+            xmax = 254.6
+            text = "Yeah I understand.  It was even faster with you than with the others.  "
+        intervals [39]:
+            xmin = 254.6
+            xmax = 256.8
+            text = ""
+        intervals [40]:
+            xmin = 256.8
+            xmax = 262.6
+            text = "Oh don't, don't that's okay.  You enjoy your time there, that's good.  Nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 262.6
+intervals: size = 37
+        intervals [1]:
+            xmin = 114.68
+            xmax = 119.48
+            text = "Yeah I'm very slow, like I'm always late for everything [laughter].  "
+        intervals [2]:
+            xmin = 119.48
+            xmax = 124.68
+            text = ""
+        intervals [3]:
+            xmin = 124.68
+            xmax = 126.48
+            text = "Oh you're from France?  "
+        intervals [4]:
+            xmin = 126.48
+            xmax = 127.68
+            text = ""
+        intervals [5]:
+            xmin = 127.68
+            xmax = 129.48
+            text = "Oh okay.  "
+        intervals [6]:
+            xmin = 129.48
+            xmax = 129.68
+            text = ""
+        intervals [7]:
+            xmin = 129.68
+            xmax = 131.48
+            text = "Can I have [unintelligible]?  "
+        intervals [8]:
+            xmin = 131.48
+            xmax = 133.68
+            text = ""
+        intervals [9]:
+            xmin = 133.68
+            xmax = 135.48
+            text = "They are very, very good.  "
+        intervals [10]:
+            xmin = 135.48
+            xmax = 136.68
+            text = ""
+        intervals [11]:
+            xmin = 136.68
+            xmax = 138.48
+            text = "Okay, okay.  "
+        intervals [12]:
+            xmin = 138.48
+            xmax = 152.68
+            text = ""
+        intervals [13]:
+            xmin = 152.68
+            xmax = 154.48
+            text = "[unintelligible].  "
+        intervals [14]:
+            xmin = 154.48
+            xmax = 157.68
+            text = ""
+        intervals [15]:
+            xmin = 157.68
+            xmax = 159.48
+            text = "[unintelligible].  "
+        intervals [16]:
+            xmin = 159.48
+            xmax = 164.68
+            text = ""
+        intervals [17]:
+            xmin = 164.68
+            xmax = 166.48
+            text = "By myself.  "
+        intervals [18]:
+            xmin = 166.48
+            xmax = 168.68
+            text = ""
+        intervals [19]:
+            xmin = 168.68
+            xmax = 174.48
+            text = "I thought it was just going to be [unintelligible].  "
+        intervals [20]:
+            xmin = 174.48
+            xmax = 175.68
+            text = ""
+        intervals [21]:
+            xmin = 175.68
+            xmax = 176.48
+            text = "Yeah.  "
+        intervals [22]:
+            xmin = 176.48
+            xmax = 179.68
+            text = ""
+        intervals [23]:
+            xmin = 179.68
+            xmax = 189.48
+            text = "No, no, no, but I think I do it more for fun [laughter].  I don't really care about [unintelligible].  "
+        intervals [24]:
+            xmin = 189.48
+            xmax = 192.68
+            text = ""
+        intervals [25]:
+            xmin = 192.68
+            xmax = 198.48
+            text = "Oh [laughter] I hope I didn't [unintelligible] like what I said.  "
+        intervals [26]:
+            xmin = 198.48
+            xmax = 199.68
+            text = ""
+        intervals [27]:
+            xmin = 199.68
+            xmax = 203.48
+            text = "Like a virus [unintelligible].  I forgot.  "
+        intervals [28]:
+            xmin = 203.48
+            xmax = 205.68
+            text = ""
+        intervals [29]:
+            xmin = 205.68
+            xmax = 213.48
+            text = "[laughter], but that's the truth, like I care more about having fun now.	"
+        intervals [30]:
+            xmin = 213.48
+            xmax = 228.68
+            text = ""
+        intervals [31]:
+            xmin = 228.68
+            xmax = 238.48
+            text = "Well, when I first I studied like hard, like on second year I studied less and less hard.  "
+        intervals [32]:
+            xmin = 238.48
+            xmax = 246.68
+            text = ""
+        intervals [33]:
+            xmin = 246.68
+            xmax = 247.48
+            text = "No?  "
+        intervals [34]:
+            xmin = 247.48
+            xmax = 247.68
+            text = ""
+        intervals [35]:
+            xmin = 247.68
+            xmax = 251.48
+            text = "Every evening I go somewhere [laughter].  "
+        intervals [36]:
+            xmin = 251.48
+            xmax = 255.68
+            text = ""
+        intervals [37]:
+            xmin = 255.68
+            xmax = 257.48
+            text = "I just feel so guilty about it.  "

@@ -1,0 +1,480 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 253.8
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 253.8
+intervals: size = 57
+        intervals [1]:
+            xmin = 0
+            xmax = 5.8
+            text = ""
+        intervals [2]:
+            xmin = 5.8
+            xmax = 6.6
+            text = "Yes."
+        intervals [3]:
+            xmin = 6.6
+            xmax = 10.1
+            text = ""
+        intervals [4]:
+            xmin = 10.1
+            xmax = 11.3
+            text = "female321. Okay.  My name is male317 [phonetic]."
+        intervals [5]:
+            xmin = 11.3
+            xmax = 13
+            text = ""
+        intervals [6]:
+            xmin = 13
+            xmax = 13.7
+            text = "male317."
+        intervals [7]:
+            xmin = 13.7
+            xmax = 19
+            text = "Okay."
+        intervals [8]:
+            xmin = 19
+            xmax = 43.8
+            text = ""
+        intervals [9]:
+            xmin = 43.8
+            xmax = 43.9
+            text = "Really. "
+        intervals [10]:
+            xmin = 43.9
+            xmax = 61.8
+            text = ""
+        intervals [11]:
+            xmin = 61.8
+            xmax = 62
+            text = "Oh, okay."
+        intervals [12]:
+            xmin = 62
+            xmax = 73.8
+            text = ""
+        intervals [13]:
+            xmin = 73.8
+            xmax = 75.1
+            text = "Really. "
+        intervals [14]:
+            xmin = 75.1
+            xmax = 76.5
+            text = ""
+        intervals [15]:
+            xmin = 76.5
+            xmax = 80.5
+            text = "That's interesting, huh.  So, that's cool.  Who's your advisor?"
+        intervals [16]:
+            xmin = 80.5
+            xmax = 82.1
+            text = ""
+        intervals [17]:
+            xmin = 82.1
+            xmax = 84.3
+            text = "Ray McDermott, he does this sort of stuff often? "
+        intervals [18]:
+            xmin = 84.3
+            xmax = 85.5
+            text = ""
+        intervals [19]:
+            xmin = 85.5
+            xmax = 87.4
+            text = "[interposing] Okay.  So you kind of went out on a limb to do this. "
+        intervals [20]:
+            xmin = 87.4
+            xmax = 93.5
+            text = ""
+        intervals [21]:
+            xmin = 93.5
+            xmax = 94.4
+            text = "Yeah, exactly. "
+        intervals [22]:
+            xmin = 94.4
+            xmax = 107.8
+            text = ""
+        intervals [23]:
+            xmin = 107.8
+            xmax = 108.2
+            text = "Um-huh. "
+        intervals [24]:
+            xmin = 108.2
+            xmax = 139.2
+            text = ""
+        intervals [25]:
+            xmin = 139.2
+            xmax = 140.5
+            text = "Wouldn't that be nice.  Take some time off-"
+        intervals [26]:
+            xmin = 140.5
+            xmax = 140.6
+            text = ""
+        intervals [27]:
+            xmin = 140.6
+            xmax = 141.9
+            text = "--and do some fun things, uh."
+        intervals [28]:
+            xmin = 141.9
+            xmax = 145.7
+            text = ""
+        intervals [29]:
+            xmin = 145.7
+            xmax = 148.2
+            text = "So, I'm in electrical engineering.  I'm doing my PhD."
+        intervals [30]:
+            xmin = 148.2
+            xmax = 150.7
+            text = ""
+        intervals [31]:
+            xmin = 150.7
+            xmax = 151.5
+            text = "Kind of.  Kind of. "
+        intervals [32]:
+            xmin = 151.5
+            xmax = 152.2
+            text = "400 volts -- 450 volts."
+        intervals [33]:
+            xmin = 152.2
+            xmax = 156.6
+            text = ""
+        intervals [34]:
+            xmin = 156.6
+            xmax = 167.6
+            text = "No, it was DC, just clench and it hurts like hell [laughter]. "
+        intervals [35]:
+            xmin = 167.6
+            xmax = 176
+            text = "So uh, but that was during my civil engineering days.  I done a bunch of different things.  And uh, right now you know I'm working on my PhD finishing that up, and I have to go look for what's next.  Right?"
+        intervals [36]:
+            xmin = 176
+            xmax = 181.9
+            text = ""
+        intervals [37]:
+            xmin = 181.9
+            xmax = 183.7
+            text = "Yeah, you're not going after the PhD, huh?"
+        intervals [38]:
+            xmin = 183.7
+            xmax = 207.3
+            text = ""
+        intervals [39]:
+            xmin = 207.3
+            xmax = 210.9
+            text = "Studied there, worked there.  Yep.  Worked for three years so."
+        intervals [40]:
+            xmin = 210.9
+            xmax = 216.6
+            text = ""
+        intervals [41]:
+            xmin = 216.6
+            xmax = 217.2
+            text = "Uh-huh. "
+        intervals [42]:
+            xmin = 217.2
+            xmax = 220.8
+            text = ""
+        intervals [43]:
+            xmin = 220.8
+            xmax = 221.8
+            text = "Where did you study? "
+        intervals [44]:
+            xmin = 221.8
+            xmax = 223.7
+            text = ""
+        intervals [45]:
+            xmin = 223.7
+            xmax = 224.4
+            text = "Oh, okay cool."
+        intervals [46]:
+            xmin = 224.4
+            xmax = 228.3
+            text = ""
+        intervals [47]:
+            xmin = 228.3
+            xmax = 229.3
+            text = "At Harvard? "
+        intervals [48]:
+            xmin = 229.3
+            xmax = 231.9
+            text = ""
+        intervals [49]:
+            xmin = 231.9
+            xmax = 234.5
+            text = "That's amazing because I was at Harvard too and I tell you [laughter]. "
+        intervals [50]:
+            xmin = 234.5
+            xmax = 235.5
+            text = ""
+        intervals [51]:
+            xmin = 235.5
+            xmax = 235.9
+            text = "They didn't stand for much."
+        intervals [52]:
+            xmin = 235.9
+            xmax = 245.3
+            text = ""
+        intervals [53]:
+            xmin = 245.3
+            xmax = 247
+            text = "[unintelligible]"
+        intervals [54]:
+            xmin = 247
+            xmax = 248.6
+            text = ""
+        intervals [55]:
+            xmin = 248.6
+            xmax = 249.6
+            text = "You too. [laughter]. "
+        intervals [56]:
+            xmin = 249.6
+            xmax = 252.5
+            text = ""
+        intervals [57]:
+            xmin = 252.5
+            xmax = 253.8
+            text = "[laughter] Bye. "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 253.8
+intervals: size = 58
+        intervals [1]:
+            xmin = 6.176
+            xmax = 9.276
+            text = "Yeah, so but my name is female321. "
+        intervals [2]:
+            xmin = 9.276
+            xmax = 12.176
+            text = ""
+        intervals [3]:
+            xmin = 12.176
+            xmax = 12.576
+            text = "male317. "
+        intervals [4]:
+            xmin = 12.576
+            xmax = 13.176
+            text = ""
+        intervals [5]:
+            xmin = 13.176
+            xmax = 14.576
+            text = "male317 and um I am in the School of Education. I'm 26."
+        intervals [6]:
+            xmin = 14.576
+            xmax = 18.576
+            text = ""
+        intervals [7]:
+            xmin = 18.576
+            xmax = 43.376
+            text = "I'm Masters student in Social Sciences and Education.  And my Masters thesis or extended paper--it's not really a thesis, those things could kill you--um is um looking at women of color who applied to graduate school.  And the game that, what kind of, I interviewed people um, who have experience as admissions uh board members--"
+        intervals [8]:
+            xmin = 43.376
+            xmax = 43.476
+            text = ""
+        intervals [9]:
+            xmin = 43.476
+            xmax = 60.976
+            text = "--in the key power circle at a given [unintelligible]versity.  And then I chose to um, get statements of purpose from another [unintelligible]versity of like [unintelligible] women of color.  And I showed it to them and they read it and they gave me feedback recorded as I am recording right now [laughter].  And um, so my paper is due next week."
+        intervals [10]:
+            xmin = 60.976
+            xmax = 62.276
+            text = ""
+        intervals [11]:
+            xmin = 62.276
+            xmax = 73.376
+            text = "But, um I feel like I am coming to like ground working -- groundbreaking like uh, like insight because nobody really has covered this demographic in higher education at this level."
+        intervals [12]:
+            xmin = 73.376
+            xmax = 74.676
+            text = ""
+        intervals [13]:
+            xmin = 74.676
+            xmax = 75.776
+            text = "before um, yeah. "
+        intervals [14]:
+            xmin = 75.776
+            xmax = 80.376
+            text = ""
+        intervals [15]:
+            xmin = 80.376
+            xmax = 81.276
+            text = "Ray McDermott."
+        intervals [16]:
+            xmin = 81.276
+            xmax = 83.876
+            text = ""
+        intervals [17]:
+            xmin = 83.876
+            xmax = 85.076
+            text = "Um, not really, but--"
+        intervals [18]:
+            xmin = 85.076
+            xmax = 86.976
+            text = ""
+        intervals [19]:
+            xmin = 86.976
+            xmax = 93.076
+            text = "Well, I just love him so I knew he would be like--what's important to me is like you and your advisor has to click.  You don't necessarily have to have the same exact interests. "
+        intervals [20]:
+            xmin = 93.076
+            xmax = 93.976
+            text = ""
+        intervals [21]:
+            xmin = 93.976
+            xmax = 107.376
+            text = "And, and he is just this sexy, amazing---I don't even, I don't mean that a sketchy way.  But like he's just this really cool.  He's just this really like laid back, you know, swearing New York dude--"
+        intervals [22]:
+            xmin = 107.376
+            xmax = 107.776
+            text = ""
+        intervals [23]:
+            xmin = 107.776
+            xmax = 138.776
+            text = "--who is really intelligent.  And I just--he's like one of the he is one of the few people here who is not uptight [laughter].  And I am so not uptight, so uh, meaning I'm, artsy.  I like to like just go with the flow, not worry so much about too much.  I mean, what am I trying to say?  Like not get all frazzled about the little things.  I would love--I'm so like tired because I always do my paper--I would like to sit around and bake cookies all day and like decorate them or something."
+        intervals [24]:
+            xmin = 138.776
+            xmax = 140.176
+            text = ""
+        intervals [25]:
+            xmin = 140.176
+            xmax = 140.276
+            text = "[interposing] Yeah."
+        intervals [26]:
+            xmin = 140.276
+            xmax = 141.476
+            text = ""
+        intervals [27]:
+            xmin = 141.476
+            xmax = 145.276
+            text = "I'm sorry.  I've been talking so much.  Tell me like what is your Major in?  What are your interests? "
+        intervals [28]:
+            xmin = 145.276
+            xmax = 147.776
+            text = ""
+        intervals [29]:
+            xmin = 147.776
+            xmax = 149.676
+            text = "Have you been electrocuted before?  [laughter]."
+        intervals [30]:
+            xmin = 149.676
+            xmax = 151.076
+            text = ""
+        intervals [31]:
+            xmin = 151.076
+            xmax = 151.076
+            text = "That's rough.  Anyway, I'm sorry.  Okay. "
+        intervals [32]:
+            xmin = 151.076
+            xmax = 155.876
+            text = "Jesus, did you like shake and your hair stood up?"
+        intervals [33]:
+            xmin = 155.876
+            xmax = 160.476
+            text = ""
+        intervals [34]:
+            xmin = 160.476
+            xmax = 162.976
+            text = "That sucks.  I'm sorry for cutting you off [laughter].  Continue."
+        intervals [35]:
+            xmin = 162.976
+            xmax = 175.876
+            text = ""
+        intervals [36]:
+            xmin = 175.876
+            xmax = 181.076
+            text = "Yes, I know how that is.  Dude, I need a job.  In a few weeks---I don't--every day I'm trying to find a job. "
+        intervals [37]:
+            xmin = 181.076
+            xmax = 183.576
+            text = ""
+        intervals [38]:
+            xmin = 183.576
+            xmax = 202.976
+            text = "Um, I think I'm going to consider it.  But like I'm burnt out right now.  I'm seriously like okay I'm 26 but I feel 62 right now [laughter].  I'm serious.  And, and um I want to live with my best friend in Boston if I can get a job around there.  She's in law school and she's like a superstar."
+        intervals [39]:
+            xmin = 202.976
+            xmax = 205.776
+            text = ""
+        intervals [40]:
+            xmin = 205.776
+            xmax = 206.076
+            text = "You did. "
+        intervals [41]:
+            xmin = 206.076
+            xmax = 210.476
+            text = ""
+        intervals [42]:
+            xmin = 210.476
+            xmax = 215.776
+            text = "You did, cool.  Yeah, I was a student there.  I earned a Masters um, in the area. "
+        intervals [43]:
+            xmin = 215.776
+            xmax = 216.776
+            text = ""
+        intervals [44]:
+            xmin = 216.776
+            xmax = 220.376
+            text = "And then this is my second one.  Don't ask me why I doing another.  I just don't know, whatever."
+        intervals [45]:
+            xmin = 220.376
+            xmax = 221.376
+            text = ""
+        intervals [46]:
+            xmin = 221.376
+            xmax = 222.676
+            text = "Uh, Harvard School of Education. "
+        intervals [47]:
+            xmin = 222.676
+            xmax = 223.576
+            text = ""
+        intervals [48]:
+            xmin = 223.576
+            xmax = 227.576
+            text = "It was cool.  People were down, down to earth, artsy, cool. "
+        intervals [49]:
+            xmin = 227.576
+            xmax = 228.876
+            text = ""
+        intervals [50]:
+            xmin = 228.876
+            xmax = 231.076
+            text = "I know you're like what, but at the School of Education we're weird."
+        intervals [51]:
+            xmin = 231.076
+            xmax = 234.076
+            text = ""
+        intervals [52]:
+            xmin = 234.076
+            xmax = 234.976
+            text = "Oh I know y'all."
+        intervals [53]:
+            xmin = 234.976
+            xmax = 235.476
+            text = ""
+        intervals [54]:
+            xmin = 235.476
+            xmax = 244.776
+            text = "I lived with--oh please, boy [laughter]--I lived with um stuffy political science people at Harvard.  They sucked."
+        intervals [55]:
+            xmin = 244.776
+            xmax = 246.576
+            text = ""
+        intervals [56]:
+            xmin = 246.576
+            xmax = 248.176
+            text = "Sorry, nice to meet you."
+        intervals [57]:
+            xmin = 248.176
+            xmax = 250.176
+            text = ""
+        intervals [58]:
+            xmin = 250.176
+            xmax = 252.076
+            text = "I'm just down.  I'm just myself whatever. "

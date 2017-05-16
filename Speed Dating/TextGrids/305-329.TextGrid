@@ -1,0 +1,820 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 230.285
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 230.285
+intervals: size = 99
+        intervals [1]:
+            xmin = 0
+            xmax = 7.8
+            text = ""
+        intervals [2]:
+            xmin = 7.8
+            xmax = 10.6
+            text = "It's okay.  Okay.  My name is male305.  Nice to meet you."
+        intervals [3]:
+            xmin = 10.6
+            xmax = 11.8
+            text = ""
+        intervals [4]:
+            xmin = 11.8
+            xmax = 15.6
+            text = "I am a PhD student in electrical engineering."
+        intervals [5]:
+            xmin = 15.6
+            xmax = 16.6
+            text = "Uh Spain."
+        intervals [6]:
+            xmin = 16.6
+            xmax = 17.8
+            text = ""
+        intervals [7]:
+            xmin = 17.8
+            xmax = 20.6
+            text = "[Second language]."
+        intervals [8]:
+            xmin = 20.6
+            xmax = 22.8
+            text = ""
+        intervals [9]:
+            xmin = 22.8
+            xmax = 23.6
+            text = "[Second language]."
+        intervals [10]:
+            xmin = 23.6
+            xmax = 24.8
+            text = ""
+        intervals [11]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "[Second language]."
+        intervals [12]:
+            xmin = 26.6
+            xmax = 29.8
+            text = ""
+        intervals [13]:
+            xmin = 29.8
+            xmax = 31.6
+            text = "[Second language]."
+        intervals [14]:
+            xmin = 31.6
+            xmax = 32.8
+            text = ""
+        intervals [15]:
+            xmin = 32.8
+            xmax = 34.6
+            text = "[Second language]."
+        intervals [16]:
+            xmin = 34.6
+            xmax = 34.8
+            text = ""
+        intervals [17]:
+            xmin = 34.8
+            xmax = 36.6
+            text = "[Second language]."
+        intervals [18]:
+            xmin = 36.6
+            xmax = 36.8
+            text = ""
+        intervals [19]:
+            xmin = 36.8
+            xmax = 37.6
+            text = "[Second language]."
+        intervals [20]:
+            xmin = 37.6
+            xmax = 42.8
+            text = ""
+        intervals [21]:
+            xmin = 42.8
+            xmax = 44.6
+            text = "[Second language]."
+        intervals [22]:
+            xmin = 44.6
+            xmax = 45.8
+            text = ""
+        intervals [23]:
+            xmin = 45.8
+            xmax = 47.6
+            text = "[Second language]."
+        intervals [24]:
+            xmin = 47.6
+            xmax = 47.8
+            text = ""
+        intervals [25]:
+            xmin = 47.8
+            xmax = 48.6
+            text = "[Second language]."
+        intervals [26]:
+            xmin = 48.6
+            xmax = 49.8
+            text = ""
+        intervals [27]:
+            xmin = 49.8
+            xmax = 50.6
+            text = "Uh-huh."
+        intervals [28]:
+            xmin = 50.6
+            xmax = 55.8
+            text = ""
+        intervals [29]:
+            xmin = 55.8
+            xmax = 60.6
+            text = "[Second language]. "
+        intervals [30]:
+            xmin = 60.6
+            xmax = 60.8
+            text = ""
+        intervals [31]:
+            xmin = 60.8
+            xmax = 62.6
+            text = "[Second language]."
+        intervals [32]:
+            xmin = 62.6
+            xmax = 65.8
+            text = ""
+        intervals [33]:
+            xmin = 65.8
+            xmax = 67.6
+            text = "[interposing] [Second language]."
+        intervals [34]:
+            xmin = 67.6
+            xmax = 68.8
+            text = ""
+        intervals [35]:
+            xmin = 68.8
+            xmax = 72.6
+            text = "[Second language]."
+        intervals [36]:
+            xmin = 72.6
+            xmax = 73.8
+            text = ""
+        intervals [37]:
+            xmin = 73.8
+            xmax = 75.6
+            text = "[Second language]."
+        intervals [38]:
+            xmin = 75.6
+            xmax = 77.8
+            text = ""
+        intervals [39]:
+            xmin = 77.8
+            xmax = 78.6
+            text = "Uh-huh."
+        intervals [40]:
+            xmin = 78.6
+            xmax = 84.8
+            text = ""
+        intervals [41]:
+            xmin = 84.8
+            xmax = 88.6
+            text = "[Second language]."
+        intervals [42]:
+            xmin = 88.6
+            xmax = 93.8
+            text = ""
+        intervals [43]:
+            xmin = 93.8
+            xmax = 95.6
+            text = "[Second language]."
+        intervals [44]:
+            xmin = 95.6
+            xmax = 95.8
+            text = ""
+        intervals [45]:
+            xmin = 95.8
+            xmax = 97.6
+            text = "Mechanical engineering."
+        intervals [46]:
+            xmin = 97.6
+            xmax = 97.8
+            text = ""
+        intervals [47]:
+            xmin = 97.8
+            xmax = 98.6
+            text = "[Second language]."
+        intervals [48]:
+            xmin = 98.6
+            xmax = 99.8
+            text = ""
+        intervals [49]:
+            xmin = 99.8
+            xmax = 101.6
+            text = "You're double E."
+        intervals [50]:
+            xmin = 101.6
+            xmax = 103.8
+            text = ""
+        intervals [51]:
+            xmin = 103.8
+            xmax = 105.6
+            text = "[Second language]."
+        intervals [52]:
+            xmin = 105.6
+            xmax = 107.6
+            text = "[Second language]."
+        intervals [53]:
+            xmin = 107.6
+            xmax = 107.8
+            text = ""
+        intervals [54]:
+            xmin = 107.8
+            xmax = 109.6
+            text = "--in HP, Hewlett Packard."
+        intervals [55]:
+            xmin = 109.6
+            xmax = 110.8
+            text = ""
+        intervals [56]:
+            xmin = 110.8
+            xmax = 113.6
+            text = "[Second language]."
+        intervals [57]:
+            xmin = 113.6
+            xmax = 116.6
+            text = "[Second language]."
+        intervals [58]:
+            xmin = 116.6
+            xmax = 117.8
+            text = ""
+        intervals [59]:
+            xmin = 117.8
+            xmax = 122.6
+            text = "[Second language]."
+        intervals [60]:
+            xmin = 122.6
+            xmax = 125.8
+            text = ""
+        intervals [61]:
+            xmin = 125.8
+            xmax = 127.6
+            text = "[Second language]."
+        intervals [62]:
+            xmin = 127.6
+            xmax = 131.8
+            text = ""
+        intervals [63]:
+            xmin = 131.8
+            xmax = 132.6
+            text = "Wow."
+        intervals [64]:
+            xmin = 132.6
+            xmax = 132.8
+            text = ""
+        intervals [65]:
+            xmin = 132.8
+            xmax = 135.6
+            text = "[Second language]."
+        intervals [66]:
+            xmin = 135.6
+            xmax = 139.6
+            text = "[Second language]."
+        intervals [67]:
+            xmin = 139.6
+            xmax = 142.8
+            text = ""
+        intervals [68]:
+            xmin = 142.8
+            xmax = 144.6
+            text = "[Second language]."
+        intervals [69]:
+            xmin = 144.6
+            xmax = 145.8
+            text = ""
+        intervals [70]:
+            xmin = 145.8
+            xmax = 150.6
+            text = "No, [Second language] technical consultant in computers."
+        intervals [71]:
+            xmin = 150.6
+            xmax = 150.8
+            text = ""
+        intervals [72]:
+            xmin = 150.8
+            xmax = 151.6
+            text = "Uh--"
+        intervals [73]:
+            xmin = 151.6
+            xmax = 151.8
+            text = ""
+        intervals [74]:
+            xmin = 151.8
+            xmax = 159.6
+            text = "[Second language]."
+        intervals [75]:
+            xmin = 159.6
+            xmax = 161.6
+            text = "[Second language] computers."
+        intervals [76]:
+            xmin = 161.6
+            xmax = 162.8
+            text = ""
+        intervals [77]:
+            xmin = 162.8
+            xmax = 167.6
+            text = "Awful.  [Second language]."
+        intervals [78]:
+            xmin = 167.6
+            xmax = 167.8
+            text = ""
+        intervals [79]:
+            xmin = 167.8
+            xmax = 168.6
+            text = "[Second language]."
+        intervals [80]:
+            xmin = 168.6
+            xmax = 168.8
+            text = ""
+        intervals [81]:
+            xmin = 168.8
+            xmax = 169.6
+            text = "[Second language]."
+        intervals [82]:
+            xmin = 169.6
+            xmax = 175.8
+            text = ""
+        intervals [83]:
+            xmin = 175.8
+            xmax = 180.6
+            text = "[Second language]."
+        intervals [84]:
+            xmin = 180.6
+            xmax = 181.8
+            text = ""
+        intervals [85]:
+            xmin = 181.8
+            xmax = 182.6
+            text = "[Second language]."
+        intervals [86]:
+            xmin = 182.6
+            xmax = 183.8
+            text = ""
+        intervals [87]:
+            xmin = 183.8
+            xmax = 184.6
+            text = "[Second language]."
+        intervals [88]:
+            xmin = 184.6
+            xmax = 185.8
+            text = ""
+        intervals [89]:
+            xmin = 185.8
+            xmax = 188.6
+            text = "[Second language]."
+        intervals [90]:
+            xmin = 188.6
+            xmax = 193.8
+            text = ""
+        intervals [91]:
+            xmin = 193.8
+            xmax = 205.6
+            text = "[Second language]."
+        intervals [92]:
+            xmin = 205.6
+            xmax = 206.8
+            text = ""
+        intervals [93]:
+            xmin = 206.8
+            xmax = 210.6
+            text = "[Second language]."
+        intervals [94]:
+            xmin = 210.6
+            xmax = 212.6
+            text = "[Second language]."
+        intervals [95]:
+            xmin = 212.6
+            xmax = 212.6
+            text = "Oh."
+        intervals [96]:
+            xmin = 212.6
+            xmax = 213.8
+            text = ""
+        intervals [97]:
+            xmin = 213.8
+            xmax = 218.6
+            text = "[Second language]."
+        intervals [98]:
+            xmin = 218.6
+            xmax = 221.8
+            text = ""
+        intervals [99]:
+            xmin = 221.8
+            xmax = 222.6
+            text = "[Second language]."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 230.285
+intervals: size = 101
+        intervals [1]:
+            xmin = 4.685
+            xmax = 9.285
+            text = "Oh good.  It's okay.  It's okay.  You're male305."
+        intervals [2]:
+            xmin = 9.285
+            xmax = 9.485
+            text = ""
+        intervals [3]:
+            xmin = 9.485
+            xmax = 12.285
+            text = "female329.  Nice to meet you.  Where are--what do you do?"
+        intervals [4]:
+            xmin = 12.285
+            xmax = 14.485
+            text = ""
+        intervals [5]:
+            xmin = 14.485
+            xmax = 16.285
+            text = "Really?  Where are you from?"
+        intervals [6]:
+            xmin = 16.285
+            xmax = 16.485
+            text = ""
+        intervals [7]:
+            xmin = 16.485
+            xmax = 19.285
+            text = "You are?  [Second language]."
+        intervals [8]:
+            xmin = 19.285
+            xmax = 20.485
+            text = ""
+        intervals [9]:
+            xmin = 20.485
+            xmax = 24.285
+            text = "[Second language]."
+        intervals [10]:
+            xmin = 24.285
+            xmax = 24.485
+            text = ""
+        intervals [11]:
+            xmin = 24.485
+            xmax = 27.285
+            text = "[Second language].  [laughter]."
+        intervals [12]:
+            xmin = 27.285
+            xmax = 27.485
+            text = ""
+        intervals [13]:
+            xmin = 27.485
+            xmax = 31.285
+            text = "[Second language]."
+        intervals [14]:
+            xmin = 31.285
+            xmax = 31.485
+            text = ""
+        intervals [15]:
+            xmin = 31.485
+            xmax = 33.285
+            text = "[Second language].  [laughter]."
+        intervals [16]:
+            xmin = 33.285
+            xmax = 35.485
+            text = ""
+        intervals [17]:
+            xmin = 35.485
+            xmax = 36.285
+            text = "[Second language]. [laughter]."
+        intervals [18]:
+            xmin = 36.285
+            xmax = 36.485
+            text = ""
+        intervals [19]:
+            xmin = 36.485
+            xmax = 38.285
+            text = "[Second language].  "
+        intervals [20]:
+            xmin = 38.285
+            xmax = 38.485
+            text = ""
+        intervals [21]:
+            xmin = 38.485
+            xmax = 44.285
+            text = "[Second language]. [laughter]."
+        intervals [22]:
+            xmin = 44.285
+            xmax = 44.485
+            text = ""
+        intervals [23]:
+            xmin = 44.485
+            xmax = 47.285
+            text = "[Second language].  "
+        intervals [24]:
+            xmin = 47.285
+            xmax = 47.485
+            text = ""
+        intervals [25]:
+            xmin = 47.485
+            xmax = 48.285
+            text = "[Second language]."
+        intervals [26]:
+            xmin = 48.285
+            xmax = 48.485
+            text = ""
+        intervals [27]:
+            xmin = 48.485
+            xmax = 51.285
+            text = "female329, [Second language]."
+        intervals [28]:
+            xmin = 51.285
+            xmax = 51.485
+            text = ""
+        intervals [29]:
+            xmin = 51.485
+            xmax = 57.285
+            text = "Um but [Second language].  [laughter]."
+        intervals [30]:
+            xmin = 57.285
+            xmax = 60.485
+            text = ""
+        intervals [31]:
+            xmin = 60.485
+            xmax = 62.285
+            text = "[Second language]."
+        intervals [32]:
+            xmin = 62.285
+            xmax = 62.485
+            text = ""
+        intervals [33]:
+            xmin = 62.485
+            xmax = 67.285
+            text = "[Second language] But uh--um--"
+        intervals [34]:
+            xmin = 67.285
+            xmax = 67.485
+            text = ""
+        intervals [35]:
+            xmin = 67.485
+            xmax = 69.285
+            text = "[Second language]."
+        intervals [36]:
+            xmin = 69.285
+            xmax = 73.485
+            text = ""
+        intervals [37]:
+            xmin = 73.485
+            xmax = 74.285
+            text = "[Second language]."
+        intervals [38]:
+            xmin = 74.285
+            xmax = 75.485
+            text = ""
+        intervals [39]:
+            xmin = 75.485
+            xmax = 79.285
+            text = "[Second language]."
+        intervals [40]:
+            xmin = 79.285
+            xmax = 86.285
+            text = "[Second language].  [laughter]."
+        intervals [41]:
+            xmin = 86.285
+            xmax = 88.485
+            text = ""
+        intervals [42]:
+            xmin = 88.485
+            xmax = 94.285
+            text = "[Second language]."
+        intervals [43]:
+            xmin = 94.285
+            xmax = 95.485
+            text = ""
+        intervals [44]:
+            xmin = 95.485
+            xmax = 97.285
+            text = "Um mechanical engineering."
+        intervals [45]:
+            xmin = 97.285
+            xmax = 97.485
+            text = ""
+        intervals [46]:
+            xmin = 97.485
+            xmax = 98.285
+            text = "[Second language]."
+        intervals [47]:
+            xmin = 98.285
+            xmax = 98.485
+            text = ""
+        intervals [48]:
+            xmin = 98.485
+            xmax = 100.285
+            text = "[Second language]."
+        intervals [49]:
+            xmin = 100.285
+            xmax = 101.485
+            text = ""
+        intervals [50]:
+            xmin = 101.485
+            xmax = 105.285
+            text = "Double E.  [Second language]."
+        intervals [51]:
+            xmin = 105.285
+            xmax = 105.485
+            text = ""
+        intervals [52]:
+            xmin = 105.485
+            xmax = 106.285
+            text = "[Second language]."
+        intervals [53]:
+            xmin = 106.285
+            xmax = 108.485
+            text = ""
+        intervals [54]:
+            xmin = 108.485
+            xmax = 109.285
+            text = "[Second language]."
+        intervals [55]:
+            xmin = 109.285
+            xmax = 110.485
+            text = ""
+        intervals [56]:
+            xmin = 110.485
+            xmax = 111.285
+            text = "Uh-huh.  [Second language]."
+        intervals [57]:
+            xmin = 111.285
+            xmax = 113.485
+            text = ""
+        intervals [58]:
+            xmin = 113.485
+            xmax = 114.285
+            text = "[Second language]."
+        intervals [59]:
+            xmin = 114.285
+            xmax = 116.485
+            text = ""
+        intervals [60]:
+            xmin = 116.485
+            xmax = 118.285
+            text = "[Second language]."
+        intervals [61]:
+            xmin = 118.285
+            xmax = 122.485
+            text = ""
+        intervals [62]:
+            xmin = 122.485
+            xmax = 127.285
+            text = "Oh wow.  [Second language]."
+        intervals [63]:
+            xmin = 127.285
+            xmax = 127.485
+            text = ""
+        intervals [64]:
+            xmin = 127.485
+            xmax = 133.285
+            text = "Oh.  [laughter]."
+        intervals [65]:
+            xmin = 133.285
+            xmax = 133.285
+            text = "Wow."
+        intervals [66]:
+            xmin = 133.285
+            xmax = 135.485
+            text = ""
+        intervals [67]:
+            xmin = 135.485
+            xmax = 136.285
+            text = "[Second language]."
+        intervals [68]:
+            xmin = 136.285
+            xmax = 140.485
+            text = ""
+        intervals [69]:
+            xmin = 140.485
+            xmax = 143.285
+            text = "[Second language].  [laughter]."
+        intervals [70]:
+            xmin = 143.285
+            xmax = 145.485
+            text = ""
+        intervals [71]:
+            xmin = 145.485
+            xmax = 147.285
+            text = "[Second language]."
+        intervals [72]:
+            xmin = 147.285
+            xmax = 150.485
+            text = ""
+        intervals [73]:
+            xmin = 150.485
+            xmax = 152.285
+            text = "[Second language]."
+        intervals [74]:
+            xmin = 152.285
+            xmax = 152.285
+            text = "[interposing] No?"
+        intervals [75]:
+            xmin = 152.285
+            xmax = 159.485
+            text = ""
+        intervals [76]:
+            xmin = 159.485
+            xmax = 160.285
+            text = "[Second language]."
+        intervals [77]:
+            xmin = 160.285
+            xmax = 161.485
+            text = ""
+        intervals [78]:
+            xmin = 161.485
+            xmax = 163.285
+            text = "[Second language]."
+        intervals [79]:
+            xmin = 163.285
+            xmax = 168.485
+            text = ""
+        intervals [80]:
+            xmin = 168.485
+            xmax = 169.285
+            text = "[Second language]."
+        intervals [81]:
+            xmin = 169.285
+            xmax = 170.285
+            text = "[Second language]."
+        intervals [82]:
+            xmin = 170.285
+            xmax = 176.285
+            text = "[Second language].  [laughter]."
+        intervals [83]:
+            xmin = 176.285
+            xmax = 181.485
+            text = ""
+        intervals [84]:
+            xmin = 181.485
+            xmax = 182.285
+            text = "[Second language]."
+        intervals [85]:
+            xmin = 182.285
+            xmax = 182.485
+            text = ""
+        intervals [86]:
+            xmin = 182.485
+            xmax = 185.285
+            text = "[Second language]."
+        intervals [87]:
+            xmin = 185.285
+            xmax = 185.485
+            text = ""
+        intervals [88]:
+            xmin = 185.485
+            xmax = 187.285
+            text = "--in California.  [Second language]."
+        intervals [89]:
+            xmin = 187.285
+            xmax = 188.485
+            text = ""
+        intervals [90]:
+            xmin = 188.485
+            xmax = 195.285
+            text = "[Second language]."
+        intervals [91]:
+            xmin = 195.285
+            xmax = 206.485
+            text = ""
+        intervals [92]:
+            xmin = 206.485
+            xmax = 208.285
+            text = "[Second language]."
+        intervals [93]:
+            xmin = 208.285
+            xmax = 210.485
+            text = ""
+        intervals [94]:
+            xmin = 210.485
+            xmax = 211.285
+            text = "[Second language]."
+        intervals [95]:
+            xmin = 211.285
+            xmax = 212.485
+            text = ""
+        intervals [96]:
+            xmin = 212.485
+            xmax = 213.285
+            text = "[Second language].  [laughter]."
+        intervals [97]:
+            xmin = 213.285
+            xmax = 213.485
+            text = ""
+        intervals [98]:
+            xmin = 213.485
+            xmax = 215.285
+            text = "Uh-uh.  [laughter]."
+        intervals [99]:
+            xmin = 215.285
+            xmax = 219.485
+            text = ""
+        intervals [100]:
+            xmin = 219.485
+            xmax = 223.285
+            text = "[Second language].  [laughter]."
+        intervals [101]:
+            xmin = 223.285
+            xmax = 230.285
+            text = "[Second language]."

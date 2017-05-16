@@ -1,0 +1,696 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 257.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 257.6
+intervals: size = 86
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 1.6
+            text = "Great.  Hi."
+        intervals [3]:
+            xmin = 1.6
+            xmax = 6.8
+            text = ""
+        intervals [4]:
+            xmin = 6.8
+            xmax = 11.6
+            text = "Yeah, we did.  We worked on the same magazine in college, and like we'd hang out occasionally.  "
+        intervals [5]:
+            xmin = 11.6
+            xmax = 11.8
+            text = ""
+        intervals [6]:
+            xmin = 11.8
+            xmax = 16.6
+            text = "And like we talked a lot, and then I just saw her like randomly like at a bar we attend.  "
+        intervals [7]:
+            xmin = 16.6
+            xmax = 17.8
+            text = ""
+        intervals [8]:
+            xmin = 17.8
+            xmax = 18.6
+            text = "I was like [unintelligible], yeah.  "
+        intervals [9]:
+            xmin = 18.6
+            xmax = 20.8
+            text = ""
+        intervals [10]:
+            xmin = 20.8
+            xmax = 22.6
+            text = "Yeah, she was [unintelligible].  "
+        intervals [11]:
+            xmin = 22.6
+            xmax = 22.8
+            text = ""
+        intervals [12]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "And they used to come up to Colorado.  "
+        intervals [13]:
+            xmin = 24.6
+            xmax = 24.8
+            text = ""
+        intervals [14]:
+            xmin = 24.8
+            xmax = 27.6
+            text = "Like they'd been out there for a couple of years.  "
+        intervals [15]:
+            xmin = 27.6
+            xmax = 27.8
+            text = ""
+        intervals [16]:
+            xmin = 27.8
+            xmax = 31.6
+            text = "No, no, no, because she didn't know I was here because I just [unintelligible] and went to grad school.  "
+        intervals [17]:
+            xmin = 31.6
+            xmax = 32.8
+            text = ""
+        intervals [18]:
+            xmin = 32.8
+            xmax = 38.6
+            text = "And it was really funny because at the bar we got talking to some other friends who are also [unintelligible] section or something.  "
+        intervals [19]:
+            xmin = 38.6
+            xmax = 40.8
+            text = ""
+        intervals [20]:
+            xmin = 40.8
+            xmax = 43.6
+            text = "We just saw each other and we're like, oh my god.  "
+        intervals [21]:
+            xmin = 43.6
+            xmax = 44.8
+            text = ""
+        intervals [22]:
+            xmin = 44.8
+            xmax = 45.6
+            text = "You met nameX here?  "
+        intervals [23]:
+            xmin = 45.6
+            xmax = 47.8
+            text = ""
+        intervals [24]:
+            xmin = 47.8
+            xmax = 49.6
+            text = "Yeah, she's great.  "
+        intervals [25]:
+            xmin = 49.6
+            xmax = 49.8
+            text = ""
+        intervals [26]:
+            xmin = 49.8
+            xmax = 51.6
+            text = "She's so easy to get along with.  "
+        intervals [27]:
+            xmin = 51.6
+            xmax = 51.8
+            text = ""
+        intervals [28]:
+            xmin = 51.8
+            xmax = 53.6
+            text = "I don't know what the California did.  "
+        intervals [29]:
+            xmin = 53.6
+            xmax = 54.8
+            text = ""
+        intervals [30]:
+            xmin = 54.8
+            xmax = 56.6
+            text = "No, I'd say Michigan.  "
+        intervals [31]:
+            xmin = 56.6
+            xmax = 57.8
+            text = ""
+        intervals [32]:
+            xmin = 57.8
+            xmax = 62.6
+            text = "That's what people say.  You know, Midwest, I'm like, no.  Are you from California, too? "
+        intervals [33]:
+            xmin = 62.6
+            xmax = 62.8
+            text = ""
+        intervals [34]:
+            xmin = 62.8
+            xmax = 63.6
+            text = "Oh, where in the south?  "
+        intervals [35]:
+            xmin = 63.6
+            xmax = 66.8
+            text = ""
+        intervals [36]:
+            xmin = 66.8
+            xmax = 68.6
+            text = "Oh, so where in North Carolina?  "
+        intervals [37]:
+            xmin = 68.6
+            xmax = 70.8
+            text = ""
+        intervals [38]:
+            xmin = 70.8
+            xmax = 75.6
+            text = "My Dad's side of the family lives in like Cary, North Carolina.  "
+        intervals [39]:
+            xmin = 75.6
+            xmax = 76.8
+            text = ""
+        intervals [40]:
+            xmin = 76.8
+            xmax = 79.6
+            text = "Yeah, but it's beautiful.  Like I visited them a couple of years ago.  "
+        intervals [41]:
+            xmin = 79.6
+            xmax = 81.8
+            text = ""
+        intervals [42]:
+            xmin = 81.8
+            xmax = 84.6
+            text = "Yeah.  But like in August they say it's horrible.  "
+        intervals [43]:
+            xmin = 84.6
+            xmax = 88.8
+            text = ""
+        intervals [44]:
+            xmin = 88.8
+            xmax = 89.6
+            text = "Yeah, my cousin is like--"
+        intervals [45]:
+            xmin = 89.6
+            xmax = 94.8
+            text = ""
+        intervals [46]:
+            xmin = 94.8
+            xmax = 98.6
+            text = "Yeah, do you like being here?  "
+        intervals [47]:
+            xmin = 98.6
+            xmax = 101.8
+            text = ""
+        intervals [48]:
+            xmin = 101.8
+            xmax = 110.6
+            text = "You know it's going to be hard.  Like not [unintelligible] expect this of you, but I was talking to someone else.  And they started talking about the [unintelligible] moot court or something.  "
+        intervals [49]:
+            xmin = 110.6
+            xmax = 110.8
+            text = ""
+        intervals [50]:
+            xmin = 110.8
+            xmax = 113.6
+            text = "You had to breath.  It sound like--"
+        intervals [51]:
+            xmin = 113.6
+            xmax = 121.8
+            text = ""
+        intervals [52]:
+            xmin = 121.8
+            xmax = 125.6
+            text = "A lot of people like they work very hard, but they never sort of got like--"
+        intervals [53]:
+            xmin = 125.6
+            xmax = 132.8
+            text = ""
+        intervals [54]:
+            xmin = 132.8
+            xmax = 134.6
+            text = "Like real judges, right?  "
+        intervals [55]:
+            xmin = 134.6
+            xmax = 137.8
+            text = ""
+        intervals [56]:
+            xmin = 137.8
+            xmax = 138.6
+            text = "Did you already go? "
+        intervals [57]:
+            xmin = 138.6
+            xmax = 138.8
+            text = ""
+        intervals [58]:
+            xmin = 138.8
+            xmax = 140.6
+            text = "How did it go?  "
+        intervals [59]:
+            xmin = 140.6
+            xmax = 140.8
+            text = ""
+        intervals [60]:
+            xmin = 140.8
+            xmax = 143.6
+            text = "Was it [unintelligible] a guy who had like a disability?  "
+        intervals [61]:
+            xmin = 143.6
+            xmax = 146.8
+            text = ""
+        intervals [62]:
+            xmin = 146.8
+            xmax = 148.6
+            text = "Amelia Peterson.  "
+        intervals [63]:
+            xmin = 148.6
+            xmax = 150.8
+            text = ""
+        intervals [64]:
+            xmin = 150.8
+            xmax = 154.6
+            text = "They're like [unintelligible] I don't know the cause of this disease, but--"
+        intervals [65]:
+            xmin = 154.6
+            xmax = 165.8
+            text = ""
+        intervals [66]:
+            xmin = 165.8
+            xmax = 173.6
+            text = "I know Neelia from college as well and like so a random thing like Lynn's best friend from school was my office mate for a year when I went to [unintelligible].  "
+        intervals [67]:
+            xmin = 173.6
+            xmax = 174.8
+            text = ""
+        intervals [68]:
+            xmin = 174.8
+            xmax = 181.6
+            text = "Like, all of these collisions like happened.  So, I got here and Liz new each other.  I move Liz [unintelligible].  I used to meet Liz [unintelligible].  "
+        intervals [69]:
+            xmin = 181.6
+            xmax = 182.8
+            text = ""
+        intervals [70]:
+            xmin = 182.8
+            xmax = 185.6
+            text = "So, like I [unintelligible] the law school caf'e.  "
+        intervals [71]:
+            xmin = 185.6
+            xmax = 188.8
+            text = ""
+        intervals [72]:
+            xmin = 188.8
+            xmax = 190.6
+            text = "I'm in political science.  I'm going to get [unintelligible].  "
+        intervals [73]:
+            xmin = 190.6
+            xmax = 193.8
+            text = ""
+        intervals [74]:
+            xmin = 193.8
+            xmax = 195.6
+            text = "This is my third year here.  "
+        intervals [75]:
+            xmin = 195.6
+            xmax = 195.8
+            text = ""
+        intervals [76]:
+            xmin = 195.8
+            xmax = 198.6
+            text = "I'm like [unintelligible] almost halfway done.  "
+        intervals [77]:
+            xmin = 198.6
+            xmax = 203.8
+            text = ""
+        intervals [78]:
+            xmin = 203.8
+            xmax = 207.6
+            text = "Yeah, yeah, I don't know if Nelia and nameX knew each other, or like maybe they--"
+        intervals [79]:
+            xmin = 207.6
+            xmax = 213.8
+            text = ""
+        intervals [80]:
+            xmin = 213.8
+            xmax = 215.6
+            text = "Feels like high school.  "
+        intervals [81]:
+            xmin = 215.6
+            xmax = 227.8
+            text = ""
+        intervals [82]:
+            xmin = 227.8
+            xmax = 229.6
+            text = "[interposing]  I heard.  "
+        intervals [83]:
+            xmin = 229.6
+            xmax = 234.8
+            text = ""
+        intervals [84]:
+            xmin = 234.8
+            xmax = 242.6
+            text = "I heard just sort of like--I heard a lot of people went to the formal like with people and there were all of these like random--like scenes that were made.  "
+        intervals [85]:
+            xmin = 242.6
+            xmax = 253.8
+            text = ""
+        intervals [86]:
+            xmin = 253.8
+            xmax = 257.6
+            text = "Now he's [unintelligible].  Do you go this way? "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 257.6
+intervals: size = 83
+        intervals [1]:
+            xmin = 2.44
+            xmax = 7.24
+            text = "Hi, [unintelligible].  [crosstalk]"
+        intervals [2]:
+            xmin = 7.24
+            xmax = 11.44
+            text = ""
+        intervals [3]:
+            xmin = 11.44
+            xmax = 12.24
+            text = "Oh, okay.  Uh-huh, yeah.  "
+        intervals [4]:
+            xmin = 12.24
+            xmax = 16.44
+            text = ""
+        intervals [5]:
+            xmin = 16.44
+            xmax = 18.24
+            text = "Oh, yeah.  "
+        intervals [6]:
+            xmin = 18.24
+            xmax = 18.44
+            text = ""
+        intervals [7]:
+            xmin = 18.44
+            xmax = 20.24
+            text = "Oh, that's [unintelligible].  So, you didn't know [unintelligible].  "
+        intervals [8]:
+            xmin = 20.24
+            xmax = 21.44
+            text = ""
+        intervals [9]:
+            xmin = 21.44
+            xmax = 22.24
+            text = "Okay.  "
+        intervals [10]:
+            xmin = 22.24
+            xmax = 23.44
+            text = ""
+        intervals [11]:
+            xmin = 23.44
+            xmax = 24.24
+            text = "Yeah.  "
+        intervals [12]:
+            xmin = 24.24
+            xmax = 25.44
+            text = ""
+        intervals [13]:
+            xmin = 25.44
+            xmax = 29.24
+            text = "Ah, so you didn't even know she was at Stanford either.  "
+        intervals [14]:
+            xmin = 29.24
+            xmax = 31.44
+            text = ""
+        intervals [15]:
+            xmin = 31.44
+            xmax = 33.24
+            text = "Did you, yeah.  "
+        intervals [16]:
+            xmin = 33.24
+            xmax = 39.44
+            text = ""
+        intervals [17]:
+            xmin = 39.44
+            xmax = 40.24
+            text = "Okay, okay.  "
+        intervals [18]:
+            xmin = 40.24
+            xmax = 42.44
+            text = ""
+        intervals [19]:
+            xmin = 42.44
+            xmax = 44.24
+            text = "That's so great.  "
+        intervals [20]:
+            xmin = 44.24
+            xmax = 45.44
+            text = ""
+        intervals [21]:
+            xmin = 45.44
+            xmax = 48.24
+            text = "Yeah, but we're really good friends.  "
+        intervals [22]:
+            xmin = 48.24
+            xmax = 48.44
+            text = ""
+        intervals [23]:
+            xmin = 48.44
+            xmax = 50.24
+            text = "She's awesome.  "
+        intervals [24]:
+            xmin = 50.24
+            xmax = 50.44
+            text = ""
+        intervals [25]:
+            xmin = 50.44
+            xmax = 52.24
+            text = "Oh, my god.  "
+        intervals [26]:
+            xmin = 52.24
+            xmax = 52.44
+            text = ""
+        intervals [27]:
+            xmin = 52.44
+            xmax = 54.24
+            text = "[unintelligible]  have to leave for California.  "
+        intervals [28]:
+            xmin = 54.24
+            xmax = 56.44
+            text = ""
+        intervals [29]:
+            xmin = 56.44
+            xmax = 57.24
+            text = "Oh, Michigan.  "
+        intervals [30]:
+            xmin = 57.24
+            xmax = 61.44
+            text = ""
+        intervals [31]:
+            xmin = 61.44
+            xmax = 63.24
+            text = "No, I'm from the south.  "
+        intervals [32]:
+            xmin = 63.24
+            xmax = 63.44
+            text = ""
+        intervals [33]:
+            xmin = 63.44
+            xmax = 67.24
+            text = "I'm from North Carolina.  "
+        intervals [34]:
+            xmin = 67.24
+            xmax = 68.44
+            text = ""
+        intervals [35]:
+            xmin = 68.44
+            xmax = 69.24
+            text = "Winston-Salem.  "
+        intervals [36]:
+            xmin = 69.24
+            xmax = 74.44
+            text = ""
+        intervals [37]:
+            xmin = 74.44
+            xmax = 77.24
+            text = "Oh, really.  That's like an hour and a half away.  "
+        intervals [38]:
+            xmin = 77.24
+            xmax = 78.44
+            text = ""
+        intervals [39]:
+            xmin = 78.44
+            xmax = 82.24
+            text = "Good.  It's a really pretty time of year there though.  "
+        intervals [40]:
+            xmin = 82.24
+            xmax = 83.44
+            text = ""
+        intervals [41]:
+            xmin = 83.44
+            xmax = 88.24
+            text = "Oh, my gosh, no.  It's so humid it's like [unintelligible] soup with mosquitos and all that.  "
+        intervals [42]:
+            xmin = 88.24
+            xmax = 89.44
+            text = ""
+        intervals [43]:
+            xmin = 89.44
+            xmax = 95.24
+            text = "It's bad, yeah.  So, I don't miss that at all.  Like here is this nice pleasant and temperate."
+        intervals [44]:
+            xmin = 95.24
+            xmax = 97.44
+            text = ""
+        intervals [45]:
+            xmin = 97.44
+            xmax = 102.24
+            text = "Oh, yeah.  I mean law school is intense, but I think it will get better after the first year.  "
+        intervals [46]:
+            xmin = 102.24
+            xmax = 109.44
+            text = ""
+        intervals [47]:
+            xmin = 109.44
+            xmax = 112.24
+            text = "Oh, yeah, we all had to do that.  "
+        intervals [48]:
+            xmin = 112.24
+            xmax = 113.44
+            text = ""
+        intervals [49]:
+            xmin = 113.44
+            xmax = 122.24
+            text = "[interposing]  It's neat though because [unintelligible] this is so much work, but it really should be portrayed.  And then you would do a better job [unintelligible].  But you'd be doing it for a grade.  So..."
+        intervals [50]:
+            xmin = 122.24
+            xmax = 125.44
+            text = ""
+        intervals [51]:
+            xmin = 125.44
+            xmax = 133.24
+            text = "[interposing]  Right, so it's annoying, but then you like you don't put in the effort that you know you should.  But yet you still [unintelligible]."
+        intervals [52]:
+            xmin = 133.24
+            xmax = 133.44
+            text = ""
+        intervals [53]:
+            xmin = 133.44
+            xmax = 137.24
+            text = "Yeah, like real judges.  So, [unintelligible].  Yeah.  "
+        intervals [54]:
+            xmin = 137.24
+            xmax = 138.44
+            text = ""
+        intervals [55]:
+            xmin = 138.44
+            xmax = 139.24
+            text = "Yeah.  "
+        intervals [56]:
+            xmin = 139.24
+            xmax = 140.44
+            text = ""
+        intervals [57]:
+            xmin = 140.44
+            xmax = 141.24
+            text = "It was fun actually.  "
+        intervals [58]:
+            xmin = 141.24
+            xmax = 143.44
+            text = ""
+        intervals [59]:
+            xmin = 143.44
+            xmax = 146.24
+            text = "Yes, yes.  How did you know?  "
+        intervals [60]:
+            xmin = 146.24
+            xmax = 147.44
+            text = ""
+        intervals [61]:
+            xmin = 147.44
+            xmax = 150.24
+            text = "Oh, yeah.  The Petersons.  "
+        intervals [62]:
+            xmin = 150.24
+            xmax = 153.44
+            text = ""
+        intervals [63]:
+            xmin = 153.44
+            xmax = 166.24
+            text = "[interposing]  [unintelligible].  [Crosstalk]  They're good friends of mine.  They're both sweet girls. But how did you meet them?  "
+        intervals [64]:
+            xmin = 166.24
+            xmax = 173.44
+            text = ""
+        intervals [65]:
+            xmin = 173.44
+            xmax = 174.24
+            text = "Oh, how funny.  "
+        intervals [66]:
+            xmin = 174.24
+            xmax = 181.44
+            text = ""
+        intervals [67]:
+            xmin = 181.44
+            xmax = 182.24
+            text = "Yeah, yeah.  "
+        intervals [68]:
+            xmin = 182.24
+            xmax = 185.44
+            text = ""
+        intervals [69]:
+            xmin = 185.44
+            xmax = 189.24
+            text = "Oh, that's wild. And what program are you in?  "
+        intervals [70]:
+            xmin = 189.24
+            xmax = 192.44
+            text = ""
+        intervals [71]:
+            xmin = 192.44
+            xmax = 194.24
+            text = "Like how many years have you been here?  "
+        intervals [72]:
+            xmin = 194.24
+            xmax = 194.44
+            text = ""
+        intervals [73]:
+            xmin = 194.44
+            xmax = 197.24
+            text = "Third year, wow?  "
+        intervals [74]:
+            xmin = 197.24
+            xmax = 198.44
+            text = ""
+        intervals [75]:
+            xmin = 198.44
+            xmax = 205.24
+            text = "Okay, okay.  So, Nelia was the thing you were doing [unintelligible].  Okay, okay.  "
+        intervals [76]:
+            xmin = 205.24
+            xmax = 206.44
+            text = ""
+        intervals [77]:
+            xmin = 206.44
+            xmax = 214.24
+            text = "I mean like honestly everyone in the law school just knows everyone.  Well, in our class.  It's very like segregated by year.  So, yeah.  Like it's so small."
+        intervals [78]:
+            xmin = 214.24
+            xmax = 214.44
+            text = ""
+        intervals [79]:
+            xmin = 214.44
+            xmax = 228.24
+            text = "Oh, it feels like junior high.  [crosstalk]  No, I mean [unintelligible].  I didn't even go.  Yeah, Nelia started dating someone in the last--"
+        intervals [80]:
+            xmin = 228.24
+            xmax = 228.44
+            text = ""
+        intervals [81]:
+            xmin = 228.44
+            xmax = 234.24
+            text = "But it's  big like everyone knows about it.  Forget it.  Like even if you're not even friends with him.  Like everyone knows.  "
+        intervals [82]:
+            xmin = 234.24
+            xmax = 242.44
+            text = ""
+        intervals [83]:
+            xmin = 242.44
+            xmax = 252.24
+            text = "No, it was so generic.  Like we had [unintelligible] on a shoe.  I mean it was like totally--I think everybody heard on the stories.  "

@@ -1,0 +1,536 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 261.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 261.6
+intervals: size = 65
+        intervals [1]:
+            xmin = 0
+            xmax = 1.6
+            text = "Sorry, what's your name?  "
+        intervals [2]:
+            xmin = 1.6
+            xmax = 1.8
+            text = ""
+        intervals [3]:
+            xmin = 1.8
+            xmax = 12.6
+            text = "female136, okay.  All right, nameX [unintelligible].  Sorry about that.  It's all right.  All right, and that's stationed to your right.  "
+        intervals [4]:
+            xmin = 12.6
+            xmax = 15.8
+            text = ""
+        intervals [5]:
+            xmin = 15.8
+            xmax = 24.6
+            text = "Yeah, yeah, you can pronounce--actually, the way it's supposed to be pronounced is male110--more on the [unintelligible], the first syllable.  "
+        intervals [6]:
+            xmin = 24.6
+            xmax = 24.8
+            text = ""
+        intervals [7]:
+            xmin = 24.8
+            xmax = 27.6
+            text = "But male110 is fine.  Everybody calls me male110, and I don't really care.  "
+        intervals [8]:
+            xmin = 27.6
+            xmax = 28.8
+            text = ""
+        intervals [9]:
+            xmin = 28.8
+            xmax = 30.6
+            text = "I'm originally from Yugoslavia.  "
+        intervals [10]:
+            xmin = 30.6
+            xmax = 30.8
+            text = ""
+        intervals [11]:
+            xmin = 30.8
+            xmax = 32.6
+            text = "How about you? Where did you grow up?  "
+        intervals [12]:
+            xmin = 32.6
+            xmax = 34.8
+            text = ""
+        intervals [13]:
+            xmin = 34.8
+            xmax = 35.6
+            text = "Oh, cool.  "
+        intervals [14]:
+            xmin = 35.6
+            xmax = 36.8
+            text = ""
+        intervals [15]:
+            xmin = 36.8
+            xmax = 40.6
+            text = "Yeah, oh, okay.  Like Arlington, or?  "
+        intervals [16]:
+            xmin = 40.6
+            xmax = 40.8
+            text = ""
+        intervals [17]:
+            xmin = 40.8
+            xmax = 47.6
+            text = "Alexandria, okay, cool.  [unintelligible].  It's sort of like a nice place.  "
+        intervals [18]:
+            xmin = 47.6
+            xmax = 50.8
+            text = ""
+        intervals [19]:
+            xmin = 50.8
+            xmax = 53.6
+            text = "Yeah, everybody does.  It's a lot of fun.  "
+        intervals [20]:
+            xmin = 53.6
+            xmax = 55.8
+            text = ""
+        intervals [21]:
+            xmin = 55.8
+            xmax = 58.6
+            text = "Energy is [unintelligible].  "
+        intervals [22]:
+            xmin = 58.6
+            xmax = 61.8
+            text = ""
+        intervals [23]:
+            xmin = 61.8
+            xmax = 65.6
+            text = "I love it.  It's great.  It's a great program--very sociable.  The people are fun.  "
+        intervals [24]:
+            xmin = 65.6
+            xmax = 66.8
+            text = ""
+        intervals [25]:
+            xmin = 66.8
+            xmax = 74.6
+            text = "Yeah, that's why they recommend it. Are you doing anything [unintelligible]?  I mean are you doing like a PhD or Master's. "
+        intervals [26]:
+            xmin = 74.6
+            xmax = 75.8
+            text = ""
+        intervals [27]:
+            xmin = 75.8
+            xmax = 77.6
+            text = "Law school, it's a J.D. right?  "
+        intervals [28]:
+            xmin = 77.6
+            xmax = 77.8
+            text = ""
+        intervals [29]:
+            xmin = 77.8
+            xmax = 79.6
+            text = "Oh, okay, cool.  How did you like that?  "
+        intervals [30]:
+            xmin = 79.6
+            xmax = 85.8
+            text = ""
+        intervals [31]:
+            xmin = 85.8
+            xmax = 86.6
+            text = "Yeah.  "
+        intervals [32]:
+            xmin = 86.6
+            xmax = 94.8
+            text = ""
+        intervals [33]:
+            xmin = 94.8
+            xmax = 103.6
+            text = "Right.  Right, uh-huh.  [unintelligible] Stanford.  It's supposed to be like very laid back and not very hectic.  "
+        intervals [34]:
+            xmin = 103.6
+            xmax = 104.8
+            text = ""
+        intervals [35]:
+            xmin = 104.8
+            xmax = 111.6
+            text = "So, what kinds of things do you like, you know, on the side?  Do you like to party, or are you more like a nature person, or?  "
+        intervals [36]:
+            xmin = 111.6
+            xmax = 122.8
+            text = ""
+        intervals [37]:
+            xmin = 122.8
+            xmax = 123.6
+            text = "Uh-huh.  "
+        intervals [38]:
+            xmin = 123.6
+            xmax = 129.8
+            text = ""
+        intervals [39]:
+            xmin = 129.8
+            xmax = 130.6
+            text = "Gorgeous.  "
+        intervals [40]:
+            xmin = 130.6
+            xmax = 135.8
+            text = ""
+        intervals [41]:
+            xmin = 135.8
+            xmax = 136.6
+            text = "I know.  "
+        intervals [42]:
+            xmin = 136.6
+            xmax = 138.8
+            text = ""
+        intervals [43]:
+            xmin = 138.8
+            xmax = 153.6
+            text = "Uhm, I like--I like both.  I like partying.  I like like dancing, like going to nightclubs.  Do you like to dance?  But also I like nature a lot.  I like running to [unintelligible].  It's my weekend favorite.  "
+        intervals [44]:
+            xmin = 153.6
+            xmax = 153.8
+            text = ""
+        intervals [45]:
+            xmin = 153.8
+            xmax = 163.6
+            text = "[unintelligible], you know, maybe going to as far away as San Diego, or Tahoe like for a day or two when I have more time.  "
+        intervals [46]:
+            xmin = 163.6
+            xmax = 164.8
+            text = ""
+        intervals [47]:
+            xmin = 164.8
+            xmax = 174.6
+            text = "But when I don't, I just kind of hike around.  I feel like, you know, in some places it's like [unintelligible].  Well, the mountains between the ocean and Palo Alto--what are they called?  "
+        intervals [48]:
+            xmin = 174.6
+            xmax = 174.8
+            text = ""
+        intervals [49]:
+            xmin = 174.8
+            xmax = 178.6
+            text = "The Santa Cruz Mountains, right.  There are some beautiful wineries.  "
+        intervals [50]:
+            xmin = 178.6
+            xmax = 178.8
+            text = ""
+        intervals [51]:
+            xmin = 178.8
+            xmax = 181.6
+            text = "Some absolutely gorgeous places so I really like it a lot.  "
+        intervals [52]:
+            xmin = 181.6
+            xmax = 186.8
+            text = ""
+        intervals [53]:
+            xmin = 186.8
+            xmax = 199.6
+            text = "I've been to one or two, too.  Like the only one I've been to is I've been to [unintelligible] on 35.  And we stopped by some other places like I don't remember.  But at [unintelligible] I spent a half day.  So, like [unintelligible].  "
+        intervals [54]:
+            xmin = 199.6
+            xmax = 202.8
+            text = ""
+        intervals [55]:
+            xmin = 202.8
+            xmax = 204.6
+            text = "Well, there's a tour in, you know. "
+        intervals [56]:
+            xmin = 204.6
+            xmax = 204.8
+            text = ""
+        intervals [57]:
+            xmin = 204.8
+            xmax = 208.6
+            text = "Yeah.  Did you go to Napa Sonoma? "
+        intervals [58]:
+            xmin = 208.6
+            xmax = 224.8
+            text = ""
+        intervals [59]:
+            xmin = 224.8
+            xmax = 226.6
+            text = "I'm sorry.  What's it called?  "
+        intervals [60]:
+            xmin = 226.6
+            xmax = 228.8
+            text = ""
+        intervals [61]:
+            xmin = 228.8
+            xmax = 229.6
+            text = "Okay.  "
+        intervals [62]:
+            xmin = 229.6
+            xmax = 233.8
+            text = ""
+        intervals [63]:
+            xmin = 233.8
+            xmax = 237.6
+            text = "Oh, yeah? Well, what kind of wine do they specialize in?  "
+        intervals [64]:
+            xmin = 237.6
+            xmax = 244.8
+            text = ""
+        intervals [65]:
+            xmin = 244.8
+            xmax = 248.6
+            text = "Oh, okay.  Some very sweet and zesty stuff, right?  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 261.6
+intervals: size = 64
+        intervals [1]:
+            xmin = 1.8
+            xmax = 2.6
+            text = "female136.  "
+        intervals [2]:
+            xmin = 2.6
+            xmax = 12.8
+            text = ""
+        intervals [3]:
+            xmin = 12.8
+            xmax = 16.6
+            text = "Yeah.  Do you pronounce male110 like the city?  "
+        intervals [4]:
+            xmin = 16.6
+            xmax = 24.8
+            text = ""
+        intervals [5]:
+            xmin = 24.8
+            xmax = 25.6
+            text = "Okay. "
+        intervals [6]:
+            xmin = 25.6
+            xmax = 27.8
+            text = ""
+        intervals [7]:
+            xmin = 27.8
+            xmax = 29.6
+            text = "Where are you from?  "
+        intervals [8]:
+            xmin = 29.6
+            xmax = 29.8
+            text = ""
+        intervals [9]:
+            xmin = 29.8
+            xmax = 31.6
+            text = "Okay, cool.  "
+        intervals [10]:
+            xmin = 31.6
+            xmax = 32.8
+            text = ""
+        intervals [11]:
+            xmin = 32.8
+            xmax = 35.6
+            text = "In the Washington, DC area.  "
+        intervals [12]:
+            xmin = 35.6
+            xmax = 37.6
+            text = "Like [unintelligible] northern Virginia.  "
+        intervals [13]:
+            xmin = 37.6
+            xmax = 39.8
+            text = ""
+        intervals [14]:
+            xmin = 39.8
+            xmax = 41.6
+            text = "Alexandria.  "
+        intervals [15]:
+            xmin = 41.6
+            xmax = 46.8
+            text = ""
+        intervals [16]:
+            xmin = 46.8
+            xmax = 50.6
+            text = "Yeah, I like it.  Although I like California.  "
+        intervals [17]:
+            xmin = 50.6
+            xmax = 53.8
+            text = ""
+        intervals [18]:
+            xmin = 53.8
+            xmax = 56.6
+            text = "Yeah. What are you doing here at Stanford?  "
+        intervals [19]:
+            xmin = 56.6
+            xmax = 58.8
+            text = ""
+        intervals [20]:
+            xmin = 58.8
+            xmax = 61.6
+            text = "Oh, cool. I didn't know they [unintelligible]."
+        intervals [21]:
+            xmin = 61.6
+            xmax = 64.8
+            text = ""
+        intervals [22]:
+            xmin = 64.8
+            xmax = 66.6
+            text = "Yeah. That's what I've heard. "
+        intervals [23]:
+            xmin = 66.6
+            xmax = 73.8
+            text = ""
+        intervals [24]:
+            xmin = 73.8
+            xmax = 76.6
+            text = "No, I am at the law school.  "
+        intervals [25]:
+            xmin = 76.6
+            xmax = 76.8
+            text = ""
+        intervals [26]:
+            xmin = 76.8
+            xmax = 77.6
+            text = "Yeah.  "
+        intervals [27]:
+            xmin = 77.6
+            xmax = 79.8
+            text = ""
+        intervals [28]:
+            xmin = 79.8
+            xmax = 86.6
+            text = "I liked it.  This is my first year.  I'm still just getting used to it.  "
+        intervals [29]:
+            xmin = 86.6
+            xmax = 86.8
+            text = ""
+        intervals [30]:
+            xmin = 86.8
+            xmax = 94.6
+            text = "But actually I really like it.  You hear all these horror stories.  I mean maybe it's the [unintelligible].  "
+        intervals [31]:
+            xmin = 94.6
+            xmax = 103.8
+            text = ""
+        intervals [32]:
+            xmin = 103.8
+            xmax = 105.6
+            text = "Exactly.  "
+        intervals [33]:
+            xmin = 105.6
+            xmax = 111.8
+            text = ""
+        intervals [34]:
+            xmin = 111.8
+            xmax = 123.6
+            text = "I would say I'm more on the natury side.  I like to go out and have some drinks, but I like to ride my bike a lot.  I like to go running.  I like to go camping.  I love to go hiking.  "
+        intervals [35]:
+            xmin = 123.6
+            xmax = 124.8
+            text = ""
+        intervals [36]:
+            xmin = 124.8
+            xmax = 129.6
+            text = "And this area is so--it's just so physically beautiful.  "
+        intervals [37]:
+            xmin = 129.6
+            xmax = 130.8
+            text = ""
+        intervals [38]:
+            xmin = 130.8
+            xmax = 135.6
+            text = "And the hills actually the hills [unintelligible], the mountains.  I mean everything is in this area.  "
+        intervals [39]:
+            xmin = 135.6
+            xmax = 136.8
+            text = ""
+        intervals [40]:
+            xmin = 136.8
+            xmax = 139.6
+            text = "Well, anyway, that's why I love it so much.  How about you?  "
+        intervals [41]:
+            xmin = 139.6
+            xmax = 152.8
+            text = ""
+        intervals [42]:
+            xmin = 152.8
+            xmax = 153.6
+            text = "Yeah, "
+        intervals [43]:
+            xmin = 153.6
+            xmax = 163.8
+            text = ""
+        intervals [44]:
+            xmin = 163.8
+            xmax = 164.6
+            text = "Yeah.  "
+        intervals [45]:
+            xmin = 164.6
+            xmax = 173.8
+            text = ""
+        intervals [46]:
+            xmin = 173.8
+            xmax = 175.6
+            text = "The Santa Cruz Mountains."
+        intervals [47]:
+            xmin = 175.6
+            xmax = 177.8
+            text = ""
+        intervals [48]:
+            xmin = 177.8
+            xmax = 178.6
+            text = "Yeah.  "
+        intervals [49]:
+            xmin = 178.6
+            xmax = 181.8
+            text = ""
+        intervals [50]:
+            xmin = 181.8
+            xmax = 187.6
+            text = "In terms of wineries, what do you recommend because I went to one or two.  "
+        intervals [51]:
+            xmin = 187.6
+            xmax = 199.8
+            text = ""
+        intervals [52]:
+            xmin = 199.8
+            xmax = 202.6
+            text = "Oh, wow that's a long time at a winery.  "
+        intervals [53]:
+            xmin = 202.6
+            xmax = 204.8
+            text = ""
+        intervals [54]:
+            xmin = 204.8
+            xmax = 205.6
+            text = "Yeah.  "
+        intervals [55]:
+            xmin = 205.6
+            xmax = 208.8
+            text = ""
+        intervals [56]:
+            xmin = 208.8
+            xmax = 225.6
+            text = "I've been to both.  I went to Napa just recently, but I've also been to a couple of nice wineries in the [unintelligible] mountains.  One of them is just outside of Saratoga, Savannah [unintelligible].  It was actually recommended.  "
+        intervals [57]:
+            xmin = 225.6
+            xmax = 225.8
+            text = ""
+        intervals [58]:
+            xmin = 225.8
+            xmax = 228.6
+            text = "It's called Savannah [unintelligible].  "
+        intervals [59]:
+            xmin = 228.6
+            xmax = 228.8
+            text = ""
+        intervals [60]:
+            xmin = 228.8
+            xmax = 234.6
+            text = "It's a really cute little winery.  They're so nice there, and the wines are really good.  "
+        intervals [61]:
+            xmin = 234.6
+            xmax = 237.8
+            text = ""
+        intervals [62]:
+            xmin = 237.8
+            xmax = 245.6
+            text = "They have a wonderful wine variety, but I think they're making [unintelligible].  "
+        intervals [63]:
+            xmin = 245.6
+            xmax = 248.8
+            text = ""
+        intervals [64]:
+            xmin = 248.8
+            xmax = 261.6
+            text = "No, no, no, the [unintelligible].  I think maybe I can give you [unintelligible] like the pink one.  It's not sweet like the red.  It's like peppery.  "

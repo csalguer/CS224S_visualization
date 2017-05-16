@@ -1,0 +1,348 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 239.89
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 239.89
+intervals: size = 42
+        intervals [1]:
+            xmin = 0
+            xmax = 2.39
+            text = ""
+        intervals [2]:
+            xmin = 2.39
+            xmax = 2.59
+            text = "Hi."
+        intervals [3]:
+            xmin = 2.59
+            xmax = 3.59
+            text = ""
+        intervals [4]:
+            xmin = 3.59
+            xmax = 4.59
+            text = "My name is [unintelligible]."
+        intervals [5]:
+            xmin = 4.59
+            xmax = 6.69
+            text = ""
+        intervals [6]:
+            xmin = 6.69
+            xmax = 7.09
+            text = "[unintelligible]."
+        intervals [7]:
+            xmin = 7.09
+            xmax = 9.19
+            text = ""
+        intervals [8]:
+            xmin = 9.19
+            xmax = 10.09
+            text = "Nice to meet you too. "
+        intervals [9]:
+            xmin = 10.09
+            xmax = 27.29
+            text = ""
+        intervals [10]:
+            xmin = 27.29
+            xmax = 27.69
+            text = "[interposing] uh-huh. "
+        intervals [11]:
+            xmin = 27.69
+            xmax = 39.49
+            text = ""
+        intervals [12]:
+            xmin = 39.49
+            xmax = 69.49
+            text = "Um I'm going to get a masters, masters degree from [unintelligible] and a PHD in physics.  So I work with a press agent in [unintelligible].  I basically work to uh, bring two medical systems together so that they can have both original entities but they also interfere with each other so I need to solve the uh problems that uh that arise. "
+        intervals [13]:
+            xmin = 69.49
+            xmax = 72.39
+            text = ""
+        intervals [14]:
+            xmin = 72.39
+            xmax = 88.39
+            text = "uh I like a lot of sports.  I like uh tennis, badmitton, uh I play uh, volleyball occasionally.  And uh, since last summerI practice I started to practice Tae Kwon Doe."
+        intervals [15]:
+            xmin = 88.39
+            xmax = 89.79
+            text = ""
+        intervals [16]:
+            xmin = 89.79
+            xmax = 89.99
+            text = "Yeah. "
+        intervals [17]:
+            xmin = 89.99
+            xmax = 90.79
+            text = ""
+        intervals [18]:
+            xmin = 90.79
+            xmax = 92.39
+            text = "Right now I'm a green. "
+        intervals [19]:
+            xmin = 92.39
+            xmax = 101.79
+            text = ""
+        intervals [20]:
+            xmin = 101.79
+            xmax = 102.29
+            text = "[interposing] uh-huh."
+        intervals [21]:
+            xmin = 102.29
+            xmax = 106.89
+            text = ""
+        intervals [22]:
+            xmin = 106.89
+            xmax = 110.29
+            text = "Did you have a test to get your belt? "
+        intervals [23]:
+            xmin = 110.29
+            xmax = 113.39
+            text = ""
+        intervals [24]:
+            xmin = 113.39
+            xmax = 115.19
+            text = "So basically everyone passes."
+        intervals [25]:
+            xmin = 115.19
+            xmax = 122.49
+            text = ""
+        intervals [26]:
+            xmin = 122.49
+            xmax = 124.29
+            text = "And did you like it?"
+        intervals [27]:
+            xmin = 124.29
+            xmax = 128.29
+            text = ""
+        intervals [28]:
+            xmin = 128.29
+            xmax = 128.79
+            text = "Uh-huh."
+        intervals [29]:
+            xmin = 128.79
+            xmax = 139.19
+            text = ""
+        intervals [30]:
+            xmin = 139.19
+            xmax = 139.69
+            text = "Um-hmm. "
+        intervals [31]:
+            xmin = 139.69
+            xmax = 150.79
+            text = ""
+        intervals [32]:
+            xmin = 150.79
+            xmax = 152.39
+            text = "So you are graduating this summer? "
+        intervals [33]:
+            xmin = 152.39
+            xmax = 153.19
+            text = ""
+        intervals [34]:
+            xmin = 153.19
+            xmax = 154.99
+            text = "Are you graduating before this summer? "
+        intervals [35]:
+            xmin = 154.99
+            xmax = 161.49
+            text = ""
+        intervals [36]:
+            xmin = 161.49
+            xmax = 182.49
+            text = "Uh yeah.  It's um, it's um--I kindof--I like the, the, the good work training.  But I'm not really a good fighter since every time I--when I face my opponent I, I'm too nervous."
+        intervals [37]:
+            xmin = 182.49
+            xmax = 184.99
+            text = ""
+        intervals [38]:
+            xmin = 184.99
+            xmax = 186.69
+            text = "Ah, every time I face my opponent. "
+        intervals [39]:
+            xmin = 186.69
+            xmax = 188.19
+            text = ""
+        intervals [40]:
+            xmin = 188.19
+            xmax = 190.19
+            text = "Uh, in in sparring."
+        intervals [41]:
+            xmin = 190.19
+            xmax = 239.29
+            text = ""
+        intervals [42]:
+            xmin = 239.29
+            xmax = 239.89
+            text = "Nice to meet you too. "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 239.89
+intervals: size = 40
+        intervals [1]:
+            xmin = 0.4
+            xmax = 2.2
+            text = "Um hi. "
+        intervals [2]:
+            xmin = 2.2
+            xmax = 2.4
+            text = ""
+        intervals [3]:
+            xmin = 2.4
+            xmax = 3.4
+            text = "My name is female321."
+        intervals [4]:
+            xmin = 3.4
+            xmax = 4.4
+            text = ""
+        intervals [5]:
+            xmin = 4.4
+            xmax = 6.5
+            text = "Um [unintelligible]."
+        intervals [6]:
+            xmin = 6.5
+            xmax = 6.9
+            text = ""
+        intervals [7]:
+            xmin = 6.9
+            xmax = 9
+            text = "[unintelligible]. Nice to meet you."
+        intervals [8]:
+            xmin = 9
+            xmax = 10
+            text = ""
+        intervals [9]:
+            xmin = 10
+            xmax = 29.5
+            text = "Um I'm 26.  I'm in the school of education.  Um I'm a researcher.  And I like to focus on--my focus right now, because I'm in a masters program, is studying issues women of color in America face--"
+        intervals [10]:
+            xmin = 29.5
+            xmax = 30.2
+            text = ""
+        intervals [11]:
+            xmin = 30.2
+            xmax = 41.9
+            text = "Um when they're trying to get into a graduate school.  Because it's such a twisted weird game you have to play to get in.  What you write, how you persuade, your reading audience. What what school are you in?"
+        intervals [12]:
+            xmin = 41.9
+            xmax = 71.9
+            text = ""
+        intervals [13]:
+            xmin = 71.9
+            xmax = 72.2
+            text = "Cool.  So what do you like to do for fun? "
+        intervals [14]:
+            xmin = 72.2
+            xmax = 88.2
+            text = ""
+        intervals [15]:
+            xmin = 88.2
+            xmax = 89.6
+            text = "Tae Kwon Doe."
+        intervals [16]:
+            xmin = 89.6
+            xmax = 89.8
+            text = ""
+        intervals [17]:
+            xmin = 89.8
+            xmax = 90.6
+            text = "What, what belt are you? "
+        intervals [18]:
+            xmin = 90.6
+            xmax = 92.2
+            text = ""
+        intervals [19]:
+            xmin = 92.2
+            xmax = 100.6
+            text = "That's cool.  I'm just curious.  Not important, I'm just curious.  I was a blue belt but I didn't earn it.  I did the American Tae Kwon Do--"
+        intervals [20]:
+            xmin = 100.6
+            xmax = 102.1
+            text = ""
+        intervals [21]:
+            xmin = 102.1
+            xmax = 106.7
+            text = "--where you pay your money and regardless of how bad you are the'll still give you your belt [laughter]. "
+        intervals [22]:
+            xmin = 106.7
+            xmax = 110.1
+            text = ""
+        intervals [23]:
+            xmin = 110.1
+            xmax = 113.2
+            text = "Yes.  Every, every--you have to do a test before every belt. "
+        intervals [24]:
+            xmin = 113.2
+            xmax = 115
+            text = ""
+        intervals [25]:
+            xmin = 115
+            xmax = 122.3
+            text = "I would say that I was not  blue belt level.  But you know they just give it to you.  Its America."
+        intervals [26]:
+            xmin = 122.3
+            xmax = 124.1
+            text = ""
+        intervals [27]:
+            xmin = 124.1
+            xmax = 128.4
+            text = "I did.  Um, I wish I could get into it again.  I'm just too busy with my work."
+        intervals [28]:
+            xmin = 128.4
+            xmax = 128.6
+            text = ""
+        intervals [29]:
+            xmin = 128.6
+            xmax = 139.5
+            text = "This school is killing me [laughter].  But um, once I get out--which is in a few weeks--um, I want to be more athletic.  I want to take more care of myself on a spiritual and artistic level. "
+        intervals [30]:
+            xmin = 139.5
+            xmax = 150.6
+            text = "Right now i just feel like a robot. I just study and type and sleep and take a shower and study and type and sleep and take a shower and go to class [laughter].  It just keeps on going on and on you know."
+        intervals [31]:
+            xmin = 150.6
+            xmax = 152.2
+            text = ""
+        intervals [32]:
+            xmin = 152.2
+            xmax = 153
+            text = "I'm sorry. "
+        intervals [33]:
+            xmin = 153
+            xmax = 154.8
+            text = ""
+        intervals [34]:
+            xmin = 154.8
+            xmax = 161.3
+            text = "Yes.  Yes, thank God [laughter].  I'm looking forward to it.  But are you having a good time? "
+        intervals [35]:
+            xmin = 161.3
+            xmax = 182.3
+            text = ""
+        intervals [36]:
+            xmin = 182.3
+            xmax = 184.8
+            text = "Every time you what your too nervous? "
+        intervals [37]:
+            xmin = 184.8
+            xmax = 186.5
+            text = ""
+        intervals [38]:
+            xmin = 186.5
+            xmax = 188
+            text = "Oh.  Oh in badmitton."
+        intervals [39]:
+            xmin = 188
+            xmax = 190
+            text = ""
+        intervals [40]:
+            xmin = 190
+            xmax = 239.1
+            text = "In sparring.  Oh yeah.  Yoiu know what you need to do--this is what a lot of people do--um, think of something really funny.  Pretend that you are facing something really stupid, like a clown or something.  Like don't even worry about it.  Or, or almost step outside yourself.  Try to step outside your own mind.  And just think of your animal instinct to survive.  And then just beat the shit out of the person.  No I'm just kidding [laughter].  Bad joke [laughter]. So um, I like to dance.  I like music.  I'm very artistic.  Um, if I could I would make cookies all day and paint them with frosting.  [laughter] Nice to meet you."

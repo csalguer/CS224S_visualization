@@ -1,0 +1,608 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 265.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 265.6
+intervals: size = 75
+        intervals [1]:
+            xmin = 0
+            xmax = 15.578
+            text = ""
+        intervals [2]:
+            xmin = 15.578
+            xmax = 17.378
+            text = "Hi, I'm male313."
+        intervals [3]:
+            xmin = 17.378
+            xmax = 17.578
+            text = ""
+        intervals [4]:
+            xmin = 17.578
+            xmax = 20.378
+            text = "Nice to meet you.  How are things going for you here?"
+        intervals [5]:
+            xmin = 20.378
+            xmax = 20.578
+            text = ""
+        intervals [6]:
+            xmin = 20.578
+            xmax = 21.378
+            text = "Yeah?"
+        intervals [7]:
+            xmin = 21.378
+            xmax = 21.578
+            text = ""
+        intervals [8]:
+            xmin = 21.578
+            xmax = 23.378
+            text = "Have you done this before?"
+        intervals [9]:
+            xmin = 23.378
+            xmax = 24.578
+            text = ""
+        intervals [10]:
+            xmin = 24.578
+            xmax = 26.378
+            text = "I did it a couple times. "
+        intervals [11]:
+            xmin = 26.378
+            xmax = 27.578
+            text = ""
+        intervals [12]:
+            xmin = 27.578
+            xmax = 30.378
+            text = "It was okay.  I met some [unintelligible] speed dating. "
+        intervals [13]:
+            xmin = 30.378
+            xmax = 37.578
+            text = ""
+        intervals [14]:
+            xmin = 37.578
+            xmax = 43.378
+            text = "I think so. Yeah, I mean, everybody here seems pretty normal.  Well, except for a few people."
+        intervals [15]:
+            xmin = 43.378
+            xmax = 43.578
+            text = ""
+        intervals [16]:
+            xmin = 43.578
+            xmax = 45.378
+            text = "I won't go into that."
+        intervals [17]:
+            xmin = 45.378
+            xmax = 46.578
+            text = ""
+        intervals [18]:
+            xmin = 46.578
+            xmax = 51.378
+            text = "But, apparently people don't date at Stanford.  I don't know.  I read an editorial in the paper [unintelligible]."
+        intervals [19]:
+            xmin = 51.378
+            xmax = 51.578
+            text = ""
+        intervals [20]:
+            xmin = 51.578
+            xmax = 67.378
+            text = "Oh, really?"
+        intervals [21]:
+            xmin = 67.378
+            xmax = 76.578
+            text = ""
+        intervals [22]:
+            xmin = 76.578
+            xmax = 78.378
+            text = "Yeah, that's what I've heard. "
+        intervals [23]:
+            xmin = 78.378
+            xmax = 79.578
+            text = ""
+        intervals [24]:
+            xmin = 79.578
+            xmax = 84.378
+            text = "You're either, like, hooking up or you're, like, married.  You're like, 'What the fuck?'"
+        intervals [25]:
+            xmin = 84.378
+            xmax = 87.578
+            text = ""
+        intervals [26]:
+            xmin = 87.578
+            xmax = 88.378
+            text = "That's interesting."
+        intervals [27]:
+            xmin = 88.378
+            xmax = 94.578
+            text = ""
+        intervals [28]:
+            xmin = 94.578
+            xmax = 105.378
+            text = "Let's see.  This editorial talked about dorms being the big thing.  Everybody does stuff with their dorm.  You can't date people in your dorm, so your whole social circle is kind of off limits.  I don't know.  Did you find that here?"
+        intervals [29]:
+            xmin = 105.378
+            xmax = 113.578
+            text = ""
+        intervals [30]:
+            xmin = 113.578
+            xmax = 115.378
+            text = "Yeah. "
+        intervals [31]:
+            xmin = 115.378
+            xmax = 124.578
+            text = ""
+        intervals [32]:
+            xmin = 124.578
+            xmax = 129.378
+            text = "All right.  Well, here's a noble attempt at more dating on campus.  I don't know. "
+        intervals [33]:
+            xmin = 129.378
+            xmax = 142.578
+            text = ""
+        intervals [34]:
+            xmin = 142.578
+            xmax = 144.378
+            text = "What department are you in?"
+        intervals [35]:
+            xmin = 144.378
+            xmax = 144.578
+            text = ""
+        intervals [36]:
+            xmin = 144.578
+            xmax = 149.378
+            text = "Okay, cool. So I'm in CS where there are very few women."
+        intervals [37]:
+            xmin = 149.378
+            xmax = 152.578
+            text = ""
+        intervals [38]:
+            xmin = 152.578
+            xmax = 154.378
+            text = "So you know how that is.  Yeah."
+        intervals [39]:
+            xmin = 154.378
+            xmax = 156.578
+            text = ""
+        intervals [40]:
+            xmin = 156.578
+            xmax = 163.378
+            text = "Well, the ratio was in your favor.  Exactly.  Exactly. Like, socializing within the department is kind of pointless.  "
+        intervals [41]:
+            xmin = 163.378
+            xmax = 163.578
+            text = ""
+        intervals [42]:
+            xmin = 163.578
+            xmax = 167.378
+            text = "At least in terms of meeting, you know, I don't know."
+        intervals [43]:
+            xmin = 167.378
+            xmax = 168.578
+            text = ""
+        intervals [44]:
+            xmin = 168.578
+            xmax = 171.378
+            text = "Yeah, I'm so jealous of the life science guys. "
+        intervals [45]:
+            xmin = 171.378
+            xmax = 174.578
+            text = ""
+        intervals [46]:
+            xmin = 174.578
+            xmax = 177.378
+            text = "I don't know.  Maybe they don't wanna date people in their program?"
+        intervals [47]:
+            xmin = 177.378
+            xmax = 181.378
+            text = "Because they spend so much time together.  I've heard people say things like that. "
+        intervals [48]:
+            xmin = 181.378
+            xmax = 181.578
+            text = ""
+        intervals [49]:
+            xmin = 181.578
+            xmax = 186.378
+            text = "It's be like dating a, a sister or something because you're spending all this time on all your assignments. "
+        intervals [50]:
+            xmin = 186.378
+            xmax = 191.578
+            text = ""
+        intervals [51]:
+            xmin = 191.578
+            xmax = 195.378
+            text = "Yeah, and then you break up, and it's super awkward."
+        intervals [52]:
+            xmin = 195.378
+            xmax = 200.578
+            text = ""
+        intervals [53]:
+            xmin = 200.578
+            xmax = 204.378
+            text = "Yeah, because now there's these two people who are closer to each other than anyone else."
+        intervals [54]:
+            xmin = 204.378
+            xmax = 212.578
+            text = ""
+        intervals [55]:
+            xmin = 212.578
+            xmax = 214.378
+            text = "Yeah, that's interesting."
+        intervals [56]:
+            xmin = 214.378
+            xmax = 214.578
+            text = ""
+        intervals [57]:
+            xmin = 214.578
+            xmax = 217.378
+            text = "Maybe you should just pick the best one."
+        intervals [58]:
+            xmin = 217.378
+            xmax = 221.578
+            text = ""
+        intervals [59]:
+            xmin = 221.578
+            xmax = 223.378
+            text = "I like it, yeah.  I'm doing verification.  "
+        intervals [60]:
+            xmin = 223.378
+            xmax = 223.578
+            text = ""
+        intervals [61]:
+            xmin = 223.578
+            xmax = 226.378
+            text = "So, like, proving correctness of programs. "
+        intervals [62]:
+            xmin = 226.378
+            xmax = 230.578
+            text = ""
+        intervals [63]:
+            xmin = 230.578
+            xmax = 238.378
+            text = "Well, no programs are correct.  I mean, to a first approximation, every program has bugs.  So hopefully that will keep me employed for a very long time. "
+        intervals [64]:
+            xmin = 238.378
+            xmax = 241.578
+            text = ""
+        intervals [65]:
+            xmin = 241.578
+            xmax = 244.378
+            text = "Oh, the DWIM feature.  Do what I mean."
+        intervals [66]:
+            xmin = 244.378
+            xmax = 246.578
+            text = ""
+        intervals [67]:
+            xmin = 246.578
+            xmax = 259.378
+            text = "Some languages have that.  I had a prof in under grad that told a story that he left out, like, a semicolon.  He went to get coffee, and when he came back, the program had put in the semicolon and run the program. What? "
+        intervals [68]:
+            xmin = 259.378
+            xmax = 260.578
+            text = ""
+        intervals [69]:
+            xmin = 260.578
+            xmax = 262.378
+            text = "I don't know.  It's pretty crazy.  "
+        intervals [70]:
+            xmin = 262.378
+            xmax = 262.578
+            text = ""
+        intervals [71]:
+            xmin = 262.578
+            xmax = 263.378
+            text = "Anyway, good luck."
+        intervals [72]:
+            xmin = 263.378
+            xmax = 263.578
+            text = ""
+        intervals [73]:
+            xmin = 263.578
+            xmax = 264.378
+            text = "Nice meeting you."
+        intervals [74]:
+            xmin = 264.378
+            xmax = 264.578
+            text = ""
+        intervals [75]:
+            xmin = 264.578
+            xmax = 265.378
+            text = "Take it easy."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 265.6
+intervals: size = 72
+        intervals [1]:
+            xmin = 16.6
+            xmax = 16.8
+            text = ""
+        intervals [2]:
+            xmin = 16.8
+            xmax = 18.6
+            text = "Nice to meet you."
+        intervals [3]:
+            xmin = 18.6
+            xmax = 18.8
+            text = ""
+        intervals [4]:
+            xmin = 18.8
+            xmax = 19.6
+            text = "Good. "
+        intervals [5]:
+            xmin = 19.6
+            xmax = 19.8
+            text = ""
+        intervals [6]:
+            xmin = 19.8
+            xmax = 22.6
+            text = "Yeah.  My day's picking up."
+        intervals [7]:
+            xmin = 22.6
+            xmax = 23.6
+            text = "I haven't.  No. "
+        intervals [8]:
+            xmin = 23.6
+            xmax = 24.8
+            text = ""
+        intervals [9]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "Yeah?  What'd you think?"
+        intervals [10]:
+            xmin = 26.6
+            xmax = 27.8
+            text = ""
+        intervals [11]:
+            xmin = 27.8
+            xmax = 37.6
+            text = "Oh, yeah?  Oh, I remember her telling--she lives in my building.  She was telling me about when she did it.  Yeah.  It seems like this Stanford environment is a nice, like, friendly environment [unintelligible]. "
+        intervals [12]:
+            xmin = 37.6
+            xmax = 41.8
+            text = ""
+        intervals [13]:
+            xmin = 41.8
+            xmax = 43.6
+            text = "[laughter]"
+        intervals [14]:
+            xmin = 43.6
+            xmax = 43.8
+            text = ""
+        intervals [15]:
+            xmin = 43.8
+            xmax = 45.6
+            text = "[laughter] "
+        intervals [16]:
+            xmin = 45.6
+            xmax = 47.8
+            text = ""
+        intervals [17]:
+            xmin = 47.8
+            xmax = 52.6
+            text = "Yeah.  I was an under grad here, and it's sort of true."
+        intervals [18]:
+            xmin = 52.6
+            xmax = 61.6
+            text = "Well, so I have--I have a lot of theories on this, but, um, I think a lot of it is that you can't walk places, so you spend a lot of time, like, alone in a car driving somewhere.  And even if you wanna see a mainstream movie, you drive, like, 20 minutes and--I think--I think what--at least in college, what we used to complain about is that there isn't a lot of semi-casual dating.  It's, like, you're either--"
+        intervals [19]:
+            xmin = 61.6
+            xmax = 76.8
+            text = ""
+        intervals [20]:
+            xmin = 76.8
+            xmax = 79.6
+            text = "There's nowhere between off and high. "
+        intervals [21]:
+            xmin = 79.6
+            xmax = 80.8
+            text = ""
+        intervals [22]:
+            xmin = 80.8
+            xmax = 87.6
+            text = "Exactly.  That's exactly--yeah.  Yeah, all of a sudden, you're in a six-month relationship and you don't really know what happened."
+        intervals [23]:
+            xmin = 87.6
+            xmax = 87.8
+            text = ""
+        intervals [24]:
+            xmin = 87.8
+            xmax = 92.6
+            text = "Yeah, but I think it has to do with the suburban surrounding area a lot. "
+        intervals [25]:
+            xmin = 92.6
+            xmax = 103.8
+            text = ""
+        intervals [26]:
+            xmin = 103.8
+            xmax = 113.6
+            text = "Yeah, yeah.  It's just--it's especially if you're the type of person who's maybe a little bit private.  You know, it's just hard for anything to be going on without everybody knowing about it. "
+        intervals [27]:
+            xmin = 113.6
+            xmax = 113.8
+            text = ""
+        intervals [28]:
+            xmin = 113.8
+            xmax = 123.6
+            text = "Especially because even after your first year, you've lived with your friends.  You, you know, you're blocking groups or [unintelligible] groups or whatever.  So you still know the same people."
+        intervals [29]:
+            xmin = 123.6
+            xmax = 127.8
+            text = ""
+        intervals [30]:
+            xmin = 127.8
+            xmax = 142.6
+            text = "Yeah, no, totally.  I--you know, I find in grad school, at first it was hard for me to kind of transition into just socializing in my department because I had a lot of friends still in the area.  But it's hard to meet new people.  So that's sort of what I thought.  I was like, 'Oh, this is great.  You can meet a lot of people at once.'"
+        intervals [31]:
+            xmin = 142.6
+            xmax = 142.8
+            text = ""
+        intervals [32]:
+            xmin = 142.8
+            xmax = 145.6
+            text = "Biology.  Yeah. "
+        intervals [33]:
+            xmin = 145.6
+            xmax = 147.8
+            text = ""
+        intervals [34]:
+            xmin = 147.8
+            xmax = 153.6
+            text = "Yeah.  [laughter]  I was an under grad applied math major, so I spent a lot of time in CS. "
+        intervals [35]:
+            xmin = 153.6
+            xmax = 153.8
+            text = ""
+        intervals [36]:
+            xmin = 153.8
+            xmax = 157.6
+            text = "Yeah, I enjoyed it because I--you know, I'm the only girl in the class."
+        intervals [37]:
+            xmin = 157.6
+            xmax = 161.8
+            text = ""
+        intervals [38]:
+            xmin = 161.8
+            xmax = 163.6
+            text = "Oh."
+        intervals [39]:
+            xmin = 163.6
+            xmax = 164.8
+            text = ""
+        intervals [40]:
+            xmin = 164.8
+            xmax = 168.6
+            text = "Yeah. Well, the life sciences is more 50/50."
+        intervals [41]:
+            xmin = 168.6
+            xmax = 169.8
+            text = ""
+        intervals [42]:
+            xmin = 169.8
+            xmax = 173.6
+            text = "[laughter]. You should come tell them.  I don't think they know how good they have it. "
+        intervals [43]:
+            xmin = 173.6
+            xmax = 176.8
+            text = ""
+        intervals [44]:
+            xmin = 176.8
+            xmax = 178.6
+            text = "Yeah, it's a catch-22."
+        intervals [45]:
+            xmin = 178.6
+            xmax = 180.8
+            text = ""
+        intervals [46]:
+            xmin = 180.8
+            xmax = 181.6
+            text = "Yeah."
+        intervals [47]:
+            xmin = 181.6
+            xmax = 184.8
+            text = ""
+        intervals [48]:
+            xmin = 184.8
+            xmax = 190.6
+            text = "Yeah. Well, it'd be like dating someone in your dorm.  It's just, you know, you can't walk by their office without saying hi."
+        intervals [49]:
+            xmin = 190.6
+            xmax = 193.8
+            text = ""
+        intervals [50]:
+            xmin = 193.8
+            xmax = 200.6
+            text = "Yeah. Actually, my cohort, there are two couples dating, and it's like, definitely changed the dynamic between that--everybody because it's--"
+        intervals [51]:
+            xmin = 200.6
+            xmax = 202.8
+            text = ""
+        intervals [52]:
+            xmin = 202.8
+            xmax = 212.6
+            text = "Yeah, and it's--I mean, our cohort's small.  There are only nine of us, so if, like, both the couples are doing their own thing, it's, like, me and four other guys.  And we're sort of like, 'So.'"
+        intervals [53]:
+            xmin = 212.6
+            xmax = 212.8
+            text = ""
+        intervals [54]:
+            xmin = 212.8
+            xmax = 214.6
+            text = "Yeah. "
+        intervals [55]:
+            xmin = 214.6
+            xmax = 216.8
+            text = ""
+        intervals [56]:
+            xmin = 216.8
+            xmax = 220.6
+            text = "[laughter]  Maybe. So what are you studying in CS? Do you like it?"
+        intervals [57]:
+            xmin = 220.6
+            xmax = 222.8
+            text = ""
+        intervals [58]:
+            xmin = 222.8
+            xmax = 223.6
+            text = "Okay."
+        intervals [59]:
+            xmin = 223.6
+            xmax = 224.8
+            text = ""
+        intervals [60]:
+            xmin = 224.8
+            xmax = 229.6
+            text = "Oh, that's neat.  You should come do your work on my programs, which are not correct [unintelligible]."
+        intervals [61]:
+            xmin = 229.6
+            xmax = 236.8
+            text = ""
+        intervals [62]:
+            xmin = 236.8
+            xmax = 241.6
+            text = "Yeah, that's good.  Yeah, my constant gripe is that the computer isn't smart enough to know what I mean. "
+        intervals [63]:
+            xmin = 241.6
+            xmax = 242.8
+            text = ""
+        intervals [64]:
+            xmin = 242.8
+            xmax = 246.6
+            text = "Yeah, exactly.  I'm like, 'You know.  You know I meant to put a semicolon there.'"
+        intervals [65]:
+            xmin = 246.6
+            xmax = 257.8
+            text = ""
+        intervals [66]:
+            xmin = 257.8
+            xmax = 260.6
+            text = "I think the grad student had done that or something. "
+        intervals [67]:
+            xmin = 260.6
+            xmax = 260.8
+            text = ""
+        intervals [68]:
+            xmin = 260.8
+            xmax = 261.6
+            text = "Yeah."
+        intervals [69]:
+            xmin = 261.6
+            xmax = 261.8
+            text = ""
+        intervals [70]:
+            xmin = 261.8
+            xmax = 263.6
+            text = "It was nice to meet you."
+        intervals [71]:
+            xmin = 263.6
+            xmax = 264.6
+            text = "Um hm."
+        intervals [72]:
+            xmin = 264.6
+            xmax = 265.6
+            text = "You too."

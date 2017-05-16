@@ -1,0 +1,756 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 254.14
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 254.14
+intervals: size = 94
+        intervals [1]:
+            xmin = 0
+            xmax = 4.34
+            text = ""
+        intervals [2]:
+            xmin = 4.34
+            xmax = 5.14
+            text = "Hi.  "
+        intervals [3]:
+            xmin = 5.14
+            xmax = 5.34
+            text = ""
+        intervals [4]:
+            xmin = 5.34
+            xmax = 6.14
+            text = "How are you?"
+        intervals [5]:
+            xmin = 6.14
+            xmax = 7.34
+            text = ""
+        intervals [6]:
+            xmin = 7.34
+            xmax = 9.14
+            text = "Doing all right.  I'm male119."
+        intervals [7]:
+            xmin = 9.14
+            xmax = 9.34
+            text = ""
+        intervals [8]:
+            xmin = 9.34
+            xmax = 11.14
+            text = "You too.  "
+        intervals [9]:
+            xmin = 11.14
+            xmax = 12.34
+            text = ""
+        intervals [10]:
+            xmin = 12.34
+            xmax = 14.14
+            text = "I'm in mechanical engineering.  "
+        intervals [11]:
+            xmin = 14.14
+            xmax = 14.34
+            text = ""
+        intervals [12]:
+            xmin = 14.34
+            xmax = 18.14
+            text = "Yeah, I'm a PhD student in mechanical engineering.  "
+        intervals [13]:
+            xmin = 18.14
+            xmax = 19.34
+            text = ""
+        intervals [14]:
+            xmin = 19.34
+            xmax = 20.14
+            text = "What's that?"
+        intervals [15]:
+            xmin = 20.14
+            xmax = 21.34
+            text = ""
+        intervals [16]:
+            xmin = 21.34
+            xmax = 29.14
+            text = "I'm actually in the mechanics and computation division, but I actually work for a material science professor.  So, I'm looking at the mechanics of biological tissue, that kind of thing."
+        intervals [17]:
+            xmin = 29.14
+            xmax = 29.34
+            text = ""
+        intervals [18]:
+            xmin = 29.34
+            xmax = 35.14
+            text = "So, actually the very top layer of the skin, and it has kind of transdermal drug applications.  "
+        intervals [19]:
+            xmin = 35.14
+            xmax = 35.34
+            text = ""
+        intervals [20]:
+            xmin = 35.34
+            xmax = 36.14
+            text = "So.  "
+        intervals [21]:
+            xmin = 36.14
+            xmax = 38.34
+            text = ""
+        intervals [22]:
+            xmin = 38.34
+            xmax = 40.14
+            text = "The [unintelligible] is kind of like--"
+        intervals [23]:
+            xmin = 40.14
+            xmax = 40.34
+            text = ""
+        intervals [24]:
+            xmin = 40.34
+            xmax = 45.14
+            text = "Oh, really, so any skin technology just to give you a very brief plug if you're wondering."
+        intervals [25]:
+            xmin = 45.14
+            xmax = 45.34
+            text = ""
+        intervals [26]:
+            xmin = 45.34
+            xmax = 49.14
+            text = "Any skin technology needs to adhere to the skin, and usually--"
+        intervals [27]:
+            xmin = 49.14
+            xmax = 53.34
+            text = ""
+        intervals [28]:
+            xmin = 53.34
+            xmax = 64.14
+            text = "It could be medical applications.  We're more just fundamentally trying to understand the mechanical properties and how it relates to the underlying kind of behavior and microstructure. "
+        intervals [29]:
+            xmin = 64.14
+            xmax = 64.34
+            text = ""
+        intervals [30]:
+            xmin = 64.34
+            xmax = 85.14
+            text = "You know, like cosmetics are very interested, for example, in understanding what goes on.  So, basically we've been looking at kind of some of the mechanical properties of the very top layer of the skin, kind of what you see when you have a sun--like when you peel or sunburn.  So, I never thought I'd be working on this, but that's kind of how it ended up. "
+        intervals [31]:
+            xmin = 85.14
+            xmax = 86.34
+            text = ""
+        intervals [32]:
+            xmin = 86.34
+            xmax = 91.14
+            text = "Well, it was an offshoot of a project that had started in the group that I'm in."
+        intervals [33]:
+            xmin = 91.14
+            xmax = 91.34
+            text = ""
+        intervals [34]:
+            xmin = 91.34
+            xmax = 103.14
+            text = "Then we got some funding from Unilever who they make like Lever 2000, and Dove, and what not.  So, and then it just kind of continued, and you're into the project as it is."
+        intervals [35]:
+            xmin = 103.14
+            xmax = 105.34
+            text = ""
+        intervals [36]:
+            xmin = 105.34
+            xmax = 108.14
+            text = "It's a lot of definitely different stuff.  "
+        intervals [37]:
+            xmin = 108.14
+            xmax = 109.14
+            text = "What do you do?"
+        intervals [38]:
+            xmin = 109.14
+            xmax = 110.34
+            text = ""
+        intervals [39]:
+            xmin = 110.34
+            xmax = 113.14
+            text = "Okay, all right.  "
+        intervals [40]:
+            xmin = 113.14
+            xmax = 117.34
+            text = ""
+        intervals [41]:
+            xmin = 117.34
+            xmax = 118.14
+            text = "Okay."
+        intervals [42]:
+            xmin = 118.14
+            xmax = 120.34
+            text = ""
+        intervals [43]:
+            xmin = 120.34
+            xmax = 129.14
+            text = "Okay, interesting.  So, you're going to send an NMR down somewhere to measure stuff, or how--or are you going to take a core up and look at it?"
+        intervals [44]:
+            xmin = 129.14
+            xmax = 129.34
+            text = ""
+        intervals [45]:
+            xmin = 129.34
+            xmax = 130.14
+            text = "Okay. "
+        intervals [46]:
+            xmin = 130.14
+            xmax = 133.34
+            text = ""
+        intervals [47]:
+            xmin = 133.34
+            xmax = 134.14
+            text = "Okay.  "
+        intervals [48]:
+            xmin = 134.14
+            xmax = 136.34
+            text = ""
+        intervals [49]:
+            xmin = 136.34
+            xmax = 137.14
+            text = "Okay."
+        intervals [50]:
+            xmin = 137.14
+            xmax = 138.34
+            text = ""
+        intervals [51]:
+            xmin = 138.34
+            xmax = 139.14
+            text = "Yep. "
+        intervals [52]:
+            xmin = 139.14
+            xmax = 142.34
+            text = ""
+        intervals [53]:
+            xmin = 142.34
+            xmax = 143.14
+            text = "Okay, okay.  "
+        intervals [54]:
+            xmin = 143.14
+            xmax = 144.34
+            text = ""
+        intervals [55]:
+            xmin = 144.34
+            xmax = 146.14
+            text = "Right, yeah.  "
+        intervals [56]:
+            xmin = 146.14
+            xmax = 148.34
+            text = ""
+        intervals [57]:
+            xmin = 148.34
+            xmax = 149.14
+            text = "Okay. "
+        intervals [58]:
+            xmin = 149.14
+            xmax = 152.34
+            text = ""
+        intervals [59]:
+            xmin = 152.34
+            xmax = 156.14
+            text = "Right, okay, and you do that over time so you can see how things are changing?"
+        intervals [60]:
+            xmin = 156.14
+            xmax = 158.34
+            text = ""
+        intervals [61]:
+            xmin = 158.34
+            xmax = 159.14
+            text = "Okay.  "
+        intervals [62]:
+            xmin = 159.14
+            xmax = 161.34
+            text = ""
+        intervals [63]:
+            xmin = 161.34
+            xmax = 162.14
+            text = "Uh-huh.  "
+        intervals [64]:
+            xmin = 162.14
+            xmax = 169.34
+            text = ""
+        intervals [65]:
+            xmin = 169.34
+            xmax = 171.14
+            text = "Okay, right, right.  "
+        intervals [66]:
+            xmin = 171.14
+            xmax = 172.34
+            text = ""
+        intervals [67]:
+            xmin = 172.34
+            xmax = 177.14
+            text = "Huh, okay.  I see.  So, you get a signature and see how that changes maybe?"
+        intervals [68]:
+            xmin = 177.14
+            xmax = 177.34
+            text = ""
+        intervals [69]:
+            xmin = 177.34
+            xmax = 183.14
+            text = "Okay, so where--now there's no time to talk I feel like.  So, where are you from originally?  "
+        intervals [70]:
+            xmin = 183.14
+            xmax = 183.34
+            text = ""
+        intervals [71]:
+            xmin = 183.34
+            xmax = 186.14
+            text = "Oh, okay.  Excellent.  Okay.  "
+        intervals [72]:
+            xmin = 186.14
+            xmax = 188.14
+            text = "I'm from Los Angeles originally.  "
+        intervals [73]:
+            xmin = 188.14
+            xmax = 190.34
+            text = ""
+        intervals [74]:
+            xmin = 190.34
+            xmax = 192.14
+            text = "On the East Coast at Princeton.  "
+        intervals [75]:
+            xmin = 192.14
+            xmax = 193.34
+            text = ""
+        intervals [76]:
+            xmin = 193.34
+            xmax = 198.14
+            text = "Yeah, I thought that was a good thing to move out and then come back.  So, how about yourself?"
+        intervals [77]:
+            xmin = 198.14
+            xmax = 200.34
+            text = ""
+        intervals [78]:
+            xmin = 200.34
+            xmax = 201.14
+            text = "Okay."
+        intervals [79]:
+            xmin = 201.14
+            xmax = 202.34
+            text = ""
+        intervals [80]:
+            xmin = 202.34
+            xmax = 210.14
+            text = "Oh, you were at UBC, okay.  Cool.  Yeah, I was at--in Vancouver just--not this past December but the December before that.  "
+        intervals [81]:
+            xmin = 210.14
+            xmax = 211.34
+            text = ""
+        intervals [82]:
+            xmin = 211.34
+            xmax = 219.14
+            text = "A friend of mine I just went to visit him.  So, it was fun going around, driving up to [unintelligible], and taking up [unintelligible], stuff like that.  "
+        intervals [83]:
+            xmin = 219.14
+            xmax = 220.34
+            text = ""
+        intervals [84]:
+            xmin = 220.34
+            xmax = 223.14
+            text = "Uhm, it snowed a little bit.  It rained a little bit.  "
+        intervals [85]:
+            xmin = 223.14
+            xmax = 224.34
+            text = ""
+        intervals [86]:
+            xmin = 224.34
+            xmax = 227.14
+            text = "It was unusual.  That's what I was told.  "
+        intervals [87]:
+            xmin = 227.14
+            xmax = 228.34
+            text = ""
+        intervals [88]:
+            xmin = 228.34
+            xmax = 231.14
+            text = "Yeah, but it wasn't too bad.  It was still fun.  "
+        intervals [89]:
+            xmin = 231.14
+            xmax = 236.34
+            text = ""
+        intervals [90]:
+            xmin = 236.34
+            xmax = 238.14
+            text = "Wow."
+        intervals [91]:
+            xmin = 238.14
+            xmax = 243.34
+            text = ""
+        intervals [92]:
+            xmin = 243.34
+            xmax = 248.14
+            text = "I heard that the traffic people went on strike one year.  That's what I heard."
+        intervals [93]:
+            xmin = 248.14
+            xmax = 252.34
+            text = ""
+        intervals [94]:
+            xmin = 252.34
+            xmax = 254.14
+            text = "Oh, man."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 254.14
+intervals: size = 90
+        intervals [1]:
+            xmin = 4.34
+            xmax = 5.14
+            text = "Hi."
+        intervals [2]:
+            xmin = 5.14
+            xmax = 5.34
+            text = ""
+        intervals [3]:
+            xmin = 5.34
+            xmax = 7.14
+            text = "Hey, good.  How are you?"
+        intervals [4]:
+            xmin = 7.14
+            xmax = 8.34
+            text = ""
+        intervals [5]:
+            xmin = 8.34
+            xmax = 10.14
+            text = "male119, nice to meet you."
+        intervals [6]:
+            xmin = 10.14
+            xmax = 11.34
+            text = ""
+        intervals [7]:
+            xmin = 11.34
+            xmax = 12.14
+            text = "Which program are you in?"
+        intervals [8]:
+            xmin = 12.14
+            xmax = 13.34
+            text = ""
+        intervals [9]:
+            xmin = 13.34
+            xmax = 15.14
+            text = "Okay.  "
+        intervals [10]:
+            xmin = 15.14
+            xmax = 17.34
+            text = ""
+        intervals [11]:
+            xmin = 17.34
+            xmax = 19.14
+            text = "What do you do?"
+        intervals [12]:
+            xmin = 19.14
+            xmax = 19.34
+            text = ""
+        intervals [13]:
+            xmin = 19.34
+            xmax = 21.14
+            text = "What kind of work do you do?"
+        intervals [14]:
+            xmin = 21.14
+            xmax = 28.34
+            text = ""
+        intervals [15]:
+            xmin = 28.34
+            xmax = 29.14
+            text = "Okay.  "
+        intervals [16]:
+            xmin = 29.14
+            xmax = 35.34
+            text = ""
+        intervals [17]:
+            xmin = 35.34
+            xmax = 36.14
+            text = "Okay.  "
+        intervals [18]:
+            xmin = 36.14
+            xmax = 37.34
+            text = ""
+        intervals [19]:
+            xmin = 37.34
+            xmax = 39.14
+            text = "I have no idea..."
+        intervals [20]:
+            xmin = 39.14
+            xmax = 39.34
+            text = ""
+        intervals [21]:
+            xmin = 39.34
+            xmax = 41.14
+            text = "[interposing]  I've never heard of that to be honest.  "
+        intervals [22]:
+            xmin = 41.14
+            xmax = 45.34
+            text = ""
+        intervals [23]:
+            xmin = 45.34
+            xmax = 46.14
+            text = "Yeah, sure."
+        intervals [24]:
+            xmin = 46.14
+            xmax = 48.34
+            text = ""
+        intervals [25]:
+            xmin = 48.34
+            xmax = 54.14
+            text = "[interposing]  Okay, so is this for like [unintelligible], like medical applications, or?  "
+        intervals [26]:
+            xmin = 54.14
+            xmax = 64.34
+            text = ""
+        intervals [27]:
+            xmin = 64.34
+            xmax = 65.14
+            text = "Okay.  "
+        intervals [28]:
+            xmin = 65.14
+            xmax = 84.34
+            text = ""
+        intervals [29]:
+            xmin = 84.34
+            xmax = 85.14
+            text = "What got you into it?"
+        intervals [30]:
+            xmin = 85.14
+            xmax = 91.34
+            text = ""
+        intervals [31]:
+            xmin = 91.34
+            xmax = 92.14
+            text = "Okay."
+        intervals [32]:
+            xmin = 92.14
+            xmax = 104.34
+            text = ""
+        intervals [33]:
+            xmin = 104.34
+            xmax = 106.14
+            text = "I had no idea.  "
+        intervals [34]:
+            xmin = 106.14
+            xmax = 107.34
+            text = ""
+        intervals [35]:
+            xmin = 107.34
+            xmax = 108.14
+            text = "Yeah."
+        intervals [36]:
+            xmin = 108.14
+            xmax = 108.34
+            text = ""
+        intervals [37]:
+            xmin = 108.34
+            xmax = 111.14
+            text = "I'm an earth scientist.  "
+        intervals [38]:
+            xmin = 111.14
+            xmax = 112.34
+            text = ""
+        intervals [39]:
+            xmin = 112.34
+            xmax = 115.14
+            text = "I'm looking at environmental applications."
+        intervals [40]:
+            xmin = 115.14
+            xmax = 115.34
+            text = ""
+        intervals [41]:
+            xmin = 115.34
+            xmax = 122.14
+            text = "And basically ways to use nuclear magnetic resonance to monitor chemical changes in the subsurface environment.  "
+        intervals [42]:
+            xmin = 122.14
+            xmax = 128.34
+            text = ""
+        intervals [43]:
+            xmin = 128.34
+            xmax = 129.14
+            text = "Neither."
+        intervals [44]:
+            xmin = 129.14
+            xmax = 130.34
+            text = ""
+        intervals [45]:
+            xmin = 130.34
+            xmax = 133.14
+            text = "The idea is to be able to give [unintelligible].  "
+        intervals [46]:
+            xmin = 133.14
+            xmax = 133.34
+            text = ""
+        intervals [47]:
+            xmin = 133.34
+            xmax = 137.14
+            text = "So, you're using the earth's magnetic field."
+        intervals [48]:
+            xmin = 137.14
+            xmax = 137.34
+            text = ""
+        intervals [49]:
+            xmin = 137.34
+            xmax = 139.14
+            text = "And you set up a nuclear [unintelligible].  "
+        intervals [50]:
+            xmin = 139.14
+            xmax = 139.34
+            text = ""
+        intervals [51]:
+            xmin = 139.34
+            xmax = 143.14
+            text = "It's very, very nontechnical compared to like natural [unintelligible].  "
+        intervals [52]:
+            xmin = 143.14
+            xmax = 143.34
+            text = ""
+        intervals [53]:
+            xmin = 143.34
+            xmax = 144.14
+            text = "But you set up a loop of wire.  "
+        intervals [54]:
+            xmin = 144.14
+            xmax = 145.34
+            text = ""
+        intervals [55]:
+            xmin = 145.34
+            xmax = 149.14
+            text = "And you send a small pulse through the loop of wire. "
+        intervals [56]:
+            xmin = 149.14
+            xmax = 153.14
+            text = "And [unintelligible] of the ground to the surface [unintelligible].  "
+        intervals [57]:
+            xmin = 153.14
+            xmax = 155.34
+            text = ""
+        intervals [58]:
+            xmin = 155.34
+            xmax = 159.14
+            text = "Yeah, you do it over time.  The idea is, and this is totally in the process stages.  "
+        intervals [59]:
+            xmin = 159.14
+            xmax = 161.14
+            text = "I'm looking at first of all whether it can be done.  "
+        intervals [60]:
+            xmin = 161.14
+            xmax = 162.34
+            text = ""
+        intervals [61]:
+            xmin = 162.34
+            xmax = 170.14
+            text = "So, yeah, the idea is to look at the [unintelligible] of the earth over time and say, okay, is [unintelligible].  "
+        intervals [62]:
+            xmin = 170.14
+            xmax = 170.34
+            text = ""
+        intervals [63]:
+            xmin = 170.34
+            xmax = 173.14
+            text = "Are we using the [unintelligible]?  "
+        intervals [64]:
+            xmin = 173.14
+            xmax = 176.34
+            text = ""
+        intervals [65]:
+            xmin = 176.34
+            xmax = 178.14
+            text = "Yeah, yeah.  "
+        intervals [66]:
+            xmin = 178.14
+            xmax = 182.34
+            text = ""
+        intervals [67]:
+            xmin = 182.34
+            xmax = 184.14
+            text = "I'm from Vancouver, BC.  "
+        intervals [68]:
+            xmin = 184.14
+            xmax = 185.34
+            text = ""
+        intervals [69]:
+            xmin = 185.34
+            xmax = 186.14
+            text = "Where are you from?"
+        intervals [70]:
+            xmin = 186.14
+            xmax = 187.34
+            text = ""
+        intervals [71]:
+            xmin = 187.34
+            xmax = 190.14
+            text = "Okay.  So where did you do your undergrad at?"
+        intervals [72]:
+            xmin = 190.14
+            xmax = 192.34
+            text = ""
+        intervals [73]:
+            xmin = 192.34
+            xmax = 194.14
+            text = "So you went away from California?"
+        intervals [74]:
+            xmin = 194.14
+            xmax = 197.34
+            text = ""
+        intervals [75]:
+            xmin = 197.34
+            xmax = 201.14
+            text = "I did it [unintelligible]."
+        intervals [76]:
+            xmin = 201.14
+            xmax = 202.14
+            text = "University of British Columbia [unintelligible].  "
+        intervals [77]:
+            xmin = 202.14
+            xmax = 210.34
+            text = ""
+        intervals [78]:
+            xmin = 210.34
+            xmax = 212.14
+            text = "Cool, for what?"
+        intervals [79]:
+            xmin = 212.14
+            xmax = 218.34
+            text = ""
+        intervals [80]:
+            xmin = 218.34
+            xmax = 220.14
+            text = "What was the weather like?"
+        intervals [81]:
+            xmin = 220.14
+            xmax = 222.34
+            text = ""
+        intervals [82]:
+            xmin = 222.34
+            xmax = 225.14
+            text = "Oh snow, wow, in Vancouver?  That's rare.  "
+        intervals [83]:
+            xmin = 225.14
+            xmax = 226.34
+            text = ""
+        intervals [84]:
+            xmin = 226.34
+            xmax = 228.14
+            text = "Yeah, the city shuts down a little while."
+        intervals [85]:
+            xmin = 228.14
+            xmax = 231.34
+            text = ""
+        intervals [86]:
+            xmin = 231.34
+            xmax = 237.14
+            text = "There was one year in Victoria where it snowed about two feet."
+        intervals [87]:
+            xmin = 237.14
+            xmax = 237.34
+            text = ""
+        intervals [88]:
+            xmin = 237.34
+            xmax = 244.14
+            text = "And they shut the city down and declared a state of emergency.  There's no way I'm dealing with this.  You're [unintelligible].  "
+        intervals [89]:
+            xmin = 244.14
+            xmax = 247.34
+            text = ""
+        intervals [90]:
+            xmin = 247.34
+            xmax = 253.14
+            text = "That's what I heard, and that same year my parents found a dead skunk in their backyard.  What do we do?  "

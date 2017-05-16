@@ -1,0 +1,524 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 252.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 252.6
+intervals: size = 64
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 3.6
+            text = "[horn] "
+        intervals [3]:
+            xmin = 3.6
+            xmax = 3.8
+            text = ""
+        intervals [4]:
+            xmin = 3.8
+            xmax = 6.6
+            text = "This is starting right?"
+        intervals [5]:
+            xmin = 6.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 9.6
+            text = "So you are letter Z, this is letter Z?"
+        intervals [7]:
+            xmin = 9.6
+            xmax = 11.8
+            text = ""
+        intervals [8]:
+            xmin = 11.8
+            xmax = 13.6
+            text = "Oh, E, okay."
+        intervals [9]:
+            xmin = 13.6
+            xmax = 16.8
+            text = ""
+        intervals [10]:
+            xmin = 16.8
+            xmax = 19.6
+            text = "Oh, E. Okay and you are female125?"
+        intervals [11]:
+            xmin = 19.6
+            xmax = 21.8
+            text = ""
+        intervals [12]:
+            xmin = 21.8
+            xmax = 26.6
+            text = "Okay.  I'm male115 nice to meet you, I was [unintelligible]."
+        intervals [13]:
+            xmin = 26.6
+            xmax = 27.8
+            text = ""
+        intervals [14]:
+            xmin = 27.8
+            xmax = 29.6
+            text = "I do physics."
+        intervals [15]:
+            xmin = 29.6
+            xmax = 29.8
+            text = ""
+        intervals [16]:
+            xmin = 29.8
+            xmax = 31.6
+            text = "Yeah, how about you?"
+        intervals [17]:
+            xmin = 31.6
+            xmax = 32.8
+            text = ""
+        intervals [18]:
+            xmin = 32.8
+            xmax = 39.6
+            text = "How -- what a surprise, like there are a lot of education girls."
+        intervals [19]:
+            xmin = 39.6
+            xmax = 47.8
+            text = ""
+        intervals [20]:
+            xmin = 47.8
+            xmax = 50.6
+            text = "Okay.  Are you in your first year?"
+        intervals [21]:
+            xmin = 50.6
+            xmax = 52.8
+            text = ""
+        intervals [22]:
+            xmin = 52.8
+            xmax = 57.6
+            text = "Okay, okay, okay.  So how are you liking Stanford?"
+        intervals [23]:
+            xmin = 57.6
+            xmax = 58.8
+            text = ""
+        intervals [24]:
+            xmin = 58.8
+            xmax = 60.6
+            text = "Really?"
+        intervals [25]:
+            xmin = 60.6
+            xmax = 61.8
+            text = ""
+        intervals [26]:
+            xmin = 61.8
+            xmax = 63.6
+            text = "Oh, where you come from?"
+        intervals [27]:
+            xmin = 63.6
+            xmax = 70.8
+            text = ""
+        intervals [28]:
+            xmin = 70.8
+            xmax = 74.6
+            text = "I know.  Yeah, it's so nice here."
+        intervals [29]:
+            xmin = 74.6
+            xmax = 75.8
+            text = ""
+        intervals [30]:
+            xmin = 75.8
+            xmax = 84.6
+            text = "I've been here for two and half years.  So, I tell you this is probably the only place I know in the U.S."
+        intervals [31]:
+            xmin = 84.6
+            xmax = 85.8
+            text = ""
+        intervals [32]:
+            xmin = 85.8
+            xmax = 87.6
+            text = "I'm I mean -- I come from Spain. "
+        intervals [33]:
+            xmin = 87.6
+            xmax = 88.8
+            text = ""
+        intervals [34]:
+            xmin = 88.8
+            xmax = 92.6
+            text = "[Spanish Language].  Actually I was --"
+        intervals [35]:
+            xmin = 92.6
+            xmax = 97.8
+            text = ""
+        intervals [36]:
+            xmin = 97.8
+            xmax = 106.6
+            text = "You know what [unintelligible] I thought I was going to speak Spanish with another girt and then I realized that they probably wouldn't understand [unintelligible]."
+        intervals [37]:
+            xmin = 106.6
+            xmax = 108.8
+            text = ""
+        intervals [38]:
+            xmin = 108.8
+            xmax = 113.6
+            text = "I know.  They would have to -- they would need translator, right?"
+        intervals [39]:
+            xmin = 113.6
+            xmax = 113.8
+            text = ""
+        intervals [40]:
+            xmin = 113.8
+            xmax = 115.6
+            text = "Yeah, that's funny [laughter]."
+        intervals [41]:
+            xmin = 115.6
+            xmax = 116.8
+            text = ""
+        intervals [42]:
+            xmin = 116.8
+            xmax = 118.6
+            text = "So you speak pretty well, right?"
+        intervals [43]:
+            xmin = 118.6
+            xmax = 130.8
+            text = ""
+        intervals [44]:
+            xmin = 130.8
+            xmax = 131.6
+            text = "Oh, that's very good."
+        intervals [45]:
+            xmin = 131.6
+            xmax = 136.8
+            text = ""
+        intervals [46]:
+            xmin = 136.8
+            xmax = 139.6
+            text = "Well, it's just a different dialect."
+        intervals [47]:
+            xmin = 139.6
+            xmax = 157.8
+            text = ""
+        intervals [48]:
+            xmin = 157.8
+            xmax = 162.6
+            text = "Well, you probably -- [unintelligible] news."
+        intervals [49]:
+            xmin = 162.6
+            xmax = 162.8
+            text = ""
+        intervals [50]:
+            xmin = 162.8
+            xmax = 179.6
+            text = "Yeah, that's very -- because even if you go to Spain, that doesn't mean you are going to end up speaking with people who speak very correctly, you know.  There are a lot of people who speak very badly in Spain.  So I think if you listen to the news that's a good idea.  "
+        intervals [51]:
+            xmin = 179.6
+            xmax = 182.8
+            text = ""
+        intervals [52]:
+            xmin = 182.8
+            xmax = 184.6
+            text = "You try to?"
+        intervals [53]:
+            xmin = 184.6
+            xmax = 185.8
+            text = ""
+        intervals [54]:
+            xmin = 185.8
+            xmax = 188.6
+            text = "Oh, so what kind of books do you like the most?"
+        intervals [55]:
+            xmin = 188.6
+            xmax = 192.8
+            text = ""
+        intervals [56]:
+            xmin = 192.8
+            xmax = 194.6
+            text = "Ah-huh."
+        intervals [57]:
+            xmin = 194.6
+            xmax = 202.8
+            text = ""
+        intervals [58]:
+            xmin = 202.8
+            xmax = 220.6
+            text = "Okay, that sounds like research with Spanish [unintelligible] books are not so complicated I think.  Like the vocabulary.  Have you heard of the [unintelligible] or [unintelligible].  They are really good and some of their books have so short, so, so short believe and so good. Yeah you should --"
+        intervals [59]:
+            xmin = 220.6
+            xmax = 225.8
+            text = ""
+        intervals [60]:
+            xmin = 225.8
+            xmax = 244.6
+            text = "Yeah, you should give it a try.  Like one of them was [unintelligible] you know and they are pretty good books.  I mean, it's because of the content that they are good rather than -- I mean it's not because they use very weird grammar or [horn] [unintelligible], you know.  You should give it a try.  Okay."
+        intervals [61]:
+            xmin = 244.6
+            xmax = 244.8
+            text = ""
+        intervals [62]:
+            xmin = 244.8
+            xmax = 246.6
+            text = "Nice to meet you too."
+        intervals [63]:
+            xmin = 246.6
+            xmax = 248.8
+            text = ""
+        intervals [64]:
+            xmin = 248.8
+            xmax = 251.6
+            text = "Oh, no, no, that was very interesting.  Okay, see you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 252.6
+intervals: size = 62
+        intervals [1]:
+            xmin = 2.8
+            xmax = 3.6
+            text = "[laughter]"
+        intervals [2]:
+            xmin = 3.6
+            xmax = 6.8
+            text = ""
+        intervals [3]:
+            xmin = 6.8
+            xmax = 7.6
+            text = "Ah-huh [laughter]."
+        intervals [4]:
+            xmin = 7.6
+            xmax = 9.8
+            text = ""
+        intervals [5]:
+            xmin = 9.8
+            xmax = 11.6
+            text = "This is the letter E."
+        intervals [6]:
+            xmin = 11.6
+            xmax = 12.8
+            text = ""
+        intervals [7]:
+            xmin = 12.8
+            xmax = 16.6
+            text = "I think I'm letter E.  Yeah, I'm letter E."
+        intervals [8]:
+            xmin = 16.6
+            xmax = 19.8
+            text = ""
+        intervals [9]:
+            xmin = 19.8
+            xmax = 22.6
+            text = "Yeah.  Nice to meet you."
+        intervals [10]:
+            xmin = 22.6
+            xmax = 25.8
+            text = ""
+        intervals [11]:
+            xmin = 25.8
+            xmax = 28.6
+            text = "So what are you studying here at Stanford?"
+        intervals [12]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [13]:
+            xmin = 28.8
+            xmax = 30.6
+            text = "Okay."
+        intervals [14]:
+            xmin = 30.6
+            xmax = 30.8
+            text = ""
+        intervals [15]:
+            xmin = 30.8
+            xmax = 33.6
+            text = "Um, education, actually.  Educational policy."
+        intervals [16]:
+            xmin = 33.6
+            xmax = 38.8
+            text = ""
+        intervals [17]:
+            xmin = 38.8
+            xmax = 48.6
+            text = "Well, because nameX is a professor here at Ed School so he has easy access to all of us.  So he emailed all of us and [unintelligible] thing."
+        intervals [18]:
+            xmin = 48.6
+            xmax = 49.8
+            text = ""
+        intervals [19]:
+            xmin = 49.8
+            xmax = 53.6
+            text = "Yeah, I'm actually getting a Masters.  So, it's a one year program.  "
+        intervals [20]:
+            xmin = 53.6
+            xmax = 56.8
+            text = ""
+        intervals [21]:
+            xmin = 56.8
+            xmax = 59.6
+            text = "I love it.  It's great."
+        intervals [22]:
+            xmin = 59.6
+            xmax = 60.8
+            text = ""
+        intervals [23]:
+            xmin = 60.8
+            xmax = 62.6
+            text = "Yeah, it's my first year in California, so."
+        intervals [24]:
+            xmin = 62.6
+            xmax = 62.8
+            text = ""
+        intervals [25]:
+            xmin = 62.8
+            xmax = 71.6
+            text = "Um, Rochester, New York.  Although I lived in Massachusetts for many years when I grew up.  So, I'm from the cold."
+        intervals [26]:
+            xmin = 71.6
+            xmax = 73.8
+            text = ""
+        intervals [27]:
+            xmin = 73.8
+            xmax = 76.6
+            text = "It's fantastic.  How about you?  Have you been here for a long time?"
+        intervals [28]:
+            xmin = 76.6
+            xmax = 83.8
+            text = ""
+        intervals [29]:
+            xmin = 83.8
+            xmax = 85.6
+            text = "Oh really.  Where are you from?"
+        intervals [30]:
+            xmin = 85.6
+            xmax = 86.8
+            text = ""
+        intervals [31]:
+            xmin = 86.8
+            xmax = 89.6
+            text = "Okay.  So, [Spanish language]."
+        intervals [32]:
+            xmin = 89.6
+            xmax = 91.8
+            text = ""
+        intervals [33]:
+            xmin = 91.8
+            xmax = 97.6
+            text = "I don't Spanish, Spanish; I speak bad Latin American [laughter]."
+        intervals [34]:
+            xmin = 97.6
+            xmax = 105.8
+            text = ""
+        intervals [35]:
+            xmin = 105.8
+            xmax = 108.6
+            text = "That's right.  That's right, they wouldn't, just grew up [unintelligible]."
+        intervals [36]:
+            xmin = 108.6
+            xmax = 112.8
+            text = ""
+        intervals [37]:
+            xmin = 112.8
+            xmax = 113.6
+            text = "Uh-huh."
+        intervals [38]:
+            xmin = 113.6
+            xmax = 114.8
+            text = ""
+        intervals [39]:
+            xmin = 114.8
+            xmax = 115.6
+            text = "Yeah."
+        intervals [40]:
+            xmin = 115.6
+            xmax = 117.8
+            text = ""
+        intervals [41]:
+            xmin = 117.8
+            xmax = 130.6
+            text = "Well, I lived in Costa Rica for a year and I lived in Chile for two months.  And I've done a lot of work with Spanish speaking kids.  So I've just sort of [unintelligible] picking it up, so.  "
+        intervals [42]:
+            xmin = 130.6
+            xmax = 130.8
+            text = ""
+        intervals [43]:
+            xmin = 130.8
+            xmax = 137.6
+            text = "But it's funny because, whenever I listen to someone who speaks like real [unintelligible] Spanish, it's like oh I don't speak really good Spanish at all do I [laughter]."
+        intervals [44]:
+            xmin = 137.6
+            xmax = 138.8
+            text = ""
+        intervals [45]:
+            xmin = 138.8
+            xmax = 140.6
+            text = "Yeah.  It's another dialect, but I also when I lived in Costa Rica I was living -- I was teaching and I was living way out in a rural area in the country.  So it's kind of learning how cotton picker Spanish rather than -- like my Spanish is not an educated, but [unintelligible] Spanish."
+        intervals [46]:
+            xmin = 140.6
+            xmax = 161.8
+            text = ""
+        intervals [47]:
+            xmin = 161.8
+            xmax = 163.6
+            text = "Yeah, I can, yeah."
+        intervals [48]:
+            xmin = 163.6
+            xmax = 178.8
+            text = ""
+        intervals [49]:
+            xmin = 178.8
+            xmax = 183.6
+            text = "Okay, yeah. I should do that more.  I try to speak Spanish whenever I can."
+        intervals [50]:
+            xmin = 183.6
+            xmax = 184.8
+            text = ""
+        intervals [51]:
+            xmin = 184.8
+            xmax = 186.6
+            text = "I try to read books in Spanish, whenever I can."
+        intervals [52]:
+            xmin = 186.6
+            xmax = 187.8
+            text = ""
+        intervals [53]:
+            xmin = 187.8
+            xmax = 193.6
+            text = "I usually read like Harry Potter and sort of other children's books. "
+        intervals [54]:
+            xmin = 193.6
+            xmax = 193.8
+            text = ""
+        intervals [55]:
+            xmin = 193.8
+            xmax = 202.6
+            text = "I tried to read like [unintelligible], but it's just -- that's so complex.  But, you know I get more out of that when I read it in English."
+        intervals [56]:
+            xmin = 202.6
+            xmax = 219.8
+            text = ""
+        intervals [57]:
+            xmin = 219.8
+            xmax = 226.6
+            text = "That's probably right.  I definitely need to practice."
+        intervals [58]:
+            xmin = 226.6
+            xmax = 243.8
+            text = ""
+        intervals [59]:
+            xmin = 243.8
+            xmax = 245.6
+            text = "Well, it was nice to meet you.  "
+        intervals [60]:
+            xmin = 245.6
+            xmax = 249.6
+            text = "Sorry all we talked about was like my reading in Spanish."
+        intervals [61]:
+            xmin = 249.6
+            xmax = 250.8
+            text = ""
+        intervals [62]:
+            xmin = 250.8
+            xmax = 252.6
+            text = "Nice to meet you."

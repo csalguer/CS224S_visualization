@@ -1,0 +1,648 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 243.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 243.6
+intervals: size = 78
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 1.6
+            text = "Hi. Good to meet you."
+        intervals [3]:
+            xmin = 1.6
+            xmax = 2.8
+            text = ""
+        intervals [4]:
+            xmin = 2.8
+            xmax = 3.6
+            text = "Yeah."
+        intervals [5]:
+            xmin = 3.6
+            xmax = 4.8
+            text = ""
+        intervals [6]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "female323?"
+        intervals [7]:
+            xmin = 5.6
+            xmax = 5.8
+            text = ""
+        intervals [8]:
+            xmin = 5.8
+            xmax = 6.6
+            text = "Are you from Ireland?"
+        intervals [9]:
+            xmin = 6.6
+            xmax = 8.8
+            text = ""
+        intervals [10]:
+            xmin = 8.8
+            xmax = 11.6
+            text = "Yeah. It is I guess."
+        intervals [11]:
+            xmin = 11.6
+            xmax = 12.8
+            text = ""
+        intervals [12]:
+            xmin = 12.8
+            xmax = 13.6
+            text = "Uh, France Paris."
+        intervals [13]:
+            xmin = 13.6
+            xmax = 13.6
+            text = "Yeah."
+        intervals [14]:
+            xmin = 13.6
+            xmax = 16.8
+            text = ""
+        intervals [15]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "Two years now."
+        intervals [16]:
+            xmin = 17.6
+            xmax = 17.8
+            text = ""
+        intervals [17]:
+            xmin = 17.8
+            xmax = 21.6
+            text = "No, no, no. Actually I'm in post-doc here."
+        intervals [18]:
+            xmin = 21.6
+            xmax = 21.8
+            text = ""
+        intervals [19]:
+            xmin = 21.8
+            xmax = 28.6
+            text = "So I don't need to be a regular student to come here but I'm in the post doc."
+        intervals [20]:
+            xmin = 28.6
+            xmax = 29.8
+            text = ""
+        intervals [21]:
+            xmin = 29.8
+            xmax = 35.6
+            text = "No, no, no. I do research, which is cool. I don't really like teaching."
+        intervals [22]:
+            xmin = 35.6
+            xmax = 36.8
+            text = ""
+        intervals [23]:
+            xmin = 36.8
+            xmax = 37.6
+            text = "Solar physics."
+        intervals [24]:
+            xmin = 37.6
+            xmax = 40.8
+            text = ""
+        intervals [25]:
+            xmin = 40.8
+            xmax = 41.6
+            text = "Yeah. Solar from the sun."
+        intervals [26]:
+            xmin = 41.6
+            xmax = 42.8
+            text = ""
+        intervals [27]:
+            xmin = 42.8
+            xmax = 43.6
+            text = "And you, what are you doing?"
+        intervals [28]:
+            xmin = 43.6
+            xmax = 47.8
+            text = ""
+        intervals [29]:
+            xmin = 47.8
+            xmax = 48.6
+            text = "Oh. So you go to the school of education."
+        intervals [30]:
+            xmin = 48.6
+            xmax = 51.8
+            text = ""
+        intervals [31]:
+            xmin = 51.8
+            xmax = 53.6
+            text = "There's a lot of people from the school of education."
+        intervals [32]:
+            xmin = 53.6
+            xmax = 54.8
+            text = ""
+        intervals [33]:
+            xmin = 54.8
+            xmax = 55.6
+            text = "Okay."
+        intervals [34]:
+            xmin = 55.6
+            xmax = 55.8
+            text = ""
+        intervals [35]:
+            xmin = 55.8
+            xmax = 57.6
+            text = "What, what?"
+        intervals [36]:
+            xmin = 57.6
+            xmax = 59.8
+            text = ""
+        intervals [37]:
+            xmin = 59.8
+            xmax = 63.6
+            text = "What specific field of education?"
+        intervals [38]:
+            xmin = 63.6
+            xmax = 65.8
+            text = ""
+        intervals [39]:
+            xmin = 65.8
+            xmax = 68.6
+            text = "Okay. So you'll be teaching math."
+        intervals [40]:
+            xmin = 68.6
+            xmax = 71.8
+            text = ""
+        intervals [41]:
+            xmin = 71.8
+            xmax = 73.6
+            text = "How long is your program?"
+        intervals [42]:
+            xmin = 73.6
+            xmax = 73.8
+            text = ""
+        intervals [43]:
+            xmin = 73.8
+            xmax = 79.6
+            text = "Oh. It's not two years for a Masters in the U.S."
+        intervals [44]:
+            xmin = 79.6
+            xmax = 91.8
+            text = ""
+        intervals [45]:
+            xmin = 91.8
+            xmax = 95.6
+            text = "Okay. And I guess you have a lot of work compacted?"
+        intervals [46]:
+            xmin = 95.6
+            xmax = 97.8
+            text = ""
+        intervals [47]:
+            xmin = 97.8
+            xmax = 100.6
+            text = "Oh. You're already a teacher."
+        intervals [48]:
+            xmin = 100.6
+            xmax = 103.8
+            text = ""
+        intervals [49]:
+            xmin = 103.8
+            xmax = 110.6
+            text = "So it was because you wanted it or it's because it's part of your studies that you have to teach during."
+        intervals [50]:
+            xmin = 110.6
+            xmax = 117.8
+            text = ""
+        intervals [51]:
+            xmin = 117.8
+            xmax = 120.6
+            text = "And why did you want to become a teacher?"
+        intervals [52]:
+            xmin = 120.6
+            xmax = 126.8
+            text = ""
+        intervals [53]:
+            xmin = 126.8
+            xmax = 127.6
+            text = "[laughter]"
+        intervals [54]:
+            xmin = 127.6
+            xmax = 133.8
+            text = ""
+        intervals [55]:
+            xmin = 133.8
+            xmax = 138.6
+            text = "I've been told that you have to keep the face to be a teacher in the U.S."
+        intervals [56]:
+            xmin = 138.6
+            xmax = 139.8
+            text = ""
+        intervals [57]:
+            xmin = 139.8
+            xmax = 143.6
+            text = "Yeah. Because the job is difficult and it's not well paid."
+        intervals [58]:
+            xmin = 143.6
+            xmax = 155.8
+            text = ""
+        intervals [59]:
+            xmin = 155.8
+            xmax = 159.6
+            text = "And you want to teach-- I mean, you can choose where you want to teach or?"
+        intervals [60]:
+            xmin = 159.6
+            xmax = 166.8
+            text = ""
+        intervals [61]:
+            xmin = 166.8
+            xmax = 167.6
+            text = "Okay."
+        intervals [62]:
+            xmin = 167.6
+            xmax = 170.8
+            text = ""
+        intervals [63]:
+            xmin = 170.8
+            xmax = 171.6
+            text = "You need a license?"
+        intervals [64]:
+            xmin = 171.6
+            xmax = 173.8
+            text = ""
+        intervals [65]:
+            xmin = 173.8
+            xmax = 176.6
+            text = "So you can not teach in Nevada for instance?"
+        intervals [66]:
+            xmin = 176.6
+            xmax = 186.8
+            text = ""
+        intervals [67]:
+            xmin = 186.8
+            xmax = 189.6
+            text = "Yeah. It's like with the lawyers."
+        intervals [68]:
+            xmin = 189.6
+            xmax = 200.8
+            text = ""
+        intervals [69]:
+            xmin = 200.8
+            xmax = 204.6
+            text = "Well yeah. I guess it's the same in Europe."
+        intervals [70]:
+            xmin = 204.6
+            xmax = 211.6
+            text = "Well I mean if you are a teacher in France and you want to teach in Germany, for instance. You have to take classes."
+        intervals [71]:
+            xmin = 211.6
+            xmax = 215.8
+            text = ""
+        intervals [72]:
+            xmin = 215.8
+            xmax = 218.6
+            text = "Yeah. Okay. But it's..."
+        intervals [73]:
+            xmin = 218.6
+            xmax = 220.8
+            text = ""
+        intervals [74]:
+            xmin = 220.8
+            xmax = 233.6
+            text = "Yeah. And it's in the European Union so it's getting more and more like the U.S. Even though the big difference that German and French don't speak the same language but otherwise it's..."
+        intervals [75]:
+            xmin = 233.6
+            xmax = 237.8
+            text = ""
+        intervals [76]:
+            xmin = 237.8
+            xmax = 239.6
+            text = "That is fast."
+        intervals [77]:
+            xmin = 239.6
+            xmax = 240.8
+            text = ""
+        intervals [78]:
+            xmin = 240.8
+            xmax = 241.6
+            text = "Nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 243.6
+intervals: size = 79
+        intervals [1]:
+            xmin = 1.6
+            xmax = 2.8
+            text = ""
+        intervals [2]:
+            xmin = 2.8
+            xmax = 3.6
+            text = "Are you male302?"
+        intervals [3]:
+            xmin = 3.6
+            xmax = 3.8
+            text = ""
+        intervals [4]:
+            xmin = 3.8
+            xmax = 4.6
+            text = "I'm female323."
+        intervals [5]:
+            xmin = 4.6
+            xmax = 4.8
+            text = ""
+        intervals [6]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "female323, yeah."
+        intervals [7]:
+            xmin = 5.6
+            xmax = 6.8
+            text = ""
+        intervals [8]:
+            xmin = 6.8
+            xmax = 9.6
+            text = "No. But my name is."
+        intervals [9]:
+            xmin = 9.6
+            xmax = 10.8
+            text = ""
+        intervals [10]:
+            xmin = 10.8
+            xmax = 11.6
+            text = "Where are you from?"
+        intervals [11]:
+            xmin = 11.6
+            xmax = 12.8
+            text = ""
+        intervals [12]:
+            xmin = 12.8
+            xmax = 13.6
+            text = "Oh yeah?"
+        intervals [13]:
+            xmin = 13.6
+            xmax = 14.8
+            text = ""
+        intervals [14]:
+            xmin = 14.8
+            xmax = 15.6
+            text = "That's exciting. How long have you been here?"
+        intervals [15]:
+            xmin = 15.6
+            xmax = 16.8
+            text = ""
+        intervals [16]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "Just for school?"
+        intervals [17]:
+            xmin = 17.6
+            xmax = 20.8
+            text = ""
+        intervals [18]:
+            xmin = 20.8
+            xmax = 21.6
+            text = "Okay."
+        intervals [19]:
+            xmin = 21.6
+            xmax = 26.8
+            text = ""
+        intervals [20]:
+            xmin = 26.8
+            xmax = 30.6
+            text = "Oh. So I see.  So are you doing teaching? What do you do?"
+        intervals [21]:
+            xmin = 30.6
+            xmax = 35.8
+            text = ""
+        intervals [22]:
+            xmin = 35.8
+            xmax = 36.6
+            text = "Okay. So what did you--"
+        intervals [23]:
+            xmin = 36.6
+            xmax = 38.8
+            text = ""
+        intervals [24]:
+            xmin = 38.8
+            xmax = 39.6
+            text = "Physics?"
+        intervals [25]:
+            xmin = 39.6
+            xmax = 40.8
+            text = ""
+        intervals [26]:
+            xmin = 40.8
+            xmax = 43.6
+            text = "Solar physics. Wow. That's exciting."
+        intervals [27]:
+            xmin = 43.6
+            xmax = 43.8
+            text = ""
+        intervals [28]:
+            xmin = 43.8
+            xmax = 48.6
+            text = "I'm, uh, finishing my masters in education to be a high school teacher."
+        intervals [29]:
+            xmin = 48.6
+            xmax = 50.8
+            text = ""
+        intervals [30]:
+            xmin = 50.8
+            xmax = 51.6
+            text = "Yes."
+        intervals [31]:
+            xmin = 51.6
+            xmax = 51.8
+            text = ""
+        intervals [32]:
+            xmin = 51.8
+            xmax = 53.6
+            text = "Yeah. They're running the fuddies so..."
+        intervals [33]:
+            xmin = 53.6
+            xmax = 56.8
+            text = ""
+        intervals [34]:
+            xmin = 56.8
+            xmax = 57.6
+            text = "I like to support my peers when I can."
+        intervals [35]:
+            xmin = 57.6
+            xmax = 57.8
+            text = ""
+        intervals [36]:
+            xmin = 57.8
+            xmax = 60.6
+            text = "I like to support the school of ed fuddies when I can."
+        intervals [37]:
+            xmin = 60.6
+            xmax = 63.8
+            text = ""
+        intervals [38]:
+            xmin = 63.8
+            xmax = 65.6
+            text = "High school math education."
+        intervals [39]:
+            xmin = 65.6
+            xmax = 68.8
+            text = ""
+        intervals [40]:
+            xmin = 68.8
+            xmax = 69.6
+            text = "Yes. I plan to teach math."
+        intervals [41]:
+            xmin = 69.6
+            xmax = 72.8
+            text = ""
+        intervals [42]:
+            xmin = 72.8
+            xmax = 75.6
+            text = "It's one year so I'll be done in two or three weeks."
+        intervals [43]:
+            xmin = 75.6
+            xmax = 78.8
+            text = ""
+        intervals [44]:
+            xmin = 78.8
+            xmax = 91.6
+            text = "It is usually two years but this program is four quarters. So it's a calendar year but it's still four quarters. So we started last June. We started June 20th, 2004 so I'll be done June 12th 2005."
+        intervals [45]:
+            xmin = 91.6
+            xmax = 95.8
+            text = ""
+        intervals [46]:
+            xmin = 95.8
+            xmax = 99.6
+            text = "Well, yeah. I teach full time in the day and then I take classes in the afternoons."
+        intervals [47]:
+            xmin = 99.6
+            xmax = 100.8
+            text = ""
+        intervals [48]:
+            xmin = 100.8
+            xmax = 104.6
+            text = "Well the teacher I was working with is going on maternity leave so I teach her class."
+        intervals [49]:
+            xmin = 104.6
+            xmax = 109.8
+            text = ""
+        intervals [50]:
+            xmin = 109.8
+            xmax = 118.6
+            text = "Well we teach for the whole year.  And most people only teach one class but I'm teaching three so."
+        intervals [51]:
+            xmin = 118.6
+            xmax = 120.8
+            text = ""
+        intervals [52]:
+            xmin = 120.8
+            xmax = 128.6
+            text = "I just think it's an important job. And I really like math and I think that math is very boring and stupid the way it's taught in school."
+        intervals [53]:
+            xmin = 128.6
+            xmax = 133.6
+            text = "And I'd like to try not teaching in a boring, silly way."
+        intervals [54]:
+            xmin = 133.6
+            xmax = 137.8
+            text = ""
+        intervals [55]:
+            xmin = 137.8
+            xmax = 139.6
+            text = "Keep your face?"
+        intervals [56]:
+            xmin = 139.6
+            xmax = 142.8
+            text = ""
+        intervals [57]:
+            xmin = 142.8
+            xmax = 155.6
+            text = "The job is difficult and it's not well paid.  But it's fun. I mean, I really like being-- I like young people. I think that they're funny; I think schools are amusing places."
+        intervals [58]:
+            xmin = 155.6
+            xmax = 160.8
+            text = ""
+        intervals [59]:
+            xmin = 160.8
+            xmax = 166.6
+            text = "Well I have a license to teach in California now. I'm actually going to teach at San Lorenzo High School next year."
+        intervals [60]:
+            xmin = 166.6
+            xmax = 167.8
+            text = ""
+        intervals [61]:
+            xmin = 167.8
+            xmax = 170.6
+            text = "Which is right off 92 on the, uh, east side."
+        intervals [62]:
+            xmin = 170.6
+            xmax = 171.8
+            text = ""
+        intervals [63]:
+            xmin = 171.8
+            xmax = 175.6
+            text = "You need a license to teach, it's to go along with the credential."
+        intervals [64]:
+            xmin = 175.6
+            xmax = 176.8
+            text = ""
+        intervals [65]:
+            xmin = 176.8
+            xmax = 187.6
+            text = "Well some states I can teach in straight away. And some states I have to take another exam. But it is state by state so it's kind of ridiculous."
+        intervals [66]:
+            xmin = 187.6
+            xmax = 189.8
+            text = ""
+        intervals [67]:
+            xmin = 189.8
+            xmax = 200.6
+            text = "Right. Exactly. But some states like New York and New Jersey, they honor California license but I still have to take some test that knows I know something about math."
+        intervals [68]:
+            xmin = 200.6
+            xmax = 203.8
+            text = ""
+        intervals [69]:
+            xmin = 203.8
+            xmax = 204.6
+            text = "Is it?"
+        intervals [70]:
+            xmin = 204.6
+            xmax = 211.8
+            text = ""
+        intervals [71]:
+            xmin = 211.8
+            xmax = 216.6
+            text = "At least that's a different country. It would be like you're teaching in Leon and you want to go teach in Paris and it's a new exam. [laughter]"
+        intervals [72]:
+            xmin = 216.6
+            xmax = 219.8
+            text = ""
+        intervals [73]:
+            xmin = 219.8
+            xmax = 220.6
+            text = "Geographically condensed?"
+        intervals [74]:
+            xmin = 220.6
+            xmax = 234.8
+            text = ""
+        intervals [75]:
+            xmin = 234.8
+            xmax = 238.6
+            text = "Otherwise it's kind of-- [horn] That always scares me.  "
+        intervals [76]:
+            xmin = 238.6
+            xmax = 239.8
+            text = ""
+        intervals [77]:
+            xmin = 239.8
+            xmax = 240.6
+            text = "That is very fast. "
+        intervals [78]:
+            xmin = 240.6
+            xmax = 240.8
+            text = ""
+        intervals [79]:
+            xmin = 240.8
+            xmax = 243.6
+            text = "Thank you. Nice to meet you. Bye-bye."

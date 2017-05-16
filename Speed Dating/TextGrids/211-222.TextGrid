@@ -1,0 +1,892 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 271.9
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 271.9
+intervals: size = 110
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 3.1
+            text = "Still a long way to go."
+        intervals [3]:
+            xmin = 3.1
+            xmax = 8.8
+            text = ""
+        intervals [4]:
+            xmin = 8.8
+            xmax = 9.8
+            text = "I'm male211."
+        intervals [5]:
+            xmin = 9.8
+            xmax = 10.7
+            text = ""
+        intervals [6]:
+            xmin = 10.7
+            xmax = 11.7
+            text = "Nice to meet you."
+        intervals [7]:
+            xmin = 11.7
+            xmax = 12.9
+            text = ""
+        intervals [8]:
+            xmin = 12.9
+            xmax = 14.2
+            text = "That's okay, never mind."
+        intervals [9]:
+            xmin = 14.2
+            xmax = 15
+            text = ""
+        intervals [10]:
+            xmin = 15
+            xmax = 18.6
+            text = "Whatever.  Don't worry about it."
+        intervals [11]:
+            xmin = 18.6
+            xmax = 20.7
+            text = ""
+        intervals [12]:
+            xmin = 20.7
+            xmax = 24.1
+            text = "Oh.  [laughter] So- so what department are you in?"
+        intervals [13]:
+            xmin = 24.1
+            xmax = 25.5
+            text = ""
+        intervals [14]:
+            xmin = 25.5
+            xmax = 26.2
+            text = "Oh okay."
+        intervals [15]:
+            xmin = 26.2
+            xmax = 26.4
+            text = ""
+        intervals [16]:
+            xmin = 26.4
+            xmax = 27.6
+            text = "Master's, PhD?"
+        intervals [17]:
+            xmin = 27.6
+            xmax = 30.5
+            text = ""
+        intervals [18]:
+            xmin = 30.5
+            xmax = 32.9
+            text = "I'm in the PhD program in the Business School. "
+        intervals [19]:
+            xmin = 32.9
+            xmax = 36.3
+            text = ""
+        intervals [20]:
+            xmin = 36.3
+            xmax = 37.8
+            text = "Yeah, yeah, it's great.  It's good."
+        intervals [21]:
+            xmin = 37.8
+            xmax = 38.2
+            text = ""
+        intervals [22]:
+            xmin = 38.2
+            xmax = 41.2
+            text = "I'm close to being done now.  So-"
+        intervals [23]:
+            xmin = 41.2
+            xmax = 42.3
+            text = ""
+        intervals [24]:
+            xmin = 42.3
+            xmax = 42.8
+            text = "Huh?"
+        intervals [25]:
+            xmin = 42.8
+            xmax = 44
+            text = ""
+        intervals [26]:
+            xmin = 44
+            xmax = 47.3
+            text = "No, fourth year.  I'm not an MBA, it's a PhD."
+        intervals [27]:
+            xmin = 47.3
+            xmax = 47.6
+            text = ""
+        intervals [28]:
+            xmin = 47.6
+            xmax = 51.2
+            text = "It's like completely different from the MBA, that's nothing to do with it."
+        intervals [29]:
+            xmin = 51.2
+            xmax = 51.7
+            text = ""
+        intervals [30]:
+            xmin = 51.7
+            xmax = 54.1
+            text = "Yeah, we don't even take the same classes.  The only-"
+        intervals [31]:
+            xmin = 54.1
+            xmax = 55.6
+            text = ""
+        intervals [32]:
+            xmin = 55.6
+            xmax = 59.3
+            text = "Exactly, they're- they're different, and the only commonality is the faculty."
+        intervals [33]:
+            xmin = 59.3
+            xmax = 59.6
+            text = ""
+        intervals [34]:
+            xmin = 59.6
+            xmax = 64.3
+            text = "The same faculty teaches them, the same teaches us, but different things, and it's just completely different."
+        intervals [35]:
+            xmin = 64.3
+            xmax = 70
+            text = ""
+        intervals [36]:
+            xmin = 70
+            xmax = 70.9
+            text = "I'm from India."
+        intervals [37]:
+            xmin = 70.9
+            xmax = 74.3
+            text = ""
+        intervals [38]:
+            xmin = 74.3
+            xmax = 78
+            text = "At least for a couple of years, make the money, you know."
+        intervals [39]:
+            xmin = 78
+            xmax = 81.3
+            text = "Maybe a few, not a couple, but yeah.  Make the money and-  "
+        intervals [40]:
+            xmin = 81.3
+            xmax = 81.4
+            text = ""
+        intervals [41]:
+            xmin = 81.4
+            xmax = 83.1
+            text = "- maybe then go back, I don't know."
+        intervals [42]:
+            xmin = 83.1
+            xmax = 86.6
+            text = ""
+        intervals [43]:
+            xmin = 86.6
+            xmax = 87.6
+            text = "Academia."
+        intervals [44]:
+            xmin = 87.6
+            xmax = 90
+            text = ""
+        intervals [45]:
+            xmin = 90
+            xmax = 90.5
+            text = "Uh-huh."
+        intervals [46]:
+            xmin = 90.5
+            xmax = 94.1
+            text = ""
+        intervals [47]:
+            xmin = 94.1
+            xmax = 100
+            text = "Uh-huh.  Uh, next year.  Next year."
+        intervals [48]:
+            xmin = 100
+            xmax = 104.4
+            text = "So in five years, which is- uh, that's about how much time it takes in our program for-"
+        intervals [49]:
+            xmin = 104.4
+            xmax = 108.2
+            text = ""
+        intervals [50]:
+            xmin = 108.2
+            xmax = 114
+            text = "I want to, but, uh, I think the job availability will decide.  It's quite competitive and there aren't too many-"
+        intervals [51]:
+            xmin = 114
+            xmax = 116.7
+            text = ""
+        intervals [52]:
+            xmin = 116.7
+            xmax = 119.1
+            text = "So what do you like to do for fun?"
+        intervals [53]:
+            xmin = 119.1
+            xmax = 124.7
+            text = ""
+        intervals [54]:
+            xmin = 124.7
+            xmax = 126.3
+            text = "What sort of movies do you see?"
+        intervals [55]:
+            xmin = 126.3
+            xmax = 130.3
+            text = ""
+        intervals [56]:
+            xmin = 130.3
+            xmax = 132.7
+            text = "So do you take cheddar cheese with you to a movie."
+        intervals [57]:
+            xmin = 132.7
+            xmax = 133.5
+            text = ""
+        intervals [58]:
+            xmin = 133.5
+            xmax = 134.4
+            text = "I'm just kidding."
+        intervals [59]:
+            xmin = 134.4
+            xmax = 134.8
+            text = ""
+        intervals [60]:
+            xmin = 134.8
+            xmax = 137.2
+            text = "To make it cheesy, you know.  [laughter] "
+        intervals [61]:
+            xmin = 137.2
+            xmax = 139.7
+            text = ""
+        intervals [62]:
+            xmin = 139.7
+            xmax = 143.4
+            text = "Like Harold and Kumar or something? [laughter] "
+        intervals [63]:
+            xmin = 143.4
+            xmax = 145.2
+            text = ""
+        intervals [64]:
+            xmin = 145.2
+            xmax = 146.9
+            text = "Ah.  It- it's funny."
+        intervals [65]:
+            xmin = 146.9
+            xmax = 148.7
+            text = "I actually saw that in the cinema."
+        intervals [66]:
+            xmin = 148.7
+            xmax = 153.8
+            text = ""
+        intervals [67]:
+            xmin = 153.8
+            xmax = 157.2
+            text = "Uh-huh.  Yeah, actually I saw two- two of them back-to-back."
+        intervals [68]:
+            xmin = 157.2
+            xmax = 158.2
+            text = ""
+        intervals [69]:
+            xmin = 158.2
+            xmax = 160.4
+            text = "Sometimes I do that.  [laughter]"
+        intervals [70]:
+            xmin = 160.4
+            xmax = 163.7
+            text = "I saw that one and then I saw Dodgeball.  [laughter] "
+        intervals [71]:
+            xmin = 163.7
+            xmax = 165.9
+            text = ""
+        intervals [72]:
+            xmin = 165.9
+            xmax = 168.2
+            text = "It was funny, it's nonsensical, and-  "
+        intervals [73]:
+            xmin = 168.2
+            xmax = 168.7
+            text = ""
+        intervals [74]:
+            xmin = 168.7
+            xmax = 173
+            text = "And then all the first Austin Powers is what I love, and that category."
+        intervals [75]:
+            xmin = 173
+            xmax = 173.6
+            text = ""
+        intervals [76]:
+            xmin = 173.6
+            xmax = 177.2
+            text = "Just- you can keep watching it again and again and again."
+        intervals [77]:
+            xmin = 177.2
+            xmax = 180.4
+            text = ""
+        intervals [78]:
+            xmin = 180.4
+            xmax = 182.5
+            text = "Are those the only kinds of movies you watch or-"
+        intervals [79]:
+            xmin = 182.5
+            xmax = 187.1
+            text = ""
+        intervals [80]:
+            xmin = 187.1
+            xmax = 188.3
+            text = "Uh-huh, how was that?"
+        intervals [81]:
+            xmin = 188.3
+            xmax = 207
+            text = ""
+        intervals [82]:
+            xmin = 207
+            xmax = 212.8
+            text = "Yeah, artsy is like Almudevar or something.  I went to them- have you seen it?  Almudevar's movies?"
+        intervals [83]:
+            xmin = 212.8
+            xmax = 213.4
+            text = ""
+        intervals [84]:
+            xmin = 213.4
+            xmax = 217.4
+            text = "He's like this Spanish director.  He has these artsy movies."
+        intervals [85]:
+            xmin = 217.4
+            xmax = 218.1
+            text = ""
+        intervals [86]:
+            xmin = 218.1
+            xmax = 221.9
+            text = "If you don't like artsy, you wouldn't like it.  I mean, I want you to try it, but I can't."
+        intervals [87]:
+            xmin = 221.9
+            xmax = 222.8
+            text = ""
+        intervals [88]:
+            xmin = 222.8
+            xmax = 223.4
+            text = "Yeah."
+        intervals [89]:
+            xmin = 223.4
+            xmax = 226.6
+            text = ""
+        intervals [90]:
+            xmin = 226.6
+            xmax = 228.1
+            text = "I like all sorts of movies."
+        intervals [91]:
+            xmin = 228.1
+            xmax = 228.6
+            text = ""
+        intervals [92]:
+            xmin = 228.6
+            xmax = 237.1
+            text = "Yeah, I love going to the movies, and you know- in my first year here I think I saw all the Green movies, in the Green Library."
+        intervals [93]:
+            xmin = 237.1
+            xmax = 237.7
+            text = ""
+        intervals [94]:
+            xmin = 237.7
+            xmax = 240.5
+            text = "Yeah, I saw almost all of them. [laughter] "
+        intervals [95]:
+            xmin = 240.5
+            xmax = 241.4
+            text = ""
+        intervals [96]:
+            xmin = 241.4
+            xmax = 248.1
+            text = "Yeah, I just love movies and- I mean, well the- it depends on my mood.  Like I mean I could- I like all sorts of movies --"
+        intervals [97]:
+            xmin = 248.1
+            xmax = 250.9
+            text = "-but I- I love comedies first of all."
+        intervals [98]:
+            xmin = 250.9
+            xmax = 252
+            text = "Yeah.  I love comedy."
+        intervals [99]:
+            xmin = 252
+            xmax = 257.3
+            text = ""
+        intervals [100]:
+            xmin = 257.3
+            xmax = 258.4
+            text = "I love comedy. "
+        intervals [101]:
+            xmin = 258.4
+            xmax = 261.5
+            text = ""
+        intervals [102]:
+            xmin = 261.5
+            xmax = 262.4
+            text = "What else do you do?"
+        intervals [103]:
+            xmin = 262.4
+            xmax = 262.8
+            text = ""
+        intervals [104]:
+            xmin = 262.8
+            xmax = 264.1
+            text = "Apart from watching-- apart-"
+        intervals [105]:
+            xmin = 264.1
+            xmax = 267.8
+            text = ""
+        intervals [106]:
+            xmin = 267.8
+            xmax = 269.1
+            text = "So we need to go?  Okay."
+        intervals [107]:
+            xmin = 269.1
+            xmax = 269.2
+            text = ""
+        intervals [108]:
+            xmin = 269.2
+            xmax = 270.4
+            text = "Nice meeting you, female222. "
+        intervals [109]:
+            xmin = 270.4
+            xmax = 271.2
+            text = ""
+        intervals [110]:
+            xmin = 271.2
+            xmax = 271.9
+            text = "You, too."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 271.9
+intervals: size = 108
+        intervals [1]:
+            xmin = 5.093
+            xmax = 9.093
+            text = "I think I did a lot of stuff wrong, but it's okay.  [laughter]  Hi."
+        intervals [2]:
+            xmin = 9.093
+            xmax = 9.393
+            text = ""
+        intervals [3]:
+            xmin = 9.393
+            xmax = 10.293
+            text = "I'm female222.  "
+        intervals [4]:
+            xmin = 10.293
+            xmax = 11.193
+            text = ""
+        intervals [5]:
+            xmin = 11.193
+            xmax = 12.793
+            text = "[laughter] "
+        intervals [6]:
+            xmin = 12.793
+            xmax = 14.393
+            text = ""
+        intervals [7]:
+            xmin = 14.393
+            xmax = 15.293
+            text = "What?"
+        intervals [8]:
+            xmin = 15.293
+            xmax = 16.393
+            text = ""
+        intervals [9]:
+            xmin = 16.393
+            xmax = 22.993
+            text = "Oh, yeah- no, 'cause I just noticed, I'm like, I think I filled out some stuff wrong, but it's okay.  [laughter]  Yeah. "
+        intervals [10]:
+            xmin = 22.993
+            xmax = 23.993
+            text = ""
+        intervals [11]:
+            xmin = 23.993
+            xmax = 25.293
+            text = "Uh, I'm in Education."
+        intervals [12]:
+            xmin = 25.293
+            xmax = 26.193
+            text = ""
+        intervals [13]:
+            xmin = 26.193
+            xmax = 26.693
+            text = "Yeah.  "
+        intervals [14]:
+            xmin = 26.693
+            xmax = 27.593
+            text = ""
+        intervals [15]:
+            xmin = 27.593
+            xmax = 30.093
+            text = "Master's.  Yeah.  How about you?"
+        intervals [16]:
+            xmin = 30.093
+            xmax = 32.893
+            text = ""
+        intervals [17]:
+            xmin = 32.893
+            xmax = 36.293
+            text = "Oh, okay.  Cool.  Are you liking it, or-"
+        intervals [18]:
+            xmin = 36.293
+            xmax = 37.293
+            text = ""
+        intervals [19]:
+            xmin = 37.293
+            xmax = 37.893
+            text = "It's great?"
+        intervals [20]:
+            xmin = 37.893
+            xmax = 39.893
+            text = ""
+        intervals [21]:
+            xmin = 39.893
+            xmax = 41.793
+            text = "Okay, so this is your second year then?"
+        intervals [22]:
+            xmin = 41.793
+            xmax = 42.693
+            text = ""
+        intervals [23]:
+            xmin = 42.693
+            xmax = 44.593
+            text = "Your- this is your second year then right?"
+        intervals [24]:
+            xmin = 44.593
+            xmax = 47.293
+            text = ""
+        intervals [25]:
+            xmin = 47.293
+            xmax = 49.093
+            text = "Oh."
+        intervals [26]:
+            xmin = 49.093
+            xmax = 49.193
+            text = ""
+        intervals [27]:
+            xmin = 49.193
+            xmax = 52.493
+            text = "Okay.  Nothing to do with it.  Okay."
+        intervals [28]:
+            xmin = 52.493
+            xmax = 53.093
+            text = ""
+        intervals [29]:
+            xmin = 53.093
+            xmax = 56.993
+            text = "Okay, they're just kind of different.  [laughter] "
+        intervals [30]:
+            xmin = 56.993
+            xmax = 59.493
+            text = ""
+        intervals [31]:
+            xmin = 59.493
+            xmax = 60.393
+            text = "Oh, okay. "
+        intervals [32]:
+            xmin = 60.393
+            xmax = 61.593
+            text = ""
+        intervals [33]:
+            xmin = 61.593
+            xmax = 69.993
+            text = "Uh-huh.  Oh, okay, cool.  So you're like here four years?  Are you from, um, the Bay area, or-"
+        intervals [34]:
+            xmin = 69.993
+            xmax = 70.993
+            text = ""
+        intervals [35]:
+            xmin = 70.993
+            xmax = 75.293
+            text = "Oh, okay.  Do you want to stick around here after you're done, or are you going to go back?"
+        intervals [36]:
+            xmin = 75.293
+            xmax = 76.993
+            text = ""
+        intervals [37]:
+            xmin = 76.993
+            xmax = 77.593
+            text = "Uh-huh."
+        intervals [38]:
+            xmin = 77.593
+            xmax = 81.393
+            text = ""
+        intervals [39]:
+            xmin = 81.393
+            xmax = 81.893
+            text = "Cool."
+        intervals [40]:
+            xmin = 81.893
+            xmax = 82.593
+            text = ""
+        intervals [41]:
+            xmin = 82.593
+            xmax = 86.593
+            text = "Oh, okay.  So- but are you still going to visit after you're done-"
+        intervals [42]:
+            xmin = 86.593
+            xmax = 87.693
+            text = ""
+        intervals [43]:
+            xmin = 87.693
+            xmax = 89.993
+            text = "Academia.  Oh, so do you want to teach?"
+        intervals [44]:
+            xmin = 89.993
+            xmax = 90.493
+            text = ""
+        intervals [45]:
+            xmin = 90.493
+            xmax = 99.693
+            text = "Oh, cool.  Like, so you want to be like a professor, and that why you'll be here until [unintelligible].  Awesome.  So you're closer to being done this year, or next year?"
+        intervals [46]:
+            xmin = 99.693
+            xmax = 100.293
+            text = "Next year."
+        intervals [47]:
+            xmin = 100.293
+            xmax = 104.093
+            text = ""
+        intervals [48]:
+            xmin = 104.093
+            xmax = 108.293
+            text = "I see, I see.  Cool.  Do you want to stay in California or do you want to-"
+        intervals [49]:
+            xmin = 108.293
+            xmax = 113.493
+            text = ""
+        intervals [50]:
+            xmin = 113.493
+            xmax = 115.793
+            text = "Uh-huh.  Okay."
+        intervals [51]:
+            xmin = 115.793
+            xmax = 118.693
+            text = ""
+        intervals [52]:
+            xmin = 118.693
+            xmax = 124.693
+            text = "For fun?  Um, I like to hang out, I like to go to the movies, I like to-"
+        intervals [53]:
+            xmin = 124.693
+            xmax = 126.193
+            text = ""
+        intervals [54]:
+            xmin = 126.193
+            xmax = 131.493
+            text = "What kind of movies?  I like cheesy movies, uh, really cheesy romantic comedies.  I like-"
+        intervals [55]:
+            xmin = 131.493
+            xmax = 132.993
+            text = ""
+        intervals [56]:
+            xmin = 132.993
+            xmax = 134.193
+            text = "No."
+        intervals [57]:
+            xmin = 134.193
+            xmax = 134.993
+            text = "But uh- "
+        intervals [58]:
+            xmin = 134.993
+            xmax = 136.193
+            text = ""
+        intervals [59]:
+            xmin = 136.193
+            xmax = 140.293
+            text = "Yeah, and I like just really like goofy movies.  Uh-"
+        intervals [60]:
+            xmin = 140.293
+            xmax = 141.593
+            text = ""
+        intervals [61]:
+            xmin = 141.593
+            xmax = 146.293
+            text = "Yeah.  [laughter]  I just saw that recently.  So yeah.  "
+        intervals [62]:
+            xmin = 146.293
+            xmax = 146.693
+            text = ""
+        intervals [63]:
+            xmin = 146.693
+            xmax = 147.293
+            text = "Uh-huh."
+        intervals [64]:
+            xmin = 147.293
+            xmax = 148.893
+            text = ""
+        intervals [65]:
+            xmin = 148.893
+            xmax = 153.793
+            text = "Oh, really?  I wanted to, but uh- yeah, just light-hearted stuff."
+        intervals [66]:
+            xmin = 153.793
+            xmax = 157.093
+            text = ""
+        intervals [67]:
+            xmin = 157.093
+            xmax = 157.693
+            text = "Uh-huh."
+        intervals [68]:
+            xmin = 157.693
+            xmax = 159.993
+            text = ""
+        intervals [69]:
+            xmin = 159.993
+            xmax = 160.893
+            text = "[laughter] "
+        intervals [70]:
+            xmin = 160.893
+            xmax = 162.493
+            text = ""
+        intervals [71]:
+            xmin = 162.493
+            xmax = 167.093
+            text = "[laughter]  That was a good movie, don't you think?  [laughter]"
+        intervals [72]:
+            xmin = 167.093
+            xmax = 167.893
+            text = ""
+        intervals [73]:
+            xmin = 167.893
+            xmax = 168.993
+            text = "Yeah, yeah.  "
+        intervals [74]:
+            xmin = 168.993
+            xmax = 172.893
+            text = ""
+        intervals [75]:
+            xmin = 172.893
+            xmax = 173.493
+            text = "Yeah."
+        intervals [76]:
+            xmin = 173.493
+            xmax = 175.993
+            text = ""
+        intervals [77]:
+            xmin = 175.993
+            xmax = 180.993
+            text = "Yeah.  Yeah.  That's so funny.  Cool.  Um, I don't know-"
+        intervals [78]:
+            xmin = 180.993
+            xmax = 182.093
+            text = ""
+        intervals [79]:
+            xmin = 182.093
+            xmax = 188.093
+            text = "No, I like- I mean I like serious movies, too.  I just saw- I just saw Hotel Rwanda this past weekend, and then- "
+        intervals [80]:
+            xmin = 188.093
+            xmax = 188.193
+            text = ""
+        intervals [81]:
+            xmin = 188.193
+            xmax = 206.893
+            text = "It was really good.  It was this movie, um, it was really like depressing and emotional, but um, yeah, I like- I like movies that get me like worked up, emotionally either like happy, crying, or whatever, but yeah.  Nothing too, like, complicated or artsy, I'd be like, well, I don't understand it."
+        intervals [82]:
+            xmin = 206.893
+            xmax = 212.993
+            text = ""
+        intervals [83]:
+            xmin = 212.993
+            xmax = 213.693
+            text = "Who?"
+        intervals [84]:
+            xmin = 213.693
+            xmax = 217.193
+            text = ""
+        intervals [85]:
+            xmin = 217.193
+            xmax = 218.593
+            text = "Oh really, okay. "
+        intervals [86]:
+            xmin = 218.593
+            xmax = 219.893
+            text = ""
+        intervals [87]:
+            xmin = 219.893
+            xmax = 223.393
+            text = "Yeah, I probably wou- I probably wouldn't understand it.  I'd be like, what?  "
+        intervals [88]:
+            xmin = 223.393
+            xmax = 224.593
+            text = ""
+        intervals [89]:
+            xmin = 224.593
+            xmax = 226.293
+            text = "What do you like to do, or you like to-"
+        intervals [90]:
+            xmin = 226.293
+            xmax = 228.093
+            text = ""
+        intervals [91]:
+            xmin = 228.093
+            xmax = 228.593
+            text = "Okay."
+        intervals [92]:
+            xmin = 228.593
+            xmax = 236.893
+            text = ""
+        intervals [93]:
+            xmin = 236.893
+            xmax = 237.693
+            text = "Oh, you did?"
+        intervals [94]:
+            xmin = 237.693
+            xmax = 238.893
+            text = ""
+        intervals [95]:
+            xmin = 238.893
+            xmax = 243.593
+            text = "Oh, wow.  That's impressive.  [laughter]"
+        intervals [96]:
+            xmin = 243.593
+            xmax = 247.993
+            text = ""
+        intervals [97]:
+            xmin = 247.993
+            xmax = 248.393
+            text = "Uh-huh."
+        intervals [98]:
+            xmin = 248.393
+            xmax = 250.993
+            text = "You like comedies?"
+        intervals [99]:
+            xmin = 250.993
+            xmax = 251.293
+            text = ""
+        intervals [100]:
+            xmin = 251.293
+            xmax = 257.893
+            text = "Yeah, for you to be a fan of Austin Powers and watch it over again.  [laughter]  Yes, you are a true fan of comedy.  [laughter]"
+        intervals [101]:
+            xmin = 257.893
+            xmax = 258.593
+            text = ""
+        intervals [102]:
+            xmin = 258.593
+            xmax = 261.993
+            text = "Cool.  Uh, I don't know.  What sort of-"
+        intervals [103]:
+            xmin = 261.993
+            xmax = 263.393
+            text = "What else do I do?  "
+        intervals [104]:
+            xmin = 263.393
+            xmax = 264.993
+            text = ""
+        intervals [105]:
+            xmin = 264.993
+            xmax = 266.293
+            text = "Is that our cue?"
+        intervals [106]:
+            xmin = 266.293
+            xmax = 268.893
+            text = ""
+        intervals [107]:
+            xmin = 268.893
+            xmax = 270.793
+            text = "Okay, nice to meet you."
+        intervals [108]:
+            xmin = 270.793
+            xmax = 271.393
+            text = "Have fun.  "

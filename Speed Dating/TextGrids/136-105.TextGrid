@@ -1,0 +1,408 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 256.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 256.6
+intervals: size = 48
+        intervals [1]:
+            xmin = 0
+            xmax = 1.52
+            text = ""
+        intervals [2]:
+            xmin = 1.52
+            xmax = 3.32
+            text = "Just like you did.  "
+        intervals [3]:
+            xmin = 3.32
+            xmax = 5.52
+            text = ""
+        intervals [4]:
+            xmin = 5.52
+            xmax = 8.32
+            text = "And I am not even going to guess because I don't have x-ray vision.  "
+        intervals [5]:
+            xmin = 8.32
+            xmax = 13.52
+            text = ""
+        intervals [6]:
+            xmin = 13.52
+            xmax = 15.32
+            text = "What letter does it start with?  "
+        intervals [7]:
+            xmin = 15.32
+            xmax = 17.52
+            text = ""
+        intervals [8]:
+            xmin = 17.52
+            xmax = 22.32
+            text = "Jeanette?  No, that's too long for it to sit on there. nameX?  No.  "
+        intervals [9]:
+            xmin = 22.32
+            xmax = 23.52
+            text = ""
+        intervals [10]:
+            xmin = 23.52
+            xmax = 24.32
+            text = "nameX?  "
+        intervals [11]:
+            xmin = 24.32
+            xmax = 25.52
+            text = ""
+        intervals [12]:
+            xmin = 25.52
+            xmax = 32.32
+            text = "female136.  Yeah, you can't keep me guessing forever.  It's like short names of [unintelligible].  "
+        intervals [13]:
+            xmin = 32.32
+            xmax = 35.52
+            text = ""
+        intervals [14]:
+            xmin = 35.52
+            xmax = 40.32
+            text = "Yeah, I'd probably run out of time before I came up with all the names that start with  a 'j'.  "
+        intervals [15]:
+            xmin = 40.32
+            xmax = 41.52
+            text = ""
+        intervals [16]:
+            xmin = 41.52
+            xmax = 42.32
+            text = "Water? "
+        intervals [17]:
+            xmin = 42.32
+            xmax = 44.52
+            text = ""
+        intervals [18]:
+            xmin = 44.52
+            xmax = 50.32
+            text = "So, you're in education too I'm guessing, or law, or?  "
+        intervals [19]:
+            xmin = 50.32
+            xmax = 56.32
+            text = "Oh, good.  I think I've met lots of education and lots of law people.  "
+        intervals [20]:
+            xmin = 56.32
+            xmax = 56.52
+            text = ""
+        intervals [21]:
+            xmin = 56.52
+            xmax = 58.32
+            text = "So, what kind of law do you want to practice?  "
+        intervals [22]:
+            xmin = 58.32
+            xmax = 67.52
+            text = ""
+        intervals [23]:
+            xmin = 67.52
+            xmax = 71.32
+            text = "[interposing]  To try to establish like international policy, or?  "
+        intervals [24]:
+            xmin = 71.32
+            xmax = 96.52
+            text = ""
+        intervals [25]:
+            xmin = 96.52
+            xmax = 100.32
+            text = "Nice, how did you get interested in that?  "
+        intervals [26]:
+            xmin = 100.32
+            xmax = 103.52
+            text = ""
+        intervals [27]:
+            xmin = 103.52
+            xmax = 104.32
+            text = "Oh, nice.  "
+        intervals [28]:
+            xmin = 104.32
+            xmax = 111.52
+            text = ""
+        intervals [29]:
+            xmin = 111.52
+            xmax = 132.32
+            text = "I'm doing controls and engineering.  So, figuring out ways to make things behave better in circumstances that aren't always very predictable.  So, you try to figure out what the thing is doing and what you want it to do, and then you apply different stuff to get it to behave in a particular way.  So--"
+        intervals [30]:
+            xmin = 132.32
+            xmax = 138.52
+            text = ""
+        intervals [31]:
+            xmin = 138.52
+            xmax = 153.32
+            text = "It can be applied to anything.  Mostly, I'm applying it to mechanical stuff, but the part that I'm really interested in is particularly robotics.  But not in the sense that a lot of people in computer science start to take it.  that's what my undergrad was in where they want it--"
+        intervals [32]:
+            xmin = 153.32
+            xmax = 157.52
+            text = ""
+        intervals [33]:
+            xmin = 157.52
+            xmax = 162.32
+            text = "Yeah, where they want it to be artificial intelligence and do everything on its own--"
+        intervals [34]:
+            xmin = 162.32
+            xmax = 162.52
+            text = ""
+        intervals [35]:
+            xmin = 162.52
+            xmax = 190.32
+            text = "I'm interested in having a person be an integral part of the control making all the decisions and then having the control figure out the best way to help him do that.  Like the best, easiest examples, like a cybernetic lense for someone that's lost an arm that's like fully [unintelligible].  But that's like so far into the realm of science fiction, but that would be cool.  So, that kind of stuff--seeing things move, and--but that's exactly why I'm still fuzzy on that.  I'm a first year, so--"
+        intervals [36]:
+            xmin = 190.32
+            xmax = 191.32
+            text = "So, still working through it.  "
+        intervals [37]:
+            xmin = 191.32
+            xmax = 196.52
+            text = ""
+        intervals [38]:
+            xmin = 196.52
+            xmax = 211.32
+            text = "Yep, I came from New Mexico.  I was actually working for Intel out there before I came back to--decided that I wanted to do more design rather than factory support stuff.  And I made the move out here.  It's been good.  "
+        intervals [39]:
+            xmin = 211.32
+            xmax = 211.52
+            text = ""
+        intervals [40]:
+            xmin = 211.52
+            xmax = 212.32
+            text = "What about you?  "
+        intervals [41]:
+            xmin = 212.32
+            xmax = 229.52
+            text = ""
+        intervals [42]:
+            xmin = 229.52
+            xmax = 230.32
+            text = "Cool.  "
+        intervals [43]:
+            xmin = 230.32
+            xmax = 232.52
+            text = ""
+        intervals [44]:
+            xmin = 232.52
+            xmax = 236.32
+            text = "DC is awesome.  I was there last year.  Oh."
+        intervals [45]:
+            xmin = 236.32
+            xmax = 238.52
+            text = ""
+        intervals [46]:
+            xmin = 238.52
+            xmax = 252.32
+            text = "I was just--I had been wanting to go for five years, and so told my family we're all going.  Booked all the trips.  Got all my family there, and a beautiful place.  "
+        intervals [47]:
+            xmin = 252.32
+            xmax = 253.52
+            text = ""
+        intervals [48]:
+            xmin = 253.52
+            xmax = 255.32
+            text = "It was nice meeting you.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 256.6
+intervals: size = 49
+        intervals [1]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "[unintelligible]  How do you pronounce your name?  "
+        intervals [2]:
+            xmin = 2.6
+            xmax = 2.8
+            text = ""
+        intervals [3]:
+            xmin = 2.8
+            xmax = 3.6
+            text = "Really?  "
+        intervals [4]:
+            xmin = 3.6
+            xmax = 9.8
+            text = ""
+        intervals [5]:
+            xmin = 9.8
+            xmax = 11.6
+            text = "Take a guess.  "
+        intervals [6]:
+            xmin = 11.6
+            xmax = 15.8
+            text = ""
+        intervals [7]:
+            xmin = 15.8
+            xmax = 16.6
+            text = "'J'.  "
+        intervals [8]:
+            xmin = 16.6
+            xmax = 22.8
+            text = ""
+        intervals [9]:
+            xmin = 22.8
+            xmax = 23.6
+            text = "No.  "
+        intervals [10]:
+            xmin = 23.6
+            xmax = 24.8
+            text = ""
+        intervals [11]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "No, I'll help you out.  I'm female136.  "
+        intervals [12]:
+            xmin = 26.6
+            xmax = 31.8
+            text = ""
+        intervals [13]:
+            xmin = 31.8
+            xmax = 35.6
+            text = "[unintelligible] barely have four minutes.  You could try, but--"
+        intervals [14]:
+            xmin = 35.6
+            xmax = 43.8
+            text = ""
+        intervals [15]:
+            xmin = 43.8
+            xmax = 44.6
+            text = "Thanks.  "
+        intervals [16]:
+            xmin = 44.6
+            xmax = 49.8
+            text = ""
+        intervals [17]:
+            xmin = 49.8
+            xmax = 50.6
+            text = "I'm in law.  "
+        intervals [18]:
+            xmin = 50.6
+            xmax = 55.8
+            text = ""
+        intervals [19]:
+            xmin = 55.8
+            xmax = 56.6
+            text = "Yeah.  "
+        intervals [20]:
+            xmin = 56.6
+            xmax = 58.8
+            text = ""
+        intervals [21]:
+            xmin = 58.8
+            xmax = 67.6
+            text = "Actually, probably intellectual, like government, or with governments, or with international use of--"
+        intervals [22]:
+            xmin = 67.6
+            xmax = 71.8
+            text = ""
+        intervals [23]:
+            xmin = 71.8
+            xmax = 97.6
+            text = "Actually I'm not entirely sure.  Like [unintelligible] so that [unintelligible] migrate a little bit.  It's a little bit of like your international criminal law [unintelligible].  But I don't--I don't know yet.  I'm just very intrigued by sort of the diplomatic process that is involved in law at that level.  "
+        intervals [24]:
+            xmin = 97.6
+            xmax = 100.8
+            text = ""
+        intervals [25]:
+            xmin = 100.8
+            xmax = 103.6
+            text = "I [unintelligible].  "
+        intervals [26]:
+            xmin = 103.6
+            xmax = 104.8
+            text = ""
+        intervals [27]:
+            xmin = 104.8
+            xmax = 112.6
+            text = "How about you?  I don't want to tell my--like good focus on me.  What are you, and what are--"
+        intervals [28]:
+            xmin = 112.6
+            xmax = 132.8
+            text = ""
+        intervals [29]:
+            xmin = 132.8
+            xmax = 138.6
+            text = "Something more like in a chemical/biological?  I mean [unintelligible] enough biology?  "
+        intervals [30]:
+            xmin = 138.6
+            xmax = 153.8
+            text = ""
+        intervals [31]:
+            xmin = 153.8
+            xmax = 157.6
+            text = "[interposing]  You can speak credibly on it not being computer-centric.  "
+        intervals [32]:
+            xmin = 157.6
+            xmax = 161.8
+            text = ""
+        intervals [33]:
+            xmin = 161.8
+            xmax = 162.6
+            text = "[interposing]  Yeah.  "
+        intervals [34]:
+            xmin = 162.6
+            xmax = 188.8
+            text = ""
+        intervals [35]:
+            xmin = 188.8
+            xmax = 189.6
+            text = "[interposing]  Yeah.  "
+        intervals [36]:
+            xmin = 189.6
+            xmax = 191.8
+            text = ""
+        intervals [37]:
+            xmin = 191.8
+            xmax = 196.6
+            text = "Is this your first year at Stanford, like your first year in [unintelligible]?  "
+        intervals [38]:
+            xmin = 196.6
+            xmax = 210.8
+            text = ""
+        intervals [39]:
+            xmin = 210.8
+            xmax = 212.6
+            text = "Cool.  "
+        intervals [40]:
+            xmin = 212.6
+            xmax = 212.8
+            text = ""
+        intervals [41]:
+            xmin = 212.8
+            xmax = 229.6
+            text = "Well, I was at--I was at the State Department for a little bit in DC, and then before that I worked for a public affairs [unintelligible] doing like government for nuclear like legislative advocacy.  "
+        intervals [42]:
+            xmin = 229.6
+            xmax = 230.8
+            text = ""
+        intervals [43]:
+            xmin = 230.8
+            xmax = 233.6
+            text = "And my family is in the DC area.  "
+        intervals [44]:
+            xmin = 233.6
+            xmax = 237.8
+            text = ""
+        intervals [45]:
+            xmin = 237.8
+            xmax = 238.6
+            text = "Did you work there?  "
+        intervals [46]:
+            xmin = 238.6
+            xmax = 252.8
+            text = ""
+        intervals [47]:
+            xmin = 252.8
+            xmax = 253.6
+            text = "Oh, cool.  "
+        intervals [48]:
+            xmin = 253.6
+            xmax = 254.8
+            text = ""
+        intervals [49]:
+            xmin = 254.8
+            xmax = 256.6
+            text = "Nice to meet you too.  "

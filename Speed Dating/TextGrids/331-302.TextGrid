@@ -1,0 +1,184 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 0.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 0.6
+intervals: size = 21
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 3.6
+            text = "Hi.  Nice to meet you.  male302.  female331.  "
+        intervals [3]:
+            xmin = 3.6
+            xmax = 9.8
+            text = ""
+        intervals [4]:
+            xmin = 9.8
+            xmax = 10.6
+            text = "Where are you from?  "
+        intervals [5]:
+            xmin = 10.6
+            xmax = 13.8
+            text = ""
+        intervals [6]:
+            xmin = 13.8
+            xmax = 14.6
+            text = "Yeah.  "
+        intervals [7]:
+            xmin = 14.6
+            xmax = 17.8
+            text = ""
+        intervals [8]:
+            xmin = 17.8
+            xmax = 18.6
+            text = "Paris, France.  "
+        intervals [9]:
+            xmin = 18.6
+            xmax = 18.8
+            text = ""
+        intervals [10]:
+            xmin = 18.8
+            xmax = 21.6
+            text = "female331 is actually a French name so that's--"
+        intervals [11]:
+            xmin = 21.6
+            xmax = 22.8
+            text = ""
+        intervals [12]:
+            xmin = 22.8
+            xmax = 23.6
+            text = "You speak French?  "
+        intervals [13]:
+            xmin = 23.6
+            xmax = 26.8
+            text = ""
+        intervals [14]:
+            xmin = 26.8
+            xmax = 27.6
+            text = "[French]"
+        intervals [15]:
+            xmin = 27.6
+            xmax = 27.6
+            text = "[French]"
+        intervals [16]:
+            xmin = 27.6
+            xmax = 31.8
+            text = ""
+        intervals [17]:
+            xmin = 31.8
+            xmax = 32.6
+            text = "Uh."
+        intervals [18]:
+            xmin = 32.6
+            xmax = 46.8
+            text = ""
+        intervals [19]:
+            xmin = 46.8
+            xmax = 47.6
+            text = "Oh, where?"
+        intervals [20]:
+            xmin = 47.6
+            xmax = 47.8
+            text = ""
+        intervals [21]:
+            xmin = 47.8
+            xmax = 49.6
+            text = "Oh, in Paris.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 0.6
+intervals: size = 20
+        intervals [1]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "All right.  "
+        intervals [2]:
+            xmin = 2.6
+            xmax = 2.8
+            text = ""
+        intervals [3]:
+            xmin = 2.8
+            xmax = 9.6
+            text = "female331.  I just repeated my own name back.  female331, nice to meet you.  [laughter] "
+        intervals [4]:
+            xmin = 9.6
+            xmax = 10.8
+            text = ""
+        intervals [5]:
+            xmin = 10.8
+            xmax = 14.6
+            text = "Uh, Northern California.  Chico.  You know, like, Sacramento?  "
+        intervals [6]:
+            xmin = 14.6
+            xmax = 14.8
+            text = ""
+        intervals [7]:
+            xmin = 14.8
+            xmax = 18.6
+            text = "Okay, it's like north of Sacramento.  And where are you from?  "
+        intervals [8]:
+            xmin = 18.6
+            xmax = 18.8
+            text = ""
+        intervals [9]:
+            xmin = 18.8
+            xmax = 20.6
+            text = "France.  "
+        intervals [10]:
+            xmin = 20.6
+            xmax = 20.8
+            text = ""
+        intervals [11]:
+            xmin = 20.8
+            xmax = 22.6
+            text = "Is it?  "
+        intervals [12]:
+            xmin = 22.6
+            xmax = 22.8
+            text = ""
+        intervals [13]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "[French]"
+        intervals [14]:
+            xmin = 24.6
+            xmax = 25.8
+            text = ""
+        intervals [15]:
+            xmin = 25.8
+            xmax = 26.6
+            text = "[French]"
+        intervals [16]:
+            xmin = 26.6
+            xmax = 28.8
+            text = ""
+        intervals [17]:
+            xmin = 28.8
+            xmax = 30.6
+            text = "No, let's say I'm good at guessing.  [French]"
+        intervals [18]:
+            xmin = 30.6
+            xmax = 33.8
+            text = ""
+        intervals [19]:
+            xmin = 33.8
+            xmax = 47.6
+            text = "How do you say that's a good guess?  C'est bon?  That's okay.  [unintelligible] [laughter].  Anyway, no, no.  I don't, um, I don't actually have French but for some reason, I mean, I like French.  I spent a year in France.  "
+        intervals [20]:
+            xmin = 47.6
+            xmax = 48.6
+            text = "I was in Paris, um.  "

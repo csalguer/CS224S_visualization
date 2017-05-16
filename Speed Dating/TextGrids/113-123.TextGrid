@@ -1,0 +1,552 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 222.8
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 222.8
+intervals: size = 67
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 2.6
+            text = "You just ripped it."
+        intervals [3]:
+            xmin = 2.6
+            xmax = 4.8
+            text = ""
+        intervals [4]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "Understandable."
+        intervals [5]:
+            xmin = 5.6
+            xmax = 11.8
+            text = ""
+        intervals [6]:
+            xmin = 11.8
+            xmax = 12.6
+            text = "Are you wearing a scent?"
+        intervals [7]:
+            xmin = 12.6
+            xmax = 12.8
+            text = ""
+        intervals [8]:
+            xmin = 12.8
+            xmax = 17.6
+            text = "Are you wearing a scent?  Well somebody is."
+        intervals [9]:
+            xmin = 17.6
+            xmax = 18.8
+            text = ""
+        intervals [10]:
+            xmin = 18.8
+            xmax = 20.6
+            text = "I smell, yeah, yeah, yeah, like perfume."
+        intervals [11]:
+            xmin = 20.6
+            xmax = 23.8
+            text = ""
+        intervals [12]:
+            xmin = 23.8
+            xmax = 30.6
+            text = "I don't know if I do.  But I kind of pay attention to like people's smells [unintelligible]  I don't know if that's weird or--"
+        intervals [13]:
+            xmin = 30.6
+            xmax = 31.8
+            text = ""
+        intervals [14]:
+            xmin = 31.8
+            xmax = 32.6
+            text = "No.  I'm an engineer."
+        intervals [15]:
+            xmin = 32.6
+            xmax = 34.8
+            text = ""
+        intervals [16]:
+            xmin = 34.8
+            xmax = 35.6
+            text = "I'm an electrical engineer."
+        intervals [17]:
+            xmin = 35.6
+            xmax = 36.8
+            text = ""
+        intervals [18]:
+            xmin = 36.8
+            xmax = 39.6
+            text = "It's pretty good.  I hope to be done soon."
+        intervals [19]:
+            xmin = 39.6
+            xmax = 40.8
+            text = ""
+        intervals [20]:
+            xmin = 40.8
+            xmax = 41.6
+            text = "I'm a 5th year."
+        intervals [21]:
+            xmin = 41.6
+            xmax = 45.8
+            text = ""
+        intervals [22]:
+            xmin = 45.8
+            xmax = 48.6
+            text = "[unintelligible] it'll take like six years overall."
+        intervals [23]:
+            xmin = 48.6
+            xmax = 49.8
+            text = ""
+        intervals [24]:
+            xmin = 49.8
+            xmax = 52.6
+            text = "Yeah, yeah.  Hopefully."
+        intervals [25]:
+            xmin = 52.6
+            xmax = 53.8
+            text = ""
+        intervals [26]:
+            xmin = 53.8
+            xmax = 59.6
+            text = "I hope to work for a company, find a job in the industry.  There's a lot of like exciting things going on."
+        intervals [27]:
+            xmin = 59.6
+            xmax = 60.8
+            text = ""
+        intervals [28]:
+            xmin = 60.8
+            xmax = 61.6
+            text = "Maybe return to school later, but."
+        intervals [29]:
+            xmin = 61.6
+            xmax = 72.6
+            text = "It's like the academia to get like a faculty job.  But that's really in the future, you know."
+        intervals [30]:
+            xmin = 72.6
+            xmax = 80.8
+            text = ""
+        intervals [31]:
+            xmin = 80.8
+            xmax = 95.6
+            text = "It's harder to find a job, I would say. It definitely makes the pay higher, of course.  But, yeah, it's more like the kind of job that you can find.  I'm more into just doing like the research kind of RND, rather than like a product development kind of thing."
+        intervals [32]:
+            xmin = 95.6
+            xmax = 96.8
+            text = ""
+        intervals [33]:
+            xmin = 96.8
+            xmax = 98.6
+            text = "How about you?  What are you doing?"
+        intervals [34]:
+            xmin = 98.6
+            xmax = 98.8
+            text = ""
+        intervals [35]:
+            xmin = 98.8
+            xmax = 99.6
+            text = "Oh really?  Okay."
+        intervals [36]:
+            xmin = 99.6
+            xmax = 99.8
+            text = ""
+        intervals [37]:
+            xmin = 99.8
+            xmax = 100.6
+            text = "Which year are you?"
+        intervals [38]:
+            xmin = 100.6
+            xmax = 101.8
+            text = ""
+        intervals [39]:
+            xmin = 101.8
+            xmax = 105.6
+            text = "Okay.  How's that going?  That's like the hardest year, right?"
+        intervals [40]:
+            xmin = 105.6
+            xmax = 105.8
+            text = ""
+        intervals [41]:
+            xmin = 105.8
+            xmax = 106.6
+            text = "Really?"
+        intervals [42]:
+            xmin = 106.6
+            xmax = 112.8
+            text = ""
+        intervals [43]:
+            xmin = 112.8
+            xmax = 114.6
+            text = "Okay.  You're like laid back about it."
+        intervals [44]:
+            xmin = 114.6
+            xmax = 127.8
+            text = ""
+        intervals [45]:
+            xmin = 127.8
+            xmax = 128.6
+            text = "Oh, I didn't know that.  That's what I hear."
+        intervals [46]:
+            xmin = 128.6
+            xmax = 145.8
+            text = ""
+        intervals [47]:
+            xmin = 145.8
+            xmax = 146.6
+            text = "Okay.  Yeah."
+        intervals [48]:
+            xmin = 146.6
+            xmax = 153.8
+            text = ""
+        intervals [49]:
+            xmin = 153.8
+            xmax = 157.6
+            text = "Oh yeah?  There's people like that no matter where you go, though."
+        intervals [50]:
+            xmin = 157.6
+            xmax = 160.8
+            text = ""
+        intervals [51]:
+            xmin = 160.8
+            xmax = 165.6
+            text = "So it's pretty much guaranteed that you graduate and find a nice job."
+        intervals [52]:
+            xmin = 165.6
+            xmax = 174.8
+            text = ""
+        intervals [53]:
+            xmin = 174.8
+            xmax = 178.6
+            text = "Yeah.  Do you know what kind of stuff?"
+        intervals [54]:
+            xmin = 178.6
+            xmax = 180.8
+            text = ""
+        intervals [55]:
+            xmin = 180.8
+            xmax = 181.6
+            text = "Okay."
+        intervals [56]:
+            xmin = 181.6
+            xmax = 182.8
+            text = ""
+        intervals [57]:
+            xmin = 182.8
+            xmax = 186.6
+            text = "For government, is that like in a court or like a--"
+        intervals [58]:
+            xmin = 186.6
+            xmax = 188.8
+            text = ""
+        intervals [59]:
+            xmin = 188.8
+            xmax = 189.6
+            text = "Dang."
+        intervals [60]:
+            xmin = 189.6
+            xmax = 193.8
+            text = ""
+        intervals [61]:
+            xmin = 193.8
+            xmax = 196.6
+            text = "That's ambition.  I'm marking you up in ambition. [laughter]."
+        intervals [62]:
+            xmin = 196.6
+            xmax = 210.8
+            text = ""
+        intervals [63]:
+            xmin = 210.8
+            xmax = 212.6
+            text = "You can follow your heart."
+        intervals [64]:
+            xmin = 212.6
+            xmax = 219.8
+            text = ""
+        intervals [65]:
+            xmin = 219.8
+            xmax = 220.6
+            text = "As long as you like it."
+        intervals [66]:
+            xmin = 220.6
+            xmax = 221.8
+            text = ""
+        intervals [67]:
+            xmin = 221.8
+            xmax = 222.6
+            text = "It was good to meet you, female123."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 222.8
+intervals: size = 66
+        intervals [1]:
+            xmin = 3
+            xmax = 8.8
+            text = "But I--I just--you know, I'm a disaster.  So totally a disaster."
+        intervals [2]:
+            xmin = 8.8
+            xmax = 9
+            text = ""
+        intervals [3]:
+            xmin = 9
+            xmax = 11.8
+            text = "So how are--"
+        intervals [4]:
+            xmin = 11.8
+            xmax = 12.8
+            text = "Am I what?"
+        intervals [5]:
+            xmin = 12.8
+            xmax = 16
+            text = ""
+        intervals [6]:
+            xmin = 16
+            xmax = 17.8
+            text = "Can you smell something?"
+        intervals [7]:
+            xmin = 17.8
+            xmax = 19
+            text = ""
+        intervals [8]:
+            xmin = 19
+            xmax = 21.8
+            text = "Oh.  You must have like a killer nose."
+        intervals [9]:
+            xmin = 21.8
+            xmax = 29
+            text = ""
+        intervals [10]:
+            xmin = 29
+            xmax = 31.8
+            text = "Are you in perfumology at Stanford?"
+        intervals [11]:
+            xmin = 31.8
+            xmax = 32
+            text = ""
+        intervals [12]:
+            xmin = 32
+            xmax = 33.8
+            text = "Oh, you act like a civil engineer."
+        intervals [13]:
+            xmin = 33.8
+            xmax = 35
+            text = ""
+        intervals [14]:
+            xmin = 35
+            xmax = 36.8
+            text = "How's that going?"
+        intervals [15]:
+            xmin = 36.8
+            xmax = 39
+            text = ""
+        intervals [16]:
+            xmin = 39
+            xmax = 39.8
+            text = "Oh, you--what year are you?"
+        intervals [17]:
+            xmin = 39.8
+            xmax = 41
+            text = ""
+        intervals [18]:
+            xmin = 41
+            xmax = 44.8
+            text = "Oh, people get their Engineer PHD so fast."
+        intervals [19]:
+            xmin = 44.8
+            xmax = 48
+            text = ""
+        intervals [20]:
+            xmin = 48
+            xmax = 49.8
+            text = "I have to do one more year, and then you're going to be done?"
+        intervals [21]:
+            xmin = 49.8
+            xmax = 51
+            text = ""
+        intervals [22]:
+            xmin = 51
+            xmax = 52.8
+            text = "What are you going to do after?  Work?"
+        intervals [23]:
+            xmin = 52.8
+            xmax = 59
+            text = ""
+        intervals [24]:
+            xmin = 59
+            xmax = 60.8
+            text = "And then the--"
+        intervals [25]:
+            xmin = 60.8
+            xmax = 61
+            text = ""
+        intervals [26]:
+            xmin = 61
+            xmax = 62.8
+            text = "Maybe return to school?"
+        intervals [27]:
+            xmin = 62.8
+            xmax = 71
+            text = ""
+        intervals [28]:
+            xmin = 71
+            xmax = 80.8
+            text = "Um, is there a [unintelligible] premium for companies for people with PHD's and Engineering degrees rather than, say, somebody has a Master's or just like a [unintelligible]?"
+        intervals [29]:
+            xmin = 80.8
+            xmax = 94
+            text = ""
+        intervals [30]:
+            xmin = 94
+            xmax = 96.8
+            text = "Oh I see.  Okay."
+        intervals [31]:
+            xmin = 96.8
+            xmax = 97
+            text = ""
+        intervals [32]:
+            xmin = 97
+            xmax = 98.8
+            text = "I go to law school."
+        intervals [33]:
+            xmin = 98.8
+            xmax = 100
+            text = ""
+        intervals [34]:
+            xmin = 100
+            xmax = 100.8
+            text = "Yeah."
+        intervals [35]:
+            xmin = 100.8
+            xmax = 101
+            text = ""
+        intervals [36]:
+            xmin = 101
+            xmax = 101.8
+            text = "First year."
+        intervals [37]:
+            xmin = 101.8
+            xmax = 104
+            text = ""
+        intervals [38]:
+            xmin = 104
+            xmax = 104.8
+            text = "Supposedly."
+        intervals [39]:
+            xmin = 104.8
+            xmax = 106
+            text = ""
+        intervals [40]:
+            xmin = 106
+            xmax = 111.8
+            text = "But and we have finals.  I have my first finals in two weeks.  But whatever."
+        intervals [41]:
+            xmin = 111.8
+            xmax = 114
+            text = ""
+        intervals [42]:
+            xmin = 114
+            xmax = 126.8
+            text = "You know, the reason why I came to Stanford is because it's a very laid back law school.  It's not as bad as the other law schools.  Like the East Coast law schools are ridiculous.  I mean, they work all these ridiculous hours, and people are really competitive."
+        intervals [43]:
+            xmin = 126.8
+            xmax = 129
+            text = ""
+        intervals [44]:
+            xmin = 129
+            xmax = 144.8
+            text = "There's a [unintelligible].  I mean, like, California's schools are just so much different from East Coast schools.  Like, they're--and it makes a difference for law school. I mean, all law schools are going to be stressful, because law schools are graded on a curve, the forced curve.  So I mean, it just makes everyone competitive with each other."
+        intervals [45]:
+            xmin = 144.8
+            xmax = 145
+            text = ""
+        intervals [46]:
+            xmin = 145
+            xmax = 152.8
+            text = "Um, so.  But I mean, Stanford does a good job of minimizing it and building a community here.  Still, there are definitely a couple people here I definitely don't like.  Um."
+        intervals [47]:
+            xmin = 152.8
+            xmax = 157
+            text = ""
+        intervals [48]:
+            xmin = 157
+            xmax = 160.8
+            text = "No.  That's true.  No, that's true.  So it's not that bad."
+        intervals [49]:
+            xmin = 160.8
+            xmax = 164
+            text = ""
+        intervals [50]:
+            xmin = 164
+            xmax = 173.8
+            text = "Yeah, pretty much.  Uh, well I mean, it depends on what you mean by nice.  I mean, you can get a job that pays really well, but you're working, you know, 90 hours a week."
+        intervals [51]:
+            xmin = 173.8
+            xmax = 177
+            text = ""
+        intervals [52]:
+            xmin = 177
+            xmax = 179.8
+            text = "Um, either I want to work for the government or enter academia."
+        intervals [53]:
+            xmin = 179.8
+            xmax = 181
+            text = ""
+        intervals [54]:
+            xmin = 181
+            xmax = 181.8
+            text = "So we'll see."
+        intervals [55]:
+            xmin = 181.8
+            xmax = 185
+            text = ""
+        intervals [56]:
+            xmin = 185
+            xmax = 187.8
+            text = "Um, I want to be a U.S. Attorney, prosecute."
+        intervals [57]:
+            xmin = 187.8
+            xmax = 189
+            text = ""
+        intervals [58]:
+            xmin = 189
+            xmax = 191.8
+            text = "I think it would be fun.  I think it would be really, really fun."
+        intervals [59]:
+            xmin = 191.8
+            xmax = 195
+            text = ""
+        intervals [60]:
+            xmin = 195
+            xmax = 210.8
+            text = "[laughter] Well the great thing about it there's a lot of flexibility.  I mean, like one of the things that sucks about working in corporate law for a law firm is that you don't have a choice what you do.  And you end up, you know, defending [unintelligible] big, bad cigarette tobacco companies, asbestos companies, and you don't really have a choice whereas--"
+        intervals [61]:
+            xmin = 210.8
+            xmax = 211
+            text = ""
+        intervals [62]:
+            xmin = 211
+            xmax = 219.8
+            text = "Well I can do what I want to do.  There's flexibility.  There's discretion.  Uh, still a lot, a lot of [unintelligible].  But I don't know what's better."
+        intervals [63]:
+            xmin = 219.8
+            xmax = 220
+            text = ""
+        intervals [64]:
+            xmin = 220
+            xmax = 220.8
+            text = "Yeah."
+        intervals [65]:
+            xmin = 220.8
+            xmax = 222
+            text = ""
+        intervals [66]:
+            xmin = 222
+            xmax = 222.8
+            text = "It was nice meeting you too, male113."

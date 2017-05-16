@@ -1,0 +1,612 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 249.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 249.6
+intervals: size = 76
+        intervals [1]:
+            xmin = 0
+            xmax = 2.8
+            text = ""
+        intervals [2]:
+            xmin = 2.8
+            xmax = 7.6
+            text = "They're getting shorter.  Hi, I'm male106.  "
+        intervals [3]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [4]:
+            xmin = 7.8
+            xmax = 9.6
+            text = "Nice to meet you.  "
+        intervals [5]:
+            xmin = 9.6
+            xmax = 11.8
+            text = ""
+        intervals [6]:
+            xmin = 11.8
+            xmax = 14.6
+            text = "Computer science.  How about you?  "
+        intervals [7]:
+            xmin = 14.6
+            xmax = 14.8
+            text = ""
+        intervals [8]:
+            xmin = 14.8
+            xmax = 15.6
+            text = "Sorry?  "
+        intervals [9]:
+            xmin = 15.6
+            xmax = 15.8
+            text = ""
+        intervals [10]:
+            xmin = 15.8
+            xmax = 16.6
+            text = "Philosophy?"
+        intervals [11]:
+            xmin = 16.6
+            xmax = 17.8
+            text = ""
+        intervals [12]:
+            xmin = 17.8
+            xmax = 20.6
+            text = "Where are you from?  "
+        intervals [13]:
+            xmin = 20.6
+            xmax = 21.8
+            text = ""
+        intervals [14]:
+            xmin = 21.8
+            xmax = 27.6
+            text = "Guess.  Um, I've French roommates, and I--"
+        intervals [15]:
+            xmin = 27.6
+            xmax = 27.8
+            text = ""
+        intervals [16]:
+            xmin = 27.8
+            xmax = 31.6
+            text = "--yeah, and I don't think you're from France.  "
+        intervals [17]:
+            xmin = 31.6
+            xmax = 33.8
+            text = ""
+        intervals [18]:
+            xmin = 33.8
+            xmax = 35.6
+            text = "Yeah."
+        intervals [19]:
+            xmin = 35.6
+            xmax = 47.6
+            text = "Definitely. Because you said you don't think I'm from France, but see my main reason was I haven't ever seen you.  And my roommates know a lot of French people.  "
+        intervals [20]:
+            xmin = 47.6
+            xmax = 49.8
+            text = ""
+        intervals [21]:
+            xmin = 49.8
+            xmax = 52.6
+            text = "But you are French?  "
+        intervals [22]:
+            xmin = 52.6
+            xmax = 52.8
+            text = ""
+        intervals [23]:
+            xmin = 52.8
+            xmax = 60.6
+            text = "You're not French.  Okay, then Belgium.  That's near France, right?  "
+        intervals [24]:
+            xmin = 60.6
+            xmax = 62.8
+            text = ""
+        intervals [25]:
+            xmin = 62.8
+            xmax = 64.6
+            text = "What's that?"
+        intervals [26]:
+            xmin = 64.6
+            xmax = 65.8
+            text = ""
+        intervals [27]:
+            xmin = 65.8
+            xmax = 71.6
+            text = "Because you're like--I don't know.  I'm just naming countries now.  I can't tell.  "
+        intervals [28]:
+            xmin = 71.6
+            xmax = 71.8
+            text = ""
+        intervals [29]:
+            xmin = 71.8
+            xmax = 73.6
+            text = "Are you going to tell me? "
+        intervals [30]:
+            xmin = 73.6
+            xmax = 74.8
+            text = ""
+        intervals [31]:
+            xmin = 74.8
+            xmax = 76.6
+            text = "Eastern European--which?  "
+        intervals [32]:
+            xmin = 76.6
+            xmax = 77.8
+            text = ""
+        intervals [33]:
+            xmin = 77.8
+            xmax = 82.6
+            text = "Romania, okay.  Are you--is this your--how many years have you been here?  "
+        intervals [34]:
+            xmin = 82.6
+            xmax = 83.8
+            text = ""
+        intervals [35]:
+            xmin = 83.8
+            xmax = 87.6
+            text = "Okay, uh-huh.  Do you like it here?  "
+        intervals [36]:
+            xmin = 87.6
+            xmax = 90.8
+            text = ""
+        intervals [37]:
+            xmin = 90.8
+            xmax = 92.6
+            text = "[interposing]  Yeah, kind of a--"
+        intervals [38]:
+            xmin = 92.6
+            xmax = 93.8
+            text = ""
+        intervals [39]:
+            xmin = 93.8
+            xmax = 98.6
+            text = "Yeah, yeah.  I was born in Minnesota.  Do you know where that is?  "
+        intervals [40]:
+            xmin = 98.6
+            xmax = 99.8
+            text = ""
+        intervals [41]:
+            xmin = 99.8
+            xmax = 101.6
+            text = "I should have made you guess.  "
+        intervals [42]:
+            xmin = 101.6
+            xmax = 104.8
+            text = ""
+        intervals [43]:
+            xmin = 104.8
+            xmax = 105.6
+            text = "Okay.  "
+        intervals [44]:
+            xmin = 105.6
+            xmax = 107.8
+            text = ""
+        intervals [45]:
+            xmin = 107.8
+            xmax = 110.6
+            text = "Yeah, my parents are both from India.  "
+        intervals [46]:
+            xmin = 110.6
+            xmax = 111.8
+            text = ""
+        intervals [47]:
+            xmin = 111.8
+            xmax = 117.6
+            text = "Different ends of India.  My dad was from the Calcutta area.  My mom was from near Bombay.  "
+        intervals [48]:
+            xmin = 117.6
+            xmax = 120.8
+            text = ""
+        intervals [49]:
+            xmin = 120.8
+            xmax = 129.6
+            text = "They like it better.  Like there's a lot of like I guess [unintelligible] values in India that they didn't like.  "
+        intervals [50]:
+            xmin = 129.6
+            xmax = 141.6
+            text = "No, actually I don't.  See, they knew--from like [unintelligible] they knew different languages, but I didn't speak anything at home really.  So, I didn't--they spoke English at home.  "
+        intervals [51]:
+            xmin = 141.6
+            xmax = 152.8
+            text = ""
+        intervals [52]:
+            xmin = 152.8
+            xmax = 154.6
+            text = "[interposing]  Yeah, uh-huh. "
+        intervals [53]:
+            xmin = 154.6
+            xmax = 155.8
+            text = ""
+        intervals [54]:
+            xmin = 155.8
+            xmax = 166.6
+            text = "Yeah, that's true.  So, I mean at first--I mean it was all on you growing up there so it didn't really bother me.  I was pretty much used to it, but I think when I--"
+        intervals [55]:
+            xmin = 166.6
+            xmax = 166.8
+            text = ""
+        intervals [56]:
+            xmin = 166.8
+            xmax = 167.6
+            text = "What's that?  "
+        intervals [57]:
+            xmin = 167.6
+            xmax = 167.8
+            text = ""
+        intervals [58]:
+            xmin = 167.8
+            xmax = 171.6
+            text = "Yeah, a suburb of Minneapolis.  Were you in Minneapolis?  "
+        intervals [59]:
+            xmin = 171.6
+            xmax = 176.8
+            text = ""
+        intervals [60]:
+            xmin = 176.8
+            xmax = 178.6
+            text = "Oh, Saint Ellis.  Uh-huh, yeah.  Uh-huh.  "
+        intervals [61]:
+            xmin = 178.6
+            xmax = 182.8
+            text = ""
+        intervals [62]:
+            xmin = 182.8
+            xmax = 184.6
+            text = "Oh really?  "
+        intervals [63]:
+            xmin = 184.6
+            xmax = 193.8
+            text = ""
+        intervals [64]:
+            xmin = 193.8
+            xmax = 200.6
+            text = "You're back in Europe at least.  Uh-huh.  "
+        intervals [65]:
+            xmin = 200.6
+            xmax = 200.8
+            text = ""
+        intervals [66]:
+            xmin = 200.8
+            xmax = 212.6
+            text = "Yeah, uh-huh.  Yeah, maybe it's probably a little better.  But it's still not the same as here.  There's only like maybe a few different kinds of wood.  "
+        intervals [67]:
+            xmin = 212.6
+            xmax = 215.8
+            text = ""
+        intervals [68]:
+            xmin = 215.8
+            xmax = 216.6
+            text = "What's that?  "
+        intervals [69]:
+            xmin = 216.6
+            xmax = 220.8
+            text = ""
+        intervals [70]:
+            xmin = 220.8
+            xmax = 224.6
+            text = "Yeah, I do, but I like it here better I think definitely.  "
+        intervals [71]:
+            xmin = 224.6
+            xmax = 224.8
+            text = ""
+        intervals [72]:
+            xmin = 224.8
+            xmax = 229.6
+            text = "Yeah, and I think people are a lot more liberal here in general. "
+        intervals [73]:
+            xmin = 229.6
+            xmax = 235.8
+            text = ""
+        intervals [74]:
+            xmin = 235.8
+            xmax = 240.6
+            text = "[interposing]  My parents are really not--we're really not with the Indian values too much.  "
+        intervals [75]:
+            xmin = 240.6
+            xmax = 243.8
+            text = ""
+        intervals [76]:
+            xmin = 243.8
+            xmax = 249.6
+            text = "Uh-huh.  Yeah, uh-huh.  Well, it was nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 249.6
+intervals: size = 72
+        intervals [1]:
+            xmin = 8.18
+            xmax = 9.98
+            text = "Hi, I'm female130.  "
+        intervals [2]:
+            xmin = 9.98
+            xmax = 12.98
+            text = "Nice to meet you.  So, from what department are you?"
+        intervals [3]:
+            xmin = 12.98
+            xmax = 14.18
+            text = ""
+        intervals [4]:
+            xmin = 14.18
+            xmax = 15.98
+            text = "Philosophy.  "
+        intervals [5]:
+            xmin = 15.98
+            xmax = 16.18
+            text = ""
+        intervals [6]:
+            xmin = 16.18
+            xmax = 17.98
+            text = "Philosophy.  "
+        intervals [7]:
+            xmin = 17.98
+            xmax = 18.98
+            text = "Yeah."
+        intervals [8]:
+            xmin = 18.98
+            xmax = 20.18
+            text = ""
+        intervals [9]:
+            xmin = 20.18
+            xmax = 21.98
+            text = "Oh.  Guess."
+        intervals [10]:
+            xmin = 21.98
+            xmax = 27.18
+            text = ""
+        intervals [11]:
+            xmin = 27.18
+            xmax = 27.98
+            text = "French?  "
+        intervals [12]:
+            xmin = 27.98
+            xmax = 31.18
+            text = ""
+        intervals [13]:
+            xmin = 31.18
+            xmax = 33.98
+            text = "Ah, you don't think I'm from France.  Why don't you think I'm from France?  "
+        intervals [14]:
+            xmin = 33.98
+            xmax = 34.18
+            text = ""
+        intervals [15]:
+            xmin = 34.18
+            xmax = 34.98
+            text = "Why?  "
+        intervals [16]:
+            xmin = 34.98
+            xmax = 46.18
+            text = ""
+        intervals [17]:
+            xmin = 46.18
+            xmax = 50.98
+            text = "Oh, oh, okay, so they [unintelligible] huh?  "
+        intervals [18]:
+            xmin = 50.98
+            xmax = 51.18
+            text = ""
+        intervals [19]:
+            xmin = 51.18
+            xmax = 52.98
+            text = "No, no, I'm not French.  "
+        intervals [20]:
+            xmin = 52.98
+            xmax = 59.18
+            text = ""
+        intervals [21]:
+            xmin = 59.18
+            xmax = 62.98
+            text = "That's near, right.  But why are you saying that?  "
+        intervals [22]:
+            xmin = 62.98
+            xmax = 63.18
+            text = ""
+        intervals [23]:
+            xmin = 63.18
+            xmax = 65.98
+            text = "Why do you think, accent or why?  "
+        intervals [24]:
+            xmin = 65.98
+            xmax = 70.18
+            text = ""
+        intervals [25]:
+            xmin = 70.18
+            xmax = 72.98
+            text = "Oh, okay."
+        intervals [26]:
+            xmin = 72.98
+            xmax = 73.18
+            text = ""
+        intervals [27]:
+            xmin = 73.18
+            xmax = 74.98
+            text = "Eastern European.  "
+        intervals [28]:
+            xmin = 74.98
+            xmax = 75.18
+            text = ""
+        intervals [29]:
+            xmin = 75.18
+            xmax = 77.98
+            text = "Romania.  "
+        intervals [30]:
+            xmin = 77.98
+            xmax = 81.18
+            text = ""
+        intervals [31]:
+            xmin = 81.18
+            xmax = 83.98
+            text = "Three years.  "
+        intervals [32]:
+            xmin = 83.98
+            xmax = 86.18
+            text = ""
+        intervals [33]:
+            xmin = 86.18
+            xmax = 90.98
+            text = "Yeah.  Now I do.  At the beginning, I--"
+        intervals [34]:
+            xmin = 90.98
+            xmax = 91.18
+            text = ""
+        intervals [35]:
+            xmin = 91.18
+            xmax = 93.98
+            text = "[interposing]  You are from here?  "
+        intervals [36]:
+            xmin = 93.98
+            xmax = 99.18
+            text = ""
+        intervals [37]:
+            xmin = 99.18
+            xmax = 99.98
+            text = "Uh.  "
+        intervals [38]:
+            xmin = 99.98
+            xmax = 100.18
+            text = ""
+        intervals [39]:
+            xmin = 100.18
+            xmax = 104.98
+            text = "Actually, no.  [unintelligible] Romania.  "
+        intervals [40]:
+            xmin = 104.98
+            xmax = 106.18
+            text = ""
+        intervals [41]:
+            xmin = 106.18
+            xmax = 107.98
+            text = "You are Indian, right?  "
+        intervals [42]:
+            xmin = 107.98
+            xmax = 110.18
+            text = ""
+        intervals [43]:
+            xmin = 110.18
+            xmax = 110.98
+            text = "Where?  "
+        intervals [44]:
+            xmin = 110.98
+            xmax = 118.18
+            text = ""
+        intervals [45]:
+            xmin = 118.18
+            xmax = 119.98
+            text = "How do they feel about this country?  "
+        intervals [46]:
+            xmin = 119.98
+            xmax = 126.18
+            text = ""
+        intervals [47]:
+            xmin = 126.18
+            xmax = 127.98
+            text = "[unintelligible] "
+        intervals [48]:
+            xmin = 127.98
+            xmax = 140.18
+            text = ""
+        intervals [49]:
+            xmin = 140.18
+            xmax = 152.98
+            text = "So, if you [unintelligible] Indian, but I went to [unintelligible].  I did some research in Kierkegaard and I like to not [unintelligible]how it's so clean and--"
+        intervals [50]:
+            xmin = 152.98
+            xmax = 154.18
+            text = ""
+        intervals [51]:
+            xmin = 154.18
+            xmax = 155.98
+            text = "But then [unintelligible].  "
+        intervals [52]:
+            xmin = 155.98
+            xmax = 165.18
+            text = ""
+        intervals [53]:
+            xmin = 165.18
+            xmax = 165.98
+            text = "[interposing]  In a suburb?  "
+        intervals [54]:
+            xmin = 165.98
+            xmax = 167.18
+            text = ""
+        intervals [55]:
+            xmin = 167.18
+            xmax = 167.98
+            text = "[unintelligible]?  "
+        intervals [56]:
+            xmin = 167.98
+            xmax = 170.18
+            text = ""
+        intervals [57]:
+            xmin = 170.18
+            xmax = 176.98
+            text = "I went to near Minneapolis, San [unintelligible] college.  Do you know that?  "
+        intervals [58]:
+            xmin = 176.98
+            xmax = 178.18
+            text = ""
+        intervals [59]:
+            xmin = 178.18
+            xmax = 182.98
+            text = "I didn't like it.  It was very like there was lots of money coming from Denmark and Norway.  "
+        intervals [60]:
+            xmin = 182.98
+            xmax = 183.18
+            text = ""
+        intervals [61]:
+            xmin = 183.18
+            xmax = 193.98
+            text = "To fund different research.  Everybody had Danish clogs at the foreign hall legion.  Their porch, and I felt like I'm in another country.  "
+        intervals [62]:
+            xmin = 193.98
+            xmax = 197.18
+            text = ""
+        intervals [63]:
+            xmin = 197.18
+            xmax = 199.98
+            text = "I like the [unintelligible] here.  "
+        intervals [64]:
+            xmin = 199.98
+            xmax = 211.18
+            text = ""
+        intervals [65]:
+            xmin = 211.18
+            xmax = 215.98
+            text = "You're allergic to [unintelligible].  "
+        intervals [66]:
+            xmin = 215.98
+            xmax = 220.98
+            text = "I don't know.  I'm allergic [unintelligible]?  "
+        intervals [67]:
+            xmin = 220.98
+            xmax = 223.18
+            text = ""
+        intervals [68]:
+            xmin = 223.18
+            xmax = 224.98
+            text = "Because it's more diverse and [unintelligible].  "
+        intervals [69]:
+            xmin = 224.98
+            xmax = 228.18
+            text = ""
+        intervals [70]:
+            xmin = 228.18
+            xmax = 234.98
+            text = "So, [unintelligible] do you parallel Indian liberal values to--"
+        intervals [71]:
+            xmin = 234.98
+            xmax = 240.18
+            text = ""
+        intervals [72]:
+            xmin = 240.18
+            xmax = 243.98
+            text = "I feel like--but I miss my [unintelligible].  "

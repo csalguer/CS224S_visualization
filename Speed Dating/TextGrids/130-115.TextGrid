@@ -1,0 +1,572 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 239.85
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 239.85
+intervals: size = 70
+        intervals [1]:
+            xmin = 0
+            xmax = 0.0499999999999998
+            text = ""
+        intervals [2]:
+            xmin = 0.0499999999999998
+            xmax = 4.85
+            text = "Hi, I'm male115.  Hi, nice to meet you.  "
+        intervals [3]:
+            xmin = 4.85
+            xmax = 5.05
+            text = ""
+        intervals [4]:
+            xmin = 5.05
+            xmax = 8.85
+            text = "I'm from Spain.  How about you?  "
+        intervals [5]:
+            xmin = 8.85
+            xmax = 11.05
+            text = ""
+        intervals [6]:
+            xmin = 11.05
+            xmax = 23.85
+            text = "You're from Europe?  I am--well, I will tell you in a second once I hear your accent.  So, what was your letter, 'J?'  I will tell you in a second.  So, what's your program?  "
+        intervals [7]:
+            xmin = 23.85
+            xmax = 25.05
+            text = ""
+        intervals [8]:
+            xmin = 25.05
+            xmax = 26.85
+            text = "Oh, philosophy.  "
+        intervals [9]:
+            xmin = 26.85
+            xmax = 28.05
+            text = ""
+        intervals [10]:
+            xmin = 28.05
+            xmax = 28.85
+            text = "I do physics.  "
+        intervals [11]:
+            xmin = 28.85
+            xmax = 32.05
+            text = ""
+        intervals [12]:
+            xmin = 32.05
+            xmax = 34.85
+            text = "I do biophysics, computational stuff.  "
+        intervals [13]:
+            xmin = 34.85
+            xmax = 38.05
+            text = ""
+        intervals [14]:
+            xmin = 38.05
+            xmax = 50.85
+            text = "I--okay, so I work with computers on proteins.  That's what I do.  Instead of doing experiments, it's in the computer. I'm sorry?  "
+        intervals [15]:
+            xmin = 50.85
+            xmax = 52.05
+            text = ""
+        intervals [16]:
+            xmin = 52.05
+            xmax = 53.85
+            text = "Oh, by my research?  "
+        intervals [17]:
+            xmin = 53.85
+            xmax = 54.05
+            text = ""
+        intervals [18]:
+            xmin = 54.05
+            xmax = 61.85
+            text = "Oh, that they are very important.  [laughter]  I cannot guess where you are from.  Let me say Bulgaria.  "
+        intervals [19]:
+            xmin = 61.85
+            xmax = 63.05
+            text = ""
+        intervals [20]:
+            xmin = 63.05
+            xmax = 63.85
+            text = "Bulgaria?  "
+        intervals [21]:
+            xmin = 63.85
+            xmax = 70.05
+            text = ""
+        intervals [22]:
+            xmin = 70.05
+            xmax = 70.85
+            text = "No, French.  "
+        intervals [23]:
+            xmin = 70.85
+            xmax = 72.05
+            text = ""
+        intervals [24]:
+            xmin = 72.05
+            xmax = 73.85
+            text = "Are you French?  "
+        intervals [25]:
+            xmin = 73.85
+            xmax = 74.05
+            text = ""
+        intervals [26]:
+            xmin = 74.05
+            xmax = 74.85
+            text = "Yeah.  "
+        intervals [27]:
+            xmin = 74.85
+            xmax = 78.05
+            text = ""
+        intervals [28]:
+            xmin = 78.05
+            xmax = 79.85
+            text = "Well, from Belgium?  "
+        intervals [29]:
+            xmin = 79.85
+            xmax = 82.05
+            text = ""
+        intervals [30]:
+            xmin = 82.05
+            xmax = 85.85
+            text = "Yeah, but in Belgium they also speak the other [unintelligible].  "
+        intervals [31]:
+            xmin = 85.85
+            xmax = 86.05
+            text = ""
+        intervals [32]:
+            xmin = 86.05
+            xmax = 86.85
+            text = "Or Dutch?  "
+        intervals [33]:
+            xmin = 86.85
+            xmax = 89.05
+            text = ""
+        intervals [34]:
+            xmin = 89.05
+            xmax = 91.85
+            text = "Or Denmark?  Denmark?  "
+        intervals [35]:
+            xmin = 91.85
+            xmax = 97.05
+            text = ""
+        intervals [36]:
+            xmin = 97.05
+            xmax = 102.85
+            text = "I don't know.  You're mostly--I know--are you Swedish?  "
+        intervals [37]:
+            xmin = 102.85
+            xmax = 106.05
+            text = ""
+        intervals [38]:
+            xmin = 106.05
+            xmax = 107.85
+            text = "Oh, Greece?  "
+        intervals [39]:
+            xmin = 107.85
+            xmax = 110.05
+            text = ""
+        intervals [40]:
+            xmin = 110.05
+            xmax = 112.85
+            text = "Oh, Romania, Romania.  "
+        intervals [41]:
+            xmin = 112.85
+            xmax = 115.05
+            text = ""
+        intervals [42]:
+            xmin = 115.05
+            xmax = 120.85
+            text = "Oh, that's really interesting. Okay, okay, okay, that was hard.  "
+        intervals [43]:
+            xmin = 120.85
+            xmax = 125.05
+            text = ""
+        intervals [44]:
+            xmin = 125.05
+            xmax = 129.85
+            text = "Yeah, yeah, yeah, that's true.  Yeah, that's where I see a little bit of French, but you don't have a French accent.  "
+        intervals [45]:
+            xmin = 129.85
+            xmax = 137.05
+            text = ""
+        intervals [46]:
+            xmin = 137.05
+            xmax = 146.85
+            text = "Because I don't know many people from Bulgaria, and then I said probably she is from Bulgaria.  I know.  That was a very wild guess.  "
+        intervals [47]:
+            xmin = 146.85
+            xmax = 153.05
+            text = ""
+        intervals [48]:
+            xmin = 153.05
+            xmax = 165.85
+            text = "You know what happens that people--I mean at least me, we don't know so much about accents, you know, and then we just have these silly ideas that maybe within a Russian accent it sounds like that.  "
+        intervals [49]:
+            xmin = 165.85
+            xmax = 166.05
+            text = ""
+        intervals [50]:
+            xmin = 166.05
+            xmax = 172.85
+            text = "And to me people very often they say that I come from Russia.  Really?  "
+        intervals [51]:
+            xmin = 172.85
+            xmax = 173.05
+            text = ""
+        intervals [52]:
+            xmin = 173.05
+            xmax = 175.85
+            text = "They tell me that, I don't know why [unintelligible].  "
+        intervals [53]:
+            xmin = 175.85
+            xmax = 180.05
+            text = ""
+        intervals [54]:
+            xmin = 180.05
+            xmax = 187.85
+            text = "I know but many people they just--since I'm pretty pale, and my name is male115 and that sounds like Serge [phonetic].  "
+        intervals [55]:
+            xmin = 187.85
+            xmax = 189.05
+            text = ""
+        intervals [56]:
+            xmin = 189.05
+            xmax = 196.85
+            text = "I guess it's regards of that, but many people say, oh, you come from Russia?  Yeah, really I'm the next [unintelligible].  "
+        intervals [57]:
+            xmin = 196.85
+            xmax = 198.05
+            text = ""
+        intervals [58]:
+            xmin = 198.05
+            xmax = 203.85
+            text = "In the beginning I was surprised, but then I say I come from Spain.  And then for some reason they like it better.  "
+        intervals [59]:
+            xmin = 203.85
+            xmax = 205.05
+            text = ""
+        intervals [60]:
+            xmin = 205.05
+            xmax = 206.85
+            text = "They say, oh, really?  They don't believe me sometimes.  "
+        intervals [61]:
+            xmin = 206.85
+            xmax = 210.05
+            text = ""
+        intervals [62]:
+            xmin = 210.05
+            xmax = 220.85
+            text = "Yeah, and they say, oh, you speak Spanish.  And I say, yeah, I'm telling you I come from Spain.  They don't really believe me.  They think I was born in Spain, and then I moved somewhere else.  Really funny.  "
+        intervals [63]:
+            xmin = 220.85
+            xmax = 222.05
+            text = ""
+        intervals [64]:
+            xmin = 222.05
+            xmax = 223.85
+            text = "From?  I am from Madrid.  "
+        intervals [65]:
+            xmin = 223.85
+            xmax = 224.05
+            text = ""
+        intervals [66]:
+            xmin = 224.05
+            xmax = 225.85
+            text = "I am from Madrid.  "
+        intervals [67]:
+            xmin = 225.85
+            xmax = 233.05
+            text = ""
+        intervals [68]:
+            xmin = 233.05
+            xmax = 234.85
+            text = "Oh really?  You have to go.  "
+        intervals [69]:
+            xmin = 234.85
+            xmax = 237.05
+            text = ""
+        intervals [70]:
+            xmin = 237.05
+            xmax = 239.85
+            text = "Okay, very nice to meet you.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 239.85
+intervals: size = 68
+        intervals [1]:
+            xmin = 1.6
+            xmax = 4.8
+            text = ""
+        intervals [2]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "[unintelligible] .  "
+        intervals [3]:
+            xmin = 5.6
+            xmax = 10.8
+            text = ""
+        intervals [4]:
+            xmin = 10.8
+            xmax = 11.6
+            text = "I'm from Europe.  "
+        intervals [5]:
+            xmin = 11.6
+            xmax = 24.8
+            text = ""
+        intervals [6]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "Philosophy.  "
+        intervals [7]:
+            xmin = 26.6
+            xmax = 27.8
+            text = ""
+        intervals [8]:
+            xmin = 27.8
+            xmax = 28.6
+            text = "What is yours?  "
+        intervals [9]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [10]:
+            xmin = 28.8
+            xmax = 31.6
+            text = "What kind of physics?  "
+        intervals [11]:
+            xmin = 31.6
+            xmax = 37.8
+            text = ""
+        intervals [12]:
+            xmin = 37.8
+            xmax = 39.6
+            text = "Like what?  "
+        intervals [13]:
+            xmin = 39.6
+            xmax = 50.8
+            text = ""
+        intervals [14]:
+            xmin = 50.8
+            xmax = 52.6
+            text = "What did you figure out until now?  "
+        intervals [15]:
+            xmin = 52.6
+            xmax = 53.8
+            text = ""
+        intervals [16]:
+            xmin = 53.8
+            xmax = 54.6
+            text = "Yeah.  "
+        intervals [17]:
+            xmin = 54.6
+            xmax = 62.8
+            text = ""
+        intervals [18]:
+            xmin = 62.8
+            xmax = 63.6
+            text = "Where?  "
+        intervals [19]:
+            xmin = 63.6
+            xmax = 64.8
+            text = ""
+        intervals [20]:
+            xmin = 64.8
+            xmax = 69.6
+            text = "Bulgaria, why?  Accent, or?  "
+        intervals [21]:
+            xmin = 69.6
+            xmax = 72.8
+            text = ""
+        intervals [22]:
+            xmin = 72.8
+            xmax = 73.6
+            text = "French?  "
+        intervals [23]:
+            xmin = 73.6
+            xmax = 73.8
+            text = ""
+        intervals [24]:
+            xmin = 73.8
+            xmax = 75.6
+            text = "Do you know French?  Do you speak French? "
+        intervals [25]:
+            xmin = 75.6
+            xmax = 75.8
+            text = ""
+        intervals [26]:
+            xmin = 75.8
+            xmax = 79.6
+            text = "So you should recognize if I have a French accent, right?  "
+        intervals [27]:
+            xmin = 79.6
+            xmax = 80.8
+            text = ""
+        intervals [28]:
+            xmin = 80.8
+            xmax = 83.6
+            text = "That would be a French accent too.  "
+        intervals [29]:
+            xmin = 83.6
+            xmax = 84.8
+            text = ""
+        intervals [30]:
+            xmin = 84.8
+            xmax = 86.6
+            text = "Ah yes, the other one.  "
+        intervals [31]:
+            xmin = 86.6
+            xmax = 87.8
+            text = ""
+        intervals [32]:
+            xmin = 87.8
+            xmax = 90.6
+            text = "It's getting interesting.  "
+        intervals [33]:
+            xmin = 90.6
+            xmax = 91.8
+            text = ""
+        intervals [34]:
+            xmin = 91.8
+            xmax = 95.6
+            text = "Ah, am I not too brown for Denmark, like too dark?  "
+        intervals [35]:
+            xmin = 95.6
+            xmax = 103.8
+            text = ""
+        intervals [36]:
+            xmin = 103.8
+            xmax = 107.6
+            text = "You are getting to the north, and I am from the south.  "
+        intervals [37]:
+            xmin = 107.6
+            xmax = 109.8
+            text = ""
+        intervals [38]:
+            xmin = 109.8
+            xmax = 111.6
+            text = "I [unintelligible], but I'm from Romania.  "
+        intervals [39]:
+            xmin = 111.6
+            xmax = 111.8
+            text = ""
+        intervals [40]:
+            xmin = 111.8
+            xmax = 116.6
+            text = "My father is Greek, but I was born in Romania.  "
+        intervals [41]:
+            xmin = 116.6
+            xmax = 119.8
+            text = ""
+        intervals [42]:
+            xmin = 119.8
+            xmax = 126.6
+            text = "So, I speak a romance language.  I think it's really important for a country.  "
+        intervals [43]:
+            xmin = 126.6
+            xmax = 132.8
+            text = ""
+        intervals [44]:
+            xmin = 132.8
+            xmax = 135.6
+            text = "At least I wasn't Russian.  Why Bulgarian?  "
+        intervals [45]:
+            xmin = 135.6
+            xmax = 147.8
+            text = ""
+        intervals [46]:
+            xmin = 147.8
+            xmax = 154.6
+            text = "[unintelligible]."
+        intervals [47]:
+            xmin = 154.6
+            xmax = 165.8
+            text = ""
+        intervals [48]:
+            xmin = 165.8
+            xmax = 166.6
+            text = "Oh."
+        intervals [49]:
+            xmin = 166.6
+            xmax = 172.8
+            text = ""
+        intervals [50]:
+            xmin = 172.8
+            xmax = 175.6
+            text = "They tell you that?  "
+        intervals [51]:
+            xmin = 175.6
+            xmax = 175.8
+            text = ""
+        intervals [52]:
+            xmin = 175.8
+            xmax = 180.6
+            text = "Because you are speaking a [unintelligible] language, and [unintelligible] romance.  "
+        intervals [53]:
+            xmin = 180.6
+            xmax = 188.8
+            text = ""
+        intervals [54]:
+            xmin = 188.8
+            xmax = 191.6
+            text = "Ah, [unintelligible].  "
+        intervals [55]:
+            xmin = 191.6
+            xmax = 196.8
+            text = ""
+        intervals [56]:
+            xmin = 196.8
+            xmax = 199.6
+            text = "[unintelligible].  "
+        intervals [57]:
+            xmin = 199.6
+            xmax = 204.8
+            text = ""
+        intervals [58]:
+            xmin = 204.8
+            xmax = 205.6
+            text = "Of course. "
+        intervals [59]:
+            xmin = 205.6
+            xmax = 207.8
+            text = ""
+        intervals [60]:
+            xmin = 207.8
+            xmax = 210.6
+            text = "They feel happy then, right?  "
+        intervals [61]:
+            xmin = 210.6
+            xmax = 220.8
+            text = ""
+        intervals [62]:
+            xmin = 220.8
+            xmax = 222.6
+            text = "Where do you come from?  "
+        intervals [63]:
+            xmin = 222.6
+            xmax = 223.8
+            text = ""
+        intervals [64]:
+            xmin = 223.8
+            xmax = 225.6
+            text = "Where?  "
+        intervals [65]:
+            xmin = 225.6
+            xmax = 226.8
+            text = ""
+        intervals [66]:
+            xmin = 226.8
+            xmax = 233.6
+            text = "[unintelligible].  I always wanted to visit Spain.  That's my next spot."
+        intervals [67]:
+            xmin = 233.6
+            xmax = 235.8
+            text = ""
+        intervals [68]:
+            xmin = 235.8
+            xmax = 238.6
+            text = "Yeah, many people know about Spain. "

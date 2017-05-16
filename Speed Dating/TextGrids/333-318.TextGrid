@@ -1,0 +1,524 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 246.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 246.6
+intervals: size = 64
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 2.6
+            text = "That's alright.  "
+        intervals [3]:
+            xmin = 2.6
+            xmax = 9.8
+            text = ""
+        intervals [4]:
+            xmin = 9.8
+            xmax = 10.6
+            text = "male318 [phonetic]."
+        intervals [5]:
+            xmin = 10.6
+            xmax = 10.8
+            text = ""
+        intervals [6]:
+            xmin = 10.8
+            xmax = 11.6
+            text = "Nice to meet you."
+        intervals [7]:
+            xmin = 11.6
+            xmax = 15.8
+            text = ""
+        intervals [8]:
+            xmin = 15.8
+            xmax = 18.6
+            text = "Yeah.  I know.  Physics."
+        intervals [9]:
+            xmin = 18.6
+            xmax = 18.8
+            text = ""
+        intervals [10]:
+            xmin = 18.8
+            xmax = 21.6
+            text = "Physics, yeah, Ph.D.-- Ph.D. program."
+        intervals [11]:
+            xmin = 21.6
+            xmax = 21.8
+            text = ""
+        intervals [12]:
+            xmin = 21.8
+            xmax = 22.6
+            text = "Um--"
+        intervals [13]:
+            xmin = 22.6
+            xmax = 23.8
+            text = ""
+        intervals [14]:
+            xmin = 23.8
+            xmax = 24.6
+            text = "Applied physics."
+        intervals [15]:
+            xmin = 24.6
+            xmax = 24.8
+            text = ""
+        intervals [16]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "Or applied applied physics."
+        intervals [17]:
+            xmin = 26.6
+            xmax = 27.8
+            text = ""
+        intervals [18]:
+            xmin = 27.8
+            xmax = 28.6
+            text = "Engineering physics."
+        intervals [19]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [20]:
+            xmin = 28.8
+            xmax = 35.6
+            text = "Uh, my work is to put um, to put two microimaging systems together."
+        intervals [21]:
+            xmin = 35.6
+            xmax = 35.8
+            text = ""
+        intervals [22]:
+            xmin = 35.8
+            xmax = 39.6
+            text = "To combine two [unintelligible] imagine systems together."
+        intervals [23]:
+            xmin = 39.6
+            xmax = 39.8
+            text = ""
+        intervals [24]:
+            xmin = 39.8
+            xmax = 42.6
+            text = "One is x-ray, the other one is MR.  "
+        intervals [25]:
+            xmin = 42.6
+            xmax = 42.8
+            text = ""
+        intervals [26]:
+            xmin = 42.8
+            xmax = 43.6
+            text = "And that while the--"
+        intervals [27]:
+            xmin = 43.6
+            xmax = 43.8
+            text = ""
+        intervals [28]:
+            xmin = 43.8
+            xmax = 51.6
+            text = "The patient is uh, is being performed a procedure, the doctor can have both um, image [unintelligible]"
+        intervals [29]:
+            xmin = 51.6
+            xmax = 53.8
+            text = ""
+        intervals [30]:
+            xmin = 53.8
+            xmax = 54.6
+            text = "Right."
+        intervals [31]:
+            xmin = 54.6
+            xmax = 63.8
+            text = ""
+        intervals [32]:
+            xmin = 63.8
+            xmax = 68.6
+            text = "So, this uh, this MR machine is special, it's called unconventional MR.  "
+        intervals [33]:
+            xmin = 68.6
+            xmax = 68.8
+            text = ""
+        intervals [34]:
+            xmin = 68.8
+            xmax = 76.6
+            text = "So, unlike a conventional um, MR, it's a, uh, [unintelligible]"
+        intervals [35]:
+            xmin = 76.6
+            xmax = 76.8
+            text = ""
+        intervals [36]:
+            xmin = 76.8
+            xmax = 88.6
+            text = "The magnet of this MR is like, uh, uh two- two donuts seaparated with a, by a gap so that the [unintelligible] go into the bore."
+        intervals [37]:
+            xmin = 88.6
+            xmax = 88.8
+            text = ""
+        intervals [38]:
+            xmin = 88.8
+            xmax = 96.6
+            text = "And then we put a, actually a detector underneath the patient, and they would put an x-ray ab- above the enclosure."
+        intervals [39]:
+            xmin = 96.6
+            xmax = 102.8
+            text = ""
+        intervals [40]:
+            xmin = 102.8
+            xmax = 103.6
+            text = "Yes."
+        intervals [41]:
+            xmin = 103.6
+            xmax = 114.8
+            text = ""
+        intervals [42]:
+            xmin = 114.8
+            xmax = 143.6
+            text = "Um, so there are two major components for the x-ray system, one is a-- the x-ray's actually a tube, the other one is a detector.  And so, there actually is very sensitive to magnetic- magnetic fields, because uh, because the- the electron beam inside the [unintelligible] can easily be bent by the external magnetic field.  While the x-ray detector can create additional ec- uh magnetic field, that can spoil the field homogeneity."
+        intervals [43]:
+            xmin = 143.6
+            xmax = 144.8
+            text = ""
+        intervals [44]:
+            xmin = 144.8
+            xmax = 148.6
+            text = "Right.  So I need to fully understand them and find a solution for them."
+        intervals [45]:
+            xmin = 148.6
+            xmax = 151.8
+            text = ""
+        intervals [46]:
+            xmin = 151.8
+            xmax = 153.6
+            text = "So you are neuroscience?"
+        intervals [47]:
+            xmin = 153.6
+            xmax = 154.8
+            text = ""
+        intervals [48]:
+            xmin = 154.8
+            xmax = 156.6
+            text = "Okay.  [unintelligible]"
+        intervals [49]:
+            xmin = 156.6
+            xmax = 160.8
+            text = ""
+        intervals [50]:
+            xmin = 160.8
+            xmax = 163.6
+            text = "So you are then M.D./Ph.D."
+        intervals [51]:
+            xmin = 163.6
+            xmax = 198.8
+            text = ""
+        intervals [52]:
+            xmin = 198.8
+            xmax = 199.6
+            text = "In China."
+        intervals [53]:
+            xmin = 199.6
+            xmax = 203.8
+            text = ""
+        intervals [54]:
+            xmin = 203.8
+            xmax = 204.6
+            text = "Oh, in Stanford."
+        intervals [55]:
+            xmin = 204.6
+            xmax = 204.8
+            text = ""
+        intervals [56]:
+            xmin = 204.8
+            xmax = 207.6
+            text = "So you're going to be here for more than ten years."
+        intervals [57]:
+            xmin = 207.6
+            xmax = 210.8
+            text = ""
+        intervals [58]:
+            xmin = 210.8
+            xmax = 214.6
+            text = "Okay, but it's probably best place to be to spend your 12 years."
+        intervals [59]:
+            xmin = 214.6
+            xmax = 231.8
+            text = ""
+        intervals [60]:
+            xmin = 231.8
+            xmax = 232.6
+            text = "So you're going to be a--"
+        intervals [61]:
+            xmin = 232.6
+            xmax = 232.8
+            text = ""
+        intervals [62]:
+            xmin = 232.8
+            xmax = 233.6
+            text = "--professor here?"
+        intervals [63]:
+            xmin = 233.6
+            xmax = 240.8
+            text = ""
+        intervals [64]:
+            xmin = 240.8
+            xmax = 242.6
+            text = "Have more places in your resume.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 246.6
+intervals: size = 62
+        intervals [1]:
+            xmin = 0.8
+            xmax = 4.6
+            text = "Sorry, just give me a sec.  Hm.  "
+        intervals [2]:
+            xmin = 4.6
+            xmax = 6.8
+            text = ""
+        intervals [3]:
+            xmin = 6.8
+            xmax = 9.6
+            text = "Alright, hi.  female333.  "
+        intervals [4]:
+            xmin = 9.6
+            xmax = 9.8
+            text = ""
+        intervals [5]:
+            xmin = 9.8
+            xmax = 11.6
+            text = "Nice to meet you.  "
+        intervals [6]:
+            xmin = 11.6
+            xmax = 11.8
+            text = ""
+        intervals [7]:
+            xmin = 11.8
+            xmax = 18.6
+            text = "Cool.  So what department are you in?  I'm sure that's very much what everyone asks, but it's a good way to start."
+        intervals [8]:
+            xmin = 18.6
+            xmax = 19.6
+            text = "Physics?"
+        intervals [9]:
+            xmin = 19.6
+            xmax = 20.8
+            text = ""
+        intervals [10]:
+            xmin = 20.8
+            xmax = 21.6
+            text = "Okay.  "
+        intervals [11]:
+            xmin = 21.6
+            xmax = 21.8
+            text = ""
+        intervals [12]:
+            xmin = 21.8
+            xmax = 23.6
+            text = "Geophysics, applied physics."
+        intervals [13]:
+            xmin = 23.6
+            xmax = 23.8
+            text = ""
+        intervals [14]:
+            xmin = 23.8
+            xmax = 24.6
+            text = "Okay."
+        intervals [15]:
+            xmin = 24.6
+            xmax = 26.8
+            text = ""
+        intervals [16]:
+            xmin = 26.8
+            xmax = 27.6
+            text = "Okay.  "
+        intervals [17]:
+            xmin = 27.6
+            xmax = 27.8
+            text = ""
+        intervals [18]:
+            xmin = 27.8
+            xmax = 28.6
+            text = "Okay."
+        intervals [19]:
+            xmin = 28.6
+            xmax = 34.8
+            text = ""
+        intervals [20]:
+            xmin = 34.8
+            xmax = 36.6
+            text = "I'm sorry, to put what, sorry?"
+        intervals [21]:
+            xmin = 36.6
+            xmax = 38.8
+            text = ""
+        intervals [22]:
+            xmin = 38.8
+            xmax = 40.6
+            text = "Oh, okay.  That's cool."
+        intervals [23]:
+            xmin = 40.6
+            xmax = 41.8
+            text = ""
+        intervals [24]:
+            xmin = 41.8
+            xmax = 42.6
+            text = "Okay."
+        intervals [25]:
+            xmin = 42.6
+            xmax = 42.8
+            text = ""
+        intervals [26]:
+            xmin = 42.8
+            xmax = 44.6
+            text = "That's awesome."
+        intervals [27]:
+            xmin = 44.6
+            xmax = 51.8
+            text = ""
+        intervals [28]:
+            xmin = 51.8
+            xmax = 54.6
+            text = "So, like, as the procedure's being performed, you have both-- "
+        intervals [29]:
+            xmin = 54.6
+            xmax = 54.8
+            text = ""
+        intervals [30]:
+            xmin = 54.8
+            xmax = 64.6
+            text = "So how, so I- I'm actually medicine, I'm medicine and neuroscience, so it's very intriguing to me.  So, how, I mean, they're very, very different methods, so how would you co-- I mean, how would you combine x-ray and--"
+        intervals [31]:
+            xmin = 64.6
+            xmax = 68.8
+            text = ""
+        intervals [32]:
+            xmin = 68.8
+            xmax = 69.6
+            text = "Uh-huh."
+        intervals [33]:
+            xmin = 69.6
+            xmax = 75.8
+            text = ""
+        intervals [34]:
+            xmin = 75.8
+            xmax = 76.6
+            text = "Uh-huh."
+        intervals [35]:
+            xmin = 76.6
+            xmax = 87.8
+            text = ""
+        intervals [36]:
+            xmin = 87.8
+            xmax = 88.6
+            text = "Oh, okay.  "
+        intervals [37]:
+            xmin = 88.6
+            xmax = 96.8
+            text = ""
+        intervals [38]:
+            xmin = 96.8
+            xmax = 103.6
+            text = "Okay, so it's basically kind of physically combining two machines, so you kind of have like MR, taking it from the [unintelligible] that's x-ray, that way, that kind of thing?"
+        intervals [39]:
+            xmin = 103.6
+            xmax = 103.8
+            text = ""
+        intervals [40]:
+            xmin = 103.8
+            xmax = 115.6
+            text = "Uh-huh, that's cool.  That's awesome.  And what is the-- I mean, like your things that, what is the difficulty in combining the two?  I mean, like, where does your work come in?  Because it sounds like, you know, just build a machine in such a way that it's like, you know."
+        intervals [41]:
+            xmin = 115.6
+            xmax = 141.8
+            text = ""
+        intervals [42]:
+            xmin = 141.8
+            xmax = 146.6
+            text = "Okay, okay, so basically interference from two systems is--"
+        intervals [43]:
+            xmin = 146.6
+            xmax = 147.8
+            text = ""
+        intervals [44]:
+            xmin = 147.8
+            xmax = 151.6
+            text = "Okay, cool.  That's very impressive, very cool."
+        intervals [45]:
+            xmin = 151.6
+            xmax = 152.8
+            text = ""
+        intervals [46]:
+            xmin = 152.8
+            xmax = 155.6
+            text = "I'm medicine and neuroscience, so uh--"
+        intervals [47]:
+            xmin = 155.6
+            xmax = 155.8
+            text = ""
+        intervals [48]:
+            xmin = 155.8
+            xmax = 161.6
+            text = "I'm now finishing my second year of M.D., and then I'm starting my Ph.D. the summer."
+        intervals [49]:
+            xmin = 161.6
+            xmax = 162.8
+            text = ""
+        intervals [50]:
+            xmin = 162.8
+            xmax = 199.6
+            text = "Yeah, yeah, yeah.  Uh, and yeah, my Ph.D. will be neuroscience, like mostly cellular molecular stuff, so basically how-- It's a bit like developmental neuroscience, essentially, so how neurons as they develop kind of find their appropriate synaptic partners.  So it's almost like neuronal dating, if you want.  Um, you know, kind of how do you choose who the appropriate neuron to make a synapse with it.  So, it's probably what I'll be working on, and then yeah, the Ph.D. should take about maybe four years, and then last year's at med school, so I'll be here for a while, it seems.  But, it's okay, I like it.  Did you do undergrad, meaning, like around here?  "
+        intervals [51]:
+            xmin = 199.6
+            xmax = 199.8
+            text = ""
+        intervals [52]:
+            xmin = 199.8
+            xmax = 205.6
+            text = "In China, okay.  That's very cool.  Um, yeah I did my undergrad here, so it's [unintelligible]"
+        intervals [53]:
+            xmin = 205.6
+            xmax = 206.6
+            text = "Yeah, so, for like--"
+        intervals [54]:
+            xmin = 206.6
+            xmax = 206.8
+            text = ""
+        intervals [55]:
+            xmin = 206.8
+            xmax = 211.6
+            text = "Yeah, no, it will be probably 12 years, it seems, uh, yeah.  "
+        intervals [56]:
+            xmin = 211.6
+            xmax = 213.8
+            text = ""
+        intervals [57]:
+            xmin = 213.8
+            xmax = 232.6
+            text = "That's exactly what I thinking, so [laughter] pretty much, you know.  It's a, you know, it's a really nice place, and if I have to choose anywhere to spend this many years, it would be Stanford, so, I like it a lot.  This kind of makes a little bit more del-- you know, it's not as interesting, you know, it's like, 'Yeah, I was at Stanford before, and I'm Stanford now, and I'll be Stanford,' doesn't give a lot of dynamic--"
+        intervals [58]:
+            xmin = 232.6
+            xmax = 233.6
+            text = "--[unintelligible]."
+        intervals [59]:
+            xmin = 233.6
+            xmax = 233.8
+            text = ""
+        intervals [60]:
+            xmin = 233.8
+            xmax = 242.6
+            text = "It would be nice.  [laughter]  I doubt that will happen, though; I do think that they'll probably want a little bit more change, and they're like [horn] go expose yourself to other places kind of thing."
+        intervals [61]:
+            xmin = 242.6
+            xmax = 242.8
+            text = ""
+        intervals [62]:
+            xmin = 242.8
+            xmax = 246.6
+            text = "Yeah.  Hi, nice meeting you.  Okay.  "

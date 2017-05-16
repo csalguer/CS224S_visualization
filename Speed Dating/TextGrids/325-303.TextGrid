@@ -1,0 +1,464 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 255.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 255.6
+intervals: size = 56
+        intervals [1]:
+            xmin = 0
+            xmax = 14.8
+            text = ""
+        intervals [2]:
+            xmin = 14.8
+            xmax = 15.6
+            text = "I'm male303."
+        intervals [3]:
+            xmin = 15.6
+            xmax = 16.8
+            text = ""
+        intervals [4]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "female325."
+        intervals [5]:
+            xmin = 17.6
+            xmax = 17.8
+            text = ""
+        intervals [6]:
+            xmin = 17.8
+            xmax = 18.6
+            text = "Nice to meet you. What's going on?"
+        intervals [7]:
+            xmin = 18.6
+            xmax = 24.8
+            text = ""
+        intervals [8]:
+            xmin = 24.8
+            xmax = 30.6
+            text = "It's a great quarter. I love Spring quarter here, it's just so relaxing, the weather's great."
+        intervals [9]:
+            xmin = 30.6
+            xmax = 33.8
+            text = ""
+        intervals [10]:
+            xmin = 33.8
+            xmax = 35.6
+            text = "I'm in Business School. What about you?"
+        intervals [11]:
+            xmin = 35.6
+            xmax = 40.8
+            text = ""
+        intervals [12]:
+            xmin = 40.8
+            xmax = 41.6
+            text = "So you were CS."
+        intervals [13]:
+            xmin = 41.6
+            xmax = 44.8
+            text = ""
+        intervals [14]:
+            xmin = 44.8
+            xmax = 45.6
+            text = "Doing what?"
+        intervals [15]:
+            xmin = 45.6
+            xmax = 48.8
+            text = ""
+        intervals [16]:
+            xmin = 48.8
+            xmax = 49.6
+            text = "Do you like it?"
+        intervals [17]:
+            xmin = 49.6
+            xmax = 57.8
+            text = ""
+        intervals [18]:
+            xmin = 57.8
+            xmax = 58.6
+            text = "What CDs are in your CD player right now?"
+        intervals [19]:
+            xmin = 58.6
+            xmax = 60.8
+            text = ""
+        intervals [20]:
+            xmin = 60.8
+            xmax = 61.6
+            text = "What do you listen to?"
+        intervals [21]:
+            xmin = 61.6
+            xmax = 67.8
+            text = ""
+        intervals [22]:
+            xmin = 67.8
+            xmax = 68.6
+            text = "Who?"
+        intervals [23]:
+            xmin = 68.6
+            xmax = 69.8
+            text = ""
+        intervals [24]:
+            xmin = 69.8
+            xmax = 70.6
+            text = "I don't know who they are."
+        intervals [25]:
+            xmin = 70.6
+            xmax = 72.8
+            text = ""
+        intervals [26]:
+            xmin = 72.8
+            xmax = 73.6
+            text = "The new one?"
+        intervals [27]:
+            xmin = 73.6
+            xmax = 91.8
+            text = ""
+        intervals [28]:
+            xmin = 91.8
+            xmax = 97.6
+            text = "Right now I have Cold Play live album."
+        intervals [29]:
+            xmin = 97.6
+            xmax = 98.8
+            text = ""
+        intervals [30]:
+            xmin = 98.8
+            xmax = 99.6
+            text = "Yeah. Do you know Cold Play?"
+        intervals [31]:
+            xmin = 99.6
+            xmax = 101.8
+            text = ""
+        intervals [32]:
+            xmin = 101.8
+            xmax = 112.6
+            text = "[unintelligible]. I actually have this [unintelligible], it's this Samoan guy who sings Somewhere Over the Rainbow."
+        intervals [33]:
+            xmin = 112.6
+            xmax = 115.8
+            text = ""
+        intervals [34]:
+            xmin = 115.8
+            xmax = 119.6
+            text = "Okay. I think a ukulele with it. Do you know the song I'm talking about?"
+        intervals [35]:
+            xmin = 119.6
+            xmax = 122.8
+            text = ""
+        intervals [36]:
+            xmin = 122.8
+            xmax = 126.6
+            text = "And I have a new Jack Johnson [phonetic] CD."
+        intervals [37]:
+            xmin = 126.6
+            xmax = 127.8
+            text = ""
+        intervals [38]:
+            xmin = 127.8
+            xmax = 141.6
+            text = "But if you put all the CDs together would you really know which one was which. You put all the CDs in the CD player and you press random. Yeah, I think they're great but they are all exactly the same. That's true music."
+        intervals [39]:
+            xmin = 141.6
+            xmax = 154.8
+            text = ""
+        intervals [40]:
+            xmin = 154.8
+            xmax = 155.6
+            text = "Yeah, totally, totally."
+        intervals [41]:
+            xmin = 155.6
+            xmax = 160.8
+            text = ""
+        intervals [42]:
+            xmin = 160.8
+            xmax = 165.6
+            text = "I actually just got off the golf course. I'm not very good so I try to be there a lot."
+        intervals [43]:
+            xmin = 165.6
+            xmax = 169.8
+            text = ""
+        intervals [44]:
+            xmin = 169.8
+            xmax = 202.6
+            text = "It's just the kind of thing where I can be out there and be totally focused on that and it's relaxing. You're like oh, I hit a bad shot and I'm not sad. The sun's shining, life is pretty good. So I'm doing that a lot lately. Just hanging out with friends. You have to understand the Business School is very just kind of insular, we just kind of hang out with each other and we don't really leave. So I thought I'd just come out here and meet some other people who aren't really in the school. Is it the same for CS?"
+        intervals [45]:
+            xmin = 202.6
+            xmax = 202.8
+            text = ""
+        intervals [46]:
+            xmin = 202.8
+            xmax = 204.6
+            text = "Where you here for undergrad?"
+        intervals [47]:
+            xmin = 204.6
+            xmax = 217.8
+            text = ""
+        intervals [48]:
+            xmin = 217.8
+            xmax = 218.6
+            text = "So where are you from?"
+        intervals [49]:
+            xmin = 218.6
+            xmax = 223.8
+            text = ""
+        intervals [50]:
+            xmin = 223.8
+            xmax = 225.6
+            text = "You like northern California?	"
+        intervals [51]:
+            xmin = 225.6
+            xmax = 226.8
+            text = ""
+        intervals [52]:
+            xmin = 226.8
+            xmax = 227.6
+            text = "Why?"
+        intervals [53]:
+            xmin = 227.6
+            xmax = 237.8
+            text = ""
+        intervals [54]:
+            xmin = 237.8
+            xmax = 254.6
+            text = "I was born in Colorado and I went here for undergrad. I graduated and then I moved to New York. Then I was [unintelligible] it was just craziness. It was great; there was so much going on in terms of concerts, events, restaurants."
+        intervals [55]:
+            xmin = 254.6
+            xmax = 254.8
+            text = ""
+        intervals [56]:
+            xmin = 254.8
+            xmax = 255.6
+            text = "Nice meeting you, female325."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 255.6
+intervals: size = 55
+        intervals [1]:
+            xmin = 15.8
+            xmax = 16.6
+            text = "I'm female325."
+        intervals [2]:
+            xmin = 16.6
+            xmax = 16.8
+            text = ""
+        intervals [3]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "It's nice to meet you."
+        intervals [4]:
+            xmin = 17.6
+            xmax = 18.8
+            text = ""
+        intervals [5]:
+            xmin = 18.8
+            xmax = 23.6
+            text = "Not much is going on, which is why I'm here. How are you doing?"
+        intervals [6]:
+            xmin = 23.6
+            xmax = 30.8
+            text = ""
+        intervals [7]:
+            xmin = 30.8
+            xmax = 32.6
+            text = "Yeah. That's my favorite quarter, too. What are you studying?"
+        intervals [8]:
+            xmin = 32.6
+            xmax = 34.8
+            text = ""
+        intervals [9]:
+            xmin = 34.8
+            xmax = 39.6
+            text = "I actually graduated but I'm working in industry, computer science."
+        intervals [10]:
+            xmin = 39.6
+            xmax = 41.8
+            text = ""
+        intervals [11]:
+            xmin = 41.8
+            xmax = 44.6
+            text = "I was CS undergrad and I'm working now."
+        intervals [12]:
+            xmin = 44.6
+            xmax = 46.8
+            text = ""
+        intervals [13]:
+            xmin = 46.8
+            xmax = 48.6
+            text = "Computer science."
+        intervals [14]:
+            xmin = 48.6
+            xmax = 49.8
+            text = ""
+        intervals [15]:
+            xmin = 49.8
+            xmax = 56.6
+            text = "I like it. I don't know. I kind of like getting into the nitty gritty of the parts of it."
+        intervals [16]:
+            xmin = 56.6
+            xmax = 58.8
+            text = ""
+        intervals [17]:
+            xmin = 58.8
+            xmax = 59.6
+            text = "What CDs are in my CD player right now."
+        intervals [18]:
+            xmin = 59.6
+            xmax = 61.8
+            text = ""
+        intervals [19]:
+            xmin = 61.8
+            xmax = 67.6
+            text = "Let's see. I've got this band called The Killers in my CD player, I've got Keen in my CD player."
+        intervals [20]:
+            xmin = 67.6
+            xmax = 67.8
+            text = ""
+        intervals [21]:
+            xmin = 67.8
+            xmax = 69.6
+            text = "Keen. It's a British band."
+        intervals [22]:
+            xmin = 69.6
+            xmax = 70.8
+            text = ""
+        intervals [23]:
+            xmin = 70.8
+            xmax = 71.6
+            text = "I've got U2 in my CD player."
+        intervals [24]:
+            xmin = 71.6
+            xmax = 73.8
+            text = ""
+        intervals [25]:
+            xmin = 73.8
+            xmax = 91.6
+            text = "Yeah. The new one. I also really like Off Tone Baby [phonetic], that's probably one of my favorite CDs. What else do I have? That might be it. I listen to Elton nameX sometimes. Yeah. What about you?"
+        intervals [26]:
+            xmin = 91.6
+            xmax = 97.8
+            text = ""
+        intervals [27]:
+            xmin = 97.8
+            xmax = 98.6
+            text = "Is it good?"
+        intervals [28]:
+            xmin = 98.6
+            xmax = 99.8
+            text = ""
+        intervals [29]:
+            xmin = 99.8
+            xmax = 100.6
+            text = "Yeah, definitely."
+        intervals [30]:
+            xmin = 100.6
+            xmax = 112.8
+            text = ""
+        intervals [31]:
+            xmin = 112.8
+            xmax = 114.6
+            text = "[singing] Somewhere Over the Rainbow."
+        intervals [32]:
+            xmin = 114.6
+            xmax = 119.8
+            text = ""
+        intervals [33]:
+            xmin = 119.8
+            xmax = 123.6
+            text = "I don't think I've heard that one. I haven't heard that rendition."
+        intervals [34]:
+            xmin = 123.6
+            xmax = 126.8
+            text = ""
+        intervals [35]:
+            xmin = 126.8
+            xmax = 127.6
+            text = "That's awesome, I love that CD."
+        intervals [36]:
+            xmin = 127.6
+            xmax = 146.8
+            text = ""
+        intervals [37]:
+            xmin = 146.8
+            xmax = 154.6
+            text = "That's a good question. I think I kind of definitely tend to like that type of music. It's more like a mood thing."
+        intervals [38]:
+            xmin = 154.6
+            xmax = 156.8
+            text = ""
+        intervals [39]:
+            xmin = 156.8
+            xmax = 160.6
+            text = "What else do you like to do? What do you do in your spare time here?"
+        intervals [40]:
+            xmin = 160.6
+            xmax = 165.8
+            text = ""
+        intervals [41]:
+            xmin = 165.8
+            xmax = 169.6
+            text = "I can barely hit the ball so."
+        intervals [42]:
+            xmin = 169.6
+            xmax = 202.8
+            text = ""
+        intervals [43]:
+            xmin = 202.8
+            xmax = 203.6
+            text = "I was in undergrad."
+        intervals [44]:
+            xmin = 203.6
+            xmax = 203.8
+            text = ""
+        intervals [45]:
+            xmin = 203.8
+            xmax = 216.6
+            text = "I did a co-term. I think the undergrad is nice because you're living here and you meet all sorts of people. Then when you get to co-term, it's a little more insular. Like getting grad school is a little more--"
+        intervals [46]:
+            xmin = 216.6
+            xmax = 219.8
+            text = ""
+        intervals [47]:
+            xmin = 219.8
+            xmax = 223.6
+            text = "I'm from Hong Kong originally and then I've been living in Los Altos for 12 years or so,."
+        intervals [48]:
+            xmin = 223.6
+            xmax = 225.8
+            text = ""
+        intervals [49]:
+            xmin = 225.8
+            xmax = 227.6
+            text = "I like northern California a lot."
+        intervals [50]:
+            xmin = 227.6
+            xmax = 228.8
+            text = ""
+        intervals [51]:
+            xmin = 228.8
+            xmax = 236.6
+            text = "I just like the people. They're just intelligent and just mellow and kind of laid back. What about you?"
+        intervals [52]:
+            xmin = 236.6
+            xmax = 253.8
+            text = ""
+        intervals [53]:
+            xmin = 253.8
+            xmax = 254.6
+            text = "[horn] Okay."
+        intervals [54]:
+            xmin = 254.6
+            xmax = 254.8
+            text = ""
+        intervals [55]:
+            xmin = 254.8
+            xmax = 255.6
+            text = "Nice meeting you."

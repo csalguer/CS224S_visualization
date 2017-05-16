@@ -1,0 +1,904 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 253.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 253.6
+intervals: size = 113
+        intervals [1]:
+            xmin = 0
+            xmax = 4.8
+            text = ""
+        intervals [2]:
+            xmin = 4.8
+            xmax = 6.6
+            text = "Well, hi."
+        intervals [3]:
+            xmin = 6.6
+            xmax = 6.8
+            text = ""
+        intervals [4]:
+            xmin = 6.8
+            xmax = 7.6
+            text = "male302."
+        intervals [5]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 8.6
+            text = "Nice to meet you."
+        intervals [7]:
+            xmin = 8.6
+            xmax = 8.8
+            text = ""
+        intervals [8]:
+            xmin = 8.8
+            xmax = 10.6
+            text = "Are you [unintelligible]?"
+        intervals [9]:
+            xmin = 10.6
+            xmax = 10.8
+            text = ""
+        intervals [10]:
+            xmin = 10.8
+            xmax = 15.6
+            text = "Okay.  We have the same first name in French [second language] female328."
+        intervals [11]:
+            xmin = 15.6
+            xmax = 16.8
+            text = ""
+        intervals [12]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "That's [second language]?"
+        intervals [13]:
+            xmin = 17.6
+            xmax = 17.8
+            text = ""
+        intervals [14]:
+            xmin = 17.8
+            xmax = 19.6
+            text = "Where--where you from?"
+        intervals [15]:
+            xmin = 19.6
+            xmax = 19.8
+            text = ""
+        intervals [16]:
+            xmin = 19.8
+            xmax = 21.6
+            text = "Or where are you from?"
+        intervals [17]:
+            xmin = 21.6
+            xmax = 22.8
+            text = ""
+        intervals [18]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "Oh, you're Filipino?"
+        intervals [19]:
+            xmin = 24.6
+            xmax = 26.8
+            text = ""
+        intervals [20]:
+            xmin = 26.8
+            xmax = 27.6
+            text = "Okay."
+        intervals [21]:
+            xmin = 27.6
+            xmax = 33.8
+            text = ""
+        intervals [22]:
+            xmin = 33.8
+            xmax = 34.6
+            text = "[unintelligible]."
+        intervals [23]:
+            xmin = 34.6
+            xmax = 35.8
+            text = ""
+        intervals [24]:
+            xmin = 35.8
+            xmax = 37.6
+            text = "Okay.  So it's part French, part German?"
+        intervals [25]:
+            xmin = 37.6
+            xmax = 40.8
+            text = ""
+        intervals [26]:
+            xmin = 40.8
+            xmax = 41.6
+            text = "Yeah."
+        intervals [27]:
+            xmin = 41.6
+            xmax = 43.8
+            text = ""
+        intervals [28]:
+            xmin = 43.8
+            xmax = 44.6
+            text = "Yeah."
+        intervals [29]:
+            xmin = 44.6
+            xmax = 45.8
+            text = ""
+        intervals [30]:
+            xmin = 45.8
+            xmax = 51.6
+            text = "Well, it depends--it depends--it depends where--when he was born in the United States because I always asked what--sometimes France--"
+        intervals [31]:
+            xmin = 51.6
+            xmax = 51.8
+            text = ""
+        intervals [32]:
+            xmin = 51.8
+            xmax = 52.6
+            text = "--sometimes German."
+        intervals [33]:
+            xmin = 52.6
+            xmax = 55.8
+            text = ""
+        intervals [34]:
+            xmin = 55.8
+            xmax = 56.6
+            text = "Oh, okay."
+        intervals [35]:
+            xmin = 56.6
+            xmax = 59.8
+            text = ""
+        intervals [36]:
+            xmin = 59.8
+            xmax = 61.6
+            text = "Um let's see.  Paris."
+        intervals [37]:
+            xmin = 61.6
+            xmax = 61.8
+            text = ""
+        intervals [38]:
+            xmin = 61.8
+            xmax = 70.6
+            text = "I--I spend my last time--the last time I went to France was in Paris, but I moved a lot in France, so.  Do you speak Telagos [phonetic]?"
+        intervals [39]:
+            xmin = 70.6
+            xmax = 71.8
+            text = ""
+        intervals [40]:
+            xmin = 71.8
+            xmax = 72.6
+            text = "What?  What?"
+        intervals [41]:
+            xmin = 72.6
+            xmax = 74.8
+            text = ""
+        intervals [42]:
+            xmin = 74.8
+            xmax = 75.6
+            text = "Okay, [laughter] okay."
+        intervals [43]:
+            xmin = 75.6
+            xmax = 76.8
+            text = ""
+        intervals [44]:
+            xmin = 76.8
+            xmax = 83.6
+            text = "Uh no, but I--I knew--I knew a few words like [unintelligible], which means wake up."
+        intervals [45]:
+            xmin = 83.6
+            xmax = 83.8
+            text = ""
+        intervals [46]:
+            xmin = 83.8
+            xmax = 85.6
+            text = "So that's pretty much it."
+        intervals [47]:
+            xmin = 85.6
+            xmax = 87.8
+            text = ""
+        intervals [48]:
+            xmin = 87.8
+            xmax = 89.6
+            text = "I had a girlfriend who was Filipino, so--"
+        intervals [49]:
+            xmin = 89.6
+            xmax = 90.8
+            text = ""
+        intervals [50]:
+            xmin = 90.8
+            xmax = 97.6
+            text = "So--no, no, but she was uh--she was sleeping a lot, so I had always to say hey [laughter] wake up."
+        intervals [51]:
+            xmin = 97.6
+            xmax = 99.8
+            text = ""
+        intervals [52]:
+            xmin = 99.8
+            xmax = 107.6
+            text = "So it--she was mad at me each time I had to wake her up in the--in English, like hey, wake up.  So this [unintelligible] she prefer.  But, I don't know."
+        intervals [53]:
+            xmin = 107.6
+            xmax = 116.8
+            text = ""
+        intervals [54]:
+            xmin = 116.8
+            xmax = 118.6
+            text = "Everything in French is?"
+        intervals [55]:
+            xmin = 118.6
+            xmax = 121.8
+            text = ""
+        intervals [56]:
+            xmin = 121.8
+            xmax = 122.6
+            text = "Yeah."
+        intervals [57]:
+            xmin = 122.6
+            xmax = 122.8
+            text = ""
+        intervals [58]:
+            xmin = 122.8
+            xmax = 126.6
+            text = "Yeah, yeah, yeah.  I guess so."
+        intervals [59]:
+            xmin = 126.6
+            xmax = 127.8
+            text = ""
+        intervals [60]:
+            xmin = 127.8
+            xmax = 129.6
+            text = "Um I'm--I do research--"
+        intervals [61]:
+            xmin = 129.6
+            xmax = 130.6
+            text = "--in solar physics."
+        intervals [62]:
+            xmin = 130.6
+            xmax = 131.8
+            text = ""
+        intervals [63]:
+            xmin = 131.8
+            xmax = 132.6
+            text = "And you?  What are you doing?"
+        intervals [64]:
+            xmin = 132.6
+            xmax = 134.8
+            text = ""
+        intervals [65]:
+            xmin = 134.8
+            xmax = 135.6
+            text = "MBA?"
+        intervals [66]:
+            xmin = 135.6
+            xmax = 135.8
+            text = ""
+        intervals [67]:
+            xmin = 135.8
+            xmax = 137.6
+            text = "Master of business--"
+        intervals [68]:
+            xmin = 137.6
+            xmax = 137.8
+            text = ""
+        intervals [69]:
+            xmin = 137.8
+            xmax = 139.6
+            text = "--administration at the [unintelligible]."
+        intervals [70]:
+            xmin = 139.6
+            xmax = 139.8
+            text = ""
+        intervals [71]:
+            xmin = 139.8
+            xmax = 140.6
+            text = "Okay.  "
+        intervals [72]:
+            xmin = 140.6
+            xmax = 142.8
+            text = ""
+        intervals [73]:
+            xmin = 142.8
+            xmax = 145.6
+            text = "Oh, okay.  Oh, so you're--you're almost done?"
+        intervals [74]:
+            xmin = 145.6
+            xmax = 148.8
+            text = ""
+        intervals [75]:
+            xmin = 148.8
+            xmax = 150.6
+            text = "[laughter].  Okay.  I see you enjoyed the--"
+        intervals [76]:
+            xmin = 150.6
+            xmax = 159.8
+            text = ""
+        intervals [77]:
+            xmin = 159.8
+            xmax = 161.6
+            text = "[laughter]."
+        intervals [78]:
+            xmin = 161.6
+            xmax = 161.8
+            text = ""
+        intervals [79]:
+            xmin = 161.8
+            xmax = 164.6
+            text = "Well, it's been four.  I guess you are--you're supposed to work."
+        intervals [80]:
+            xmin = 164.6
+            xmax = 165.8
+            text = ""
+        intervals [81]:
+            xmin = 165.8
+            xmax = 166.6
+            text = "So."
+        intervals [82]:
+            xmin = 166.6
+            xmax = 167.8
+            text = ""
+        intervals [83]:
+            xmin = 167.8
+            xmax = 169.6
+            text = "Oh, okay."
+        intervals [84]:
+            xmin = 169.6
+            xmax = 171.8
+            text = ""
+        intervals [85]:
+            xmin = 171.8
+            xmax = 172.6
+            text = "Oh, okay. "
+        intervals [86]:
+            xmin = 172.6
+            xmax = 174.8
+            text = ""
+        intervals [87]:
+            xmin = 174.8
+            xmax = 176.6
+            text = "Where is this?  It's in the Bay area uh?"
+        intervals [88]:
+            xmin = 176.6
+            xmax = 179.8
+            text = ""
+        intervals [89]:
+            xmin = 179.8
+            xmax = 180.6
+            text = "It's what?"
+        intervals [90]:
+            xmin = 180.6
+            xmax = 180.8
+            text = ""
+        intervals [91]:
+            xmin = 180.8
+            xmax = 181.6
+            text = "Okay."
+        intervals [92]:
+            xmin = 181.6
+            xmax = 184.8
+            text = ""
+        intervals [93]:
+            xmin = 184.8
+            xmax = 187.6
+            text = "And so your friends work--what--what [unintelligible], your MBA?"
+        intervals [94]:
+            xmin = 187.6
+            xmax = 191.8
+            text = ""
+        intervals [95]:
+            xmin = 191.8
+            xmax = 192.6
+            text = "Yeah."
+        intervals [96]:
+            xmin = 192.6
+            xmax = 196.8
+            text = ""
+        intervals [97]:
+            xmin = 196.8
+            xmax = 197.6
+            text = "Oh, okay."
+        intervals [98]:
+            xmin = 197.6
+            xmax = 200.8
+            text = ""
+        intervals [99]:
+            xmin = 200.8
+            xmax = 207.6
+            text = "Oh, that's--that's nice.  So you--you start to work, and they pay you to get a master or MBA?"
+        intervals [100]:
+            xmin = 207.6
+            xmax = 208.8
+            text = ""
+        intervals [101]:
+            xmin = 208.8
+            xmax = 214.6
+            text = "They're not afraid that once you have MBA, you can tell okay, goodbye, now I go to work somewhere else?"
+        intervals [102]:
+            xmin = 214.6
+            xmax = 216.8
+            text = ""
+        intervals [103]:
+            xmin = 216.8
+            xmax = 220.6
+            text = "Oh, okay.  You have to reimburse them.  Okay.  So they have some security uh--"
+        intervals [104]:
+            xmin = 220.6
+            xmax = 224.8
+            text = ""
+        intervals [105]:
+            xmin = 224.8
+            xmax = 225.6
+            text = "Yeah, there's no reason to--"
+        intervals [106]:
+            xmin = 225.6
+            xmax = 230.8
+            text = ""
+        intervals [107]:
+            xmin = 230.8
+            xmax = 231.6
+            text = "Yeah."
+        intervals [108]:
+            xmin = 231.6
+            xmax = 242.8
+            text = ""
+        intervals [109]:
+            xmin = 242.8
+            xmax = 247.6
+            text = "So you have [unintelligible] two years?  It's very fast, huh?"
+        intervals [110]:
+            xmin = 247.6
+            xmax = 250.8
+            text = ""
+        intervals [111]:
+            xmin = 250.8
+            xmax = 251.6
+            text = "It was nice to meet you."
+        intervals [112]:
+            xmin = 251.6
+            xmax = 252.8
+            text = ""
+        intervals [113]:
+            xmin = 252.8
+            xmax = 253.6
+            text = "[laughter]."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 253.6
+intervals: size = 108
+        intervals [1]:
+            xmin = 2.389
+            xmax = 5.989
+            text = "I'm slowly getting faster at this, I think."
+        intervals [2]:
+            xmin = 5.989
+            xmax = 6.189
+            text = ""
+        intervals [3]:
+            xmin = 6.189
+            xmax = 7.989
+            text = "Hi."
+        intervals [4]:
+            xmin = 7.989
+            xmax = 8.989
+            text = "female328."
+        intervals [5]:
+            xmin = 8.989
+            xmax = 9.989
+            text = "Nice to meet you."
+        intervals [6]:
+            xmin = 9.989
+            xmax = 10.189
+            text = ""
+        intervals [7]:
+            xmin = 10.189
+            xmax = 10.989
+            text = "female328."
+        intervals [8]:
+            xmin = 10.989
+            xmax = 15.189
+            text = ""
+        intervals [9]:
+            xmin = 15.189
+            xmax = 16.989
+            text = "That's fine, too."
+        intervals [10]:
+            xmin = 16.989
+            xmax = 17.189
+            text = ""
+        intervals [11]:
+            xmin = 17.189
+            xmax = 18.989
+            text = "That's fine, too."
+        intervals [12]:
+            xmin = 18.989
+            xmax = 20.189
+            text = ""
+        intervals [13]:
+            xmin = 20.189
+            xmax = 20.989
+            text = "Uh well--"
+        intervals [14]:
+            xmin = 20.989
+            xmax = 21.189
+            text = ""
+        intervals [15]:
+            xmin = 21.189
+            xmax = 23.989
+            text = "Well I was born in the Philippines, but--"
+        intervals [16]:
+            xmin = 23.989
+            xmax = 24.189
+            text = ""
+        intervals [17]:
+            xmin = 24.189
+            xmax = 26.989
+            text = "My mother is.  Um my dad's from the states."
+        intervals [18]:
+            xmin = 26.989
+            xmax = 27.189
+            text = ""
+        intervals [19]:
+            xmin = 27.189
+            xmax = 34.989
+            text = "Um but my dad's from the states.  His family originally from Al Phos [phonetic].  His family was originally from Al Phos."
+        intervals [20]:
+            xmin = 34.989
+            xmax = 35.189
+            text = ""
+        intervals [21]:
+            xmin = 35.189
+            xmax = 35.989
+            text = "Uh-huh."
+        intervals [22]:
+            xmin = 35.989
+            xmax = 38.189
+            text = ""
+        intervals [23]:
+            xmin = 38.189
+            xmax = 41.989
+            text = "Exactly.  I think the family spoke German originally--"
+        intervals [24]:
+            xmin = 41.989
+            xmax = 42.189
+            text = ""
+        intervals [25]:
+            xmin = 42.189
+            xmax = 44.989
+            text = "--but my dad spoke French, but he learned it in high school."
+        intervals [26]:
+            xmin = 44.989
+            xmax = 45.989
+            text = "So I'm not sure I'd really keep--"
+        intervals [27]:
+            xmin = 45.989
+            xmax = 50.189
+            text = ""
+        intervals [28]:
+            xmin = 50.189
+            xmax = 51.989
+            text = "Yeah."
+        intervals [29]:
+            xmin = 51.989
+            xmax = 52.189
+            text = ""
+        intervals [30]:
+            xmin = 52.189
+            xmax = 56.989
+            text = "No, and the--and the family had been in the states for generations."
+        intervals [31]:
+            xmin = 56.989
+            xmax = 57.189
+            text = ""
+        intervals [32]:
+            xmin = 57.189
+            xmax = 59.989
+            text = "Yeah.  Um where in--where in France are you from?"
+        intervals [33]:
+            xmin = 59.989
+            xmax = 62.189
+            text = ""
+        intervals [34]:
+            xmin = 62.189
+            xmax = 62.989
+            text = "Uh-huh."
+        intervals [35]:
+            xmin = 62.989
+            xmax = 71.189
+            text = ""
+        intervals [36]:
+            xmin = 71.189
+            xmax = 72.989
+            text = "[unintelligible] [laughter]."
+        intervals [37]:
+            xmin = 72.989
+            xmax = 73.189
+            text = ""
+        intervals [38]:
+            xmin = 73.189
+            xmax = 74.989
+            text = "[unintelligible], which is no.  [laughter]."
+        intervals [39]:
+            xmin = 74.989
+            xmax = 76.189
+            text = ""
+        intervals [40]:
+            xmin = 76.189
+            xmax = 76.989
+            text = "And yourself?"
+        intervals [41]:
+            xmin = 76.989
+            xmax = 83.189
+            text = ""
+        intervals [42]:
+            xmin = 83.189
+            xmax = 84.989
+            text = "Okay."
+        intervals [43]:
+            xmin = 84.989
+            xmax = 86.189
+            text = ""
+        intervals [44]:
+            xmin = 86.189
+            xmax = 87.989
+            text = "[laughter] who was waking you up in Tegala [phonetic]?"
+        intervals [45]:
+            xmin = 87.989
+            xmax = 90.189
+            text = ""
+        intervals [46]:
+            xmin = 90.189
+            xmax = 91.989
+            text = "So she would wake you [laughter]--"
+        intervals [47]:
+            xmin = 91.989
+            xmax = 98.189
+            text = ""
+        intervals [48]:
+            xmin = 98.189
+            xmax = 99.989
+            text = "And it was more effective in Tegala?"
+        intervals [49]:
+            xmin = 99.989
+            xmax = 107.189
+            text = ""
+        intervals [50]:
+            xmin = 107.189
+            xmax = 116.989
+            text = "Okay.  [laughter].  I would think that anything, even in French, would be effective provided it were loud enough--it was loud enough, but that's just me."
+        intervals [51]:
+            xmin = 116.989
+            xmax = 118.189
+            text = ""
+        intervals [52]:
+            xmin = 118.189
+            xmax = 121.989
+            text = "I--I was thinking it would work just as well in any language, even French--"
+        intervals [53]:
+            xmin = 121.989
+            xmax = 122.189
+            text = ""
+        intervals [54]:
+            xmin = 122.189
+            xmax = 123.989
+            text = "--as long as it's loud enough, but--"
+        intervals [55]:
+            xmin = 123.989
+            xmax = 126.189
+            text = ""
+        intervals [56]:
+            xmin = 126.189
+            xmax = 127.989
+            text = "So what are you doing here?"
+        intervals [57]:
+            xmin = 127.989
+            xmax = 129.189
+            text = ""
+        intervals [58]:
+            xmin = 129.189
+            xmax = 129.989
+            text = "Uh-huh."
+        intervals [59]:
+            xmin = 129.989
+            xmax = 131.189
+            text = ""
+        intervals [60]:
+            xmin = 131.189
+            xmax = 131.989
+            text = "Interesting."
+        intervals [61]:
+            xmin = 131.989
+            xmax = 133.189
+            text = ""
+        intervals [62]:
+            xmin = 133.189
+            xmax = 134.989
+            text = "Um masters of--an MBA."
+        intervals [63]:
+            xmin = 134.989
+            xmax = 135.189
+            text = ""
+        intervals [64]:
+            xmin = 135.189
+            xmax = 136.989
+            text = "Uh-huh, yeah."
+        intervals [65]:
+            xmin = 136.989
+            xmax = 137.189
+            text = ""
+        intervals [66]:
+            xmin = 137.189
+            xmax = 137.989
+            text = "Yup, yup."
+        intervals [67]:
+            xmin = 137.989
+            xmax = 139.189
+            text = ""
+        intervals [68]:
+            xmin = 139.189
+            xmax = 139.989
+            text = "Yeah."
+        intervals [69]:
+            xmin = 139.989
+            xmax = 141.189
+            text = ""
+        intervals [70]:
+            xmin = 141.189
+            xmax = 142.989
+            text = "Second year, second of two."
+        intervals [71]:
+            xmin = 142.989
+            xmax = 146.189
+            text = ""
+        intervals [72]:
+            xmin = 146.189
+            xmax = 148.989
+            text = "Yes.  [laughter]."
+        intervals [73]:
+            xmin = 148.989
+            xmax = 151.189
+            text = ""
+        intervals [74]:
+            xmin = 151.189
+            xmax = 160.989
+            text = "Oh, it's been great, don't get me wrong.  Uh but it's--it's more work than I had anticipated.  I had--I'd been expecting two years of vacation.  I expected to be really good at golf by now."
+        intervals [75]:
+            xmin = 160.989
+            xmax = 161.189
+            text = ""
+        intervals [76]:
+            xmin = 161.189
+            xmax = 161.989
+            text = "[laughter]. "
+        intervals [77]:
+            xmin = 161.989
+            xmax = 165.189
+            text = ""
+        intervals [78]:
+            xmin = 165.189
+            xmax = 166.989
+            text = "Apparently.  No."
+        intervals [79]:
+            xmin = 166.989
+            xmax = 167.189
+            text = ""
+        intervals [80]:
+            xmin = 167.189
+            xmax = 168.989
+            text = "I--I do it to myself.  "
+        intervals [81]:
+            xmin = 168.989
+            xmax = 169.189
+            text = ""
+        intervals [82]:
+            xmin = 169.189
+            xmax = 171.989
+            text = "I've gotten involved in a startup where it's a--"
+        intervals [83]:
+            xmin = 171.989
+            xmax = 172.189
+            text = ""
+        intervals [84]:
+            xmin = 172.189
+            xmax = 175.989
+            text = "--consumer robotics startup, and it's really interesting."
+        intervals [85]:
+            xmin = 175.989
+            xmax = 177.189
+            text = ""
+        intervals [86]:
+            xmin = 177.189
+            xmax = 180.989
+            text = "Yeah.  Well it's--it's a bunch of us from school, and then we--"
+        intervals [87]:
+            xmin = 180.989
+            xmax = 181.989
+            text = "A number of us from school--"
+        intervals [88]:
+            xmin = 181.989
+            xmax = 182.189
+            text = ""
+        intervals [89]:
+            xmin = 182.189
+            xmax = 184.989
+            text = "--and then we've hired in some people.  And it's--it's going pretty well."
+        intervals [90]:
+            xmin = 184.989
+            xmax = 188.189
+            text = ""
+        intervals [91]:
+            xmin = 188.189
+            xmax = 191.989
+            text = "Well for the summer, I'll keep--I'll stay with the startup--"
+        intervals [92]:
+            xmin = 191.989
+            xmax = 192.189
+            text = ""
+        intervals [93]:
+            xmin = 192.189
+            xmax = 196.989
+            text = "--and then um in September, I'm supposed to go back to the consulting firm that's paying for business school."
+        intervals [94]:
+            xmin = 196.989
+            xmax = 198.189
+            text = ""
+        intervals [95]:
+            xmin = 198.189
+            xmax = 201.989
+            text = "It's also in the Bay area, so I get to stick around, which will be nice.  I--"
+        intervals [96]:
+            xmin = 201.989
+            xmax = 208.189
+            text = ""
+        intervals [97]:
+            xmin = 208.189
+            xmax = 208.989
+            text = "Yeah."
+        intervals [98]:
+            xmin = 208.989
+            xmax = 214.189
+            text = ""
+        intervals [99]:
+            xmin = 214.189
+            xmax = 216.989
+            text = "I could, but I'd have to write them a very large check.  [laughter]."
+        intervals [100]:
+            xmin = 216.989
+            xmax = 221.189
+            text = ""
+        intervals [101]:
+            xmin = 221.189
+            xmax = 224.989
+            text = "Yeah, yeah.  And if we just--they've been good to me, so--"
+        intervals [102]:
+            xmin = 224.989
+            xmax = 225.189
+            text = ""
+        intervals [103]:
+            xmin = 225.189
+            xmax = 231.989
+            text = "--I'm not going to--well, it's not because any reason.  [laughter] I would feel badly.  I mean, there is a reason if the startup goes well."
+        intervals [104]:
+            xmin = 231.989
+            xmax = 242.989
+            text = "But I'll go back for--for some period of time.  It--it--it's--the contract is two years, but if it's six months, you know, then I write them a slightly smaller check.  But at least it shows good faith."
+        intervals [105]:
+            xmin = 242.989
+            xmax = 248.189
+            text = ""
+        intervals [106]:
+            xmin = 248.189
+            xmax = 250.989
+            text = "It is.  It's ridiculous.  I hardly know you male302. "
+        intervals [107]:
+            xmin = 250.989
+            xmax = 252.189
+            text = ""
+        intervals [108]:
+            xmin = 252.189
+            xmax = 253.989
+            text = "Nice to have met you."

@@ -1,0 +1,384 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 97.568
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 97.568
+intervals: size = 46
+        intervals [1]:
+            xmin = 0
+            xmax = 9.8
+            text = ""
+        intervals [2]:
+            xmin = 9.8
+            xmax = 11.6
+            text = "Right.  "
+        intervals [3]:
+            xmin = 11.6
+            xmax = 11.8
+            text = ""
+        intervals [4]:
+            xmin = 11.8
+            xmax = 14.6
+            text = "Yes, Studio 4.  I think we've met before.  "
+        intervals [5]:
+            xmin = 14.6
+            xmax = 16.8
+            text = ""
+        intervals [6]:
+            xmin = 16.8
+            xmax = 18.6
+            text = "No, I'm Mexican.  "
+        intervals [7]:
+            xmin = 18.6
+            xmax = 18.8
+            text = ""
+        intervals [8]:
+            xmin = 18.8
+            xmax = 21.6
+            text = "I know who you're talking about.  But I know, uh--"
+        intervals [9]:
+            xmin = 21.6
+            xmax = 24.8
+            text = ""
+        intervals [10]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "We've been talking-- I mean--"
+        intervals [11]:
+            xmin = 26.6
+            xmax = 26.8
+            text = ""
+        intervals [12]:
+            xmin = 26.8
+            xmax = 29.6
+            text = "Perhaps you've seen a little bit, I mean, this wasn't--"
+        intervals [13]:
+            xmin = 29.6
+            xmax = 31.8
+            text = ""
+        intervals [14]:
+            xmin = 31.8
+            xmax = 33.6
+            text = "Not nameX.  He's Lebanese.  "
+        intervals [15]:
+            xmin = 33.6
+            xmax = 33.8
+            text = ""
+        intervals [16]:
+            xmin = 33.8
+            xmax = 35.6
+            text = "Uh, Nicoli?    "
+        intervals [17]:
+            xmin = 35.6
+            xmax = 36.8
+            text = ""
+        intervals [18]:
+            xmin = 36.8
+            xmax = 39.6
+            text = "Right, but no.  I'm not friends, I mean, I know him.  "
+        intervals [19]:
+            xmin = 39.6
+            xmax = 40.8
+            text = ""
+        intervals [20]:
+            xmin = 40.8
+            xmax = 42.6
+            text = "So I know him from the department.  "
+        intervals [21]:
+            xmin = 42.6
+            xmax = 42.8
+            text = ""
+        intervals [22]:
+            xmin = 42.8
+            xmax = 44.6
+            text = "Mexican Junior--"
+        intervals [23]:
+            xmin = 44.6
+            xmax = 51.8
+            text = ""
+        intervals [24]:
+            xmin = 51.8
+            xmax = 53.6
+            text = "Yes, we are EE.  "
+        intervals [25]:
+            xmin = 53.6
+            xmax = 54.8
+            text = ""
+        intervals [26]:
+            xmin = 54.8
+            xmax = 58.6
+            text = "Contrary to popular belief, we are North Americans. "
+        intervals [27]:
+            xmin = 58.6
+            xmax = 62.8
+            text = ""
+        intervals [28]:
+            xmin = 62.8
+            xmax = 63.6
+            text = "Okay.  "
+        intervals [29]:
+            xmin = 63.6
+            xmax = 64.8
+            text = ""
+        intervals [30]:
+            xmin = 64.8
+            xmax = 65.6
+            text = "So he's like a--"
+        intervals [31]:
+            xmin = 65.6
+            xmax = 66.8
+            text = ""
+        intervals [32]:
+            xmin = 66.8
+            xmax = 70.6
+            text = "Some of us, I actually worked for a  few years before I [unintelligible].  "
+        intervals [33]:
+            xmin = 70.6
+            xmax = 70.8
+            text = ""
+        intervals [34]:
+            xmin = 70.8
+            xmax = 75.6
+            text = "Yes, so I, uh, before I came to do the Ph.D.  "
+        intervals [35]:
+            xmin = 75.6
+            xmax = 75.8
+            text = ""
+        intervals [36]:
+            xmin = 75.8
+            xmax = 77.6
+            text = "Uh, Hewlett-Packard.  "
+        intervals [37]:
+            xmin = 77.6
+            xmax = 78.8
+            text = ""
+        intervals [38]:
+            xmin = 78.8
+            xmax = 80.6
+            text = "In--in Cupertino.  "
+        intervals [39]:
+            xmin = 80.6
+            xmax = 82.8
+            text = ""
+        intervals [40]:
+            xmin = 82.8
+            xmax = 84.6
+            text = "No.  What do you think I am?  "
+        intervals [41]:
+            xmin = 84.6
+            xmax = 84.8
+            text = ""
+        intervals [42]:
+            xmin = 84.8
+            xmax = 86.6
+            text = "No.  "
+        intervals [43]:
+            xmin = 86.6
+            xmax = 91.8
+            text = ""
+        intervals [44]:
+            xmin = 91.8
+            xmax = 92.6
+            text = "No.  "
+        intervals [45]:
+            xmin = 92.6
+            xmax = 94.8
+            text = ""
+        intervals [46]:
+            xmin = 94.8
+            xmax = 97.6
+            text = "[French]"
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 97.568
+intervals: size = 45
+        intervals [1]:
+            xmin = 8.768
+            xmax = 10.568
+            text = "[unintelligible] number?  "
+        intervals [2]:
+            xmin = 10.568
+            xmax = 11.568
+            text = "Are you my studio?  "
+        intervals [3]:
+            xmin = 11.568
+            xmax = 12.768
+            text = ""
+        intervals [4]:
+            xmin = 12.768
+            xmax = 17.568
+            text = "Are you friends with, um, the other Greek guy?  What's his name--you're not Greek, are you?  "
+        intervals [5]:
+            xmin = 17.568
+            xmax = 17.768
+            text = ""
+        intervals [6]:
+            xmin = 17.768
+            xmax = 19.568
+            text = "But you know, you know--"
+        intervals [7]:
+            xmin = 19.568
+            xmax = 20.768
+            text = ""
+        intervals [8]:
+            xmin = 20.768
+            xmax = 24.568
+            text = "But you--are you friends with him?  I've seen you together.  No?  "
+        intervals [9]:
+            xmin = 24.568
+            xmax = 25.768
+            text = ""
+        intervals [10]:
+            xmin = 25.768
+            xmax = 27.568
+            text = "I've seen you, like--"
+        intervals [11]:
+            xmin = 27.568
+            xmax = 28.768
+            text = ""
+        intervals [12]:
+            xmin = 28.768
+            xmax = 30.568
+            text = "nameX?  No.  "
+        intervals [13]:
+            xmin = 30.568
+            xmax = 32.768
+            text = ""
+        intervals [14]:
+            xmin = 32.768
+            xmax = 34.568
+            text = "Something else, but yeah.  Yeah, yeah.  "
+        intervals [15]:
+            xmin = 34.568
+            xmax = 34.768
+            text = ""
+        intervals [16]:
+            xmin = 34.768
+            xmax = 36.568
+            text = "Yeah, the guy with the long hair.  Yeah, right.  "
+        intervals [17]:
+            xmin = 36.568
+            xmax = 38.768
+            text = ""
+        intervals [18]:
+            xmin = 38.768
+            xmax = 40.568
+            text = "But your not, like, buddies.  "
+        intervals [19]:
+            xmin = 40.568
+            xmax = 41.768
+            text = ""
+        intervals [20]:
+            xmin = 41.768
+            xmax = 43.568
+            text = "What department?  "
+        intervals [21]:
+            xmin = 43.568
+            xmax = 43.768
+            text = ""
+        intervals [22]:
+            xmin = 43.768
+            xmax = 51.568
+            text = "Oh, EE.  Okay.  You seem to happy to be EE.  [laughter]  Something must be wrong, I heard you laughing, all right.  But he could be EE.  [laughter] "
+        intervals [23]:
+            xmin = 51.568
+            xmax = 52.768
+            text = ""
+        intervals [24]:
+            xmin = 52.768
+            xmax = 53.568
+            text = "Come on.  "
+        intervals [25]:
+            xmin = 53.568
+            xmax = 57.768
+            text = ""
+        intervals [26]:
+            xmin = 57.768
+            xmax = 62.568
+            text = "No, I know.  One of my best friends, nameX, he's in the Studio 4 and he's CS."
+        intervals [27]:
+            xmin = 62.568
+            xmax = 64.568
+            text = "And he's got personality.   [laughter]  So I'm, like, he's okay.  "
+        intervals [28]:
+            xmin = 64.568
+            xmax = 64.768
+            text = ""
+        intervals [29]:
+            xmin = 64.768
+            xmax = 66.568
+            text = "Yeah, I know.  "
+        intervals [30]:
+            xmin = 66.568
+            xmax = 69.768
+            text = ""
+        intervals [31]:
+            xmin = 69.768
+            xmax = 70.568
+            text = "Oh, you did?  "
+        intervals [32]:
+            xmin = 70.568
+            xmax = 74.768
+            text = ""
+        intervals [33]:
+            xmin = 74.768
+            xmax = 75.568
+            text = "Where were you before?  "
+        intervals [34]:
+            xmin = 75.568
+            xmax = 76.768
+            text = ""
+        intervals [35]:
+            xmin = 76.768
+            xmax = 78.568
+            text = "Uh, in San Francisco?  "
+        intervals [36]:
+            xmin = 78.568
+            xmax = 79.768
+            text = ""
+        intervals [37]:
+            xmin = 79.768
+            xmax = 83.568
+            text = "Oh, yeah, yeah, yeah.  Wait, you're from South America, no?  "
+        intervals [38]:
+            xmin = 83.568
+            xmax = 84.768
+            text = ""
+        intervals [39]:
+            xmin = 84.768
+            xmax = 85.568
+            text = "South America.  "
+        intervals [40]:
+            xmin = 85.568
+            xmax = 85.768
+            text = ""
+        intervals [41]:
+            xmin = 85.768
+            xmax = 90.568
+            text = "Bolivia.  I know [unintelligible].  Um, not South America?  Not Greece?"
+        intervals [42]:
+            xmin = 90.568
+            xmax = 92.768
+            text = ""
+        intervals [43]:
+            xmin = 92.768
+            xmax = 93.568
+            text = "Not French.  "
+        intervals [44]:
+            xmin = 93.568
+            xmax = 95.768
+            text = ""
+        intervals [45]:
+            xmin = 95.768
+            xmax = 97.568
+            text = "Oh [French]"

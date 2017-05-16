@@ -1,0 +1,560 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 230.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 230.6
+intervals: size = 68
+        intervals [1]:
+            xmin = 0
+            xmax = 0.482000000000001
+            text = ""
+        intervals [2]:
+            xmin = 0.482000000000001
+            xmax = 2.282
+            text = "Hi, I'm male315."
+        intervals [3]:
+            xmin = 2.282
+            xmax = 3.482
+            text = ""
+        intervals [4]:
+            xmin = 3.482
+            xmax = 5.282
+            text = "I'm pleased to meet you."
+        intervals [5]:
+            xmin = 5.282
+            xmax = 5.482
+            text = ""
+        intervals [6]:
+            xmin = 5.482
+            xmax = 8.282
+            text = "So why don't you tell me a little bit about yourself and then I'll tell you about me."
+        intervals [7]:
+            xmin = 8.282
+            xmax = 12.482
+            text = ""
+        intervals [8]:
+            xmin = 12.482
+            xmax = 14.282
+            text = "It's like a mafia in here tonight."
+        intervals [9]:
+            xmin = 14.282
+            xmax = 16.482
+            text = ""
+        intervals [10]:
+            xmin = 16.482
+            xmax = 23.282
+            text = "Exactly. I kind of think you're actually a plant actually. You're part of the study."
+        intervals [11]:
+            xmin = 23.282
+            xmax = 34.482
+            text = ""
+        intervals [12]:
+            xmin = 34.482
+            xmax = 35.282
+            text = "So you guys part of the STEP program?"
+        intervals [13]:
+            xmin = 35.282
+            xmax = 35.482
+            text = ""
+        intervals [14]:
+            xmin = 35.482
+            xmax = 38.282
+            text = "There we go. So where are you going to be?"
+        intervals [15]:
+            xmin = 38.282
+            xmax = 39.482
+            text = ""
+        intervals [16]:
+            xmin = 39.482
+            xmax = 40.282
+            text = "Yeah."
+        intervals [17]:
+            xmin = 40.282
+            xmax = 41.482
+            text = ""
+        intervals [18]:
+            xmin = 41.482
+            xmax = 43.282
+            text = "Where's San Lorenzo?"
+        intervals [19]:
+            xmin = 43.282
+            xmax = 53.482
+            text = ""
+        intervals [20]:
+            xmin = 53.482
+            xmax = 55.282
+            text = "Where are you originally from?"
+        intervals [21]:
+            xmin = 55.282
+            xmax = 56.482
+            text = ""
+        intervals [22]:
+            xmin = 56.482
+            xmax = 57.282
+            text = "Whereabouts?"
+        intervals [23]:
+            xmin = 57.282
+            xmax = 59.482
+            text = ""
+        intervals [24]:
+            xmin = 59.482
+            xmax = 79.282
+            text = "I am actually. My ex-girlfriend, grew up in-- Well maybe I'm not so familiar, actually. I used to know this. Northern New Jersey. Really, this is horrible anyway, let's not talk about that but. So how did you come out here?"
+        intervals [25]:
+            xmin = 79.282
+            xmax = 81.482
+            text = ""
+        intervals [26]:
+            xmin = 81.482
+            xmax = 82.282
+            text = "Westfield."
+        intervals [27]:
+            xmin = 82.282
+            xmax = 85.482
+            text = ""
+        intervals [28]:
+            xmin = 85.482
+            xmax = 86.282
+            text = "Oh really? "
+        intervals [29]:
+            xmin = 86.282
+            xmax = 87.482
+            text = ""
+        intervals [30]:
+            xmin = 87.482
+            xmax = 88.282
+            text = "There you go."
+        intervals [31]:
+            xmin = 88.282
+            xmax = 100.482
+            text = ""
+        intervals [32]:
+            xmin = 100.482
+            xmax = 101.282
+            text = "Where in New York were you?"
+        intervals [33]:
+            xmin = 101.282
+            xmax = 112.482
+            text = ""
+        intervals [34]:
+            xmin = 112.482
+            xmax = 114.282
+            text = "Where did you go to undergrad?	"
+        intervals [35]:
+            xmin = 114.282
+            xmax = 116.482
+            text = ""
+        intervals [36]:
+            xmin = 116.482
+            xmax = 117.282
+            text = "In Pittsburgh."
+        intervals [37]:
+            xmin = 117.282
+            xmax = 119.482
+            text = ""
+        intervals [38]:
+            xmin = 119.482
+            xmax = 120.282
+            text = "What did you study there?"
+        intervals [39]:
+            xmin = 120.282
+            xmax = 122.482
+            text = ""
+        intervals [40]:
+            xmin = 122.482
+            xmax = 126.282
+            text = "Yeah. I am, actually. You're jumping ahead in the questions."
+        intervals [41]:
+            xmin = 126.282
+            xmax = 128.482
+            text = ""
+        intervals [42]:
+            xmin = 128.482
+            xmax = 136.282
+            text = "No. I'll tell you about me. I grew up in San Diego, I went here undergrad then I went to work actually."
+        intervals [43]:
+            xmin = 136.282
+            xmax = 138.482
+            text = ""
+        intervals [44]:
+            xmin = 138.482
+            xmax = 146.282
+            text = "I worked in banking and I did that for two years in New York and then I was transferred to our Paris office. It was just for a year but I ended up staying for four years. Then last fall I moved back to [unintelligible]."
+        intervals [45]:
+            xmin = 146.282
+            xmax = 149.482
+            text = ""
+        intervals [46]:
+            xmin = 149.482
+            xmax = 151.282
+            text = "I finished my first year."
+        intervals [47]:
+            xmin = 151.282
+            xmax = 153.482
+            text = ""
+        intervals [48]:
+            xmin = 153.482
+            xmax = 155.282
+            text = "I'll actually be in New York for the summer."
+        intervals [49]:
+            xmin = 155.282
+            xmax = 156.482
+            text = ""
+        intervals [50]:
+            xmin = 156.482
+            xmax = 162.282
+            text = "Yeah. I'm not so thrilled about it. I thought I was done with New York, so."
+        intervals [51]:
+            xmin = 162.282
+            xmax = 163.482
+            text = ""
+        intervals [52]:
+            xmin = 163.482
+            xmax = 167.282
+            text = "Tell me about it, but oh well."
+        intervals [53]:
+            xmin = 167.282
+            xmax = 170.482
+            text = ""
+        intervals [54]:
+            xmin = 170.482
+            xmax = 173.282
+            text = "Just for the area and everything. Well there you go."
+        intervals [55]:
+            xmin = 173.282
+            xmax = 176.482
+            text = ""
+        intervals [56]:
+            xmin = 176.482
+            xmax = 178.282
+            text = "Did you have a big family?"
+        intervals [57]:
+            xmin = 178.282
+            xmax = 184.482
+            text = ""
+        intervals [58]:
+            xmin = 184.482
+            xmax = 187.282
+            text = "How did you choose to come out here to Stanford?"
+        intervals [59]:
+            xmin = 187.282
+            xmax = 192.482
+            text = ""
+        intervals [60]:
+            xmin = 192.482
+            xmax = 196.282
+            text = "And obviously you want to stay in the Bay area, so?	"
+        intervals [61]:
+            xmin = 196.282
+            xmax = 204.482
+            text = ""
+        intervals [62]:
+            xmin = 204.482
+            xmax = 206.282
+            text = "I've been a fan of this city, too."
+        intervals [63]:
+            xmin = 206.282
+            xmax = 215.482
+            text = ""
+        intervals [64]:
+            xmin = 215.482
+            xmax = 221.282
+            text = "Person B over there who is also in your program is also moving to San Francisco."
+        intervals [65]:
+            xmin = 221.282
+            xmax = 224.482
+            text = ""
+        intervals [66]:
+            xmin = 224.482
+            xmax = 226.282
+            text = "Well there you go."
+        intervals [67]:
+            xmin = 226.282
+            xmax = 228.482
+            text = ""
+        intervals [68]:
+            xmin = 228.482
+            xmax = 230.282
+            text = "Pleasure to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 230.6
+intervals: size = 67
+        intervals [1]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "Hi, I'm female323."
+        intervals [2]:
+            xmin = 2.6
+            xmax = 2.8
+            text = ""
+        intervals [3]:
+            xmin = 2.8
+            xmax = 4.6
+            text = "Nice to meet you, too."
+        intervals [4]:
+            xmin = 4.6
+            xmax = 6.8
+            text = ""
+        intervals [5]:
+            xmin = 6.8
+            xmax = 12.6
+            text = "Oh. Okay. I am a Masters student in education getting my math credential."
+        intervals [6]:
+            xmin = 12.6
+            xmax = 13.8
+            text = ""
+        intervals [7]:
+            xmin = 13.8
+            xmax = 17.6
+            text = "Yeah. Well you know they're sponsoring this study."
+        intervals [8]:
+            xmin = 17.6
+            xmax = 18.8
+            text = ""
+        intervals [9]:
+            xmin = 18.8
+            xmax = 32.6
+            text = "I'm a plant? No. I'm actually not. [unintelligible] So I'll be done with school in June. That's exciting, June 12th and then I'm going to teach high school in San Lorenzo."
+        intervals [10]:
+            xmin = 32.6
+            xmax = 33.8
+            text = ""
+        intervals [11]:
+            xmin = 33.8
+            xmax = 34.6
+            text = "I am. "
+        intervals [12]:
+            xmin = 34.6
+            xmax = 38.8
+            text = ""
+        intervals [13]:
+            xmin = 38.8
+            xmax = 39.6
+            text = "Next year?"
+        intervals [14]:
+            xmin = 39.6
+            xmax = 39.8
+            text = ""
+        intervals [15]:
+            xmin = 39.8
+            xmax = 41.6
+            text = "In San Lorenzo High School, which is--"
+        intervals [16]:
+            xmin = 41.6
+            xmax = 42.8
+            text = ""
+        intervals [17]:
+            xmin = 42.8
+            xmax = 54.6
+            text = "It's right off of 92. You take 92 east, go up 80 for two exits, it's right there. It's kind of in the middle of no where. It's like industrial parks and my teacher occupation."
+        intervals [18]:
+            xmin = 54.6
+            xmax = 54.8
+            text = ""
+        intervals [19]:
+            xmin = 54.8
+            xmax = 55.6
+            text = "New Jersey."
+        intervals [20]:
+            xmin = 55.6
+            xmax = 57.8
+            text = ""
+        intervals [21]:
+            xmin = 57.8
+            xmax = 59.6
+            text = "Bridgewater, New Jersey. Are you familiar with New Jersey?"
+        intervals [22]:
+            xmin = 59.6
+            xmax = 78.8
+            text = ""
+        intervals [23]:
+            xmin = 78.8
+            xmax = 81.6
+            text = "Well I was working in New York City."
+        intervals [24]:
+            xmin = 81.6
+            xmax = 82.8
+            text = ""
+        intervals [25]:
+            xmin = 82.8
+            xmax = 85.6
+            text = "Westfield, okay. That's actually pretty near to where I grew up."
+        intervals [26]:
+            xmin = 85.6
+            xmax = 85.8
+            text = ""
+        intervals [27]:
+            xmin = 85.8
+            xmax = 86.6
+            text = "Yeah."
+        intervals [28]:
+            xmin = 86.6
+            xmax = 87.8
+            text = ""
+        intervals [29]:
+            xmin = 87.8
+            xmax = 99.6
+            text = "But New Jersey's weird, everything's pretty near. Oh yeah. I know just where that is, my cousin's second-- anyway. Everybody has a story from someone who lived in New Jersey. But I was living in New York City and I didn't want to do that anymore."
+        intervals [30]:
+            xmin = 99.6
+            xmax = 100.8
+            text = ""
+        intervals [31]:
+            xmin = 100.8
+            xmax = 113.6
+            text = "I worked at Arista Records in Midtown and I just didn't want to be there anymore. The company I was working for wasn't doing great so I moved out here."
+        intervals [32]:
+            xmin = 113.6
+            xmax = 114.8
+            text = ""
+        intervals [33]:
+            xmin = 114.8
+            xmax = 115.6
+            text = "Carnegie Mellon."
+        intervals [34]:
+            xmin = 115.6
+            xmax = 115.8
+            text = ""
+        intervals [35]:
+            xmin = 115.8
+            xmax = 119.6
+            text = "Yeah. You know where it is."
+        intervals [36]:
+            xmin = 119.6
+            xmax = 120.8
+            text = ""
+        intervals [37]:
+            xmin = 120.8
+            xmax = 123.6
+            text = "Business. You're doing your MBA now?"
+        intervals [38]:
+            xmin = 123.6
+            xmax = 125.8
+            text = ""
+        intervals [39]:
+            xmin = 125.8
+            xmax = 126.6
+            text = "Sorry."
+        intervals [40]:
+            xmin = 126.6
+            xmax = 132.8
+            text = ""
+        intervals [41]:
+            xmin = 132.8
+            xmax = 133.6
+            text = "Oh. What did you do?"
+        intervals [42]:
+            xmin = 133.6
+            xmax = 146.8
+            text = ""
+        intervals [43]:
+            xmin = 146.8
+            xmax = 149.6
+            text = "That's nice. So you're finishing your first year or your second."
+        intervals [44]:
+            xmin = 149.6
+            xmax = 150.8
+            text = ""
+        intervals [45]:
+            xmin = 150.8
+            xmax = 151.6
+            text = "Oh, okay."
+        intervals [46]:
+            xmin = 151.6
+            xmax = 154.8
+            text = ""
+        intervals [47]:
+            xmin = 154.8
+            xmax = 155.6
+            text = "You're going to be in New York this summer?"
+        intervals [48]:
+            xmin = 155.6
+            xmax = 160.8
+            text = ""
+        intervals [49]:
+            xmin = 160.8
+            xmax = 164.6
+            text = "New York in the summer is kind of rough, kind of stinky. "
+        intervals [50]:
+            xmin = 164.6
+            xmax = 166.8
+            text = ""
+        intervals [51]:
+            xmin = 166.8
+            xmax = 171.6
+            text = "I'll probably spend a lot of time in New York this summer, too. My whole family lives there."
+        intervals [52]:
+            xmin = 171.6
+            xmax = 171.8
+            text = ""
+        intervals [53]:
+            xmin = 171.8
+            xmax = 176.6
+            text = "Not super excited about it. But actually I miss my family a lot living out here so it's nice to--"
+        intervals [54]:
+            xmin = 176.6
+            xmax = 177.8
+            text = ""
+        intervals [55]:
+            xmin = 177.8
+            xmax = 178.6
+            text = "No. I just living far away. When I was living there, I can't wait to get out of here. Now I have twinges of..."
+        intervals [56]:
+            xmin = 178.6
+            xmax = 179.8
+            text = ""
+        intervals [57]:
+            xmin = 179.8
+            xmax = 184.6
+            text = "I actually moved out here before so I had lived here for two years before I came to Stanford."
+        intervals [58]:
+            xmin = 184.6
+            xmax = 186.8
+            text = ""
+        intervals [59]:
+            xmin = 186.8
+            xmax = 193.6
+            text = "Yeah. For a while, I like it here, no reason to go. And I feel like New York will always be there."
+        intervals [60]:
+            xmin = 193.6
+            xmax = 194.8
+            text = ""
+        intervals [61]:
+            xmin = 194.8
+            xmax = 216.6
+            text = "Yeah. I'm moving to San Francisco over the summer so I'm in for a long commute but I'm really sick of this south bay. I've been a south bay living tour."
+        intervals [62]:
+            xmin = 216.6
+            xmax = 221.8
+            text = ""
+        intervals [63]:
+            xmin = 221.8
+            xmax = 225.6
+            text = "Yes. I know her quite well. We teach in the same classroom everyday. "
+        intervals [64]:
+            xmin = 225.6
+            xmax = 225.8
+            text = ""
+        intervals [65]:
+            xmin = 225.8
+            xmax = 227.6
+            text = "She's actually my best friend."
+        intervals [66]:
+            xmin = 227.6
+            xmax = 229.8
+            text = ""
+        intervals [67]:
+            xmin = 229.8
+            xmax = 230.6
+            text = "Good to meet you, too."

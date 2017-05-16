@@ -1,0 +1,540 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 249.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 249.6
+intervals: size = 67
+        intervals [1]:
+            xmin = 0
+            xmax = 2.8
+            text = ""
+        intervals [2]:
+            xmin = 2.8
+            xmax = 5.6
+            text = "Good, That's a good idea to put this grading pad down like that."
+        intervals [3]:
+            xmin = 5.6
+            xmax = 5.8
+            text = ""
+        intervals [4]:
+            xmin = 5.8
+            xmax = 7.6
+            text = "Yeah."
+        intervals [5]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 9.6
+            text = "So..."
+        intervals [7]:
+            xmin = 9.6
+            xmax = 11.8
+            text = ""
+        intervals [8]:
+            xmin = 11.8
+            xmax = 13.6
+            text = "You want me to tell you about myself?"
+        intervals [9]:
+            xmin = 13.6
+            xmax = 13.8
+            text = ""
+        intervals [10]:
+            xmin = 13.8
+            xmax = 18.6
+            text = "Um, well, I have three kids.  Um,"
+        intervals [11]:
+            xmin = 18.6
+            xmax = 19.8
+            text = ""
+        intervals [12]:
+            xmin = 19.8
+            xmax = 21.6
+            text = "And a couple cats."
+        intervals [13]:
+            xmin = 21.6
+            xmax = 22.8
+            text = ""
+        intervals [14]:
+            xmin = 22.8
+            xmax = 25.6
+            text = "I don't know, I can't do that, tell you about myself.  Um..."
+        intervals [15]:
+            xmin = 25.6
+            xmax = 29.8
+            text = ""
+        intervals [16]:
+            xmin = 29.8
+            xmax = 31.6
+            text = "Um, that's a great question."
+        intervals [17]:
+            xmin = 31.6
+            xmax = 31.8
+            text = ""
+        intervals [18]:
+            xmin = 31.8
+            xmax = 36.6
+            text = "I like that question because it like, it actually talks about what you do."
+        intervals [19]:
+            xmin = 36.6
+            xmax = 40.8
+            text = ""
+        intervals [20]:
+            xmin = 40.8
+            xmax = 44.6
+            text = "Yeah, that, that's the major thing is really like, it's very networking."
+        intervals [21]:
+            xmin = 44.6
+            xmax = 44.8
+            text = ""
+        intervals [22]:
+            xmin = 44.8
+            xmax = 52.6
+            text = "Um, let me see, what did I do?  I went to a lamb roast for the Greek Orthodox Church, which was very cool."
+        intervals [23]:
+            xmin = 52.6
+            xmax = 53.8
+            text = ""
+        intervals [24]:
+            xmin = 53.8
+            xmax = 60.6
+            text = "I'm not, but my neighbors are, they're Greek.  And uh, it was such a good time, it was, I normally don't stay at barbeques for a while, but I was there four hours."
+        intervals [25]:
+            xmin = 60.6
+            xmax = 60.8
+            text = ""
+        intervals [26]:
+            xmin = 60.8
+            xmax = 66.6
+            text = "And um, you ask a simple question and I give you a long answer."
+        intervals [27]:
+            xmin = 66.6
+            xmax = 66.8
+            text = ""
+        intervals [28]:
+            xmin = 66.8
+            xmax = 93.6
+            text = "They had the lamb the night before and I was, I was out in the back, backyard, like talking on the phone.  And I saw it like way in the distance.  And I was like, wait, is that the lamb.  And I saw someone walk back and forth.  And I thought it was a cop in uniform.  And it turned out what happened was um, they had the lamb and they were like preparing it to put on the spit, and um, one of the neighbors called the cops.  And said that they thought that some graduate students had caught and killed and skinned and were cooking a dog."
+        intervals [29]:
+            xmin = 93.6
+            xmax = 93.8
+            text = ""
+        intervals [30]:
+            xmin = 93.8
+            xmax = 103.6
+            text = "And the cop came up to them and was like, um, what animal is that?  They're, that's a lamb.  Who killed it?  Did you guys?  No, we're not that good."
+        intervals [31]:
+            xmin = 103.6
+            xmax = 106.8
+            text = ""
+        intervals [32]:
+            xmin = 106.8
+            xmax = 108.6
+            text = "I live in EV."
+        intervals [33]:
+            xmin = 108.6
+            xmax = 108.8
+            text = ""
+        intervals [34]:
+            xmin = 108.8
+            xmax = 110.6
+            text = "Yeah."
+        intervals [35]:
+            xmin = 110.6
+            xmax = 111.8
+            text = ""
+        intervals [36]:
+            xmin = 111.8
+            xmax = 120.6
+            text = "They were just, um, it, it's like a big, like backyard, like a bunch of apartments around each other.  And they were just prepping the lamb, a couple of them, yeah."
+        intervals [37]:
+            xmin = 120.6
+            xmax = 122.6
+            text = "And then the next morning they have a barbeque with like 50 people."
+        intervals [38]:
+            xmin = 122.6
+            xmax = 125.8
+            text = ""
+        intervals [39]:
+            xmin = 125.8
+            xmax = 127.6
+            text = "Yeah, uh-hum."
+        intervals [40]:
+            xmin = 127.6
+            xmax = 129.8
+            text = ""
+        intervals [41]:
+            xmin = 129.8
+            xmax = 134.6
+            text = "It was a, it was like a party, like uh, it's the Greek Easter."
+        intervals [42]:
+            xmin = 134.6
+            xmax = 134.8
+            text = ""
+        intervals [43]:
+            xmin = 134.8
+            xmax = 138.6
+            text = "So they had like 50 people there the next day and they started grilling at like 7am."
+        intervals [44]:
+            xmin = 138.6
+            xmax = 138.8
+            text = ""
+        intervals [45]:
+            xmin = 138.8
+            xmax = 145.6
+            text = "They, they coordinated.   Yeah.  So what about you, I don't know anything about you, other than the name."
+        intervals [46]:
+            xmin = 145.6
+            xmax = 146.8
+            text = ""
+        intervals [47]:
+            xmin = 146.8
+            xmax = 148.6
+            text = "Are you in the school of education?"
+        intervals [48]:
+            xmin = 148.6
+            xmax = 148.8
+            text = ""
+        intervals [49]:
+            xmin = 148.8
+            xmax = 150.6
+            text = "Okay, a lot of the women here are."
+        intervals [50]:
+            xmin = 150.6
+            xmax = 153.8
+            text = ""
+        intervals [51]:
+            xmin = 153.8
+            xmax = 155.6
+            text = "Oh, awesome."
+        intervals [52]:
+            xmin = 155.6
+            xmax = 156.8
+            text = ""
+        intervals [53]:
+            xmin = 156.8
+            xmax = 158.6
+            text = "I like you guys because you make stuff."
+        intervals [54]:
+            xmin = 158.6
+            xmax = 159.8
+            text = ""
+        intervals [55]:
+            xmin = 159.8
+            xmax = 161.6
+            text = "You get to be creative."
+        intervals [56]:
+            xmin = 161.6
+            xmax = 165.8
+            text = ""
+        intervals [57]:
+            xmin = 165.8
+            xmax = 167.6
+            text = "Wet weather?"
+        intervals [58]:
+            xmin = 167.6
+            xmax = 181.8
+            text = ""
+        intervals [59]:
+            xmin = 181.8
+            xmax = 188.6
+            text = "[interposing] do you do the IDO idea of watching people um, doing the things that they do and watching people work with your prototypes?"
+        intervals [60]:
+            xmin = 188.6
+            xmax = 189.8
+            text = ""
+        intervals [61]:
+            xmin = 189.8
+            xmax = 191.6
+            text = "Okay."
+        intervals [62]:
+            xmin = 191.6
+            xmax = 207.8
+            text = ""
+        intervals [63]:
+            xmin = 207.8
+            xmax = 209.6
+            text = "Right."
+        intervals [64]:
+            xmin = 209.6
+            xmax = 214.8
+            text = ""
+        intervals [65]:
+            xmin = 214.8
+            xmax = 218.6
+            text = "Okay, like basically I understand what you're saying."
+        intervals [66]:
+            xmin = 218.6
+            xmax = 236.8
+            text = ""
+        intervals [67]:
+            xmin = 236.8
+            xmax = 249.6
+            text = "I'm in engineering and um, I want to do medical devices but, I'm envious of you guys because engineers we don't really get to, we don't get to be creative as much as possible because we're doing too much fundamental stuff."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 249.6
+intervals: size = 63
+        intervals [1]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "Hi, how's it going, female239."
+        intervals [2]:
+            xmin = 2.6
+            xmax = 4.8
+            text = ""
+        intervals [3]:
+            xmin = 4.8
+            xmax = 6.6
+            text = "I know, I hate, I don't like looking at that thing. [laughter]."
+        intervals [4]:
+            xmin = 6.6
+            xmax = 6.8
+            text = ""
+        intervals [5]:
+            xmin = 6.8
+            xmax = 8.6
+            text = "So, male213?  Cool."
+        intervals [6]:
+            xmin = 8.6
+            xmax = 11.6
+            text = "So, why don't you tell me about yourself?  Everybody always asks me first."
+        intervals [7]:
+            xmin = 11.6
+            xmax = 12.8
+            text = ""
+        intervals [8]:
+            xmin = 12.8
+            xmax = 14.6
+            text = "Yeah."
+        intervals [9]:
+            xmin = 14.6
+            xmax = 18.8
+            text = ""
+        intervals [10]:
+            xmin = 18.8
+            xmax = 20.6
+            text = "Really?"
+        intervals [11]:
+            xmin = 20.6
+            xmax = 20.8
+            text = ""
+        intervals [12]:
+            xmin = 20.8
+            xmax = 22.6
+            text = "[laughter]"
+        intervals [13]:
+            xmin = 22.6
+            xmax = 25.8
+            text = ""
+        intervals [14]:
+            xmin = 25.8
+            xmax = 29.6
+            text = "Okay, okay, okay, okay, um, what did you do this weekend?"
+        intervals [15]:
+            xmin = 29.6
+            xmax = 30.8
+            text = ""
+        intervals [16]:
+            xmin = 30.8
+            xmax = 32.6
+            text = "Yeah."
+        intervals [17]:
+            xmin = 32.6
+            xmax = 34.8
+            text = ""
+        intervals [18]:
+            xmin = 34.8
+            xmax = 41.6
+            text = "Yeah, exactly.  I don't know about you, but I haven't been able to find any interests of people.  It's always been like, what are you studying and stuff."
+        intervals [19]:
+            xmin = 41.6
+            xmax = 41.8
+            text = ""
+        intervals [20]:
+            xmin = 41.8
+            xmax = 44.6
+            text = "It's really, it is."
+        intervals [21]:
+            xmin = 44.6
+            xmax = 50.8
+            text = ""
+        intervals [22]:
+            xmin = 50.8
+            xmax = 54.6
+            text = "Uh-huh.  Are you Greek Orthodox?"
+        intervals [23]:
+            xmin = 54.6
+            xmax = 59.8
+            text = ""
+        intervals [24]:
+            xmin = 59.8
+            xmax = 61.6
+            text = "Uh-huh."
+        intervals [25]:
+            xmin = 61.6
+            xmax = 65.8
+            text = ""
+        intervals [26]:
+            xmin = 65.8
+            xmax = 67.6
+            text = "That's cool."
+        intervals [27]:
+            xmin = 67.6
+            xmax = 92.8
+            text = ""
+        intervals [28]:
+            xmin = 92.8
+            xmax = 94.6
+            text = "[laughter]"
+        intervals [29]:
+            xmin = 94.6
+            xmax = 103.8
+            text = ""
+        intervals [30]:
+            xmin = 103.8
+            xmax = 107.6
+            text = "[laughter] so, where do you live?"
+        intervals [31]:
+            xmin = 107.6
+            xmax = 107.8
+            text = ""
+        intervals [32]:
+            xmin = 107.8
+            xmax = 109.6
+            text = "EV?"
+        intervals [33]:
+            xmin = 109.6
+            xmax = 112.6
+            text = "Oh, so you're neighbors were cooking in the backyard?"
+        intervals [34]:
+            xmin = 112.6
+            xmax = 115.8
+            text = ""
+        intervals [35]:
+            xmin = 115.8
+            xmax = 119.6
+            text = "Is that?  Oh, okay, is that, oh interesting."
+        intervals [36]:
+            xmin = 119.6
+            xmax = 122.8
+            text = ""
+        intervals [37]:
+            xmin = 122.8
+            xmax = 126.6
+            text = "They, they, the whole animal, or was it just like parts of him?"
+        intervals [38]:
+            xmin = 126.6
+            xmax = 126.8
+            text = ""
+        intervals [39]:
+            xmin = 126.8
+            xmax = 131.6
+            text = "I guess that would feed them for a while.  Or I guess there were a lot of people there."
+        intervals [40]:
+            xmin = 131.6
+            xmax = 133.8
+            text = ""
+        intervals [41]:
+            xmin = 133.8
+            xmax = 135.6
+            text = "Oh, okay."
+        intervals [42]:
+            xmin = 135.6
+            xmax = 137.8
+            text = ""
+        intervals [43]:
+            xmin = 137.8
+            xmax = 143.6
+            text = "Gotcha, I've been to like a steer roast and stuff before but not a lamb roast.  That's interesting."
+        intervals [44]:
+            xmin = 143.6
+            xmax = 144.8
+            text = ""
+        intervals [45]:
+            xmin = 144.8
+            xmax = 147.6
+            text = "Oh, okay, um."
+        intervals [46]:
+            xmin = 147.6
+            xmax = 147.8
+            text = ""
+        intervals [47]:
+            xmin = 147.8
+            xmax = 149.6
+            text = "No."
+        intervals [48]:
+            xmin = 149.6
+            xmax = 153.6
+            text = "[laughter] I'm in the masters program in product design."
+        intervals [49]:
+            xmin = 153.6
+            xmax = 154.8
+            text = ""
+        intervals [50]:
+            xmin = 154.8
+            xmax = 157.6
+            text = "It's a small division in the mechanical engineering department."
+        intervals [51]:
+            xmin = 157.6
+            xmax = 157.8
+            text = ""
+        intervals [52]:
+            xmin = 157.8
+            xmax = 160.6
+            text = "Yes, that's why I love it too."
+        intervals [53]:
+            xmin = 160.6
+            xmax = 160.8
+            text = ""
+        intervals [54]:
+            xmin = 160.8
+            xmax = 167.6
+            text = "We make a whole bunch of, yeah; all stuff, all the time.  I'm working on wet weather biking gear right now.  So I'm interviewing a whole bunch of like bike messengers."
+        intervals [55]:
+            xmin = 167.6
+            xmax = 182.6
+            text = "Yeah, like people who have to ride in the rain.  I hate riding in the rain.  And so I want to know what other people do and how to improve it.  So I talked to a bunch of bike messengers in SF, put, put, you know, I just, people on Craig's List who took a survey of mine.  And then, I'm like, well I see what they do--"
+        intervals [56]:
+            xmin = 182.6
+            xmax = 187.8
+            text = ""
+        intervals [57]:
+            xmin = 187.8
+            xmax = 190.6
+            text = "Yeah, let's not talk about the IDO thing.  I..."
+        intervals [58]:
+            xmin = 190.6
+            xmax = 190.8
+            text = ""
+        intervals [59]:
+            xmin = 190.8
+            xmax = 208.6
+            text = "Um, no, but yeah, it totally is.  It's like; it's like observing what they do and noticing means that they don't know they need, that they have.  So I'm working on a wet weather, like a, hand protection and stuff right now.  Because a lot of people don't like wearing gloves, but their hands get cold.  And even if you wear gloves, you're hands get cold."
+        intervals [60]:
+            xmin = 208.6
+            xmax = 208.8
+            text = ""
+        intervals [61]:
+            xmin = 208.8
+            xmax = 215.6
+            text = "So, it's like a, um, it's like a shield thing.  And I'm prototyping a whole bunch of different concepts."
+        intervals [62]:
+            xmin = 215.6
+            xmax = 217.8
+            text = ""
+        intervals [63]:
+            xmin = 217.8
+            xmax = 237.6
+            text = "Yeah, so.  So something fun and then it's just a, a lot other weird projects too.  Because there's a lot of art classes too and so we can, some more uh, just aesthetically, like, things and then a lot of utilitarian things.  And, well what about you?  What is your program and stuff, you just?"

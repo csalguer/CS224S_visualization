@@ -1,0 +1,636 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 251.3
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 251.3
+intervals: size = 79
+        intervals [1]:
+            xmin = 0
+            xmax = 1.4
+            text = ""
+        intervals [2]:
+            xmin = 1.4
+            xmax = 2.3
+            text = "Hi. "
+        intervals [3]:
+            xmin = 2.3
+            xmax = 2.9
+            text = ""
+        intervals [4]:
+            xmin = 2.9
+            xmax = 3.5
+            text = "My name is [unintelligible]. "
+        intervals [5]:
+            xmin = 3.5
+            xmax = 4.5
+            text = ""
+        intervals [6]:
+            xmin = 4.5
+            xmax = 5.9
+            text = "Nice to meet you.  female321?"
+        intervals [7]:
+            xmin = 5.9
+            xmax = 7.1
+            text = ""
+        intervals [8]:
+            xmin = 7.1
+            xmax = 8.4
+            text = "So where are you from? "
+        intervals [9]:
+            xmin = 8.4
+            xmax = 11.5
+            text = ""
+        intervals [10]:
+            xmin = 11.5
+            xmax = 12.3
+            text = "Oh, really. "
+        intervals [11]:
+            xmin = 12.3
+            xmax = 12.7
+            text = ""
+        intervals [12]:
+            xmin = 12.7
+            xmax = 13.3
+            text = "That's where you grew up? "
+        intervals [13]:
+            xmin = 13.3
+            xmax = 14.1
+            text = ""
+        intervals [14]:
+            xmin = 14.1
+            xmax = 14.6
+            text = "Wow. "
+        intervals [15]:
+            xmin = 14.6
+            xmax = 16.5
+            text = ""
+        intervals [16]:
+            xmin = 16.5
+            xmax = 17.6
+            text = "[laughter] yeah. "
+        intervals [17]:
+            xmin = 17.6
+            xmax = 17.9
+            text = ""
+        intervals [18]:
+            xmin = 17.9
+            xmax = 20.3
+            text = "So what do your [unintelligible] at? "
+        intervals [19]:
+            xmin = 20.3
+            xmax = 26.8
+            text = ""
+        intervals [20]:
+            xmin = 26.8
+            xmax = 29.6
+            text = "Oh.  So you do that [unintelligible] here? "
+        intervals [21]:
+            xmin = 29.6
+            xmax = 35.5
+            text = ""
+        intervals [22]:
+            xmin = 35.5
+            xmax = 36.2
+            text = "Uh-huh. "
+        intervals [23]:
+            xmin = 36.2
+            xmax = 54.5
+            text = ""
+        intervals [24]:
+            xmin = 54.5
+            xmax = 55.3
+            text = "[laughter]. "
+        intervals [25]:
+            xmin = 55.3
+            xmax = 100.4
+            text = ""
+        intervals [26]:
+            xmin = 100.4
+            xmax = 100.9
+            text = "[interposing] Oh. "
+        intervals [27]:
+            xmin = 100.9
+            xmax = 107
+            text = ""
+        intervals [28]:
+            xmin = 107
+            xmax = 107.2
+            text = "Oh. "
+        intervals [29]:
+            xmin = 107.2
+            xmax = 109
+            text = ""
+        intervals [30]:
+            xmin = 109
+            xmax = 110
+            text = "Oh. "
+        intervals [31]:
+            xmin = 110
+            xmax = 117.1
+            text = ""
+        intervals [32]:
+            xmin = 117.1
+            xmax = 119
+            text = "[interposing] you write songs. "
+        intervals [33]:
+            xmin = 119
+            xmax = 119.4
+            text = ""
+        intervals [34]:
+            xmin = 119.4
+            xmax = 120
+            text = "Wow. "
+        intervals [35]:
+            xmin = 120
+            xmax = 130.1
+            text = ""
+        intervals [36]:
+            xmin = 130.1
+            xmax = 131.4
+            text = "Oh, wow. "
+        intervals [37]:
+            xmin = 131.4
+            xmax = 132.8
+            text = ""
+        intervals [38]:
+            xmin = 132.8
+            xmax = 133.5
+            text = "[laughter]. "
+        intervals [39]:
+            xmin = 133.5
+            xmax = 147.3
+            text = ""
+        intervals [40]:
+            xmin = 147.3
+            xmax = 150.1
+            text = "Wow So what kind of dance do you do? "
+        intervals [41]:
+            xmin = 150.1
+            xmax = 158.2
+            text = ""
+        intervals [42]:
+            xmin = 158.2
+            xmax = 158.8
+            text = "Oh. "
+        intervals [43]:
+            xmin = 158.8
+            xmax = 160.9
+            text = ""
+        intervals [44]:
+            xmin = 160.9
+            xmax = 161.4
+            text = "Yeah. "
+        intervals [45]:
+            xmin = 161.4
+            xmax = 165.5
+            text = ""
+        intervals [46]:
+            xmin = 165.5
+            xmax = 166
+            text = "Uh-huh. "
+        intervals [47]:
+            xmin = 166
+            xmax = 172.5
+            text = ""
+        intervals [48]:
+            xmin = 172.5
+            xmax = 172.7
+            text = "Uh. "
+        intervals [49]:
+            xmin = 172.7
+            xmax = 174.9
+            text = ""
+        intervals [50]:
+            xmin = 174.9
+            xmax = 175.3
+            text = "Uh-huh. "
+        intervals [51]:
+            xmin = 175.3
+            xmax = 179.7
+            text = ""
+        intervals [52]:
+            xmin = 179.7
+            xmax = 185.4
+            text = "Sure, sure.  Um, I'm doing my [unintelligible] in engineering and ah--from China. "
+        intervals [53]:
+            xmin = 185.4
+            xmax = 186.1
+            text = ""
+        intervals [54]:
+            xmin = 186.1
+            xmax = 193.4
+            text = "Yeah.  And we [unintelligible] and be here.  And this is my fifth year. "
+        intervals [55]:
+            xmin = 193.4
+            xmax = 194.4
+            text = ""
+        intervals [56]:
+            xmin = 194.4
+            xmax = 195.5
+            text = "Yeah.  I'm 28. "
+        intervals [57]:
+            xmin = 195.5
+            xmax = 196.6
+            text = ""
+        intervals [58]:
+            xmin = 196.6
+            xmax = 197.9
+            text = "And I like music a lot. "
+        intervals [59]:
+            xmin = 197.9
+            xmax = 198.5
+            text = ""
+        intervals [60]:
+            xmin = 198.5
+            xmax = 204
+            text = "I listen to pop songs very often in my spare time.  And I like [unintelligible] dance. "
+        intervals [61]:
+            xmin = 204
+            xmax = 204.8
+            text = ""
+        intervals [62]:
+            xmin = 204.8
+            xmax = 210.2
+            text = "And I jsut also salsa, waltz, cha-cha, pretty much every kind of [unintelligible] dance except tango. "
+        intervals [63]:
+            xmin = 210.2
+            xmax = 211
+            text = ""
+        intervals [64]:
+            xmin = 211
+            xmax = 217.4
+            text = "I, I also [unintelligible] tango because I, probably because the mood doesn't match the music much. "
+        intervals [65]:
+            xmin = 217.4
+            xmax = 218.7
+            text = ""
+        intervals [66]:
+            xmin = 218.7
+            xmax = 219.3
+            text = "Ah, yeah. "
+        intervals [67]:
+            xmin = 219.3
+            xmax = 221.9
+            text = ""
+        intervals [68]:
+            xmin = 221.9
+            xmax = 223.9
+            text = "But I don't see any romance from that. "
+        intervals [69]:
+            xmin = 223.9
+            xmax = 226.5
+            text = ""
+        intervals [70]:
+            xmin = 226.5
+            xmax = 226.9
+            text = "No. "
+        intervals [71]:
+            xmin = 226.9
+            xmax = 229.3
+            text = ""
+        intervals [72]:
+            xmin = 229.3
+            xmax = 235
+            text = "[laughter]. Yeah.  Sometimes play tennis and sometimes play volleyball. "
+        intervals [73]:
+            xmin = 235
+            xmax = 237.6
+            text = "Table tennis, that kind of--"
+        intervals [74]:
+            xmin = 237.6
+            xmax = 239.5
+            text = ""
+        intervals [75]:
+            xmin = 239.5
+            xmax = 242.8
+            text = "um [unintelligible] a small cat. "
+        intervals [76]:
+            xmin = 242.8
+            xmax = 246.5
+            text = ""
+        intervals [77]:
+            xmin = 246.5
+            xmax = 248.5
+            text = "Uh-huh. [unintelligible].  Nice to meet you. "
+        intervals [78]:
+            xmin = 248.5
+            xmax = 250.8
+            text = ""
+        intervals [79]:
+            xmin = 250.8
+            xmax = 251.3
+            text = "Take care. "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 251.3
+intervals: size = 75
+        intervals [1]:
+            xmin = 2.979
+            xmax = 3.179
+            text = "Hello "
+        intervals [2]:
+            xmin = 3.179
+            xmax = 3.879
+            text = ""
+        intervals [3]:
+            xmin = 3.879
+            xmax = 4.379
+            text = "Nice to meet you. "
+        intervals [4]:
+            xmin = 4.379
+            xmax = 5.579
+            text = ""
+        intervals [5]:
+            xmin = 5.579
+            xmax = 6.079
+            text = "Um-hmm. "
+        intervals [6]:
+            xmin = 6.079
+            xmax = 7.979
+            text = ""
+        intervals [7]:
+            xmin = 7.979
+            xmax = 11.279
+            text = "Um, here.  Six miles ah, north of here, Redwood City. "
+        intervals [8]:
+            xmin = 11.279
+            xmax = 12.179
+            text = ""
+        intervals [9]:
+            xmin = 12.179
+            xmax = 12.679
+            text = "Um-hmm."
+        intervals [10]:
+            xmin = 12.679
+            xmax = 13.879
+            text = "Um-hmm. "
+        intervals [11]:
+            xmin = 13.879
+            xmax = 14.279
+            text = ""
+        intervals [12]:
+            xmin = 14.279
+            xmax = 16.279
+            text = "Yeah.  So it's kind of weird to go to school so close. "
+        intervals [13]:
+            xmin = 16.279
+            xmax = 17.679
+            text = ""
+        intervals [14]:
+            xmin = 17.679
+            xmax = 17.679
+            text = "Yeah."
+        intervals [15]:
+            xmin = 17.679
+            xmax = 20.179
+            text = ""
+        intervals [16]:
+            xmin = 20.179
+            xmax = 21.379
+            text = "Cultural anthropology.  I was always interested in learning about different cultures and my own societies culture."
+        intervals [17]:
+            xmin = 21.379
+            xmax = 29.379
+            text = ""
+        intervals [18]:
+            xmin = 29.379
+            xmax = 35.379
+            text = "In a way.  You could argue that anthropology has, has it's own branch called education. "
+        intervals [19]:
+            xmin = 35.379
+            xmax = 35.879
+            text = ""
+        intervals [20]:
+            xmin = 35.879
+            xmax = 54.379
+            text = "Educational anthropology.  But um, what I'm focusing on is um, specific issues in higher education of experiences of women of um, minority backgrounds; Asian-American, Jap--I'm sorry, my phone is distracting me. "
+        intervals [21]:
+            xmin = 54.379
+            xmax = 55.379
+            text = ""
+        intervals [22]:
+            xmin = 55.379
+            xmax = 100.479
+            text = "...of African-American, Latin-American backgrounds.  Um, pressures and concerns that they face when they apply to humanities.  This is [unintelligible] humanities [unintelligible] programs.  Because there's stigma's--I won't go on and on, but I'm just saying--there's stigma's attached to people of color when they are in the humanitites.  Oh, for example, 'Oh, you're Chinese so you must do Chinese literature.'  'Oh, that, you, you have credibility in that just because you're Chinese.'  Or 'Oh,' you know 'you're black.  That means you must do Toni Morrison.  How could you possible know anything about shakespeare?'  Well not that everybody beleives that.  I'm just saying that there are issues that come up about who is credible, who has--you know how these pressures and these assumptions affect your life  decisions--"
+        intervals [23]:
+            xmin = 100.479
+            xmax = 100.979
+            text = ""
+        intervals [24]:
+            xmin = 100.979
+            xmax = 106.379
+            text = "--in the humainities, blah, blah, blah.  So I'm 26.  I'm going to finish my program in a couple of weeks. "
+        intervals [25]:
+            xmin = 106.379
+            xmax = 107.279
+            text = ""
+        intervals [26]:
+            xmin = 107.279
+            xmax = 108.879
+            text = "Thank God.  I'm really tired [laughter]. "
+        intervals [27]:
+            xmin = 108.879
+            xmax = 109.579
+            text = ""
+        intervals [28]:
+            xmin = 109.579
+            xmax = 116.979
+            text = "So um, but besides that I am, I'm an artist, a poet, a dancer, ah, I write songs, um--"
+        intervals [29]:
+            xmin = 116.979
+            xmax = 118.279
+            text = ""
+        intervals [30]:
+            xmin = 118.279
+            xmax = 119.079
+            text = "I like to perform. "
+        intervals [31]:
+            xmin = 119.079
+            xmax = 119.479
+            text = ""
+        intervals [32]:
+            xmin = 119.479
+            xmax = 129.979
+            text = "I like to dance.  I like to, I like to do all sorts of art.  I like to paint.  Paint, actually, images with nailpolish.  I think the way that it dries on the paper is really beautiful. "
+        intervals [33]:
+            xmin = 129.979
+            xmax = 130.779
+            text = ""
+        intervals [34]:
+            xmin = 130.779
+            xmax = 132.879
+            text = "It's just kind of weird.  But I don't care [laughter]. "
+        intervals [35]:
+            xmin = 132.879
+            xmax = 133.479
+            text = ""
+        intervals [36]:
+            xmin = 133.479
+            xmax = 146.879
+            text = "I'm going to probably do a mural some day with um, basically just have my foot.  And the whole room is just like me printing my foot all over the place in interesting ways.  I don't know.  I like being artists. "
+        intervals [37]:
+            xmin = 146.879
+            xmax = 150.279
+            text = ""
+        intervals [38]:
+            xmin = 150.279
+            xmax = 157.779
+            text = "Um, improve.  I could not stand to be in a class trying to practice and copy somebody else.  I've tried that many times and I suck. "
+        intervals [39]:
+            xmin = 157.779
+            xmax = 158.379
+            text = ""
+        intervals [40]:
+            xmin = 158.379
+            xmax = 159.279
+            text = "I'm natural--I'm naturally someone who likes to be improv."
+        intervals [41]:
+            xmin = 159.279
+            xmax = 161.379
+            text = ""
+        intervals [42]:
+            xmin = 161.379
+            xmax = 165.279
+            text = "Kind of like hip-hop.  You know, just kind of modern dance. "
+        intervals [43]:
+            xmin = 165.279
+            xmax = 165.879
+            text = ""
+        intervals [44]:
+            xmin = 165.879
+            xmax = 172.279
+            text = "But I don't want to, you know, put a label on it.  I don't have any, like real, you know, professional background. "
+        intervals [45]:
+            xmin = 172.279
+            xmax = 172.679
+            text = ""
+        intervals [46]:
+            xmin = 172.679
+            xmax = 174.779
+            text = "You know, I don't have the training or whatever that means. "
+        intervals [47]:
+            xmin = 174.779
+            xmax = 179.479
+            text = "But I have the passion, so.  But I am sorry.  Can you tell me more about you? "
+        intervals [48]:
+            xmin = 179.479
+            xmax = 185.479
+            text = ""
+        intervals [49]:
+            xmin = 185.479
+            xmax = 185.679
+            text = "Um-huh."
+        intervals [50]:
+            xmin = 185.679
+            xmax = 193.279
+            text = ""
+        intervals [51]:
+            xmin = 193.279
+            xmax = 193.579
+            text = "Um-hum. "
+        intervals [52]:
+            xmin = 193.579
+            xmax = 195.379
+            text = ""
+        intervals [53]:
+            xmin = 195.379
+            xmax = 195.779
+            text = "Um-hmm. "
+        intervals [54]:
+            xmin = 195.779
+            xmax = 198.179
+            text = ""
+        intervals [55]:
+            xmin = 198.179
+            xmax = 198.679
+            text = "Um-hum. "
+        intervals [56]:
+            xmin = 198.679
+            xmax = 203.679
+            text = ""
+        intervals [57]:
+            xmin = 203.679
+            xmax = 204.279
+            text = "Um-hmm. "
+        intervals [58]:
+            xmin = 204.279
+            xmax = 209.979
+            text = ""
+        intervals [59]:
+            xmin = 209.979
+            xmax = 210.879
+            text = "Right. "
+        intervals [60]:
+            xmin = 210.879
+            xmax = 217.279
+            text = ""
+        intervals [61]:
+            xmin = 217.279
+            xmax = 218.579
+            text = "It's cheesy too. "
+        intervals [62]:
+            xmin = 218.579
+            xmax = 219.379
+            text = ""
+        intervals [63]:
+            xmin = 219.379
+            xmax = 221.679
+            text = "It's like what romantic dance is supposed to be. "
+        intervals [64]:
+            xmin = 221.679
+            xmax = 223.679
+            text = ""
+        intervals [65]:
+            xmin = 223.679
+            xmax = 226.179
+            text = "Yeah.  And the flower in the mouth thing, no [laughter]. "
+        intervals [66]:
+            xmin = 226.179
+            xmax = 227.279
+            text = ""
+        intervals [67]:
+            xmin = 227.279
+            xmax = 229.079
+            text = "I'd rather have a peice of chocolate in my mouth. "
+        intervals [68]:
+            xmin = 229.079
+            xmax = 234.479
+            text = ""
+        intervals [69]:
+            xmin = 234.479
+            xmax = 235.079
+            text = "Um-hmm. "
+        intervals [70]:
+            xmin = 235.079
+            xmax = 236.679
+            text = ""
+        intervals [71]:
+            xmin = 236.679
+            xmax = 239.279
+            text = "[interposing] What kind of animals do you like?  Sorry to cut you off. "
+        intervals [72]:
+            xmin = 239.279
+            xmax = 243.079
+            text = ""
+        intervals [73]:
+            xmin = 243.079
+            xmax = 245.979
+            text = "Oh, I like cats too.  I love cats.  "
+        intervals [74]:
+            xmin = 245.979
+            xmax = 246.679
+            text = ""
+        intervals [75]:
+            xmin = 246.679
+            xmax = 250.779
+            text = "Nice to meet you.  Take care. "

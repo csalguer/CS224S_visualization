@@ -1,0 +1,548 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 273.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 273.6
+intervals: size = 66
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "This is tea, huh?"
+        intervals [3]:
+            xmin = 2.6
+            xmax = 5.8
+            text = ""
+        intervals [4]:
+            xmin = 5.8
+            xmax = 7.6
+            text = "Is that female240?"
+        intervals [5]:
+            xmin = 7.6
+            xmax = 8.8
+            text = ""
+        intervals [6]:
+            xmin = 8.8
+            xmax = 10.6
+            text = "Okay, that's nice."
+        intervals [7]:
+            xmin = 10.6
+            xmax = 15.8
+            text = ""
+        intervals [8]:
+            xmin = 15.8
+            xmax = 33.6
+            text = "With a name like female240, you should be a guy, yeah that doesn't, doesn't mean, well I've heard that name before in my life, so I don't know.  I mean I would think that no one would have any gender associated with it necessarily.  It doesn't even sound necessarily masculine, probably more feminine than masculine.  I mean female240."
+        intervals [9]:
+            xmin = 33.6
+            xmax = 41.6
+            text = "There you go; I'm trying to get the high points on uh, courteousness, so. So I like uh, little, the little butterfly, that's pretty nice."
+        intervals [10]:
+            xmin = 41.6
+            xmax = 44.8
+            text = ""
+        intervals [11]:
+            xmin = 44.8
+            xmax = 46.6
+            text = "Really?"
+        intervals [12]:
+            xmin = 46.6
+            xmax = 46.8
+            text = ""
+        intervals [13]:
+            xmin = 46.8
+            xmax = 48.6
+            text = "You just stole it when she wasn't looking, or?"
+        intervals [14]:
+            xmin = 48.6
+            xmax = 54.8
+            text = ""
+        intervals [15]:
+            xmin = 54.8
+            xmax = 62.6
+            text = "Oh, okay, cool, that's nice, that's good.  So um, is she where, she's, you're not Chinese though are you?"
+        intervals [16]:
+            xmin = 62.6
+            xmax = 68.6
+            text = "You, way too American accent to be Chinese.  You must have studied in American school in China or something."
+        intervals [17]:
+            xmin = 68.6
+            xmax = 68.8
+            text = ""
+        intervals [18]:
+            xmin = 68.8
+            xmax = 74.6
+            text = "[interposing] okay, because you have an amazingly good accent or whatever."
+        intervals [19]:
+            xmin = 74.6
+            xmax = 74.8
+            text = ""
+        intervals [20]:
+            xmin = 74.8
+            xmax = 82.6
+            text = "Oh, you grew up here, so that's what it is, okay.  So how's that, I mean, you moved over here when you were a child or?"
+        intervals [21]:
+            xmin = 82.6
+            xmax = 88.8
+            text = ""
+        intervals [22]:
+            xmin = 88.8
+            xmax = 90.6
+            text = "Wow."
+        intervals [23]:
+            xmin = 90.6
+            xmax = 91.8
+            text = ""
+        intervals [24]:
+            xmin = 91.8
+            xmax = 96.6
+            text = "Oh, I see, okay, cool.  And when, and in California you grew up, you say?"
+        intervals [25]:
+            xmin = 96.6
+            xmax = 96.8
+            text = ""
+        intervals [26]:
+            xmin = 96.8
+            xmax = 99.6
+            text = "Which, San Jose?  Cool."
+        intervals [27]:
+            xmin = 99.6
+            xmax = 99.8
+            text = ""
+        intervals [28]:
+            xmin = 99.8
+            xmax = 103.6
+            text = "Nice, nice.  And then what are you studying?"
+        intervals [29]:
+            xmin = 103.6
+            xmax = 104.8
+            text = ""
+        intervals [30]:
+            xmin = 104.8
+            xmax = 107.6
+            text = "Okay.  What kind of a lawyer?"
+        intervals [31]:
+            xmin = 107.6
+            xmax = 111.8
+            text = ""
+        intervals [32]:
+            xmin = 111.8
+            xmax = 114.6
+            text = "Going to courtrooms and argue cases in front of judges."
+        intervals [33]:
+            xmin = 114.6
+            xmax = 116.8
+            text = ""
+        intervals [34]:
+            xmin = 116.8
+            xmax = 119.6
+            text = "What do you doing, beating people up in back rooms or something?"
+        intervals [35]:
+            xmin = 119.6
+            xmax = 121.8
+            text = ""
+        intervals [36]:
+            xmin = 121.8
+            xmax = 127.6
+            text = "I guess that's cops, oh, I see, yeah right.  Yeah, you have to be good at writing to be a lawyer."
+        intervals [37]:
+            xmin = 127.6
+            xmax = 129.8
+            text = ""
+        intervals [38]:
+            xmin = 129.8
+            xmax = 132.6
+            text = "I would never make it as a lawyer, I can't read, I can't write."
+        intervals [39]:
+            xmin = 132.6
+            xmax = 132.8
+            text = ""
+        intervals [40]:
+            xmin = 132.8
+            xmax = 136.6
+            text = "No, what am I doing, no, I'm, I'm working on geophysics, so."
+        intervals [41]:
+            xmin = 136.6
+            xmax = 136.8
+            text = ""
+        intervals [42]:
+            xmin = 136.8
+            xmax = 150.6
+            text = "Like I, right now I'm writing a paper, trying to publish it.  And it's like, I hate it. And it's really not me, you know, it's just not me.  And I love the research part, but then not the writing, you know.  It just kills me.  I'm, I'm terrible at it.  I think that's why I hate it, because I, I suck so bad.  Because then whenever I write something and then I show it to someone to proofread it, it's humiliating.  I got to sit there and, you know, they're just tearing it apart. They're like, you suck."
+        intervals [43]:
+            xmin = 150.6
+            xmax = 161.8
+            text = ""
+        intervals [44]:
+            xmin = 161.8
+            xmax = 168.6
+            text = "Pretty much.  Are you retarded?  How could you not, this is so unclear.  You know things like that, you know.  And I'm just like, oh."
+        intervals [45]:
+            xmin = 168.6
+            xmax = 169.8
+            text = ""
+        intervals [46]:
+            xmin = 169.8
+            xmax = 171.6
+            text = "No it's really bad."
+        intervals [47]:
+            xmin = 171.6
+            xmax = 171.8
+            text = ""
+        intervals [48]:
+            xmin = 171.8
+            xmax = 173.6
+            text = "It's very bad."
+        intervals [49]:
+            xmin = 173.6
+            xmax = 173.8
+            text = ""
+        intervals [50]:
+            xmin = 173.8
+            xmax = 178.6
+            text = "I did, I took a technical writing class, it's the lowest grade I got at Stanford, technical writing."
+        intervals [51]:
+            xmin = 178.6
+            xmax = 178.8
+            text = ""
+        intervals [52]:
+            xmin = 178.8
+            xmax = 183.6
+            text = "I'm just not, that's not where my passion lies, so I, you know, I guess I just go with whatever I like."
+        intervals [53]:
+            xmin = 183.6
+            xmax = 184.8
+            text = ""
+        intervals [54]:
+            xmin = 184.8
+            xmax = 194.6
+            text = "That's how I do it, you know.  If I don't like studying something, I just can't do it.  But if I like it then I'm very into it, so, so."
+        intervals [55]:
+            xmin = 194.6
+            xmax = 199.8
+            text = ""
+        intervals [56]:
+            xmin = 199.8
+            xmax = 203.6
+            text = "Are you, you dig your job, or you dig your field?"
+        intervals [57]:
+            xmin = 203.6
+            xmax = 212.8
+            text = ""
+        intervals [58]:
+            xmin = 212.8
+            xmax = 218.6
+            text = "I'm sure.  So why do you want to be a, a, a litigator?  Is it cost you that much, 35? Wow, okay."
+        intervals [59]:
+            xmin = 218.6
+            xmax = 222.8
+            text = ""
+        intervals [60]:
+            xmin = 222.8
+            xmax = 248.6
+            text = "Well I do for my master's. I took some loans then, but no.  I can't, they won't even give me loans now.  Well, because they pay you just enough so you have to be totally impoverished but you cannot get loans.  Like I'd take loans if they'd give me any, but they won't.  I'm not qualified, so, so now I'm.  Well I do, I do acquire a little bit of credit card lately and that is not good.  I don't like that at all, so.  You can call that a very high interest loan, student loan, student, high interest student loan."
+        intervals [61]:
+            xmin = 248.6
+            xmax = 248.8
+            text = ""
+        intervals [62]:
+            xmin = 248.8
+            xmax = 255.6
+            text = "But anyway, uh, so, I'm mean, it's not bad.  Um, so why did you want to be a litigator?"
+        intervals [63]:
+            xmin = 255.6
+            xmax = 261.8
+            text = ""
+        intervals [64]:
+            xmin = 261.8
+            xmax = 265.6
+            text = "Oh, okay, okay, good.  Well, it's good that you know what you want to do."
+        intervals [65]:
+            xmin = 265.6
+            xmax = 269.8
+            text = ""
+        intervals [66]:
+            xmin = 269.8
+            xmax = 272.6
+            text = "Yeah, absolutely.  Okay, well, nice meeting you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 273.6
+intervals: size = 66
+        intervals [1]:
+            xmin = 2.8
+            xmax = 5.6
+            text = "Yeah, I'm really, [unintelligible] tea."
+        intervals [2]:
+            xmin = 5.6
+            xmax = 6.8
+            text = ""
+        intervals [3]:
+            xmin = 6.8
+            xmax = 9.6
+            text = "Yeah, yeah, [unintelligible]."
+        intervals [4]:
+            xmin = 9.6
+            xmax = 10.8
+            text = ""
+        intervals [5]:
+            xmin = 10.8
+            xmax = 17.6
+            text = "Thanks, thanks, it's Chinese and uh, when I showed up to speed dating um, they're all like, oh my god; you're not a guy [laughter]."
+        intervals [6]:
+            xmin = 17.6
+            xmax = 31.8
+            text = ""
+        intervals [7]:
+            xmin = 31.8
+            xmax = 33.6
+            text = "That's what I like to hear [laughter]."
+        intervals [8]:
+            xmin = 33.6
+            xmax = 40.8
+            text = ""
+        intervals [9]:
+            xmin = 40.8
+            xmax = 45.6
+            text = "Oh, thanks, thanks, yeah.  My mom actually got me this top.  Actually she got it for herself [laughter]."
+        intervals [10]:
+            xmin = 45.6
+            xmax = 45.8
+            text = ""
+        intervals [11]:
+            xmin = 45.8
+            xmax = 48.6
+            text = "But then I was like, mom, I kind of [unintelligible]."
+        intervals [12]:
+            xmin = 48.6
+            xmax = 48.8
+            text = ""
+        intervals [13]:
+            xmin = 48.8
+            xmax = 56.6
+            text = "No, no, like we tried it on after she bought it and she was just like, no.  It's actually a little tight on me, so I'm going to give it to you.  I was like, that sounds good [laughter]."
+        intervals [14]:
+            xmin = 56.6
+            xmax = 60.8
+            text = ""
+        intervals [15]:
+            xmin = 60.8
+            xmax = 62.6
+            text = "I am."
+        intervals [16]:
+            xmin = 62.6
+            xmax = 67.8
+            text = ""
+        intervals [17]:
+            xmin = 67.8
+            xmax = 70.6
+            text = "I did actually, um--"
+        intervals [18]:
+            xmin = 70.6
+            xmax = 73.8
+            text = ""
+        intervals [19]:
+            xmin = 73.8
+            xmax = 75.6
+            text = "But I grew up here."
+        intervals [20]:
+            xmin = 75.6
+            xmax = 81.8
+            text = ""
+        intervals [21]:
+            xmin = 81.8
+            xmax = 89.6
+            text = "No, no, um, I have lived in northern California my entire life except for two years in high school when um, I lived in China."
+        intervals [22]:
+            xmin = 89.6
+            xmax = 89.8
+            text = ""
+        intervals [23]:
+            xmin = 89.8
+            xmax = 93.6
+            text = "And I went to an American school in China, so [laughter]."
+        intervals [24]:
+            xmin = 93.6
+            xmax = 95.8
+            text = ""
+        intervals [25]:
+            xmin = 95.8
+            xmax = 97.6
+            text = "Yeah, like San Jose."
+        intervals [26]:
+            xmin = 97.6
+            xmax = 98.8
+            text = ""
+        intervals [27]:
+            xmin = 98.8
+            xmax = 100.6
+            text = "So, 20 minutes away from here [laughter]."
+        intervals [28]:
+            xmin = 100.6
+            xmax = 102.8
+            text = ""
+        intervals [29]:
+            xmin = 102.8
+            xmax = 105.6
+            text = "Law.  I'm going to be a lawyer [laughter]."
+        intervals [30]:
+            xmin = 105.6
+            xmax = 106.8
+            text = ""
+        intervals [31]:
+            xmin = 106.8
+            xmax = 114.6
+            text = "You know, um, I'm going to be a litigator, which is kind of like the people that you see on TV, those are all litigators."
+        intervals [32]:
+            xmin = 114.6
+            xmax = 117.6
+            text = "Yeah, but actually arguing is only like a very, very small fraction."
+        intervals [33]:
+            xmin = 117.6
+            xmax = 119.8
+            text = ""
+        intervals [34]:
+            xmin = 119.8
+            xmax = 124.6
+            text = "No, it's more like sitting in front of my computer, turning churning out [unintelligible] [laughter]."
+        intervals [35]:
+            xmin = 124.6
+            xmax = 126.8
+            text = ""
+        intervals [36]:
+            xmin = 126.8
+            xmax = 130.6
+            text = "Yeah, no, reading and writing are like probably the two most important things."
+        intervals [37]:
+            xmin = 130.6
+            xmax = 131.8
+            text = ""
+        intervals [38]:
+            xmin = 131.8
+            xmax = 133.6
+            text = "[laughter]."
+        intervals [39]:
+            xmin = 133.6
+            xmax = 135.8
+            text = ""
+        intervals [40]:
+            xmin = 135.8
+            xmax = 137.6
+            text = "Oh, cool."
+        intervals [41]:
+            xmin = 137.6
+            xmax = 150.8
+            text = ""
+        intervals [42]:
+            xmin = 150.8
+            xmax = 163.6
+            text = "[laughter] I'm sure they write that in the margin, you suck [laughter]."
+        intervals [43]:
+            xmin = 163.6
+            xmax = 168.8
+            text = ""
+        intervals [44]:
+            xmin = 168.8
+            xmax = 170.6
+            text = "I'm sure it's better than you're making it out to be."
+        intervals [45]:
+            xmin = 170.6
+            xmax = 170.8
+            text = ""
+        intervals [46]:
+            xmin = 170.8
+            xmax = 172.6
+            text = "[laughter]."
+        intervals [47]:
+            xmin = 172.6
+            xmax = 172.8
+            text = ""
+        intervals [48]:
+            xmin = 172.8
+            xmax = 175.6
+            text = "Well maybe you could take like a bunch of your old--"
+        intervals [49]:
+            xmin = 175.6
+            xmax = 177.8
+            text = ""
+        intervals [50]:
+            xmin = 177.8
+            xmax = 179.6
+            text = "[laughter]."
+        intervals [51]:
+            xmin = 179.6
+            xmax = 182.8
+            text = ""
+        intervals [52]:
+            xmin = 182.8
+            xmax = 187.6
+            text = "Yeah, that's a good way to live life and, you know [laughter]."
+        intervals [53]:
+            xmin = 187.6
+            xmax = 193.8
+            text = ""
+        intervals [54]:
+            xmin = 193.8
+            xmax = 200.6
+            text = "Yeah, I know, there are a lot of people at the law school who aren't even sure that they want to be lawyers.   And I really feel bad for them, actually."
+        intervals [55]:
+            xmin = 200.6
+            xmax = 201.8
+            text = ""
+        intervals [56]:
+            xmin = 201.8
+            xmax = 213.6
+            text = "Yeah.  I want to be a lawyer, which makes it a lot easier for me I think, just to like live life.  Because they really question themselves and they're like, what am I doing spending; you know $35,000 a year on."
+        intervals [57]:
+            xmin = 213.6
+            xmax = 217.8
+            text = ""
+        intervals [58]:
+            xmin = 217.8
+            xmax = 222.6
+            text = "Yeah, tuition, yeah.  Let me guess you have no debt to Stanford, right [unintelligible]?"
+        intervals [59]:
+            xmin = 222.6
+            xmax = 245.8
+            text = ""
+        intervals [60]:
+            xmin = 245.8
+            xmax = 248.6
+            text = "Yeah, yeah, yeah, yeah."
+        intervals [61]:
+            xmin = 248.6
+            xmax = 255.8
+            text = ""
+        intervals [62]:
+            xmin = 255.8
+            xmax = 263.6
+            text = "Well, I think because I worked at this company um, before I came to law school and I worked with a lot of lawyers who did litigation, so I was like [unintelligible]."
+        intervals [63]:
+            xmin = 263.6
+            xmax = 265.8
+            text = ""
+        intervals [64]:
+            xmin = 265.8
+            xmax = 270.6
+            text = "It's always good to know so you don't like flounder around and you're like, alright, what am I doing."
+        intervals [65]:
+            xmin = 270.6
+            xmax = 271.8
+            text = ""
+        intervals [66]:
+            xmin = 271.8
+            xmax = 273.6
+            text = "Nice meeting you."

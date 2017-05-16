@@ -1,0 +1,812 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 255.17
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 255.17
+intervals: size = 99
+        intervals [1]:
+            xmin = 0
+            xmax = 11.37
+            text = ""
+        intervals [2]:
+            xmin = 11.37
+            xmax = 12.17
+            text = "Huh?"
+        intervals [3]:
+            xmin = 12.17
+            xmax = 12.37
+            text = ""
+        intervals [4]:
+            xmin = 12.37
+            xmax = 14.17
+            text = "Yeah, I know."
+        intervals [5]:
+            xmin = 14.17
+            xmax = 14.37
+            text = ""
+        intervals [6]:
+            xmin = 14.37
+            xmax = 22.17
+            text = "I'm [unintelligible].  Nice to meet you.  I have--I screwed up on my numbering so I'm making sure I'm writing the names on each one.  "
+        intervals [7]:
+            xmin = 22.17
+            xmax = 22.37
+            text = ""
+        intervals [8]:
+            xmin = 22.37
+            xmax = 26.17
+            text = "Cause I'm here just to help research, and I don't want to hurt--"
+        intervals [9]:
+            xmin = 26.17
+            xmax = 26.37
+            text = ""
+        intervals [10]:
+            xmin = 26.37
+            xmax = 27.17
+            text = "Yeah.  "
+        intervals [11]:
+            xmin = 27.17
+            xmax = 27.37
+            text = ""
+        intervals [12]:
+            xmin = 27.37
+            xmax = 29.17
+            text = "Oh, really?  "
+        intervals [13]:
+            xmin = 29.17
+            xmax = 34.37
+            text = ""
+        intervals [14]:
+            xmin = 34.37
+            xmax = 40.17
+            text = "Yeah, uh-huh. Is that allowed to be in the class of someone who is organizing this?  You're not going to sway it in any way.  "
+        intervals [15]:
+            xmin = 40.17
+            xmax = 45.37
+            text = ""
+        intervals [16]:
+            xmin = 45.37
+            xmax = 48.17
+            text = "They're planted.  Girls [unintelligible]?  "
+        intervals [17]:
+            xmin = 48.17
+            xmax = 53.37
+            text = ""
+        intervals [18]:
+            xmin = 53.37
+            xmax = 55.17
+            text = "[interposing]  Okay, all right, uh-huh.  "
+        intervals [19]:
+            xmin = 55.17
+            xmax = 56.37
+            text = ""
+        intervals [20]:
+            xmin = 56.37
+            xmax = 57.17
+            text = "Oh, really?  "
+        intervals [21]:
+            xmin = 57.17
+            xmax = 58.37
+            text = ""
+        intervals [22]:
+            xmin = 58.37
+            xmax = 65.17
+            text = "I heard it through a friend of mine.  I hadn't heard until like a few days ago.  "
+        intervals [23]:
+            xmin = 65.17
+            xmax = 66.37
+            text = ""
+        intervals [24]:
+            xmin = 66.37
+            xmax = 67.17
+            text = "Yeah, yeah. "
+        intervals [25]:
+            xmin = 67.17
+            xmax = 68.37
+            text = ""
+        intervals [26]:
+            xmin = 68.37
+            xmax = 70.17
+            text = "I'm in computer science?"
+        intervals [27]:
+            xmin = 70.17
+            xmax = 71.37
+            text = ""
+        intervals [28]:
+            xmin = 71.37
+            xmax = 73.17
+            text = "Yeah."
+        intervals [29]:
+            xmin = 73.17
+            xmax = 73.37
+            text = ""
+        intervals [30]:
+            xmin = 73.37
+            xmax = 74.17
+            text = "Master's."
+        intervals [31]:
+            xmin = 74.17
+            xmax = 74.37
+            text = ""
+        intervals [32]:
+            xmin = 74.37
+            xmax = 82.17
+            text = "I work in the genetics department on computational biology.  So..."
+        intervals [33]:
+            xmin = 82.17
+            xmax = 83.37
+            text = ""
+        intervals [34]:
+            xmin = 83.37
+            xmax = 86.17
+            text = "Like, I guess so.  It sounds very impressive, right?  "
+        intervals [35]:
+            xmin = 86.17
+            xmax = 86.37
+            text = ""
+        intervals [36]:
+            xmin = 86.37
+            xmax = 89.17
+            text = "Computational, a couple of big words together.  "
+        intervals [37]:
+            xmin = 89.17
+            xmax = 91.37
+            text = ""
+        intervals [38]:
+            xmin = 91.37
+            xmax = 94.17
+            text = "[interposing]  Yeah, you're in the ed school?"
+        intervals [39]:
+            xmin = 94.17
+            xmax = 95.37
+            text = ""
+        intervals [40]:
+            xmin = 95.37
+            xmax = 97.17
+            text = "What kind of--"
+        intervals [41]:
+            xmin = 97.17
+            xmax = 99.37
+            text = ""
+        intervals [42]:
+            xmin = 99.37
+            xmax = 102.17
+            text = "Uh-huh, cool.  "
+        intervals [43]:
+            xmin = 102.17
+            xmax = 104.37
+            text = ""
+        intervals [44]:
+            xmin = 104.37
+            xmax = 105.17
+            text = "Uh-huh.  "
+        intervals [45]:
+            xmin = 105.17
+            xmax = 105.37
+            text = ""
+        intervals [46]:
+            xmin = 105.37
+            xmax = 109.17
+            text = "Yeah, what do you plan to do with that?  Do you know?  "
+        intervals [47]:
+            xmin = 109.17
+            xmax = 109.37
+            text = ""
+        intervals [48]:
+            xmin = 109.37
+            xmax = 111.17
+            text = "Yeah, I have no idea."
+        intervals [49]:
+            xmin = 111.17
+            xmax = 117.37
+            text = ""
+        intervals [50]:
+            xmin = 117.37
+            xmax = 118.17
+            text = "Uh-huh.  "
+        intervals [51]:
+            xmin = 118.17
+            xmax = 122.37
+            text = ""
+        intervals [52]:
+            xmin = 122.37
+            xmax = 123.17
+            text = "Uh-huh.  "
+        intervals [53]:
+            xmin = 123.17
+            xmax = 126.37
+            text = ""
+        intervals [54]:
+            xmin = 126.37
+            xmax = 127.17
+            text = "Yeah, okay.  "
+        intervals [55]:
+            xmin = 127.17
+            xmax = 131.37
+            text = ""
+        intervals [56]:
+            xmin = 131.37
+            xmax = 135.17
+            text = "Yeah, I mean that would be stuff in classrooms like--"
+        intervals [57]:
+            xmin = 135.17
+            xmax = 136.37
+            text = ""
+        intervals [58]:
+            xmin = 136.37
+            xmax = 139.17
+            text = "Oh, yeah?  Did you like that?  "
+        intervals [59]:
+            xmin = 139.17
+            xmax = 142.37
+            text = ""
+        intervals [60]:
+            xmin = 142.37
+            xmax = 143.17
+            text = "Yeah.  "
+        intervals [61]:
+            xmin = 143.17
+            xmax = 144.37
+            text = ""
+        intervals [62]:
+            xmin = 144.37
+            xmax = 147.17
+            text = "Uh-huh, was that in this area?"
+        intervals [63]:
+            xmin = 147.17
+            xmax = 149.37
+            text = ""
+        intervals [64]:
+            xmin = 149.37
+            xmax = 150.17
+            text = "Okay.  "
+        intervals [65]:
+            xmin = 150.17
+            xmax = 151.37
+            text = ""
+        intervals [66]:
+            xmin = 151.37
+            xmax = 154.17
+            text = "Yeah, I went to Berkley for undergrad."
+        intervals [67]:
+            xmin = 154.17
+            xmax = 155.37
+            text = ""
+        intervals [68]:
+            xmin = 155.37
+            xmax = 156.17
+            text = "Yeah.  "
+        intervals [69]:
+            xmin = 156.17
+            xmax = 156.37
+            text = ""
+        intervals [70]:
+            xmin = 156.37
+            xmax = 159.17
+            text = "Well, my plan--I cheer for Berkley still.  "
+        intervals [71]:
+            xmin = 159.17
+            xmax = 159.37
+            text = ""
+        intervals [72]:
+            xmin = 159.37
+            xmax = 161.17
+            text = "I even actually cheer for--"
+        intervals [73]:
+            xmin = 161.17
+            xmax = 161.37
+            text = ""
+        intervals [74]:
+            xmin = 161.37
+            xmax = 167.17
+            text = "I've even been to Stanford games where they're playing like Arizona or something and cheered against Stanford.  "
+        intervals [75]:
+            xmin = 167.17
+            xmax = 167.17
+            text = "Yeah."
+        intervals [76]:
+            xmin = 167.17
+            xmax = 170.37
+            text = ""
+        intervals [77]:
+            xmin = 170.37
+            xmax = 180.17
+            text = "At Berkley we get completely conditioned to hate Stanford.  It's like--here they don't really care about the whole rivalry, but at Berkley it's a very big deal.  "
+        intervals [78]:
+            xmin = 180.17
+            xmax = 181.37
+            text = ""
+        intervals [79]:
+            xmin = 181.37
+            xmax = 183.17
+            text = "No, I grew up in Minnesota actually.  "
+        intervals [80]:
+            xmin = 183.17
+            xmax = 184.37
+            text = ""
+        intervals [81]:
+            xmin = 184.37
+            xmax = 187.17
+            text = "Yeah, is that surprising?  "
+        intervals [82]:
+            xmin = 187.17
+            xmax = 191.37
+            text = ""
+        intervals [83]:
+            xmin = 191.37
+            xmax = 192.17
+            text = "[interposing]  Yeah.  "
+        intervals [84]:
+            xmin = 192.17
+            xmax = 192.37
+            text = ""
+        intervals [85]:
+            xmin = 192.37
+            xmax = 196.17
+            text = "That's true.  Yeah, I guess it's somewhat surprising.  "
+        intervals [86]:
+            xmin = 196.17
+            xmax = 207.17
+            text = "Yeah, a suburb of Minneapolis. So, my plan is that if I go into the real world and do well, I'll say I'm from Berkley, but if I do badly, I'll be like I'm from Stanford.  And then--"
+        intervals [87]:
+            xmin = 207.17
+            xmax = 208.37
+            text = ""
+        intervals [88]:
+            xmin = 208.37
+            xmax = 213.17
+            text = "Exactly.  Yeah.  Either way I win.  I'm happy either way.  "
+        intervals [89]:
+            xmin = 213.17
+            xmax = 216.37
+            text = ""
+        intervals [90]:
+            xmin = 216.37
+            xmax = 221.17
+            text = "Yeah, I guess so.  I like it a lot better than the Midwest I have to say.  "
+        intervals [91]:
+            xmin = 221.17
+            xmax = 222.17
+            text = "Are you from Boston?  "
+        intervals [92]:
+            xmin = 222.17
+            xmax = 222.37
+            text = ""
+        intervals [93]:
+            xmin = 222.37
+            xmax = 224.17
+            text = "Oh, really?  "
+        intervals [94]:
+            xmin = 224.17
+            xmax = 250.37
+            text = ""
+        intervals [95]:
+            xmin = 250.37
+            xmax = 251.17
+            text = "Oh."
+        intervals [96]:
+            xmin = 251.17
+            xmax = 252.37
+            text = ""
+        intervals [97]:
+            xmin = 252.37
+            xmax = 254.17
+            text = "Nice to meet you too.  You too.  "
+        intervals [98]:
+            xmin = 254.17
+            xmax = 254.37
+            text = ""
+        intervals [99]:
+            xmin = 254.37
+            xmax = 255.17
+            text = "Have a good time.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 255.17
+intervals: size = 99
+        intervals [1]:
+            xmin = 9.37
+            xmax = 11.17
+            text = "I'm such a rule follower.  "
+        intervals [2]:
+            xmin = 11.17
+            xmax = 11.37
+            text = ""
+        intervals [3]:
+            xmin = 11.37
+            xmax = 13.17
+            text = "I'm such a rule follower.  "
+        intervals [4]:
+            xmin = 13.17
+            xmax = 13.37
+            text = ""
+        intervals [5]:
+            xmin = 13.37
+            xmax = 15.17
+            text = "Nice to meet you."
+        intervals [6]:
+            xmin = 15.17
+            xmax = 22.37
+            text = ""
+        intervals [7]:
+            xmin = 22.37
+            xmax = 23.17
+            text = "Right.  "
+        intervals [8]:
+            xmin = 23.17
+            xmax = 25.37
+            text = ""
+        intervals [9]:
+            xmin = 25.37
+            xmax = 27.17
+            text = "Right, me too. "
+        intervals [10]:
+            xmin = 27.17
+            xmax = 28.17
+            text = "I'm in nameX's class.  "
+        intervals [11]:
+            xmin = 28.17
+            xmax = 28.37
+            text = ""
+        intervals [12]:
+            xmin = 28.37
+            xmax = 34.17
+            text = "Yeah.  We were reminded repeatedly that this is for research, [unintelligible] research.  "
+        intervals [13]:
+            xmin = 34.17
+            xmax = 38.37
+            text = ""
+        intervals [14]:
+            xmin = 38.37
+            xmax = 45.17
+            text = "It's not on my [unintelligible].  He's not here.  Actually a couple of us are like, okay, we'll do it.  "
+        intervals [15]:
+            xmin = 45.17
+            xmax = 48.37
+            text = ""
+        intervals [16]:
+            xmin = 48.37
+            xmax = 54.17
+            text = "You know, I don't think there are any single guys--well, there are [unintelligible] single guys in that class.  But not--"
+        intervals [17]:
+            xmin = 54.17
+            xmax = 54.37
+            text = ""
+        intervals [18]:
+            xmin = 54.37
+            xmax = 56.17
+            text = "Yeah, I didn't even know about it until he mentioned it to us.  "
+        intervals [19]:
+            xmin = 56.17
+            xmax = 56.37
+            text = ""
+        intervals [20]:
+            xmin = 56.37
+            xmax = 59.17
+            text = "Yeah, I don't know how everybody else found out about it."
+        intervals [21]:
+            xmin = 59.17
+            xmax = 65.37
+            text = ""
+        intervals [22]:
+            xmin = 65.37
+            xmax = 67.17
+            text = "[unintelligible] to come out?"
+        intervals [23]:
+            xmin = 67.17
+            xmax = 67.37
+            text = ""
+        intervals [24]:
+            xmin = 67.37
+            xmax = 69.17
+            text = "What program are you in?"
+        intervals [25]:
+            xmin = 69.17
+            xmax = 70.37
+            text = ""
+        intervals [26]:
+            xmin = 70.37
+            xmax = 72.17
+            text = "Computer science?"
+        intervals [27]:
+            xmin = 72.17
+            xmax = 72.37
+            text = ""
+        intervals [28]:
+            xmin = 72.37
+            xmax = 74.17
+            text = "Master's, Phd?"
+        intervals [29]:
+            xmin = 74.17
+            xmax = 74.37
+            text = ""
+        intervals [30]:
+            xmin = 74.37
+            xmax = 75.17
+            text = "Okay.  "
+        intervals [31]:
+            xmin = 75.17
+            xmax = 81.37
+            text = ""
+        intervals [32]:
+            xmin = 81.37
+            xmax = 83.17
+            text = "That's pretty curious, isn't it?  "
+        intervals [33]:
+            xmin = 83.17
+            xmax = 86.37
+            text = ""
+        intervals [34]:
+            xmin = 86.37
+            xmax = 87.17
+            text = "Yeah.  "
+        intervals [35]:
+            xmin = 87.17
+            xmax = 89.37
+            text = ""
+        intervals [36]:
+            xmin = 89.37
+            xmax = 92.17
+            text = "Yeah, throw genetics and all such--"
+        intervals [37]:
+            xmin = 92.17
+            xmax = 93.37
+            text = ""
+        intervals [38]:
+            xmin = 93.37
+            xmax = 95.17
+            text = "I'm in the ed school.  "
+        intervals [39]:
+            xmin = 95.17
+            xmax = 96.37
+            text = ""
+        intervals [40]:
+            xmin = 96.37
+            xmax = 100.17
+            text = "[interposing]  I'm doing a Master's in policy organization.  "
+        intervals [41]:
+            xmin = 100.17
+            xmax = 102.37
+            text = ""
+        intervals [42]:
+            xmin = 102.37
+            xmax = 104.17
+            text = "It is cool.  It's fun stuff.  "
+        intervals [43]:
+            xmin = 104.17
+            xmax = 104.37
+            text = ""
+        intervals [44]:
+            xmin = 104.37
+            xmax = 106.17
+            text = "Very interesting.  "
+        intervals [45]:
+            xmin = 106.17
+            xmax = 107.37
+            text = ""
+        intervals [46]:
+            xmin = 107.37
+            xmax = 110.17
+            text = "That's a good question."
+        intervals [47]:
+            xmin = 110.17
+            xmax = 111.37
+            text = ""
+        intervals [48]:
+            xmin = 111.37
+            xmax = 117.17
+            text = "I'm finally starting to sort of figure it out.  I feel like for the last seven months I'm like, oh, I have no idea what I want to do.  "
+        intervals [49]:
+            xmin = 117.17
+            xmax = 118.37
+            text = ""
+        intervals [50]:
+            xmin = 118.37
+            xmax = 123.17
+            text = "I'm looking at jobs almost exclusively in non-profits that are doing work directly.  "
+        intervals [51]:
+            xmin = 123.17
+            xmax = 126.17
+            text = "With schools and school districts, sort of urban school reform."
+        intervals [52]:
+            xmin = 126.17
+            xmax = 127.37
+            text = ""
+        intervals [53]:
+            xmin = 127.37
+            xmax = 131.17
+            text = "A more external position than [unintelligible].  "
+        intervals [54]:
+            xmin = 131.17
+            xmax = 135.37
+            text = ""
+        intervals [55]:
+            xmin = 135.37
+            xmax = 137.17
+            text = "[interposing]  I taught second grade for three years.  "
+        intervals [56]:
+            xmin = 137.17
+            xmax = 139.37
+            text = ""
+        intervals [57]:
+            xmin = 139.37
+            xmax = 142.17
+            text = "A great job.  Hard work.  "
+        intervals [58]:
+            xmin = 142.17
+            xmax = 143.37
+            text = ""
+        intervals [59]:
+            xmin = 143.37
+            xmax = 145.17
+            text = "But it was great, and I miss it a lot.  "
+        intervals [60]:
+            xmin = 145.17
+            xmax = 147.37
+            text = ""
+        intervals [61]:
+            xmin = 147.37
+            xmax = 149.17
+            text = "No, it was in Boston actually.  "
+        intervals [62]:
+            xmin = 149.17
+            xmax = 149.37
+            text = ""
+        intervals [63]:
+            xmin = 149.37
+            xmax = 151.17
+            text = "Were you here before Stanford?  "
+        intervals [64]:
+            xmin = 151.17
+            xmax = 153.37
+            text = ""
+        intervals [65]:
+            xmin = 153.37
+            xmax = 155.17
+            text = "Uh-oh, switching teams.  "
+        intervals [66]:
+            xmin = 155.17
+            xmax = 155.37
+            text = ""
+        intervals [67]:
+            xmin = 155.37
+            xmax = 157.17
+            text = "So now who do you cheer for?"
+        intervals [68]:
+            xmin = 157.17
+            xmax = 158.37
+            text = ""
+        intervals [69]:
+            xmin = 158.37
+            xmax = 160.17
+            text = "Okay, that's good.  "
+        intervals [70]:
+            xmin = 160.17
+            xmax = 160.37
+            text = ""
+        intervals [71]:
+            xmin = 160.37
+            xmax = 162.17
+            text = "That's good.  The loyalty has to be with the undergrad.  "
+        intervals [72]:
+            xmin = 162.17
+            xmax = 166.37
+            text = ""
+        intervals [73]:
+            xmin = 166.37
+            xmax = 167.17
+            text = "Really?  "
+        intervals [74]:
+            xmin = 167.17
+            xmax = 167.37
+            text = ""
+        intervals [75]:
+            xmin = 167.37
+            xmax = 170.17
+            text = "That's kind of intense.  For any particular reason?"
+        intervals [76]:
+            xmin = 170.17
+            xmax = 179.37
+            text = ""
+        intervals [77]:
+            xmin = 179.37
+            xmax = 182.17
+            text = "Okay, did you grow up in California?"
+        intervals [78]:
+            xmin = 182.17
+            xmax = 183.37
+            text = ""
+        intervals [79]:
+            xmin = 183.37
+            xmax = 184.17
+            text = "Minnesota?  "
+        intervals [80]:
+            xmin = 184.17
+            xmax = 186.37
+            text = ""
+        intervals [81]:
+            xmin = 186.37
+            xmax = 191.17
+            text = "Uhm, well yeah just because there aren't that many--"
+        intervals [82]:
+            xmin = 191.17
+            xmax = 192.37
+            text = ""
+        intervals [83]:
+            xmin = 192.37
+            xmax = 194.17
+            text = "I mean in the grand scheme of things there aren't that many Minnesotans in there.  "
+        intervals [84]:
+            xmin = 194.17
+            xmax = 194.37
+            text = ""
+        intervals [85]:
+            xmin = 194.37
+            xmax = 196.17
+            text = "Minneapolis?  "
+        intervals [86]:
+            xmin = 196.17
+            xmax = 206.37
+            text = ""
+        intervals [87]:
+            xmin = 206.37
+            xmax = 208.17
+            text = "[interposing]  Man, [unintelligible]."
+        intervals [88]:
+            xmin = 208.17
+            xmax = 212.37
+            text = ""
+        intervals [89]:
+            xmin = 212.37
+            xmax = 216.17
+            text = "Okay, well that's pretty intense loyalty to the Bay Area.  "
+        intervals [90]:
+            xmin = 216.17
+            xmax = 220.37
+            text = ""
+        intervals [91]:
+            xmin = 220.37
+            xmax = 221.17
+            text = "Yeah?  "
+        intervals [92]:
+            xmin = 221.17
+            xmax = 221.37
+            text = ""
+        intervals [93]:
+            xmin = 221.37
+            xmax = 223.17
+            text = "No, I grew up in Texas."
+        intervals [94]:
+            xmin = 223.17
+            xmax = 224.37
+            text = ""
+        intervals [95]:
+            xmin = 224.37
+            xmax = 250.17
+            text = "It's like embarrassing to say.  [laughter]  People have been [unintelligible].  I don't know what it is every [unintelligible] I've been in class or something has come up about Texas that is completely embarrassing.  And there are such stereotypes, but they're totally true.  And I don't know what's been going on the last couple of weeks, but repeatedly I've had like ten turning and ribbing me, like pointing at me and laughing.  I know, it's embarrassing.  "
+        intervals [96]:
+            xmin = 250.17
+            xmax = 251.37
+            text = ""
+        intervals [97]:
+            xmin = 251.37
+            xmax = 253.17
+            text = "Well, it was nice to meet you.  Have fun tonight.  "
+        intervals [98]:
+            xmin = 253.17
+            xmax = 253.37
+            text = ""
+        intervals [99]:
+            xmin = 253.37
+            xmax = 254.17
+            text = "Bye.  "

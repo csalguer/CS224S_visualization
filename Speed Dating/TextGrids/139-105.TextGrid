@@ -1,0 +1,632 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 242
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 242
+intervals: size = 76
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 2.6
+            text = "You're S?"
+        intervals [3]:
+            xmin = 2.6
+            xmax = 4.2
+            text = ""
+        intervals [4]:
+            xmin = 4.2
+            xmax = 8.5
+            text = "Uh, I'm not keeping track of this very well.  That's all right.  Hi, I'm male105.  "
+        intervals [5]:
+            xmin = 8.5
+            xmax = 12.6
+            text = ""
+        intervals [6]:
+            xmin = 12.6
+            xmax = 13.1
+            text = "Yes."
+        intervals [7]:
+            xmin = 13.1
+            xmax = 14.2
+            text = ""
+        intervals [8]:
+            xmin = 14.2
+            xmax = 16.9
+            text = "Yes.  You haven't been there in a while."
+        intervals [9]:
+            xmin = 16.9
+            xmax = 18
+            text = ""
+        intervals [10]:
+            xmin = 18
+            xmax = 20
+            text = "[laughter] Gotten busy with labs?"
+        intervals [11]:
+            xmin = 20
+            xmax = 25.2
+            text = ""
+        intervals [12]:
+            xmin = 25.2
+            xmax = 27.3
+            text = "[laughter] "
+        intervals [13]:
+            xmin = 27.3
+            xmax = 29.4
+            text = ""
+        intervals [14]:
+            xmin = 29.4
+            xmax = 32.8
+            text = "For me it's my excuse to start heading back from [unintelligible]."
+        intervals [15]:
+            xmin = 32.8
+            xmax = 32.9
+            text = ""
+        intervals [16]:
+            xmin = 32.9
+            xmax = 35.5
+            text = "And so I'm like, sorry guys, got to leave.  "
+        intervals [17]:
+            xmin = 35.5
+            xmax = 41.9
+            text = ""
+        intervals [18]:
+            xmin = 41.9
+            xmax = 45.7
+            text = "Or the other times if I'm feeling particularly lazy, I'll just drive. "
+        intervals [19]:
+            xmin = 45.7
+            xmax = 47.1
+            text = ""
+        intervals [20]:
+            xmin = 47.1
+            xmax = 51.7
+            text = "Which feels really bad 'cause I'm driving from EV to- to Packard and it's like, yeah.  "
+        intervals [21]:
+            xmin = 51.7
+            xmax = 54.6
+            text = ""
+        intervals [22]:
+            xmin = 54.6
+            xmax = 55.3
+            text = "Yeah."
+        intervals [23]:
+            xmin = 55.3
+            xmax = 57.8
+            text = ""
+        intervals [24]:
+            xmin = 57.8
+            xmax = 62.4
+            text = "I would if it didn't have a flat tire at the moment and I were more proactive and would actually fix it.  "
+        intervals [25]:
+            xmin = 62.4
+            xmax = 63.2
+            text = ""
+        intervals [26]:
+            xmin = 63.2
+            xmax = 66.2
+            text = "So I tried and I actually rode it with a flat, but that-"
+        intervals [27]:
+            xmin = 66.2
+            xmax = 69.2
+            text = ""
+        intervals [28]:
+            xmin = 69.2
+            xmax = 78.8
+            text = "I tried getting one of the, uh, car fix a flats and use that, but that mostly made a mess and it inflated it really well but it didn't keep."
+        intervals [29]:
+            xmin = 78.8
+            xmax = 79.3
+            text = ""
+        intervals [30]:
+            xmin = 79.3
+            xmax = 79.7
+            text = "So-"
+        intervals [31]:
+            xmin = 79.7
+            xmax = 81.2
+            text = ""
+        intervals [32]:
+            xmin = 81.2
+            xmax = 82.6
+            text = "That's okay.  But I-"
+        intervals [33]:
+            xmin = 82.6
+            xmax = 83.6
+            text = ""
+        intervals [34]:
+            xmin = 83.6
+            xmax = 93.2
+            text = "Oh yeah.  Oh yeah.  The bus, when I had my bike I can- I can leave my house at the same time the bus does and make it to Packard before the bus.  "
+        intervals [35]:
+            xmin = 93.2
+            xmax = 97.8
+            text = "Especially in the- not in the afternoons but in the mornings when they're stopping at every stop and- "
+        intervals [36]:
+            xmin = 97.8
+            xmax = 99.2
+            text = ""
+        intervals [37]:
+            xmin = 99.2
+            xmax = 104.5
+            text = "So I don't know.  And it's good and invigorating when I'm half awake and you can stay awake all the way through class."
+        intervals [38]:
+            xmin = 104.5
+            xmax = 114.9
+            text = ""
+        intervals [39]:
+            xmin = 114.9
+            xmax = 119.5
+            text = "Yeah.  Well if you miss the shuttle you're certainly going to make it there before."
+        intervals [40]:
+            xmin = 119.5
+            xmax = 120.8
+            text = ""
+        intervals [41]:
+            xmin = 120.8
+            xmax = 123.4
+            text = "I mean even if it's heading the other way when you'll start-"
+        intervals [42]:
+            xmin = 123.4
+            xmax = 123.6
+            text = ""
+        intervals [43]:
+            xmin = 123.6
+            xmax = 125.6
+            text = "-you're probably going to make it before anyways."
+        intervals [44]:
+            xmin = 125.6
+            xmax = 126.8
+            text = "So- in-"
+        intervals [45]:
+            xmin = 126.8
+            xmax = 127.8
+            text = ""
+        intervals [46]:
+            xmin = 127.8
+            xmax = 130.7
+            text = "And it's been such beautiful days to walk outside.  So it's-"
+        intervals [47]:
+            xmin = 130.7
+            xmax = 131.3
+            text = ""
+        intervals [48]:
+            xmin = 131.3
+            xmax = 136.3
+            text = "particularly today.  Today was nice.  Today was nice.  So-"
+        intervals [49]:
+            xmin = 136.3
+            xmax = 143.7
+            text = ""
+        intervals [50]:
+            xmin = 143.7
+            xmax = 144.5
+            text = "Pretty much."
+        intervals [51]:
+            xmin = 144.5
+            xmax = 146.1
+            text = ""
+        intervals [52]:
+            xmin = 146.1
+            xmax = 152.5
+            text = "A buddy of mine had a good- uh, a good reason to walk.  And he said, well if you're riding a bike you can't really think about your day, you can't really plan ahead.  "
+        intervals [53]:
+            xmin = 152.5
+            xmax = 152.7
+            text = ""
+        intervals [54]:
+            xmin = 152.7
+            xmax = 160.7
+            text = "And if you're walking though, I mean yeah, it takes a little longer but you get to plan ahead and you get to work on problems in your head while you're going there."
+        intervals [55]:
+            xmin = 160.7
+            xmax = 161.1
+            text = ""
+        intervals [56]:
+            xmin = 161.1
+            xmax = 162
+            text = "Well, yes."
+        intervals [57]:
+            xmin = 162
+            xmax = 168.8
+            text = ""
+        intervals [58]:
+            xmin = 168.8
+            xmax = 170.3
+            text = "That takes enough work."
+        intervals [59]:
+            xmin = 170.3
+            xmax = 170.4
+            text = ""
+        intervals [60]:
+            xmin = 170.4
+            xmax = 176
+            text = "Particular the- the intersections like right off the main quad where people just come blowing out of there."
+        intervals [61]:
+            xmin = 176
+            xmax = 179
+            text = "It's like, okay, can I go?  All right, go.  "
+        intervals [62]:
+            xmin = 179
+            xmax = 190.7
+            text = ""
+        intervals [63]:
+            xmin = 190.7
+            xmax = 201.1
+            text = "Yeah, and it's- no actually the worst part is they'll do that to cars too.  And now I know why cars are always- I'm used to riding around and bikes following the rules of the road, cars following the rules of the road. "
+        intervals [64]:
+            xmin = 201.1
+            xmax = 201.6
+            text = ""
+        intervals [65]:
+            xmin = 201.6
+            xmax = 205.1
+            text = "Here like a bike see- a car sees a bike and they'll like slam on their brakes.  "
+        intervals [66]:
+            xmin = 205.1
+            xmax = 211.3
+            text = "And it's like, oh, go, go.  And I'm like, okay, you got the right of way, but I'll go."
+        intervals [67]:
+            xmin = 211.3
+            xmax = 211.7
+            text = ""
+        intervals [68]:
+            xmin = 211.7
+            xmax = 212.3
+            text = "Yeah."
+        intervals [69]:
+            xmin = 212.3
+            xmax = 222.1
+            text = ""
+        intervals [70]:
+            xmin = 222.1
+            xmax = 226.6
+            text = "No, it's like, you should stop.  I mean I guess [unintelligible] the right of way."
+        intervals [71]:
+            xmin = 226.6
+            xmax = 227.3
+            text = ""
+        intervals [72]:
+            xmin = 227.3
+            xmax = 232.1
+            text = "[laughter] That's been my motto.  So [unintelligible] I stop.  Then I go."
+        intervals [73]:
+            xmin = 232.1
+            xmax = 232.7
+            text = ""
+        intervals [74]:
+            xmin = 232.7
+            xmax = 238.2
+            text = "I don't know.  It's fun though.  It's fun.  I need to fix my bike though it's- today I was late, uh-"
+        intervals [75]:
+            xmin = 238.2
+            xmax = 240
+            text = ""
+        intervals [76]:
+            xmin = 240
+            xmax = 241.1
+            text = "It was nice talking to you again."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 242
+intervals: size = 77
+        intervals [1]:
+            xmin = 1.7
+            xmax = 2.2
+            text = "Okay."
+        intervals [2]:
+            xmin = 2.2
+            xmax = 2.9
+            text = ""
+        intervals [3]:
+            xmin = 2.9
+            xmax = 3.4
+            text = "Yeah.  "
+        intervals [4]:
+            xmin = 3.4
+            xmax = 8.5
+            text = ""
+        intervals [5]:
+            xmin = 8.5
+            xmax = 12.7
+            text = "Hi, female139.  I think we met before at, um, the beer, Friday beer thing-"
+        intervals [6]:
+            xmin = 12.7
+            xmax = 13.1
+            text = ""
+        intervals [7]:
+            xmin = 13.1
+            xmax = 14.2
+            text = "Once- yeah."
+        intervals [8]:
+            xmin = 14.2
+            xmax = 16.9
+            text = ""
+        intervals [9]:
+            xmin = 16.9
+            xmax = 18.9
+            text = "I know.  [laughter] "
+        intervals [10]:
+            xmin = 18.9
+            xmax = 20.3
+            text = ""
+        intervals [11]:
+            xmin = 20.3
+            xmax = 25.7
+            text = "Um, yeah.  Well also a bit lazy about like going out to campus at that time.   "
+        intervals [12]:
+            xmin = 25.7
+            xmax = 29.5
+            text = "'Cause I'm like [unintelligible] out there anyway.  So- "
+        intervals [13]:
+            xmin = 29.5
+            xmax = 32.8
+            text = ""
+        intervals [14]:
+            xmin = 32.8
+            xmax = 33.6
+            text = "Ah."
+        intervals [15]:
+            xmin = 33.6
+            xmax = 35.5
+            text = ""
+        intervals [16]:
+            xmin = 35.5
+            xmax = 42
+            text = "[laughter]  I probably should do that, like park myself in the library until then and then- yeah."
+        intervals [17]:
+            xmin = 42
+            xmax = 45.4
+            text = ""
+        intervals [18]:
+            xmin = 45.4
+            xmax = 48.5
+            text = "Uh-huh.  [laughter] Yeah.  I thought about that."
+        intervals [19]:
+            xmin = 48.5
+            xmax = 50.8
+            text = ""
+        intervals [20]:
+            xmin = 50.8
+            xmax = 54.9
+            text = "No, but it takes a long time to walk it and you have to wait for the shuttle."
+        intervals [21]:
+            xmin = 54.9
+            xmax = 55.6
+            text = ""
+        intervals [22]:
+            xmin = 55.6
+            xmax = 57
+            text = "I don't know if you ride a bike. "
+        intervals [23]:
+            xmin = 57
+            xmax = 62.6
+            text = ""
+        intervals [24]:
+            xmin = 62.6
+            xmax = 64.5
+            text = "Yeah.  [laughter]  "
+        intervals [25]:
+            xmin = 64.5
+            xmax = 67
+            text = ""
+        intervals [26]:
+            xmin = 67
+            xmax = 69.6
+            text = "That- that does seem difficult.  [laughter] "
+        intervals [27]:
+            xmin = 69.6
+            xmax = 77.6
+            text = ""
+        intervals [28]:
+            xmin = 77.6
+            xmax = 79
+            text = "[laughter] "
+        intervals [29]:
+            xmin = 79
+            xmax = 79.8
+            text = ""
+        intervals [30]:
+            xmin = 79.8
+            xmax = 80.5
+            text = "I see.  "
+        intervals [31]:
+            xmin = 80.5
+            xmax = 81.9
+            text = ""
+        intervals [32]:
+            xmin = 81.9
+            xmax = 84.1
+            text = "Yeah.  I would drive over there. [laughter] "
+        intervals [33]:
+            xmin = 84.1
+            xmax = 92.7
+            text = ""
+        intervals [34]:
+            xmin = 92.7
+            xmax = 93.4
+            text = "Before the- yeah."
+        intervals [35]:
+            xmin = 93.4
+            xmax = 97.1
+            text = ""
+        intervals [36]:
+            xmin = 97.1
+            xmax = 97.6
+            text = "Yeah."
+        intervals [37]:
+            xmin = 97.6
+            xmax = 102.3
+            text = ""
+        intervals [38]:
+            xmin = 102.3
+            xmax = 115.3
+            text = "[laughter] That is- that is very true.  I've been walking.  I don't have a bike but I've been walking this quarter because I'm just like, okay, either I just missed the shuttle or it's like I can walk faster than the shuttle so-"
+        intervals [39]:
+            xmin = 115.3
+            xmax = 119.1
+            text = ""
+        intervals [40]:
+            xmin = 119.1
+            xmax = 120.6
+            text = "[laughter] Exactly.  "
+        intervals [41]:
+            xmin = 120.6
+            xmax = 123.3
+            text = ""
+        intervals [42]:
+            xmin = 123.3
+            xmax = 123.8
+            text = "Uh-huh."
+        intervals [43]:
+            xmin = 123.8
+            xmax = 125.5
+            text = ""
+        intervals [44]:
+            xmin = 125.5
+            xmax = 126.1
+            text = "Yeah."
+        intervals [45]:
+            xmin = 126.1
+            xmax = 126.4
+            text = ""
+        intervals [46]:
+            xmin = 126.4
+            xmax = 128.7
+            text = "Only when I'm feeling really tired do I [unintelligible] "
+        intervals [47]:
+            xmin = 128.7
+            xmax = 130.2
+            text = ""
+        intervals [48]:
+            xmin = 130.2
+            xmax = 130.8
+            text = "Yeah."
+        intervals [49]:
+            xmin = 130.8
+            xmax = 134.5
+            text = ""
+        intervals [50]:
+            xmin = 134.5
+            xmax = 144
+            text = "It was.  And then I count it as my exercise for the day. [laughter]  I'm like it's like a mile out there and a mile back so-"
+        intervals [51]:
+            xmin = 144
+            xmax = 144.6
+            text = ""
+        intervals [52]:
+            xmin = 144.6
+            xmax = 146.1
+            text = "A two mile walk.  It's pretty good.  "
+        intervals [53]:
+            xmin = 146.1
+            xmax = 152.2
+            text = ""
+        intervals [54]:
+            xmin = 152.2
+            xmax = 152.8
+            text = "Uh-huh."
+        intervals [55]:
+            xmin = 152.8
+            xmax = 159.9
+            text = ""
+        intervals [56]:
+            xmin = 159.9
+            xmax = 161.1
+            text = "[laughter] "
+        intervals [57]:
+            xmin = 161.1
+            xmax = 162.4
+            text = ""
+        intervals [58]:
+            xmin = 162.4
+            xmax = 170.1
+            text = "Wow.  He's subjective while he walks.  I'm just like, don't get hit by the bicyclists and- oh, that's a pretty flower.   "
+        intervals [59]:
+            xmin = 170.1
+            xmax = 171
+            text = "[laughter] "
+        intervals [60]:
+            xmin = 171
+            xmax = 175.2
+            text = ""
+        intervals [61]:
+            xmin = 175.2
+            xmax = 176.2
+            text = "Oh yeah."
+        intervals [62]:
+            xmin = 176.2
+            xmax = 179.9
+            text = ""
+        intervals [63]:
+            xmin = 179.9
+            xmax = 190.7
+            text = "Yeah, and the bicyclists don't seem to really care.  Like I'll be looking and then I'll wait and they're just like moseying on by.  They're like- can you pedal a little faster or something, I'm just standing here waiting for you. "
+        intervals [64]:
+            xmin = 190.7
+            xmax = 200.5
+            text = ""
+        intervals [65]:
+            xmin = 200.5
+            xmax = 200.9
+            text = "Right."
+        intervals [66]:
+            xmin = 200.9
+            xmax = 204.8
+            text = ""
+        intervals [67]:
+            xmin = 204.8
+            xmax = 205.2
+            text = "Yeah."
+        intervals [68]:
+            xmin = 205.2
+            xmax = 211.1
+            text = ""
+        intervals [69]:
+            xmin = 211.1
+            xmax = 211.8
+            text = "Yeah."
+        intervals [70]:
+            xmin = 211.8
+            xmax = 212.3
+            text = ""
+        intervals [71]:
+            xmin = 212.3
+            xmax = 221.9
+            text = "No, there are a couple of times that I've been driving and like a bicyclist will like fly out of nowhere and then give me a bad look like- I'm like, I'm sorry, I didn't see you, you're too fast."
+        intervals [72]:
+            xmin = 221.9
+            xmax = 226.4
+            text = ""
+        intervals [73]:
+            xmin = 226.4
+            xmax = 227.9
+            text = "Yeah. [laughter] "
+        intervals [74]:
+            xmin = 227.9
+            xmax = 232.1
+            text = ""
+        intervals [75]:
+            xmin = 232.1
+            xmax = 232.7
+            text = "Yeah."
+        intervals [76]:
+            xmin = 232.7
+            xmax = 240.4
+            text = ""
+        intervals [77]:
+            xmin = 240.4
+            xmax = 242
+            text = "[laughter] Likewise.  "

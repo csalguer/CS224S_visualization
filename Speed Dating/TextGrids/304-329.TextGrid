@@ -1,0 +1,800 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 251.211
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 251.211
+intervals: size = 99
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "[interposing] It's all right.  Don't worry about it.  Take your time."
+        intervals [3]:
+            xmin = 2.6
+            xmax = 8.8
+            text = ""
+        intervals [4]:
+            xmin = 8.8
+            xmax = 9.6
+            text = "How's it going?"
+        intervals [5]:
+            xmin = 9.6
+            xmax = 9.8
+            text = ""
+        intervals [6]:
+            xmin = 9.8
+            xmax = 10.6
+            text = "male304."
+        intervals [7]:
+            xmin = 10.6
+            xmax = 12.8
+            text = ""
+        intervals [8]:
+            xmin = 12.8
+            xmax = 13.6
+            text = "Yeah."
+        intervals [9]:
+            xmin = 13.6
+            xmax = 13.8
+            text = ""
+        intervals [10]:
+            xmin = 13.8
+            xmax = 14.6
+            text = "Oh."
+        intervals [11]:
+            xmin = 14.6
+            xmax = 15.8
+            text = ""
+        intervals [12]:
+            xmin = 15.8
+            xmax = 16.6
+            text = "female329 [phonetic] is your name?"
+        intervals [13]:
+            xmin = 16.6
+            xmax = 16.8
+            text = ""
+        intervals [14]:
+            xmin = 16.8
+            xmax = 17.6
+            text = "female329."
+        intervals [15]:
+            xmin = 17.6
+            xmax = 19.8
+            text = ""
+        intervals [16]:
+            xmin = 19.8
+            xmax = 20.6
+            text = "EE."
+        intervals [17]:
+            xmin = 20.6
+            xmax = 22.8
+            text = ""
+        intervals [18]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "Yeah, yeah.  I know that him.  Or not know."
+        intervals [19]:
+            xmin = 24.6
+            xmax = 29.8
+            text = ""
+        intervals [20]:
+            xmin = 29.8
+            xmax = 31.6
+            text = "Well, yeah, I heard you speak in Spanish?"
+        intervals [21]:
+            xmin = 31.6
+            xmax = 31.8
+            text = ""
+        intervals [22]:
+            xmin = 31.8
+            xmax = 32.6
+            text = "Okay."
+        intervals [23]:
+            xmin = 32.6
+            xmax = 38.8
+            text = ""
+        intervals [24]:
+            xmin = 38.8
+            xmax = 39.6
+            text = "Yeah.  Right on."
+        intervals [25]:
+            xmin = 39.6
+            xmax = 40.8
+            text = ""
+        intervals [26]:
+            xmin = 40.8
+            xmax = 41.6
+            text = "I'm doing well.  Um--"
+        intervals [27]:
+            xmin = 41.6
+            xmax = 42.8
+            text = ""
+        intervals [28]:
+            xmin = 42.8
+            xmax = 44.6
+            text = "New York City.  So I'm--"
+        intervals [29]:
+            xmin = 44.6
+            xmax = 44.8
+            text = ""
+        intervals [30]:
+            xmin = 44.8
+            xmax = 45.6
+            text = "Yeah."
+        intervals [31]:
+            xmin = 45.6
+            xmax = 45.8
+            text = ""
+        intervals [32]:
+            xmin = 45.8
+            xmax = 47.6
+            text = "Yeah.  Where are you from?"
+        intervals [33]:
+            xmin = 47.6
+            xmax = 47.8
+            text = ""
+        intervals [34]:
+            xmin = 47.8
+            xmax = 49.6
+            text = "Okay.  Cool.  What part of LA?"
+        intervals [35]:
+            xmin = 49.6
+            xmax = 56.8
+            text = ""
+        intervals [36]:
+            xmin = 56.8
+            xmax = 59.6
+            text = "Yeah, I just went to Las Vegas actually."
+        intervals [37]:
+            xmin = 59.6
+            xmax = 59.8
+            text = ""
+        intervals [38]:
+            xmin = 59.8
+            xmax = 60.6
+            text = "It was good."
+        intervals [39]:
+            xmin = 60.6
+            xmax = 60.8
+            text = ""
+        intervals [40]:
+            xmin = 60.8
+            xmax = 64.6
+            text = "Yeah.  I stayed at this like kind of crappy place called the Riviera.  It's like all--"
+        intervals [41]:
+            xmin = 64.6
+            xmax = 64.8
+            text = ""
+        intervals [42]:
+            xmin = 64.8
+            xmax = 66.6
+            text = "You know where the--the new Wynn is?"
+        intervals [43]:
+            xmin = 66.6
+            xmax = 66.8
+            text = ""
+        intervals [44]:
+            xmin = 66.8
+            xmax = 68.6
+            text = "The Wynn Hotel, the new--"
+        intervals [45]:
+            xmin = 68.6
+            xmax = 69.8
+            text = ""
+        intervals [46]:
+            xmin = 69.8
+            xmax = 71.6
+            text = "W-Y-N-N."
+        intervals [47]:
+            xmin = 71.6
+            xmax = 72.6
+            text = "Yeah, it's right next to there."
+        intervals [48]:
+            xmin = 72.6
+            xmax = 72.8
+            text = ""
+        intervals [49]:
+            xmin = 72.8
+            xmax = 73.6
+            text = "Yeah, it just opened."
+        intervals [50]:
+            xmin = 73.6
+            xmax = 76.8
+            text = ""
+        intervals [51]:
+            xmin = 76.8
+            xmax = 78.6
+            text = "[interposing] Do you--do you like uh Las Vegas?"
+        intervals [52]:
+            xmin = 78.6
+            xmax = 78.8
+            text = ""
+        intervals [53]:
+            xmin = 78.8
+            xmax = 79.6
+            text = "Yeah."
+        intervals [54]:
+            xmin = 79.6
+            xmax = 90.8
+            text = ""
+        intervals [55]:
+            xmin = 90.8
+            xmax = 91.6
+            text = "[interposing] Yeah, I know."
+        intervals [56]:
+            xmin = 91.6
+            xmax = 106.8
+            text = ""
+        intervals [57]:
+            xmin = 106.8
+            xmax = 108.6
+            text = "You've seen the Cirque Du Soleil?"
+        intervals [58]:
+            xmin = 108.6
+            xmax = 109.8
+            text = ""
+        intervals [59]:
+            xmin = 109.8
+            xmax = 113.6
+            text = "I saw it.  I didn't see it in Vegas.  I saw it in like Jersey or something."
+        intervals [60]:
+            xmin = 113.6
+            xmax = 113.8
+            text = ""
+        intervals [61]:
+            xmin = 113.8
+            xmax = 114.6
+            text = "Yeah."
+        intervals [62]:
+            xmin = 114.6
+            xmax = 115.8
+            text = ""
+        intervals [63]:
+            xmin = 115.8
+            xmax = 116.6
+            text = "Yeah."
+        intervals [64]:
+            xmin = 116.6
+            xmax = 116.8
+            text = ""
+        intervals [65]:
+            xmin = 116.8
+            xmax = 118.6
+            text = "I think so, right?"
+        intervals [66]:
+            xmin = 118.6
+            xmax = 118.8
+            text = ""
+        intervals [67]:
+            xmin = 118.8
+            xmax = 119.6
+            text = "Or maybe it's another one."
+        intervals [68]:
+            xmin = 119.6
+            xmax = 124.8
+            text = ""
+        intervals [69]:
+            xmin = 124.8
+            xmax = 130.6
+            text = "Okay.  I saw--I saw two other ones, one in LA and one in Jersey.  I don't think--yeah, it wasn't O.  But how--how is that?"
+        intervals [70]:
+            xmin = 130.6
+            xmax = 130.8
+            text = ""
+        intervals [71]:
+            xmin = 130.8
+            xmax = 131.6
+            text = "Oh, is it?"
+        intervals [72]:
+            xmin = 131.6
+            xmax = 144.8
+            text = ""
+        intervals [73]:
+            xmin = 144.8
+            xmax = 145.6
+            text = "Okay."
+        intervals [74]:
+            xmin = 145.6
+            xmax = 172.8
+            text = ""
+        intervals [75]:
+            xmin = 172.8
+            xmax = 173.6
+            text = "Okay."
+        intervals [76]:
+            xmin = 173.6
+            xmax = 174.8
+            text = ""
+        intervals [77]:
+            xmin = 174.8
+            xmax = 175.6
+            text = "Okay."
+        intervals [78]:
+            xmin = 175.6
+            xmax = 190.8
+            text = ""
+        intervals [79]:
+            xmin = 190.8
+            xmax = 193.6
+            text = "So--so have you seen some other ones and you think that was the best?"
+        intervals [80]:
+            xmin = 193.6
+            xmax = 194.8
+            text = ""
+        intervals [81]:
+            xmin = 194.8
+            xmax = 195.6
+            text = "Okay."
+        intervals [82]:
+            xmin = 195.6
+            xmax = 214.8
+            text = ""
+        intervals [83]:
+            xmin = 214.8
+            xmax = 216.6
+            text = "Oh really?  Cool, cool."
+        intervals [84]:
+            xmin = 216.6
+            xmax = 217.8
+            text = ""
+        intervals [85]:
+            xmin = 217.8
+            xmax = 219.6
+            text = "I think it's okay.  Um--"
+        intervals [86]:
+            xmin = 219.6
+            xmax = 221.8
+            text = ""
+        intervals [87]:
+            xmin = 221.8
+            xmax = 230.6
+            text = "I--I--you know, I like some of the--I saw this one that was really impressive.  I saw this one where um there's this guy who is juggling balls with pecks.  Did you see that one?"
+        intervals [88]:
+            xmin = 230.6
+            xmax = 230.8
+            text = ""
+        intervals [89]:
+            xmin = 230.8
+            xmax = 234.6
+            text = "On the floor, and he was juggling with feet and a--"
+        intervals [90]:
+            xmin = 234.6
+            xmax = 234.8
+            text = ""
+        intervals [91]:
+            xmin = 234.8
+            xmax = 237.6
+            text = "It was like amazing.  It was like the craziest thing I've ever seen."
+        intervals [92]:
+            xmin = 237.6
+            xmax = 237.8
+            text = ""
+        intervals [93]:
+            xmin = 237.8
+            xmax = 240.6
+            text = "Yeah, right.  I want to go to the gym and do that."
+        intervals [94]:
+            xmin = 240.6
+            xmax = 242.8
+            text = ""
+        intervals [95]:
+            xmin = 242.8
+            xmax = 244.6
+            text = "What's your--female329?"
+        intervals [96]:
+            xmin = 244.6
+            xmax = 247.8
+            text = ""
+        intervals [97]:
+            xmin = 247.8
+            xmax = 248.6
+            text = "Oh, it's female329."
+        intervals [98]:
+            xmin = 248.6
+            xmax = 248.8
+            text = ""
+        intervals [99]:
+            xmin = 248.8
+            xmax = 250.6
+            text = "Nice meeting you.  I'm male304."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 251.211
+intervals: size = 96
+        intervals [1]:
+            xmin = 2.411
+            xmax = 9.211
+            text = "All right, thanks.  I'm done.  Okay.  I'm sorry.  "
+        intervals [2]:
+            xmin = 9.211
+            xmax = 9.411
+            text = ""
+        intervals [3]:
+            xmin = 9.411
+            xmax = 11.211
+            text = "Good.  How are you?  I'm female329."
+        intervals [4]:
+            xmin = 11.211
+            xmax = 11.411
+            text = ""
+        intervals [5]:
+            xmin = 11.411
+            xmax = 14.211
+            text = "male304?  Nice to meet you.  Were you just sitting there?"
+        intervals [6]:
+            xmin = 14.211
+            xmax = 14.411
+            text = ""
+        intervals [7]:
+            xmin = 14.411
+            xmax = 15.211
+            text = "Oh, I didn't know that.  "
+        intervals [8]:
+            xmin = 15.211
+            xmax = 15.411
+            text = ""
+        intervals [9]:
+            xmin = 15.411
+            xmax = 17.211
+            text = "Okay.  Like I really don't look over that way.  "
+        intervals [10]:
+            xmin = 17.211
+            xmax = 17.211
+            text = "female329."
+        intervals [11]:
+            xmin = 17.211
+            xmax = 18.411
+            text = ""
+        intervals [12]:
+            xmin = 18.411
+            xmax = 20.211
+            text = "Yeah.  What do you study?"
+        intervals [13]:
+            xmin = 20.211
+            xmax = 20.411
+            text = ""
+        intervals [14]:
+            xmin = 20.411
+            xmax = 23.211
+            text = "Oh, you're EE, too.  He's EE. "
+        intervals [15]:
+            xmin = 23.211
+            xmax = 24.411
+            text = ""
+        intervals [16]:
+            xmin = 24.411
+            xmax = 31.211
+            text = "Oh, okay.  Maybe sometimes, yeah.  This used to be fun.  I was so excited he's from Spain.  [laughter].  He's so happy."
+        intervals [17]:
+            xmin = 31.211
+            xmax = 31.411
+            text = ""
+        intervals [18]:
+            xmin = 31.411
+            xmax = 33.211
+            text = "No, 'cause--'cause I was in Spain for a year.  "
+        intervals [19]:
+            xmin = 33.211
+            xmax = 33.411
+            text = ""
+        intervals [20]:
+            xmin = 33.411
+            xmax = 39.211
+            text = "So the next year I started to meet people from Spain 'cause then it was like you talk to them and then it's like all this stuff in common.  It's cool.  "
+        intervals [21]:
+            xmin = 39.211
+            xmax = 39.411
+            text = ""
+        intervals [22]:
+            xmin = 39.411
+            xmax = 41.211
+            text = "So anyways.  How are you?"
+        intervals [23]:
+            xmin = 41.211
+            xmax = 42.411
+            text = ""
+        intervals [24]:
+            xmin = 42.411
+            xmax = 43.211
+            text = "[interposing] Yeah.  Where you from?"
+        intervals [25]:
+            xmin = 43.211
+            xmax = 44.411
+            text = ""
+        intervals [26]:
+            xmin = 44.411
+            xmax = 45.211
+            text = "[interposing] Oh."
+        intervals [27]:
+            xmin = 45.211
+            xmax = 45.411
+            text = ""
+        intervals [28]:
+            xmin = 45.411
+            xmax = 46.211
+            text = "Wow."
+        intervals [29]:
+            xmin = 46.211
+            xmax = 47.411
+            text = ""
+        intervals [30]:
+            xmin = 47.411
+            xmax = 48.211
+            text = "LA."
+        intervals [31]:
+            xmin = 48.211
+            xmax = 50.411
+            text = ""
+        intervals [32]:
+            xmin = 50.411
+            xmax = 58.211
+            text = "Um boonies.  I live way out east, a place called Upland.  It's like on the way to Las Vegas-type of thing.  It's kind of far up there."
+        intervals [33]:
+            xmin = 58.211
+            xmax = 59.411
+            text = ""
+        intervals [34]:
+            xmin = 59.411
+            xmax = 60.211
+            text = "Did you like it?"
+        intervals [35]:
+            xmin = 60.211
+            xmax = 60.411
+            text = ""
+        intervals [36]:
+            xmin = 60.411
+            xmax = 61.211
+            text = "Yeah?"
+        intervals [37]:
+            xmin = 61.211
+            xmax = 64.411
+            text = ""
+        intervals [38]:
+            xmin = 64.411
+            xmax = 66.211
+            text = "[interposing] Oh, I know where that is, yeah."
+        intervals [39]:
+            xmin = 66.211
+            xmax = 67.411
+            text = ""
+        intervals [40]:
+            xmin = 67.411
+            xmax = 68.211
+            text = "The what?"
+        intervals [41]:
+            xmin = 68.211
+            xmax = 69.411
+            text = ""
+        intervals [42]:
+            xmin = 69.411
+            xmax = 70.211
+            text = "Wind?"
+        intervals [43]:
+            xmin = 70.211
+            xmax = 70.411
+            text = ""
+        intervals [44]:
+            xmin = 70.411
+            xmax = 72.211
+            text = "Oh yeah, yeah, Wynn."
+        intervals [45]:
+            xmin = 72.211
+            xmax = 72.411
+            text = ""
+        intervals [46]:
+            xmin = 72.411
+            xmax = 73.211
+            text = "[interposing] Is it opened already?"
+        intervals [47]:
+            xmin = 73.211
+            xmax = 73.411
+            text = ""
+        intervals [48]:
+            xmin = 73.411
+            xmax = 78.211
+            text = "Wynn.  Oh wow.  I haven't been since it's opened.  I saw it under construction, but--"
+        intervals [49]:
+            xmin = 78.211
+            xmax = 79.411
+            text = ""
+        intervals [50]:
+            xmin = 79.411
+            xmax = 80.211
+            text = "Las Vegas?"
+        intervals [51]:
+            xmin = 80.211
+            xmax = 80.411
+            text = ""
+        intervals [52]:
+            xmin = 80.411
+            xmax = 91.211
+            text = "Um some of the places I like going to maybe twice a year, not really to go to do gambling or anything like that but to watch shows and just to see how it changes 'cause it always changes.  It's kind of fun.  But it is a little ridiculous--"
+        intervals [53]:
+            xmin = 91.211
+            xmax = 91.411
+            text = ""
+        intervals [54]:
+            xmin = 91.411
+            xmax = 108.211
+            text = "--if you think about it.  It's just like someone's wasting a heck of a lot of money and a heck of a lot of light and energy to make a ridiculous situation for people to gamble in and lose a lot of money.  So, you know.  [laughter].  It's like uh, but it's fun to go to.  And they have really good shows.  They have really amazing shows, so it's pretty cool."
+        intervals [55]:
+            xmin = 108.211
+            xmax = 108.411
+            text = ""
+        intervals [56]:
+            xmin = 108.411
+            xmax = 110.211
+            text = "Yeah.  Did you see O [phonetic]?"
+        intervals [57]:
+            xmin = 110.211
+            xmax = 113.411
+            text = ""
+        intervals [58]:
+            xmin = 113.411
+            xmax = 114.211
+            text = "O?"
+        intervals [59]:
+            xmin = 114.211
+            xmax = 115.411
+            text = ""
+        intervals [60]:
+            xmin = 115.411
+            xmax = 117.211
+            text = "The one where they go in water and everything?  "
+        intervals [61]:
+            xmin = 117.211
+            xmax = 117.411
+            text = ""
+        intervals [62]:
+            xmin = 117.411
+            xmax = 118.211
+            text = "They did it elsewhere?"
+        intervals [63]:
+            xmin = 118.211
+            xmax = 118.411
+            text = ""
+        intervals [64]:
+            xmin = 118.411
+            xmax = 119.211
+            text = "Really?"
+        intervals [65]:
+            xmin = 119.211
+            xmax = 120.411
+            text = ""
+        intervals [66]:
+            xmin = 120.411
+            xmax = 126.211
+            text = "You probably saw it--'cause I feel like O doesn't travel.  I think O is only--I mean, I could be wrong.  Maybe it travels as well."
+        intervals [67]:
+            xmin = 126.211
+            xmax = 130.411
+            text = ""
+        intervals [68]:
+            xmin = 130.411
+            xmax = 132.211
+            text = "O is the best one.  "
+        intervals [69]:
+            xmin = 132.211
+            xmax = 132.411
+            text = ""
+        intervals [70]:
+            xmin = 132.411
+            xmax = 145.211
+            text = "I've seen like so many Cirque Du Soleil.  O is hands-down, like it blows you away.  It's so amazing.  Like--'cause the--it's like completely unique 'cause the floor of the theater, it actually will go up and down and fills with water."
+        intervals [71]:
+            xmin = 145.211
+            xmax = 145.411
+            text = ""
+        intervals [72]:
+            xmin = 145.411
+            xmax = 174.211
+            text = "So it's really cool because at first, it's like a regular stage.  And then all of a sudden, it's like the--it's like the scene where I guess they're going into water.  So the person's walking into the, you know, into the water.  And slowly you see it--like it just barely comes the water, so he's standing there.  And he keeps walking, and it gets deeper and deeper, so it basically looks like the person is walking into deeper and deeper water.  And then all of a sudden, these other, you know, performers come on stage and then they start jumping into the water and diving.  And they can actually dive.  It's like enough depth to dive.  And they dive in and they do all these crazy things and then come back out.  It's like--it's absurd.  Like it's obscene like what they can do.  "
+        intervals [73]:
+            xmin = 174.211
+            xmax = 176.211
+            text = "Like--you're like wow.  It's amazing.  "
+        intervals [74]:
+            xmin = 176.211
+            xmax = 192.211
+            text = "And then they just have people, you know, up in the sky, like you know, on the wall or something doing crazy things.  So you're like in the water, on the ground, in the air, and it's just like--it's--it's completely phenomenal.  Like um you know how Cirque Du Soleil is?  It's really awesome, but O is like even one step above it I think.  Like I think it's phenomenal."
+        intervals [75]:
+            xmin = 192.211
+            xmax = 193.411
+            text = ""
+        intervals [76]:
+            xmin = 193.411
+            xmax = 195.211
+            text = "I think that was the best one, and I've seen quite a couple.  "
+        intervals [77]:
+            xmin = 195.211
+            xmax = 195.411
+            text = ""
+        intervals [78]:
+            xmin = 195.411
+            xmax = 216.211
+            text = "Like I've seen Mystere [phonetic] and Olivia and Jolliant [phonetic] and Saltimongo [phonetic] and--I feel like there's more but, I mean, I've seen like five, six.  I don't know.  Like the majority that I've been able--that I have ever been anywhere near me I've seen, so.  It's really good."
+        intervals [79]:
+            xmin = 216.211
+            xmax = 216.411
+            text = ""
+        intervals [80]:
+            xmin = 216.411
+            xmax = 218.211
+            text = "Yeah.  So do you like them?"
+        intervals [81]:
+            xmin = 218.211
+            xmax = 220.411
+            text = ""
+        intervals [82]:
+            xmin = 220.411
+            xmax = 223.211
+            text = "[interposing] You're not impressed with them either.  Amazing."
+        intervals [83]:
+            xmin = 223.211
+            xmax = 230.411
+            text = ""
+        intervals [84]:
+            xmin = 230.411
+            xmax = 231.211
+            text = "On the floor?"
+        intervals [85]:
+            xmin = 231.211
+            xmax = 233.411
+            text = ""
+        intervals [86]:
+            xmin = 233.411
+            xmax = 236.211
+            text = "[interposing] I think I might have.  Yeah, yeah, it's weird."
+        intervals [87]:
+            xmin = 236.211
+            xmax = 237.411
+            text = ""
+        intervals [88]:
+            xmin = 237.411
+            xmax = 240.211
+            text = "It's like that's what I want to do right.  [laughter]."
+        intervals [89]:
+            xmin = 240.211
+            xmax = 241.411
+            text = ""
+        intervals [90]:
+            xmin = 241.411
+            xmax = 244.211
+            text = "That would be actually kind of funny.  "
+        intervals [91]:
+            xmin = 244.211
+            xmax = 244.411
+            text = ""
+        intervals [92]:
+            xmin = 244.411
+            xmax = 249.211
+            text = "female329.  No dude, all right Keith.  Where is it?  Oh, it's here."
+        intervals [93]:
+            xmin = 249.211
+            xmax = 249.411
+            text = ""
+        intervals [94]:
+            xmin = 249.411
+            xmax = 250.211
+            text = "Yeah, sorry.  "
+        intervals [95]:
+            xmin = 250.211
+            xmax = 250.411
+            text = ""
+        intervals [96]:
+            xmin = 250.411
+            xmax = 251.211
+            text = "Nice to meet you."

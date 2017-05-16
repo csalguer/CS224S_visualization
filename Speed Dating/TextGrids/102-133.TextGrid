@@ -1,0 +1,416 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 238.55
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 238.55
+intervals: size = 50
+        intervals [1]:
+            xmin = 0
+            xmax = 0.75
+            text = ""
+        intervals [2]:
+            xmin = 0.75
+            xmax = 2.55
+            text = "I'm male102.  "
+        intervals [3]:
+            xmin = 2.55
+            xmax = 3.55
+            text = "female133, nice to meet you.  "
+        intervals [4]:
+            xmin = 3.55
+            xmax = 7.75
+            text = ""
+        intervals [5]:
+            xmin = 7.75
+            xmax = 11.55
+            text = "That's a good question.  I study philosophy of education."
+        intervals [6]:
+            xmin = 11.55
+            xmax = 12.75
+            text = ""
+        intervals [7]:
+            xmin = 12.75
+            xmax = 18.55
+            text = "I'm good.  Thank you.  Uh, uh, second-year doctoral student.  So, what about yourself?  "
+        intervals [8]:
+            xmin = 18.55
+            xmax = 18.75
+            text = ""
+        intervals [9]:
+            xmin = 18.75
+            xmax = 21.55
+            text = "Oh really?  How do you like it?  "
+        intervals [10]:
+            xmin = 21.55
+            xmax = 26.75
+            text = ""
+        intervals [11]:
+            xmin = 26.75
+            xmax = 32.55
+            text = "Yeah.  I have yet to meet kind of an economic student who loves it.  "
+        intervals [12]:
+            xmin = 32.55
+            xmax = 36.75
+            text = ""
+        intervals [13]:
+            xmin = 36.75
+            xmax = 59.55
+            text = "Well, it's a very different.  From what I understand, it's a sort of different--in the ed school there is reasonably caring and nurturing and the idea is not to weed out people.  It's to help them figure out if it's the right place for them or not.  My impression is in the econ program like the definitely feel like not everyone who is there should be there.  And they sort of try and weed people out.  Do you feel that way or?  "
+        intervals [14]:
+            xmin = 59.55
+            xmax = 65.75
+            text = ""
+        intervals [15]:
+            xmin = 65.75
+            xmax = 66.55
+            text = "Yeah.  "
+        intervals [16]:
+            xmin = 66.55
+            xmax = 75.75
+            text = ""
+        intervals [17]:
+            xmin = 75.75
+            xmax = 76.55
+            text = "Right.  "
+        intervals [18]:
+            xmin = 76.55
+            xmax = 80.75
+            text = ""
+        intervals [19]:
+            xmin = 80.75
+            xmax = 81.55
+            text = "You don't feel like that?  "
+        intervals [20]:
+            xmin = 81.55
+            xmax = 94.75
+            text = ""
+        intervals [21]:
+            xmin = 94.75
+            xmax = 95.55
+            text = "Where did you go to?  "
+        intervals [22]:
+            xmin = 95.55
+            xmax = 96.75
+            text = ""
+        intervals [23]:
+            xmin = 96.75
+            xmax = 101.55
+            text = "Oh really?  I went to the University of Illinois in Urbana Champagne, similar.  "
+        intervals [24]:
+            xmin = 101.55
+            xmax = 119.75
+            text = ""
+        intervals [25]:
+            xmin = 119.75
+            xmax = 123.55
+            text = "My roommate actually does economics of education.  "
+        intervals [26]:
+            xmin = 123.55
+            xmax = 127.55
+            text = "Yeah.  I don't know if you know any of the econ of ed people.  [unintelligible] nameX is his name.  "
+        intervals [27]:
+            xmin = 127.55
+            xmax = 130.75
+            text = ""
+        intervals [28]:
+            xmin = 130.75
+            xmax = 134.55
+            text = "Yes, nameX.  She's a [unintelligible].  "
+        intervals [29]:
+            xmin = 134.55
+            xmax = 146.75
+            text = ""
+        intervals [30]:
+            xmin = 146.75
+            xmax = 151.55
+            text = "So what do you want to do?  Is it your goal to be in academia when you finish, pretty much?  "
+        intervals [31]:
+            xmin = 151.55
+            xmax = 154.75
+            text = ""
+        intervals [32]:
+            xmin = 154.75
+            xmax = 155.55
+            text = "Cool.  "
+        intervals [33]:
+            xmin = 155.55
+            xmax = 160.75
+            text = ""
+        intervals [34]:
+            xmin = 160.75
+            xmax = 162.55
+            text = "Who is your advisor?  "
+        intervals [35]:
+            xmin = 162.55
+            xmax = 169.75
+            text = ""
+        intervals [36]:
+            xmin = 169.75
+            xmax = 170.55
+            text = "Oh, really?  "
+        intervals [37]:
+            xmin = 170.55
+            xmax = 176.75
+            text = ""
+        intervals [38]:
+            xmin = 176.75
+            xmax = 177.55
+            text = "Right.  "
+        intervals [39]:
+            xmin = 177.55
+            xmax = 186.75
+            text = ""
+        intervals [40]:
+            xmin = 186.75
+            xmax = 188.55
+            text = "Oh, really?  "
+        intervals [41]:
+            xmin = 188.55
+            xmax = 188.75
+            text = ""
+        intervals [42]:
+            xmin = 188.75
+            xmax = 192.55
+            text = "So, potentially male102 Pincable--"
+        intervals [43]:
+            xmin = 192.55
+            xmax = 193.75
+            text = ""
+        intervals [44]:
+            xmin = 193.75
+            xmax = 197.55
+            text = "He does more labor stuff.  So, it used to be different, okay. "
+        intervals [45]:
+            xmin = 197.55
+            xmax = 207.75
+            text = ""
+        intervals [46]:
+            xmin = 207.75
+            xmax = 210.55
+            text = "Are you able to get into the business classes that are relevant?"
+        intervals [47]:
+            xmin = 210.55
+            xmax = 226.75
+            text = ""
+        intervals [48]:
+            xmin = 226.75
+            xmax = 227.55
+            text = "Uh-huh.  "
+        intervals [49]:
+            xmin = 227.55
+            xmax = 234.75
+            text = ""
+        intervals [50]:
+            xmin = 234.75
+            xmax = 238.55
+            text = "Cool.  Well, it was very nice meeting you, female133. Have fun.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 238.55
+intervals: size = 49
+        intervals [1]:
+            xmin = 1.75
+            xmax = 2.55
+            text = "female133.  "
+        intervals [2]:
+            xmin = 2.55
+            xmax = 3.75
+            text = ""
+        intervals [3]:
+            xmin = 3.75
+            xmax = 7.55
+            text = "So, what are you studying?  [laughter]  "
+        intervals [4]:
+            xmin = 7.55
+            xmax = 11.75
+            text = ""
+        intervals [5]:
+            xmin = 11.75
+            xmax = 12.55
+            text = "Water?  "
+        intervals [6]:
+            xmin = 12.55
+            xmax = 17.75
+            text = ""
+        intervals [7]:
+            xmin = 17.75
+            xmax = 19.55
+            text = "I'm a second-year economics [unintelligible].  "
+        intervals [8]:
+            xmin = 19.55
+            xmax = 21.75
+            text = ""
+        intervals [9]:
+            xmin = 21.75
+            xmax = 26.55
+            text = "Yeah.  [laughter]  "
+        intervals [10]:
+            xmin = 26.55
+            xmax = 32.75
+            text = ""
+        intervals [11]:
+            xmin = 32.75
+            xmax = 37.55
+            text = "Well, I think it gets better.  I'm still somewhat traumatized from last year.  "
+        intervals [12]:
+            xmin = 37.55
+            xmax = 59.75
+            text = ""
+        intervals [13]:
+            xmin = 59.75
+            xmax = 65.55
+            text = "I mean they give you a lot of work.  So, there's a lot of [unintelligible].  I think it's more self flushing.  "
+        intervals [14]:
+            xmin = 65.55
+            xmax = 66.75
+            text = ""
+        intervals [15]:
+            xmin = 66.75
+            xmax = 75.55
+            text = "You know, all [unintelligible] aside, it's not for everyone.  I think a lot of people go in thinking that it's for them--some.  Some people act on it, and some people are okay.  "
+        intervals [16]:
+            xmin = 75.55
+            xmax = 76.75
+            text = ""
+        intervals [17]:
+            xmin = 76.75
+            xmax = 80.55
+            text = "As far as active weeding out, I don't think--"
+        intervals [18]:
+            xmin = 80.55
+            xmax = 80.75
+            text = ""
+        intervals [19]:
+            xmin = 80.75
+            xmax = 94.55
+            text = "I think that sometimes the faculty should be more supportive and make more effort to get to know you sometimes or to, you know, I think--for me anyway I guess I went to a large school, and it [unintelligible]."
+        intervals [20]:
+            xmin = 94.55
+            xmax = 95.75
+            text = ""
+        intervals [21]:
+            xmin = 95.75
+            xmax = 97.55
+            text = "I went to Indiana University.  "
+        intervals [22]:
+            xmin = 97.55
+            xmax = 101.75
+            text = ""
+        intervals [23]:
+            xmin = 101.75
+            xmax = 119.55
+            text = "Yeah.  So, I don't know.  So, it was really tough, but I managed to get further along, but the faculty were more will to reach out.  You know, if they think that you want to do what they want to do.  It always makes more sense.  So, I don't know.  Hopefully we're there.  [laughter]  "
+        intervals [24]:
+            xmin = 119.55
+            xmax = 122.75
+            text = ""
+        intervals [25]:
+            xmin = 122.75
+            xmax = 123.55
+            text = "Oh, really?  "
+        intervals [26]:
+            xmin = 123.55
+            xmax = 126.75
+            text = ""
+        intervals [27]:
+            xmin = 126.75
+            xmax = 131.55
+            text = "Okay, well there's a girl named nameX.  "
+        intervals [28]:
+            xmin = 131.55
+            xmax = 134.75
+            text = ""
+        intervals [29]:
+            xmin = 134.75
+            xmax = 145.55
+            text = "I felt so sorry.  Actually I feel sorry for me.  At least I'm there because I'm [unintelligible] econ.  I chose it.  [crosstalk] "
+        intervals [30]:
+            xmin = 145.55
+            xmax = 151.75
+            text = ""
+        intervals [31]:
+            xmin = 151.75
+            xmax = 155.55
+            text = "Yeah, yeah, that's the ultimate goal, but we'll see what happens.  "
+        intervals [32]:
+            xmin = 155.55
+            xmax = 155.75
+            text = ""
+        intervals [33]:
+            xmin = 155.75
+            xmax = 161.55
+            text = "I think I just want to work in a warm place.  [laughter]  That's a goal.  "
+        intervals [34]:
+            xmin = 161.55
+            xmax = 161.75
+            text = ""
+        intervals [35]:
+            xmin = 161.75
+            xmax = 169.55
+            text = "I don't.  Since I didn't do second year.  So you kind of don't define research until after the summer.  "
+        intervals [36]:
+            xmin = 169.55
+            xmax = 170.75
+            text = ""
+        intervals [37]:
+            xmin = 170.75
+            xmax = 176.55
+            text = "So, yeah.  So, I mean we're assigned like a first advisor.  But that's--it's not arbitrary [unintelligible] applications.  "
+        intervals [38]:
+            xmin = 176.55
+            xmax = 176.75
+            text = ""
+        intervals [39]:
+            xmin = 176.75
+            xmax = 187.55
+            text = "Often it turns out not to be clear [unintelligible].  So, yeah, this has been [unintelligible].  So--"
+        intervals [40]:
+            xmin = 187.55
+            xmax = 187.75
+            text = ""
+        intervals [41]:
+            xmin = 187.75
+            xmax = 188.55
+            text = "Yeah.  "
+        intervals [42]:
+            xmin = 188.55
+            xmax = 192.75
+            text = ""
+        intervals [43]:
+            xmin = 192.75
+            xmax = 194.55
+            text = "[interposing]  Yeah, he does the labor stuff.  "
+        intervals [44]:
+            xmin = 194.55
+            xmax = 198.75
+            text = ""
+        intervals [45]:
+            xmin = 198.75
+            xmax = 207.55
+            text = "We don't have as many students.  So, it's pretty good.  I asked to go over there.  "
+        intervals [46]:
+            xmin = 207.55
+            xmax = 210.75
+            text = ""
+        intervals [47]:
+            xmin = 210.75
+            xmax = 226.55
+            text = "I've taken one [unintelligible].  So, yeah.  And a lot of the DSD patients have to come over to our classes.  So, at some point they've got a lot of [unintelligible].  [laughter] this class, and there was like, you know, 13 students, like 10 are from [unintelligible].  Right?  "
+        intervals [48]:
+            xmin = 226.55
+            xmax = 227.75
+            text = ""
+        intervals [49]:
+            xmin = 227.75
+            xmax = 234.55
+            text = "And we were so happy.  Well, it's time we were taking something back from them because they've been coming over and taking us [unintelligible].  [laughter]  So, yeah.  They [unintelligible].  "

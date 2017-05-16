@@ -1,0 +1,472 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 255.983
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 255.983
+intervals: size = 56
+        intervals [1]:
+            xmin = 0
+            xmax = 12.183
+            text = ""
+        intervals [2]:
+            xmin = 12.183
+            xmax = 13.983
+            text = "Good, where are you from? "
+        intervals [3]:
+            xmin = 13.983
+            xmax = 14.183
+            text = ""
+        intervals [4]:
+            xmin = 14.183
+            xmax = 15.983
+            text = "Okay.  I have an female233, a little six-year-old girl that lives next door to me that's from Costa Rica. "
+        intervals [5]:
+            xmin = 15.983
+            xmax = 23.183
+            text = ""
+        intervals [6]:
+            xmin = 23.183
+            xmax = 24.983
+            text = "Back in home in Virginia. "
+        intervals [7]:
+            xmin = 24.983
+            xmax = 30.183
+            text = ""
+        intervals [8]:
+            xmin = 30.183
+            xmax = 32.983
+            text = "So where in Mexico?  "
+        intervals [9]:
+            xmin = 32.983
+            xmax = 35.183
+            text = ""
+        intervals [10]:
+            xmin = 35.183
+            xmax = 36.983
+            text = "Not that I really know anything -- I mean I'm kind of [crosstalk]. "
+        intervals [11]:
+            xmin = 36.983
+            xmax = 44.183
+            text = ""
+        intervals [12]:
+            xmin = 44.183
+            xmax = 45.983
+            text = "I mean, yeah I know about --, but -- "
+        intervals [13]:
+            xmin = 45.983
+            xmax = 48.183
+            text = ""
+        intervals [14]:
+            xmin = 48.183
+            xmax = 49.983
+            text = "I'm from Virginia near D.C. like northern.  So what are you doing at Stanford? "
+        intervals [15]:
+            xmin = 49.983
+            xmax = 56.183
+            text = ""
+        intervals [16]:
+            xmin = 56.183
+            xmax = 57.983
+            text = "Law school?  Cool.  How long is it going to take? "
+        intervals [17]:
+            xmin = 57.983
+            xmax = 64.183
+            text = ""
+        intervals [18]:
+            xmin = 64.183
+            xmax = 64.983
+            text = "So like PhD and law will you be a lawyer? "
+        intervals [19]:
+            xmin = 64.983
+            xmax = 82.183
+            text = ""
+        intervals [20]:
+            xmin = 82.183
+            xmax = 83.983
+            text = "So you came straight to Stanford, so just like school, school, school all the way through.  Did you go straight to law school out of undergrad? "
+        intervals [21]:
+            xmin = 83.983
+            xmax = 90.183
+            text = ""
+        intervals [22]:
+            xmin = 90.183
+            xmax = 91.983
+            text = "Wow. "
+        intervals [23]:
+            xmin = 91.983
+            xmax = 94.183
+            text = ""
+        intervals [24]:
+            xmin = 94.183
+            xmax = 94.983
+            text = "Oh okay.  Okay that makes sense.  It's not like you've been in school for 12 years.  [unintelligible]. "
+        intervals [25]:
+            xmin = 94.983
+            xmax = 108.183
+            text = ""
+        intervals [26]:
+            xmin = 108.183
+            xmax = 108.983
+            text = "How big is the law PhD program here? "
+        intervals [27]:
+            xmin = 108.983
+            xmax = 125.183
+            text = ""
+        intervals [28]:
+            xmin = 125.183
+            xmax = 126.983
+            text = "So what's your area of interest? "
+        intervals [29]:
+            xmin = 126.983
+            xmax = 135.183
+            text = ""
+        intervals [30]:
+            xmin = 135.183
+            xmax = 136.983
+            text = "What's that? "
+        intervals [31]:
+            xmin = 136.983
+            xmax = 137.183
+            text = ""
+        intervals [32]:
+            xmin = 137.183
+            xmax = 137.983
+            text = "Okay, got to get big companies, not a fan of big companies? "
+        intervals [33]:
+            xmin = 137.983
+            xmax = 144.183
+            text = ""
+        intervals [34]:
+            xmin = 144.183
+            xmax = 144.983
+            text = "Terrible. "
+        intervals [35]:
+            xmin = 144.983
+            xmax = 148.183
+            text = ""
+        intervals [36]:
+            xmin = 148.183
+            xmax = 148.983
+            text = "I'm in electrical engineering. "
+        intervals [37]:
+            xmin = 148.983
+            xmax = 150.183
+            text = ""
+        intervals [38]:
+            xmin = 150.183
+            xmax = 151.983
+            text = "Yeah and I do like -- I actually work with this woman in computer science and do like artificial intelligence stuff. "
+        intervals [39]:
+            xmin = 151.983
+            xmax = 163.183
+            text = ""
+        intervals [40]:
+            xmin = 163.183
+            xmax = 164.983
+            text = "So it's fun.  I like it.  I mean I'm in year three, but for me it's going to be at least two more if not three more. "
+        intervals [41]:
+            xmin = 164.983
+            xmax = 171.183
+            text = ""
+        intervals [42]:
+            xmin = 171.183
+            xmax = 171.983
+            text = "Five.  I actually had to switch advisors part of the way through it, so that was kind of a little bit of a hitch in the road, but I mean I like it here so -- right. "
+        intervals [43]:
+            xmin = 171.983
+            xmax = 183.183
+            text = ""
+        intervals [44]:
+            xmin = 183.183
+            xmax = 183.983
+            text = "Exactly. "
+        intervals [45]:
+            xmin = 183.983
+            xmax = 196.183
+            text = ""
+        intervals [46]:
+            xmin = 196.183
+            xmax = 198.983
+            text = "The only question is, whether it made sense to go with the higher paying job option you know, but it's not like I spend that much.  But you like it here? "
+        intervals [47]:
+            xmin = 198.983
+            xmax = 211.183
+            text = ""
+        intervals [48]:
+            xmin = 211.183
+            xmax = 212.983
+            text = "Do you think you'll stay in California? "
+        intervals [49]:
+            xmin = 212.983
+            xmax = 213.183
+            text = ""
+        intervals [50]:
+            xmin = 213.183
+            xmax = 214.983
+            text = "You're going to go back to Mexico? "
+        intervals [51]:
+            xmin = 214.983
+            xmax = 216.183
+            text = ""
+        intervals [52]:
+            xmin = 216.183
+            xmax = 217.983
+            text = "New York City.  You like the city huh? "
+        intervals [53]:
+            xmin = 217.983
+            xmax = 234.183
+            text = ""
+        intervals [54]:
+            xmin = 234.183
+            xmax = 235.983
+            text = "Yeah I guess.  Yeah I -- I've been up to New York City a couple of times, but it was never really my thing.  I guess I just like having space or something I don't know or I like grass and fields and I don't know. "
+        intervals [55]:
+            xmin = 235.983
+            xmax = 249.183
+            text = ""
+        intervals [56]:
+            xmin = 249.183
+            xmax = 250.983
+            text = "Yeah okay.  Well good luck.  It was good to meet you. "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 255.983
+intervals: size = 57
+        intervals [1]:
+            xmin = 10.183
+            xmax = 10.983
+            text = "female233.  Hi [unintelligible] how are you? "
+        intervals [2]:
+            xmin = 10.983
+            xmax = 13.183
+            text = ""
+        intervals [3]:
+            xmin = 13.183
+            xmax = 14.983
+            text = "Mexico. "
+        intervals [4]:
+            xmin = 14.983
+            xmax = 22.183
+            text = ""
+        intervals [5]:
+            xmin = 22.183
+            xmax = 23.983
+            text = "Okay. "
+        intervals [6]:
+            xmin = 23.983
+            xmax = 25.183
+            text = ""
+        intervals [7]:
+            xmin = 25.183
+            xmax = 26.983
+            text = "I haven't met [unintelligible].  I guess not that common a name. "
+        intervals [8]:
+            xmin = 26.983
+            xmax = 33.183
+            text = ""
+        intervals [9]:
+            xmin = 33.183
+            xmax = 34.983
+            text = "From [unintelligible]. "
+        intervals [10]:
+            xmin = 34.983
+            xmax = 39.183
+            text = ""
+        intervals [11]:
+            xmin = 39.183
+            xmax = 39.983
+            text = "Well, but [unintelligible] would say you're from Acapulco or a place like that. "
+        intervals [12]:
+            xmin = 39.983
+            xmax = 47.183
+            text = ""
+        intervals [13]:
+            xmin = 47.183
+            xmax = 48.983
+            text = "You're from where? "
+        intervals [14]:
+            xmin = 48.983
+            xmax = 54.183
+            text = ""
+        intervals [15]:
+            xmin = 54.183
+            xmax = 55.983
+            text = "I am going a PhD law school. "
+        intervals [16]:
+            xmin = 55.983
+            xmax = 60.183
+            text = ""
+        intervals [17]:
+            xmin = 60.183
+            xmax = 62.983
+            text = "Two more years, this is my second.  There's four years with the PhD. "
+        intervals [18]:
+            xmin = 62.983
+            xmax = 69.183
+            text = ""
+        intervals [19]:
+            xmin = 69.183
+            xmax = 71.983
+            text = "I am already a lawyer in theory and also in practice because I went to law school in Mexico in the [unintelligible] and then I came in here to [unintelligible].  So I never practiced for [unintelligible]. "
+        intervals [20]:
+            xmin = 71.983
+            xmax = 89.183
+            text = ""
+        intervals [21]:
+            xmin = 89.183
+            xmax = 90.983
+            text = "Yes. "
+        intervals [22]:
+            xmin = 90.983
+            xmax = 91.183
+            text = ""
+        intervals [23]:
+            xmin = 91.183
+            xmax = 91.983
+            text = "No, well actually [unintelligible] law school is undergrad. "
+        intervals [24]:
+            xmin = 91.983
+            xmax = 100.183
+            text = ""
+        intervals [25]:
+            xmin = 100.183
+            xmax = 101.983
+            text = "[unintelligible] trying to be better taking exams and I am [unintelligible] lots of experience. "
+        intervals [26]:
+            xmin = 101.983
+            xmax = 110.183
+            text = ""
+        intervals [27]:
+            xmin = 110.183
+            xmax = 111.983
+            text = "Very small.  Last year, [unintelligible] year they took six of us, but they wanted to take five and last year they took three and they haven't decided how many.  We are very few. "
+        intervals [28]:
+            xmin = 111.983
+            xmax = 127.183
+            text = ""
+        intervals [29]:
+            xmin = 127.183
+            xmax = 130.983
+            text = "Constitutional law and maybe -- I don't [unintelligible]. "
+        intervals [30]:
+            xmin = 130.983
+            xmax = 136.183
+            text = ""
+        intervals [31]:
+            xmin = 136.183
+            xmax = 136.983
+            text = "[unintelligible]. "
+        intervals [32]:
+            xmin = 136.983
+            xmax = 140.183
+            text = ""
+        intervals [33]:
+            xmin = 140.183
+            xmax = 140.983
+            text = "No, I don't like big companies.  I'm very used to monopolies, I don't like them. "
+        intervals [34]:
+            xmin = 140.983
+            xmax = 145.183
+            text = ""
+        intervals [35]:
+            xmin = 145.183
+            xmax = 146.983
+            text = "What's your department? "
+        intervals [36]:
+            xmin = 146.983
+            xmax = 149.183
+            text = ""
+        intervals [37]:
+            xmin = 149.183
+            xmax = 149.983
+            text = "Electrical engineering. "
+        intervals [38]:
+            xmin = 149.983
+            xmax = 160.183
+            text = ""
+        intervals [39]:
+            xmin = 160.183
+            xmax = 161.983
+            text = "Oh good.  That's pretty [unintelligible]. "
+        intervals [40]:
+            xmin = 161.983
+            xmax = 170.183
+            text = ""
+        intervals [41]:
+            xmin = 170.183
+            xmax = 170.983
+            text = "[unintelligible]. "
+        intervals [42]:
+            xmin = 170.983
+            xmax = 181.183
+            text = ""
+        intervals [43]:
+            xmin = 181.183
+            xmax = 181.983
+            text = "Right I mean there's not much to complain. "
+        intervals [44]:
+            xmin = 181.983
+            xmax = 183.183
+            text = ""
+        intervals [45]:
+            xmin = 183.183
+            xmax = 184.983
+            text = "I mean there is [unintelligible] relative to all of the [unintelligible] if you have friends in Yale or Harvard that say where are you, how are you.  I mean I get e-mails from my friends from Yale and they would say like 'female233, it's many degrees below zero.' "
+        intervals [46]:
+            xmin = 184.983
+            xmax = 208.183
+            text = ""
+        intervals [47]:
+            xmin = 208.183
+            xmax = 210.983
+            text = "I like it here a lot [unintelligible]. "
+        intervals [48]:
+            xmin = 210.983
+            xmax = 212.183
+            text = ""
+        intervals [49]:
+            xmin = 212.183
+            xmax = 213.983
+            text = "No. "
+        intervals [50]:
+            xmin = 213.983
+            xmax = 214.183
+            text = ""
+        intervals [51]:
+            xmin = 214.183
+            xmax = 215.983
+            text = "I'm moving to New York. "
+        intervals [52]:
+            xmin = 215.983
+            xmax = 220.183
+            text = ""
+        intervals [53]:
+            xmin = 220.183
+            xmax = 221.983
+            text = "Well I mean yeah, I guess.  I mean, but for many years it's not -- everybody said it's a huge city, like, you know like [unintelligible] I don't find that.  For me personally it's not.  Everything is relative. "
+        intervals [54]:
+            xmin = 221.983
+            xmax = 247.183
+            text = ""
+        intervals [55]:
+            xmin = 247.183
+            xmax = 247.983
+            text = "Oh well I love that too, I have to say.  But I love the city too. "
+        intervals [56]:
+            xmin = 247.983
+            xmax = 254.183
+            text = ""
+        intervals [57]:
+            xmin = 254.183
+            xmax = 255.983
+            text = "[unintelligible] nice to meet you. "

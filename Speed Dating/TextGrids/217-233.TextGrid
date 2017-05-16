@@ -1,0 +1,912 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 252.9
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 252.9
+intervals: size = 112
+        intervals [1]:
+            xmin = 0
+            xmax = 2.1
+            text = ""
+        intervals [2]:
+            xmin = 2.1
+            xmax = 5.9
+            text = "Oh, which station is this?  Okay.  We have to speak English because-"
+        intervals [3]:
+            xmin = 5.9
+            xmax = 6.6
+            text = ""
+        intervals [4]:
+            xmin = 6.6
+            xmax = 11.1
+            text = "You know, I hate to- yeah, I hate to say this, but, um, we could do it in Spanish, but, um-"
+        intervals [5]:
+            xmin = 11.1
+            xmax = 13.8
+            text = ""
+        intervals [6]:
+            xmin = 13.8
+            xmax = 14.8
+            text = "Yeah."
+        intervals [7]:
+            xmin = 14.8
+            xmax = 15.8
+            text = ""
+        intervals [8]:
+            xmin = 15.8
+            xmax = 18
+            text = "What- what- what's your station again?"
+        intervals [9]:
+            xmin = 18
+            xmax = 19.1
+            text = ""
+        intervals [10]:
+            xmin = 19.1
+            xmax = 19.8
+            text = "M, right?"
+        intervals [11]:
+            xmin = 19.8
+            xmax = 19.9
+            text = ""
+        intervals [12]:
+            xmin = 19.9
+            xmax = 24
+            text = "Okay.  M.  Okay.  Okay.  Yeah?"
+        intervals [13]:
+            xmin = 24
+            xmax = 25.6
+            text = ""
+        intervals [14]:
+            xmin = 25.6
+            xmax = 26.9
+            text = "Okay.  [unintelligible]."
+        intervals [15]:
+            xmin = 26.9
+            xmax = 27.3
+            text = ""
+        intervals [16]:
+            xmin = 27.3
+            xmax = 37
+            text = "Okay.  [unintelligible].  Okay, switching to English, switching to English.  Okay.  Yeah, so I know- see- I hate to talk in English with you because you're Mexican."
+        intervals [17]:
+            xmin = 37
+            xmax = 38
+            text = ""
+        intervals [18]:
+            xmin = 38
+            xmax = 42.3
+            text = "[laughter].  Yeah, I- I- I know.  Okay.  We- we- we have to pretend."
+        intervals [19]:
+            xmin = 42.3
+            xmax = 42.8
+            text = ""
+        intervals [20]:
+            xmin = 42.8
+            xmax = 44.7
+            text = "I have not seen you since last year."
+        intervals [21]:
+            xmin = 44.7
+            xmax = 46.4
+            text = ""
+        intervals [22]:
+            xmin = 46.4
+            xmax = 50.9
+            text = "Since, uh, where- where was the last time we saw each other?  I can't [unintelligible] the house in [unintelligible]?"
+        intervals [23]:
+            xmin = 50.9
+            xmax = 52.9
+            text = ""
+        intervals [24]:
+            xmin = 52.9
+            xmax = 57.6
+            text = "It was some common party or some common wine and cheese."
+        intervals [25]:
+            xmin = 57.6
+            xmax = 58.8
+            text = ""
+        intervals [26]:
+            xmin = 58.8
+            xmax = 62.2
+            text = "Yeah.  The- the- this- the Serrano [unintelligible]?"
+        intervals [27]:
+            xmin = 62.2
+            xmax = 62.3
+            text = ""
+        intervals [28]:
+            xmin = 62.3
+            xmax = 62.9
+            text = "Yeah, there.  "
+        intervals [29]:
+            xmin = 62.9
+            xmax = 64.9
+            text = ""
+        intervals [30]:
+            xmin = 64.9
+            xmax = 69
+            text = "Well, you had not been anywhere.  [laughter].  What- what- where do you live?  Where do you live?"
+        intervals [31]:
+            xmin = 69
+            xmax = 70.2
+            text = ""
+        intervals [32]:
+            xmin = 70.2
+            xmax = 72.6
+            text = "A studio.  Okay.  Are you in a [unintelligible], yeah?"
+        intervals [33]:
+            xmin = 72.6
+            xmax = 73.1
+            text = ""
+        intervals [34]:
+            xmin = 73.1
+            xmax = 73.9
+            text = "Where were you?"
+        intervals [35]:
+            xmin = 73.9
+            xmax = 74.5
+            text = ""
+        intervals [36]:
+            xmin = 74.5
+            xmax = 80.1
+            text = "Okay.  Okay.  Okay.  Did you see- you see [unintelligible] you don't know yourself a little."
+        intervals [37]:
+            xmin = 80.1
+            xmax = 86.2
+            text = "[laughter] [unintelligible] well, are you doing a master's or the law school program or what are you doing?"
+        intervals [38]:
+            xmin = 86.2
+            xmax = 88.7
+            text = ""
+        intervals [39]:
+            xmin = 88.7
+            xmax = 96.9
+            text = "Mm, dual degree, huh?  Oh, wow.  So, you're going to be a lawyer?  See that's good enough.  You're going to be-"
+        intervals [40]:
+            xmin = 96.9
+            xmax = 97.7
+            text = ""
+        intervals [41]:
+            xmin = 97.7
+            xmax = 98.5
+            text = "From Mexico?"
+        intervals [42]:
+            xmin = 98.5
+            xmax = 98.7
+            text = ""
+        intervals [43]:
+            xmin = 98.7
+            xmax = 101.6
+            text = "Wow.  Can you use what you learn here in Mexico?"
+        intervals [44]:
+            xmin = 101.6
+            xmax = 102.9
+            text = ""
+        intervals [45]:
+            xmin = 102.9
+            xmax = 103.5
+            text = "You can?"
+        intervals [46]:
+            xmin = 103.5
+            xmax = 103.9
+            text = ""
+        intervals [47]:
+            xmin = 103.9
+            xmax = 106.5
+            text = "Like do you see stuff here that you didn't see in Mexico?"
+        intervals [48]:
+            xmin = 106.5
+            xmax = 111.1
+            text = ""
+        intervals [49]:
+            xmin = 111.1
+            xmax = 112.3
+            text = "The law is the law, right?"
+        intervals [50]:
+            xmin = 112.3
+            xmax = 113
+            text = ""
+        intervals [51]:
+            xmin = 113
+            xmax = 114
+            text = "The law is the-  "
+        intervals [52]:
+            xmin = 114
+            xmax = 114.5
+            text = ""
+        intervals [53]:
+            xmin = 114.5
+            xmax = 115.5
+            text = "Yeah.  "
+        intervals [54]:
+            xmin = 115.5
+            xmax = 116.3
+            text = ""
+        intervals [55]:
+            xmin = 116.3
+            xmax = 117.6
+            text = "Justice, justice."
+        intervals [56]:
+            xmin = 117.6
+            xmax = 118.4
+            text = ""
+        intervals [57]:
+            xmin = 118.4
+            xmax = 121.5
+            text = "[laughter].  [unintelligible] is fine.  [unintelligible]."
+        intervals [58]:
+            xmin = 121.5
+            xmax = 122.1
+            text = ""
+        intervals [59]:
+            xmin = 122.1
+            xmax = 131.2
+            text = "[unintelligible].  Yeah, yeah,  So, really [unintelligible] all us Mexicans talking about, you know, the law and law, yeah.  So, tell me more about you.  Tell me- tell me- tell me more about the e-mails you- tell me more about that."
+        intervals [60]:
+            xmin = 131.2
+            xmax = 131.3
+            text = ""
+        intervals [61]:
+            xmin = 131.3
+            xmax = 136.1
+            text = "Does the person [unintelligible] here or here?  Yeah, yeah, tell me more.  Tell me.  [laughter]."
+        intervals [62]:
+            xmin = 136.1
+            xmax = 136.2
+            text = ""
+        intervals [63]:
+            xmin = 136.2
+            xmax = 138.1
+            text = "Yeah, [unintelligible]."
+        intervals [64]:
+            xmin = 138.1
+            xmax = 139
+            text = ""
+        intervals [65]:
+            xmin = 139
+            xmax = 141.4
+            text = "Well, I never really thought about it [unintelligible]. "
+        intervals [66]:
+            xmin = 141.4
+            xmax = 141.9
+            text = ""
+        intervals [67]:
+            xmin = 141.9
+            xmax = 145.4
+            text = "No, no, no.  I [unintelligible] you are right.  Since you are Mexican [unintelligible]."
+        intervals [68]:
+            xmin = 145.4
+            xmax = 146.2
+            text = ""
+        intervals [69]:
+            xmin = 146.2
+            xmax = 153.6
+            text = "[unintelligible] two people who belong to the same culture they have a lot more things in common and they can talk about their [unintelligible], right?"
+        intervals [70]:
+            xmin = 153.6
+            xmax = 153.7
+            text = ""
+        intervals [71]:
+            xmin = 153.7
+            xmax = 156.7
+            text = "So, we have half of the world [unintelligible], right?"
+        intervals [72]:
+            xmin = 156.7
+            xmax = 157.9
+            text = ""
+        intervals [73]:
+            xmin = 157.9
+            xmax = 159.5
+            text = "[unintelligible] the highway [unintelligible]."
+        intervals [74]:
+            xmin = 159.5
+            xmax = 163.2
+            text = "Okay.  [laughter].  Yeah, but we are ready to date, you know, we are ready to date.  [unintelligible].  [laughter]."
+        intervals [75]:
+            xmin = 163.2
+            xmax = 164.7
+            text = ""
+        intervals [76]:
+            xmin = 164.7
+            xmax = 166.9
+            text = "[laughter]."
+        intervals [77]:
+            xmin = 166.9
+            xmax = 169.6
+            text = "[unintelligible] well you are right.  It's too late.  It's too late."
+        intervals [78]:
+            xmin = 169.6
+            xmax = 169.7
+            text = ""
+        intervals [79]:
+            xmin = 169.7
+            xmax = 176
+            text = "Yeah, [unintelligible].  [laughter].  I cannot say [unintelligible] because I don't- I know after one-minute [unintelligible] initial [unintelligible]."
+        intervals [80]:
+            xmin = 176
+            xmax = 177.5
+            text = ""
+        intervals [81]:
+            xmin = 177.5
+            xmax = 180.2
+            text = "Well, what am I going to talk about is we already know each other."
+        intervals [82]:
+            xmin = 180.2
+            xmax = 181.7
+            text = ""
+        intervals [83]:
+            xmin = 181.7
+            xmax = 186.4
+            text = "[unintelligible] are you Mexican [unintelligible] Association?"
+        intervals [84]:
+            xmin = 186.4
+            xmax = 188.5
+            text = ""
+        intervals [85]:
+            xmin = 188.5
+            xmax = 193.3
+            text = "Give me- give me- give me your email [unintelligible] your email because that [unintelligible]."
+        intervals [86]:
+            xmin = 193.3
+            xmax = 194
+            text = ""
+        intervals [87]:
+            xmin = 194
+            xmax = 196.7
+            text = "[unintelligible] what's your e-mail?  [unintelligible]."
+        intervals [88]:
+            xmin = 196.7
+            xmax = 198.5
+            text = ""
+        intervals [89]:
+            xmin = 198.5
+            xmax = 201.2
+            text = "female233.  Again, [unintelligible] that's- is that your e-mail?"
+        intervals [90]:
+            xmin = 201.2
+            xmax = 202
+            text = ""
+        intervals [91]:
+            xmin = 202
+            xmax = 203
+            text = "But that's your e-mail?"
+        intervals [92]:
+            xmin = 203
+            xmax = 203.8
+            text = ""
+        intervals [93]:
+            xmin = 203.8
+            xmax = 204.6
+            text = "Oh, female233."
+        intervals [94]:
+            xmin = 204.6
+            xmax = 205.2
+            text = ""
+        intervals [95]:
+            xmin = 205.2
+            xmax = 208.6
+            text = "Okay.  So, um, what else, uh-"
+        intervals [96]:
+            xmin = 208.6
+            xmax = 209.7
+            text = ""
+        intervals [97]:
+            xmin = 209.7
+            xmax = 218.6
+            text = "Yeah, we already [unintelligible] or not.  [laughter].  We have [unintelligible] so it doesn't count.  [unintelligible] delete this conversation from the research.  Yeah.  You should join the-"
+        intervals [98]:
+            xmin = 218.6
+            xmax = 219.7
+            text = ""
+        intervals [99]:
+            xmin = 219.7
+            xmax = 226.4
+            text = "[laughter].  This is [unintelligible] you know we have our [unintelligible], right?  It should not be counted for [unintelligible] dating research.  "
+        intervals [100]:
+            xmin = 226.4
+            xmax = 227.5
+            text = ""
+        intervals [101]:
+            xmin = 227.5
+            xmax = 232.9
+            text = "Yeah, anytime, anytime.  Yeah [unintelligible] join the MSA, you know, you have a lot of [unintelligible]."
+        intervals [102]:
+            xmin = 232.9
+            xmax = 233.2
+            text = ""
+        intervals [103]:
+            xmin = 233.2
+            xmax = 233.9
+            text = "Why?"
+        intervals [104]:
+            xmin = 233.9
+            xmax = 234.2
+            text = ""
+        intervals [105]:
+            xmin = 234.2
+            xmax = 235.8
+            text = "Because you are smart, you know."
+        intervals [106]:
+            xmin = 235.8
+            xmax = 237.1
+            text = ""
+        intervals [107]:
+            xmin = 237.1
+            xmax = 239.5
+            text = "You have the energy, you have the desire."
+        intervals [108]:
+            xmin = 239.5
+            xmax = 243.5
+            text = "[laughter].  [unintelligible].  Anyway, [unintelligible]."
+        intervals [109]:
+            xmin = 243.5
+            xmax = 243.6
+            text = ""
+        intervals [110]:
+            xmin = 243.6
+            xmax = 250.7
+            text = "[unintelligible] female233 [unintelligible]."
+        intervals [111]:
+            xmin = 250.7
+            xmax = 250.9
+            text = ""
+        intervals [112]:
+            xmin = 250.9
+            xmax = 252.9
+            text = "female233 [unintelligible] all right, bye."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 252.9
+intervals: size = 111
+        intervals [1]:
+            xmin = 6.1
+            xmax = 6.5
+            text = "Yeah."
+        intervals [2]:
+            xmin = 6.5
+            xmax = 11.6
+            text = ""
+        intervals [3]:
+            xmin = 11.6
+            xmax = 14
+            text = "[unintelligible] Mexican [unintelligible]."
+        intervals [4]:
+            xmin = 14
+            xmax = 15.9
+            text = "[unintelligible]."
+        intervals [5]:
+            xmin = 15.9
+            xmax = 18.2
+            text = ""
+        intervals [6]:
+            xmin = 18.2
+            xmax = 18.7
+            text = "M."
+        intervals [7]:
+            xmin = 18.7
+            xmax = 19.6
+            text = ""
+        intervals [8]:
+            xmin = 19.6
+            xmax = 20
+            text = "M."
+        intervals [9]:
+            xmin = 20
+            xmax = 24.7
+            text = ""
+        intervals [10]:
+            xmin = 24.7
+            xmax = 25.2
+            text = "Yeah. "
+        intervals [11]:
+            xmin = 25.2
+            xmax = 26.8
+            text = ""
+        intervals [12]:
+            xmin = 26.8
+            xmax = 27.2
+            text = "Yeah."
+        intervals [13]:
+            xmin = 27.2
+            xmax = 37
+            text = ""
+        intervals [14]:
+            xmin = 37
+            xmax = 38.7
+            text = "Yeah.  [unintelligible]."
+        intervals [15]:
+            xmin = 38.7
+            xmax = 42.1
+            text = ""
+        intervals [16]:
+            xmin = 42.1
+            xmax = 42.8
+            text = "Okay."
+        intervals [17]:
+            xmin = 42.8
+            xmax = 45.3
+            text = ""
+        intervals [18]:
+            xmin = 45.3
+            xmax = 46.6
+            text = "You haven't seen me since last year?"
+        intervals [19]:
+            xmin = 46.6
+            xmax = 51
+            text = ""
+        intervals [20]:
+            xmin = 51
+            xmax = 52.8
+            text = "Uh-huh, it was [unintelligible]."
+        intervals [21]:
+            xmin = 52.8
+            xmax = 56.4
+            text = ""
+        intervals [22]:
+            xmin = 56.4
+            xmax = 57.7
+            text = "Oh, wine and cheese."
+        intervals [23]:
+            xmin = 57.7
+            xmax = 60.4
+            text = ""
+        intervals [24]:
+            xmin = 60.4
+            xmax = 62.7
+            text = "[unintelligible] Yes."
+        intervals [25]:
+            xmin = 62.7
+            xmax = 63.3
+            text = ""
+        intervals [26]:
+            xmin = 63.3
+            xmax = 64.3
+            text = "And we were-"
+        intervals [27]:
+            xmin = 64.3
+            xmax = 69.6
+            text = ""
+        intervals [28]:
+            xmin = 69.6
+            xmax = 70.1
+            text = "In a studio."
+        intervals [29]:
+            xmin = 70.1
+            xmax = 72.5
+            text = ""
+        intervals [30]:
+            xmin = 72.5
+            xmax = 73.1
+            text = "No."
+        intervals [31]:
+            xmin = 73.1
+            xmax = 74
+            text = ""
+        intervals [32]:
+            xmin = 74
+            xmax = 74.7
+            text = "[unintelligible]."
+        intervals [33]:
+            xmin = 74.7
+            xmax = 78.4
+            text = ""
+        intervals [34]:
+            xmin = 78.4
+            xmax = 82.7
+            text = "[unintelligible]."
+        intervals [35]:
+            xmin = 82.7
+            xmax = 86.2
+            text = ""
+        intervals [36]:
+            xmin = 86.2
+            xmax = 88.8
+            text = "The law school program like the [unintelligible]."
+        intervals [37]:
+            xmin = 88.8
+            xmax = 96.4
+            text = ""
+        intervals [38]:
+            xmin = 96.4
+            xmax = 97.3
+            text = "I'm going to be a lawyer."
+        intervals [39]:
+            xmin = 97.3
+            xmax = 98.3
+            text = ""
+        intervals [40]:
+            xmin = 98.3
+            xmax = 98.8
+            text = "Yeah."
+        intervals [41]:
+            xmin = 98.8
+            xmax = 101.9
+            text = ""
+        intervals [42]:
+            xmin = 101.9
+            xmax = 102.9
+            text = "Not [unintelligible] so much."
+        intervals [43]:
+            xmin = 102.9
+            xmax = 103.4
+            text = ""
+        intervals [44]:
+            xmin = 103.4
+            xmax = 104.1
+            text = "[laughter]."
+        intervals [45]:
+            xmin = 104.1
+            xmax = 108.9
+            text = ""
+        intervals [46]:
+            xmin = 108.9
+            xmax = 111.7
+            text = "The approach is different, but [unintelligible]."
+        intervals [47]:
+            xmin = 111.7
+            xmax = 112.4
+            text = ""
+        intervals [48]:
+            xmin = 112.4
+            xmax = 112.9
+            text = "Yeah."
+        intervals [49]:
+            xmin = 112.9
+            xmax = 113.4
+            text = ""
+        intervals [50]:
+            xmin = 113.4
+            xmax = 114.9
+            text = "[unintelligible]."
+        intervals [51]:
+            xmin = 114.9
+            xmax = 116.3
+            text = "[unintelligible] money."
+        intervals [52]:
+            xmin = 116.3
+            xmax = 117.6
+            text = ""
+        intervals [53]:
+            xmin = 117.6
+            xmax = 119.8
+            text = "No, money [unintelligible]."
+        intervals [54]:
+            xmin = 119.8
+            xmax = 120.4
+            text = ""
+        intervals [55]:
+            xmin = 120.4
+            xmax = 122.5
+            text = "[laughter]."
+        intervals [56]:
+            xmin = 122.5
+            xmax = 130.4
+            text = ""
+        intervals [57]:
+            xmin = 130.4
+            xmax = 131.7
+            text = "[unintelligible]."
+        intervals [58]:
+            xmin = 131.7
+            xmax = 135.1
+            text = ""
+        intervals [59]:
+            xmin = 135.1
+            xmax = 136.7
+            text = "[laughter]."
+        intervals [60]:
+            xmin = 136.7
+            xmax = 137.3
+            text = ""
+        intervals [61]:
+            xmin = 137.3
+            xmax = 139.6
+            text = "You haven't gone to [unintelligible], right."
+        intervals [62]:
+            xmin = 139.6
+            xmax = 140.5
+            text = ""
+        intervals [63]:
+            xmin = 140.5
+            xmax = 143.7
+            text = "[unintelligible] with everybody.  [laughter]."
+        intervals [64]:
+            xmin = 143.7
+            xmax = 144.9
+            text = ""
+        intervals [65]:
+            xmin = 144.9
+            xmax = 147
+            text = "[unintelligible]."
+        intervals [66]:
+            xmin = 147
+            xmax = 153.2
+            text = ""
+        intervals [67]:
+            xmin = 153.2
+            xmax = 154.2
+            text = "Yeah, yeah, yeah."
+        intervals [68]:
+            xmin = 154.2
+            xmax = 156.4
+            text = ""
+        intervals [69]:
+            xmin = 156.4
+            xmax = 158.5
+            text = "[unintelligible].  Yeah, we [unintelligible].  We have all the [unintelligible]."
+        intervals [70]:
+            xmin = 158.5
+            xmax = 159
+            text = ""
+        intervals [71]:
+            xmin = 159
+            xmax = 159.8
+            text = "[unintelligible]."
+        intervals [72]:
+            xmin = 159.8
+            xmax = 161
+            text = ""
+        intervals [73]:
+            xmin = 161
+            xmax = 164.7
+            text = "[unintelligible].  [laughter].  I cannot say I won't give you my e-mail."
+        intervals [74]:
+            xmin = 164.7
+            xmax = 165.2
+            text = ""
+        intervals [75]:
+            xmin = 165.2
+            xmax = 166.7
+            text = "[unintelligible]."
+        intervals [76]:
+            xmin = 166.7
+            xmax = 167.9
+            text = ""
+        intervals [77]:
+            xmin = 167.9
+            xmax = 170.9
+            text = "[unintelligible], but if you say so."
+        intervals [78]:
+            xmin = 170.9
+            xmax = 176
+            text = ""
+        intervals [79]:
+            xmin = 176
+            xmax = 177.6
+            text = "[unintelligible].  "
+        intervals [80]:
+            xmin = 177.6
+            xmax = 179.7
+            text = ""
+        intervals [81]:
+            xmin = 179.7
+            xmax = 182
+            text = "[unintelligible] when we [unintelligible]."
+        intervals [82]:
+            xmin = 182
+            xmax = 186.5
+            text = ""
+        intervals [83]:
+            xmin = 186.5
+            xmax = 188.9
+            text = "I [unintelligible] well [unintelligible]."
+        intervals [84]:
+            xmin = 188.9
+            xmax = 192.9
+            text = ""
+        intervals [85]:
+            xmin = 192.9
+            xmax = 194.4
+            text = "Do you think it's breaking the rules?"
+        intervals [86]:
+            xmin = 194.4
+            xmax = 196.4
+            text = ""
+        intervals [87]:
+            xmin = 196.4
+            xmax = 198.5
+            text = "[unintelligible] female233."
+        intervals [88]:
+            xmin = 198.5
+            xmax = 200.4
+            text = ""
+        intervals [89]:
+            xmin = 200.4
+            xmax = 201.9
+            text = "[unintelligible]."
+        intervals [90]:
+            xmin = 201.9
+            xmax = 202.7
+            text = ""
+        intervals [91]:
+            xmin = 202.7
+            xmax = 203.5
+            text = "female233."
+        intervals [92]:
+            xmin = 203.5
+            xmax = 204.4
+            text = ""
+        intervals [93]:
+            xmin = 204.4
+            xmax = 205
+            text = "female233."
+        intervals [94]:
+            xmin = 205
+            xmax = 208.3
+            text = ""
+        intervals [95]:
+            xmin = 208.3
+            xmax = 210.1
+            text = "[unintelligible]."
+        intervals [96]:
+            xmin = 210.1
+            xmax = 217.1
+            text = ""
+        intervals [97]:
+            xmin = 217.1
+            xmax = 219.7
+            text = "[unintelligible] their response."
+        intervals [98]:
+            xmin = 219.7
+            xmax = 225.3
+            text = ""
+        intervals [99]:
+            xmin = 225.3
+            xmax = 228.2
+            text = "[unintelligible]."
+        intervals [100]:
+            xmin = 228.2
+            xmax = 232
+            text = ""
+        intervals [101]:
+            xmin = 232
+            xmax = 233
+            text = "But why?"
+        intervals [102]:
+            xmin = 233
+            xmax = 233.7
+            text = ""
+        intervals [103]:
+            xmin = 233.7
+            xmax = 234.5
+            text = "Yeah, why?"
+        intervals [104]:
+            xmin = 234.5
+            xmax = 235.3
+            text = ""
+        intervals [105]:
+            xmin = 235.3
+            xmax = 237.3
+            text = "[unintelligible]."
+        intervals [106]:
+            xmin = 237.3
+            xmax = 238.4
+            text = ""
+        intervals [107]:
+            xmin = 238.4
+            xmax = 241.2
+            text = "[unintelligible].  [laughter]."
+        intervals [108]:
+            xmin = 241.2
+            xmax = 242.1
+            text = ""
+        intervals [109]:
+            xmin = 242.1
+            xmax = 243.5
+            text = "[unintelligible]"
+        intervals [110]:
+            xmin = 243.5
+            xmax = 250.3
+            text = ""
+        intervals [111]:
+            xmin = 250.3
+            xmax = 251.2
+            text = "female233."

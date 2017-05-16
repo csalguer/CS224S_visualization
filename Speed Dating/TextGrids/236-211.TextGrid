@@ -1,0 +1,452 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 240.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 240.6
+intervals: size = 53
+        intervals [1]:
+            xmin = 0
+            xmax = 22.203
+            text = ""
+        intervals [2]:
+            xmin = 22.203
+            xmax = 24.003
+            text = "[unintelligible].  "
+        intervals [3]:
+            xmin = 24.003
+            xmax = 26.203
+            text = ""
+        intervals [4]:
+            xmin = 26.203
+            xmax = 28.003
+            text = "Nice to meet you.  You are female236?  "
+        intervals [5]:
+            xmin = 28.003
+            xmax = 29.203
+            text = ""
+        intervals [6]:
+            xmin = 29.203
+            xmax = 30.003
+            text = "female236?  "
+        intervals [7]:
+            xmin = 30.003
+            xmax = 32.203
+            text = ""
+        intervals [8]:
+            xmin = 32.203
+            xmax = 34.003
+            text = "So what department are you in?  "
+        intervals [9]:
+            xmin = 34.003
+            xmax = 36.203
+            text = ""
+        intervals [10]:
+            xmin = 36.203
+            xmax = 37.003
+            text = "Education?  "
+        intervals [11]:
+            xmin = 37.003
+            xmax = 38.203
+            text = ""
+        intervals [12]:
+            xmin = 38.203
+            xmax = 40.003
+            text = "I'm in the Business School, PhD program.  "
+        intervals [13]:
+            xmin = 40.003
+            xmax = 41.203
+            text = ""
+        intervals [14]:
+            xmin = 41.203
+            xmax = 42.003
+            text = "Not the MBA.  "
+        intervals [15]:
+            xmin = 42.003
+            xmax = 46.203
+            text = ""
+        intervals [16]:
+            xmin = 46.203
+            xmax = 50.003
+            text = "My major is operations research or operations management.  "
+        intervals [17]:
+            xmin = 50.003
+            xmax = 51.203
+            text = ""
+        intervals [18]:
+            xmin = 51.203
+            xmax = 52.003
+            text = "Whatever you want to call it.  "
+        intervals [19]:
+            xmin = 52.003
+            xmax = 54.203
+            text = ""
+        intervals [20]:
+            xmin = 54.203
+            xmax = 55.003
+            text = "Operations.  "
+        intervals [21]:
+            xmin = 55.003
+            xmax = 58.203
+            text = ""
+        intervals [22]:
+            xmin = 58.203
+            xmax = 62.003
+            text = "And are you getting your Masters or PhD program?  "
+        intervals [23]:
+            xmin = 62.003
+            xmax = 63.203
+            text = ""
+        intervals [24]:
+            xmin = 63.203
+            xmax = 67.003
+            text = "PhD okay.  And this is your --  "
+        intervals [25]:
+            xmin = 67.003
+            xmax = 67.203
+            text = ""
+        intervals [26]:
+            xmin = 67.203
+            xmax = 68.003
+            text = "Second year.  "
+        intervals [27]:
+            xmin = 68.003
+            xmax = 68.203
+            text = ""
+        intervals [28]:
+            xmin = 68.203
+            xmax = 69.003
+            text = "My fourth year.  "
+        intervals [29]:
+            xmin = 69.003
+            xmax = 71.203
+            text = ""
+        intervals [30]:
+            xmin = 71.203
+            xmax = 78.003
+            text = "Yeah.  I think it's like five years on average, so I'm close to being done.  I think in education maybe it's more?  "
+        intervals [31]:
+            xmin = 78.003
+            xmax = 79.203
+            text = ""
+        intervals [32]:
+            xmin = 79.203
+            xmax = 84.003
+            text = "Four to five, so that's similar.  So second year, are you [unintelligible] your classes?  "
+        intervals [33]:
+            xmin = 84.003
+            xmax = 93.203
+            text = ""
+        intervals [34]:
+            xmin = 93.203
+            xmax = 94.003
+            text = "Uh-huh.  "
+        intervals [35]:
+            xmin = 94.003
+            xmax = 95.203
+            text = ""
+        intervals [36]:
+            xmin = 95.203
+            xmax = 100.003
+            text = "Do you need to start research with someone already or no?  "
+        intervals [37]:
+            xmin = 100.003
+            xmax = 125.203
+            text = ""
+        intervals [38]:
+            xmin = 125.203
+            xmax = 136.003
+            text = "So will these projects turn into thesis or how do these projects go?  Is that like you write a paper or do you need to have a separate thesis?  "
+        intervals [39]:
+            xmin = 136.003
+            xmax = 143.203
+            text = ""
+        intervals [40]:
+            xmin = 143.203
+            xmax = 146.003
+            text = "I don't know, so you were talking about the project right?  So --  "
+        intervals [41]:
+            xmin = 146.003
+            xmax = 153.203
+            text = ""
+        intervals [42]:
+            xmin = 153.203
+            xmax = 155.003
+            text = "When it's going to end.  "
+        intervals [43]:
+            xmin = 155.003
+            xmax = 157.203
+            text = ""
+        intervals [44]:
+            xmin = 157.203
+            xmax = 160.003
+            text = "Oh so you don't get any funding?  "
+        intervals [45]:
+            xmin = 160.003
+            xmax = 181.203
+            text = ""
+        intervals [46]:
+            xmin = 181.203
+            xmax = 196.003
+            text = "So I'm finishing next year, so you know, I need to wrap up my research.  I'm sort of 60% done with my research, but I still have 40% research to do before I start you know?  "
+        intervals [47]:
+            xmin = 196.003
+            xmax = 197.203
+            text = ""
+        intervals [48]:
+            xmin = 197.203
+            xmax = 202.003
+            text = "Dissertation, I haven't started writing it, but the research for the dissertation.  "
+        intervals [49]:
+            xmin = 202.003
+            xmax = 217.003
+            text = "So in our department you can work on -- your dissertation could be like two or three papers on a related topic together.  So I need to finish up my research and then the job market, I plan to get into academia, so the job market starts end of the year.   "
+        intervals [50]:
+            xmin = 217.003
+            xmax = 223.203
+            text = ""
+        intervals [51]:
+            xmin = 223.203
+            xmax = 224.003
+            text = "Uh-huh.  "
+        intervals [52]:
+            xmin = 224.003
+            xmax = 238.203
+            text = ""
+        intervals [53]:
+            xmin = 238.203
+            xmax = 240.003
+            text = "Nice meeting you.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 240.6
+intervals: size = 55
+        intervals [1]:
+            xmin = 1.8
+            xmax = 3.6
+            text = "That was nice.  "
+        intervals [2]:
+            xmin = 3.6
+            xmax = 24.8
+            text = ""
+        intervals [3]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "Hi, nice to meet you.  "
+        intervals [4]:
+            xmin = 26.6
+            xmax = 27.8
+            text = ""
+        intervals [5]:
+            xmin = 27.8
+            xmax = 28.6
+            text = "female236.  "
+        intervals [6]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [7]:
+            xmin = 28.8
+            xmax = 30.6
+            text = "Yeah.  "
+        intervals [8]:
+            xmin = 30.6
+            xmax = 34.8
+            text = ""
+        intervals [9]:
+            xmin = 34.8
+            xmax = 36.6
+            text = "I'm in education.  "
+        intervals [10]:
+            xmin = 36.6
+            xmax = 36.8
+            text = ""
+        intervals [11]:
+            xmin = 36.8
+            xmax = 38.6
+            text = "Uh-huh.   How about you?  "
+        intervals [12]:
+            xmin = 38.6
+            xmax = 39.8
+            text = ""
+        intervals [13]:
+            xmin = 39.8
+            xmax = 40.6
+            text = "Oh.  "
+        intervals [14]:
+            xmin = 40.6
+            xmax = 42.8
+            text = ""
+        intervals [15]:
+            xmin = 42.8
+            xmax = 45.6
+            text = "Oh.  What's your major?  "
+        intervals [16]:
+            xmin = 45.6
+            xmax = 49.8
+            text = ""
+        intervals [17]:
+            xmin = 49.8
+            xmax = 50.6
+            text = "Oh.  "
+        intervals [18]:
+            xmin = 50.6
+            xmax = 52.8
+            text = ""
+        intervals [19]:
+            xmin = 52.8
+            xmax = 53.6
+            text = "Organizational?  "
+        intervals [20]:
+            xmin = 53.6
+            xmax = 54.8
+            text = ""
+        intervals [21]:
+            xmin = 54.8
+            xmax = 57.6
+            text = "Oh operations.  Okay.    "
+        intervals [22]:
+            xmin = 57.6
+            xmax = 62.8
+            text = ""
+        intervals [23]:
+            xmin = 62.8
+            xmax = 63.6
+            text = "PhD program.  "
+        intervals [24]:
+            xmin = 63.6
+            xmax = 66.8
+            text = ""
+        intervals [25]:
+            xmin = 66.8
+            xmax = 67.6
+            text = "Second year.  "
+        intervals [26]:
+            xmin = 67.6
+            xmax = 67.8
+            text = ""
+        intervals [27]:
+            xmin = 67.8
+            xmax = 68.6
+            text = "How about you?  "
+        intervals [28]:
+            xmin = 68.6
+            xmax = 69.8
+            text = ""
+        intervals [29]:
+            xmin = 69.8
+            xmax = 71.6
+            text = "Oh really, wow.  "
+        intervals [30]:
+            xmin = 71.6
+            xmax = 77.8
+            text = ""
+        intervals [31]:
+            xmin = 77.8
+            xmax = 79.6
+            text = "Four to five years.  "
+        intervals [32]:
+            xmin = 79.6
+            xmax = 82.8
+            text = ""
+        intervals [33]:
+            xmin = 82.8
+            xmax = 92.6
+            text = "Yeah, yeah I'm still very inundated with the courses, you know, like lots of work on the courses.  "
+        intervals [34]:
+            xmin = 92.6
+            xmax = 92.8
+            text = ""
+        intervals [35]:
+            xmin = 92.8
+            xmax = 93.6
+            text = "So --  "
+        intervals [36]:
+            xmin = 93.6
+            xmax = 100.8
+            text = ""
+        intervals [37]:
+            xmin = 100.8
+            xmax = 123.6
+            text = "I have um, the project is um, [unintelligible] intern already at the end of the project, like it's almost, it was almost over, so now it's over.  No, no it's not until over until my [unintelligible] hasn't really [unintelligible] [laughter] so --  "
+        intervals [38]:
+            xmin = 123.6
+            xmax = 137.8
+            text = ""
+        intervals [39]:
+            xmin = 137.8
+            xmax = 142.6
+            text = "I need to have, you mean paper for what?  "
+        intervals [40]:
+            xmin = 142.6
+            xmax = 145.8
+            text = ""
+        intervals [41]:
+            xmin = 145.8
+            xmax = 152.6
+            text = "Oh, no, yeah the writing has been going on and on and on and I don't know really --  "
+        intervals [42]:
+            xmin = 152.6
+            xmax = 153.8
+            text = ""
+        intervals [43]:
+            xmin = 153.8
+            xmax = 157.6
+            text = "But the further [unintelligible] [laughter].  "
+        intervals [44]:
+            xmin = 157.6
+            xmax = 158.8
+            text = ""
+        intervals [45]:
+            xmin = 158.8
+            xmax = 180.6
+            text = "Yeah I have, but I mean I just get the funding from this, but, but I, I think I might eventually got another project.  I think, I think this is very, very established, so I think he will definitely get another project [unintelligible] [laughter].  How about you?  "
+        intervals [46]:
+            xmin = 180.6
+            xmax = 195.8
+            text = ""
+        intervals [47]:
+            xmin = 195.8
+            xmax = 196.6
+            text = "You mean dissertation?  "
+        intervals [48]:
+            xmin = 196.6
+            xmax = 200.8
+            text = ""
+        intervals [49]:
+            xmin = 200.8
+            xmax = 201.6
+            text = "Oh okay.  "
+        intervals [50]:
+            xmin = 201.6
+            xmax = 217.8
+            text = ""
+        intervals [51]:
+            xmin = 217.8
+            xmax = 222.6
+            text = "Oh okay.  So you are going to -- thinking about going into academia?  "
+        intervals [52]:
+            xmin = 222.6
+            xmax = 223.8
+            text = ""
+        intervals [53]:
+            xmin = 223.8
+            xmax = 236.6
+            text = "Yeah.  Cool.  [unintelligible], but like academia I feel like, especially a woman it's very hard at the beginning of the year because [unintelligible] you know, so --  "
+        intervals [54]:
+            xmin = 236.6
+            xmax = 238.8
+            text = ""
+        intervals [55]:
+            xmin = 238.8
+            xmax = 240.6
+            text = "You too."

@@ -1,0 +1,664 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 314.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 314.6
+intervals: size = 80
+        intervals [1]:
+            xmin = 0
+            xmax = 7.8
+            text = ""
+        intervals [2]:
+            xmin = 7.8
+            xmax = 8.6
+            text = "I'm nameX."
+        intervals [3]:
+            xmin = 8.6
+            xmax = 10.8
+            text = ""
+        intervals [4]:
+            xmin = 10.8
+            xmax = 13.6
+            text = "So what department are you in? I'll start with the question, what department are you in?"
+        intervals [5]:
+            xmin = 13.6
+            xmax = 13.8
+            text = ""
+        intervals [6]:
+            xmin = 13.8
+            xmax = 14.6
+            text = "Computer Science. Masters? PhD?"
+        intervals [7]:
+            xmin = 14.6
+            xmax = 21.8
+            text = ""
+        intervals [8]:
+            xmin = 21.8
+            xmax = 23.6
+            text = "So a friend brought you here?"
+        intervals [9]:
+            xmin = 23.6
+            xmax = 28.8
+            text = ""
+        intervals [10]:
+            xmin = 28.8
+            xmax = 31.6
+            text = "I had a Masters here at MS and E. Management Science, CS undergrad."
+        intervals [11]:
+            xmin = 31.6
+            xmax = 35.8
+            text = ""
+        intervals [12]:
+            xmin = 35.8
+            xmax = 51.6
+            text = "We are just sitting here waiting for the horn. [horn] So where do you work?"
+        intervals [13]:
+            xmin = 51.6
+            xmax = 51.8
+            text = ""
+        intervals [14]:
+            xmin = 51.8
+            xmax = 52.6
+            text = "Ingran?"
+        intervals [15]:
+            xmin = 52.6
+            xmax = 56.8
+            text = ""
+        intervals [16]:
+            xmin = 56.8
+            xmax = 61.6
+            text = "That was something I was going to go into until people pushed me here into Stanford."
+        intervals [17]:
+            xmin = 61.6
+            xmax = 65.8
+            text = ""
+        intervals [18]:
+            xmin = 65.8
+            xmax = 67.6
+            text = "I was going to go to Carnegie Melon."
+        intervals [19]:
+            xmin = 67.6
+            xmax = 68.8
+            text = ""
+        intervals [20]:
+            xmin = 68.8
+            xmax = 78.6
+            text = "Yes. Well I didn't go there but I think I enjoy the California setting. It's a really good place to be."
+        intervals [21]:
+            xmin = 78.6
+            xmax = 78.8
+            text = ""
+        intervals [22]:
+            xmin = 78.8
+            xmax = 80.6
+            text = "So you've been here all your life?"
+        intervals [23]:
+            xmin = 80.6
+            xmax = 84.8
+            text = ""
+        intervals [24]:
+            xmin = 84.8
+            xmax = 86.6
+            text = "Okay. I've just come to this country."
+        intervals [25]:
+            xmin = 86.6
+            xmax = 86.8
+            text = ""
+        intervals [26]:
+            xmin = 86.8
+            xmax = 87.6
+            text = "India."
+        intervals [27]:
+            xmin = 87.6
+            xmax = 90.8
+            text = ""
+        intervals [28]:
+            xmin = 90.8
+            xmax = 92.6
+            text = "Dehli. Been to it before?"
+        intervals [29]:
+            xmin = 92.6
+            xmax = 109.8
+            text = ""
+        intervals [30]:
+            xmin = 109.8
+            xmax = 112.6
+            text = "So what brought you here to the speed dating?"
+        intervals [31]:
+            xmin = 112.6
+            xmax = 118.8
+            text = ""
+        intervals [32]:
+            xmin = 118.8
+            xmax = 128.6
+            text = "Okay. That's a nice way of sort of asking. [unintelligible]. With me it was my roommate, it would be fun."
+        intervals [33]:
+            xmin = 128.6
+            xmax = 130.8
+            text = ""
+        intervals [34]:
+            xmin = 130.8
+            xmax = 134.6
+            text = "But I really don't understand how you get to know somebody in four minutes."
+        intervals [35]:
+            xmin = 134.6
+            xmax = 139.8
+            text = ""
+        intervals [36]:
+            xmin = 139.8
+            xmax = 144.6
+            text = "How do I know? Do you share interests? How do I know? I just ask them what they're doing, barely get to know them. "
+        intervals [37]:
+            xmin = 144.6
+            xmax = 148.8
+            text = ""
+        intervals [38]:
+            xmin = 148.8
+            xmax = 149.6
+            text = "Theatre."
+        intervals [39]:
+            xmin = 149.6
+            xmax = 151.8
+            text = ""
+        intervals [40]:
+            xmin = 151.8
+            xmax = 153.6
+            text = "I was in professional theatre before coming here."
+        intervals [41]:
+            xmin = 153.6
+            xmax = 156.8
+            text = ""
+        intervals [42]:
+            xmin = 156.8
+            xmax = 159.6
+            text = "But it's not English theatre, it's Indian theatre."
+        intervals [43]:
+            xmin = 159.6
+            xmax = 161.8
+            text = ""
+        intervals [44]:
+            xmin = 161.8
+            xmax = 168.6
+            text = "And that is sort of a fine time because I got bored of working in less than a year."
+        intervals [45]:
+            xmin = 168.6
+            xmax = 170.8
+            text = ""
+        intervals [46]:
+            xmin = 170.8
+            xmax = 175.6
+            text = "There's just too many movies being made. Not enough good movies."
+        intervals [47]:
+            xmin = 175.6
+            xmax = 180.8
+            text = ""
+        intervals [48]:
+            xmin = 180.8
+            xmax = 193.6
+            text = "I don't watch too many movies. When I was back home all my friends were movie freaks. Every Friday and Thursday, the first ones to be there. Otherwise I'm into cars and traveling. I love to travel."
+        intervals [49]:
+            xmin = 193.6
+            xmax = 195.8
+            text = ""
+        intervals [50]:
+            xmin = 195.8
+            xmax = 199.6
+            text = "Unfortunately, I've been just traveling around India. This is my first time out of the continent."
+        intervals [51]:
+            xmin = 199.6
+            xmax = 206.8
+            text = ""
+        intervals [52]:
+            xmin = 206.8
+            xmax = 210.6
+            text = "But my goal for the next ten years while I'm still single, hopefully."
+        intervals [53]:
+            xmin = 210.6
+            xmax = 212.8
+            text = ""
+        intervals [54]:
+            xmin = 212.8
+            xmax = 221.6
+            text = "I'd actually to go around the world. Go to China, go to Hong Kong, go to New Zealand, Australia, Europe, everywhere."
+        intervals [55]:
+            xmin = 221.6
+            xmax = 231.8
+            text = ""
+        intervals [56]:
+            xmin = 231.8
+            xmax = 235.6
+            text = "I'd love to be in Italy. Somebody asked me this question, what's the first place you had to go? Italy."
+        intervals [57]:
+            xmin = 235.6
+            xmax = 236.8
+            text = ""
+        intervals [58]:
+            xmin = 236.8
+            xmax = 237.6
+            text = "I'd love to go."
+        intervals [59]:
+            xmin = 237.6
+            xmax = 237.8
+            text = ""
+        intervals [60]:
+            xmin = 237.8
+            xmax = 238.6
+            text = "Yeah."
+        intervals [61]:
+            xmin = 238.6
+            xmax = 238.8
+            text = ""
+        intervals [62]:
+            xmin = 238.8
+            xmax = 242.6
+            text = "It's nothing to do with the place, it has to do with the cars there."
+        intervals [63]:
+            xmin = 242.6
+            xmax = 242.8
+            text = ""
+        intervals [64]:
+            xmin = 242.8
+            xmax = 246.6
+            text = "I'm into rally car racing."
+        intervals [65]:
+            xmin = 246.6
+            xmax = 250.8
+            text = ""
+        intervals [66]:
+            xmin = 250.8
+            xmax = 260.6
+            text = "What I did in India was a little short rally where you have specific off road tracks and you just pound your car until it's dead."
+        intervals [67]:
+            xmin = 260.6
+            xmax = 263.8
+            text = ""
+        intervals [68]:
+            xmin = 263.8
+            xmax = 270.6
+            text = "If you win you get some money. Italy is like-- Italy and Germany, that should be fun."
+        intervals [69]:
+            xmin = 270.6
+            xmax = 278.8
+            text = ""
+        intervals [70]:
+            xmin = 278.8
+            xmax = 284.6
+            text = "For me, it really started from go carting as a kid. You know there's no way; I want to drive but. "
+        intervals [71]:
+            xmin = 284.6
+            xmax = 286.8
+            text = ""
+        intervals [72]:
+            xmin = 286.8
+            xmax = 289.6
+            text = "I can't drive yet so I go gocarting. Mostly I've not had the opportunity to do that in California."
+        intervals [73]:
+            xmin = 289.6
+            xmax = 293.8
+            text = ""
+        intervals [74]:
+            xmin = 293.8
+            xmax = 294.6
+            text = "Oh no. I don't know where that is."
+        intervals [75]:
+            xmin = 294.6
+            xmax = 301.8
+            text = ""
+        intervals [76]:
+            xmin = 301.8
+            xmax = 303.6
+            text = "Yeah. I've heard of that. I'm going to go this Friday, that's tomorrow."
+        intervals [77]:
+            xmin = 303.6
+            xmax = 304.8
+            text = ""
+        intervals [78]:
+            xmin = 304.8
+            xmax = 312.6
+            text = "I wanted to go to Freemont. It's good to meet you."
+        intervals [79]:
+            xmin = 312.6
+            xmax = 313.8
+            text = ""
+        intervals [80]:
+            xmin = 313.8
+            xmax = 314.6
+            text = "Same here."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 314.6
+intervals: size = 81
+        intervals [1]:
+            xmin = 1.8
+            xmax = 7.6
+            text = "I think you are the last one. I'm female325."
+        intervals [2]:
+            xmin = 7.6
+            xmax = 8.8
+            text = ""
+        intervals [3]:
+            xmin = 8.8
+            xmax = 10.6
+            text = "It's nice to meet you."
+        intervals [4]:
+            xmin = 10.6
+            xmax = 13.8
+            text = ""
+        intervals [5]:
+            xmin = 13.8
+            xmax = 14.6
+            text = "Oh. Computer Science."
+        intervals [6]:
+            xmin = 14.6
+            xmax = 15.8
+            text = ""
+        intervals [7]:
+            xmin = 15.8
+            xmax = 20.6
+            text = "I graduated actually in 2001 so I did a Masters."
+        intervals [8]:
+            xmin = 20.6
+            xmax = 23.8
+            text = ""
+        intervals [9]:
+            xmin = 23.8
+            xmax = 27.6
+            text = "My sister. How about you?"
+        intervals [10]:
+            xmin = 27.6
+            xmax = 32.8
+            text = ""
+        intervals [11]:
+            xmin = 32.8
+            xmax = 33.6
+            text = "That's cool."
+        intervals [12]:
+            xmin = 33.6
+            xmax = 51.8
+            text = ""
+        intervals [13]:
+            xmin = 51.8
+            xmax = 52.6
+            text = "I work at this start up called Ingrian Networks."
+        intervals [14]:
+            xmin = 52.6
+            xmax = 52.8
+            text = ""
+        intervals [15]:
+            xmin = 52.8
+            xmax = 54.6
+            text = "Ingrian, yeah. They do data encryption."
+        intervals [16]:
+            xmin = 54.6
+            xmax = 62.8
+            text = ""
+        intervals [17]:
+            xmin = 62.8
+            xmax = 65.6
+            text = "Yeah. Times over and then you're stuck."
+        intervals [18]:
+            xmin = 65.6
+            xmax = 67.8
+            text = ""
+        intervals [19]:
+            xmin = 67.8
+            xmax = 68.6
+            text = "Do you like it better here?"
+        intervals [20]:
+            xmin = 68.6
+            xmax = 77.8
+            text = ""
+        intervals [21]:
+            xmin = 77.8
+            xmax = 78.6
+            text = "It's an awesome place to be,"
+        intervals [22]:
+            xmin = 78.6
+            xmax = 80.8
+            text = ""
+        intervals [23]:
+            xmin = 80.8
+            xmax = 84.6
+            text = "I was in Hong Kong for 12 years and then I've been here since then."
+        intervals [24]:
+            xmin = 84.6
+            xmax = 86.8
+            text = ""
+        intervals [25]:
+            xmin = 86.8
+            xmax = 87.6
+            text = "Where are you from?"
+        intervals [26]:
+            xmin = 87.6
+            xmax = 87.8
+            text = ""
+        intervals [27]:
+            xmin = 87.8
+            xmax = 90.6
+            text = "Okay. Cool. Which part?"
+        intervals [28]:
+            xmin = 90.6
+            xmax = 92.8
+            text = ""
+        intervals [29]:
+            xmin = 92.8
+            xmax = 108.6
+            text = "I've never been to India but I have a lot of friends from India in industry. It's cool. I was just saying if I went to visit India then I have a lot to stay with just to just travel. I've always wanted to go, it's a beautiful country."
+        intervals [30]:
+            xmin = 108.6
+            xmax = 112.8
+            text = ""
+        intervals [31]:
+            xmin = 112.8
+            xmax = 117.6
+            text = "Actually my sister took, she goes here. So she took me in."
+        intervals [32]:
+            xmin = 117.6
+            xmax = 128.8
+            text = ""
+        intervals [33]:
+            xmin = 128.8
+            xmax = 130.6
+            text = "That's fun. That's a way to pass the day."
+        intervals [34]:
+            xmin = 130.6
+            xmax = 135.8
+            text = ""
+        intervals [35]:
+            xmin = 135.8
+            xmax = 138.6
+            text = "Is he ambitious? Uh how would I know."
+        intervals [36]:
+            xmin = 138.6
+            xmax = 144.8
+            text = ""
+        intervals [37]:
+            xmin = 144.8
+            xmax = 148.6
+            text = "How about this? What do you like to do for fun? Go to the shared interests part."
+        intervals [38]:
+            xmin = 148.6
+            xmax = 150.8
+            text = ""
+        intervals [39]:
+            xmin = 150.8
+            xmax = 151.6
+            text = "Theatre? That's cool."
+        intervals [40]:
+            xmin = 151.6
+            xmax = 153.8
+            text = ""
+        intervals [41]:
+            xmin = 153.8
+            xmax = 156.6
+            text = "That's awesome, that's totally awesome."
+        intervals [42]:
+            xmin = 156.6
+            xmax = 158.8
+            text = ""
+        intervals [43]:
+            xmin = 158.8
+            xmax = 159.6
+            text = "That's still really cool, that's totally cool."
+        intervals [44]:
+            xmin = 159.6
+            xmax = 167.8
+            text = ""
+        intervals [45]:
+            xmin = 167.8
+            xmax = 170.6
+            text = "What do you think of the movie business in India? There are like so many of them."
+        intervals [46]:
+            xmin = 170.6
+            xmax = 175.8
+            text = ""
+        intervals [47]:
+            xmin = 175.8
+            xmax = 179.6
+            text = "Are you more into the theatre or...?"
+        intervals [48]:
+            xmin = 179.6
+            xmax = 193.8
+            text = ""
+        intervals [49]:
+            xmin = 193.8
+            xmax = 194.6
+            text = "Where have you been?"
+        intervals [50]:
+            xmin = 194.6
+            xmax = 199.8
+            text = ""
+        intervals [51]:
+            xmin = 199.8
+            xmax = 206.6
+            text = "That's still kind of cool. I still think that's fun. I don't know. India's so big and kind of diverse enough to do that."
+        intervals [52]:
+            xmin = 206.6
+            xmax = 210.8
+            text = ""
+        intervals [53]:
+            xmin = 210.8
+            xmax = 212.6
+            text = "Where would you like to go?"
+        intervals [54]:
+            xmin = 212.6
+            xmax = 221.8
+            text = ""
+        intervals [55]:
+            xmin = 221.8
+            xmax = 229.6
+            text = "I really want to go to Egypt. I'm not sure if I'd get shot but I'd really like to go to Egypt to see the pyramids and stuff."
+        intervals [56]:
+            xmin = 229.6
+            xmax = 235.8
+            text = ""
+        intervals [57]:
+            xmin = 235.8
+            xmax = 236.6
+            text = "Italy is beautiful."
+        intervals [58]:
+            xmin = 236.6
+            xmax = 236.8
+            text = ""
+        intervals [59]:
+            xmin = 236.8
+            xmax = 237.6
+            text = "Italy?"
+        intervals [60]:
+            xmin = 237.6
+            xmax = 237.8
+            text = ""
+        intervals [61]:
+            xmin = 237.8
+            xmax = 238.6
+            text = "Italy's great."
+        intervals [62]:
+            xmin = 238.6
+            xmax = 240.8
+            text = ""
+        intervals [63]:
+            xmin = 240.8
+            xmax = 243.6
+            text = "Oh. The Lamborghinis and the Ferraris."
+        intervals [64]:
+            xmin = 243.6
+            xmax = 245.8
+            text = ""
+        intervals [65]:
+            xmin = 245.8
+            xmax = 252.6
+            text = "Is that the one where they give you the coordinates and you drive and pick up stuff. You have to rally at a point and then they give you--"
+        intervals [66]:
+            xmin = 252.6
+            xmax = 260.8
+            text = ""
+        intervals [67]:
+            xmin = 260.8
+            xmax = 261.6
+            text = "Cool. That sounds like fun."
+        intervals [68]:
+            xmin = 261.6
+            xmax = 271.8
+            text = ""
+        intervals [69]:
+            xmin = 271.8
+            xmax = 278.6
+            text = "That's cool. The only time I've done that is a video game and that's fun. But I've never actually been in a car to..."
+        intervals [70]:
+            xmin = 278.6
+            xmax = 284.8
+            text = ""
+        intervals [71]:
+            xmin = 284.8
+            xmax = 285.6
+            text = "You're mom is like whatever."
+        intervals [72]:
+            xmin = 285.6
+            xmax = 289.8
+            text = ""
+        intervals [73]:
+            xmin = 289.8
+            xmax = 293.6
+            text = "I've been to the Malibu race course but it's probably kind of lame for you."
+        intervals [74]:
+            xmin = 293.6
+            xmax = 294.8
+            text = ""
+        intervals [75]:
+            xmin = 294.8
+            xmax = 301.6
+            text = "Yeah. If you go on 101, you go up towards [unintelligible] city they have just the Malibu race tracks with the little go carts."
+        intervals [76]:
+            xmin = 301.6
+            xmax = 303.8
+            text = ""
+        intervals [77]:
+            xmin = 303.8
+            xmax = 304.6
+            text = "That'd be fun."
+        intervals [78]:
+            xmin = 304.6
+            xmax = 311.8
+            text = ""
+        intervals [79]:
+            xmin = 311.8
+            xmax = 313.6
+            text = "Very nice to meet you."
+        intervals [80]:
+            xmin = 313.6
+            xmax = 313.8
+            text = ""
+        intervals [81]:
+            xmin = 313.8
+            xmax = 314.6
+            text = "Take care."

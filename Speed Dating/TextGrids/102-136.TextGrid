@@ -1,0 +1,300 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 217.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 217.6
+intervals: size = 36
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 5.6
+            text = "Yes.  Did you get that from my nametag?  "
+        intervals [3]:
+            xmin = 5.6
+            xmax = 7.8
+            text = ""
+        intervals [4]:
+            xmin = 7.8
+            xmax = 20.6
+            text = "Well, I was trying to do it, and I didn't really have a good angle at doing it.  So, it came off a lot more emphatic than I meant it to.  Other than that, my name is male102, but I normally just go by male102.  So...and what's your name? I can't--"
+        intervals [5]:
+            xmin = 20.6
+            xmax = 21.8
+            text = ""
+        intervals [6]:
+            xmin = 21.8
+            xmax = 23.6
+            text = "[interposing]  You're female136?  It's nice to meet you female136.  "
+        intervals [7]:
+            xmin = 23.6
+            xmax = 26.8
+            text = ""
+        intervals [8]:
+            xmin = 26.8
+            xmax = 28.6
+            text = "What program are you in?  "
+        intervals [9]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [10]:
+            xmin = 28.8
+            xmax = 31.6
+            text = "Law, there's a lot of law folks here this evening.  "
+        intervals [11]:
+            xmin = 31.6
+            xmax = 31.8
+            text = ""
+        intervals [12]:
+            xmin = 31.8
+            xmax = 35.6
+            text = "Or at least a lot of the women seem to do law.  I don't know how many of the men are.  "
+        intervals [13]:
+            xmin = 35.6
+            xmax = 36.8
+            text = ""
+        intervals [14]:
+            xmin = 36.8
+            xmax = 43.6
+            text = "Oh, were you the--so did you all put down the same date on the thing?  Is that how you were able to coordinate, or? "
+        intervals [15]:
+            xmin = 43.6
+            xmax = 57.8
+            text = ""
+        intervals [16]:
+            xmin = 57.8
+            xmax = 58.6
+            text = "Right.  "
+        intervals [17]:
+            xmin = 58.6
+            xmax = 60.8
+            text = ""
+        intervals [18]:
+            xmin = 60.8
+            xmax = 72.6
+            text = "I'm in education.  So, they were sending a lot of ed folks are sort of coordinating this because nameX McFarlins and Ed faculty person themselves were recruiting folks and their friends were like do it, do it, do it.  "
+        intervals [19]:
+            xmin = 72.6
+            xmax = 72.8
+            text = ""
+        intervals [20]:
+            xmin = 72.8
+            xmax = 73.6
+            text = "And I said okay.  "
+        intervals [21]:
+            xmin = 73.6
+            xmax = 75.8
+            text = ""
+        intervals [22]:
+            xmin = 75.8
+            xmax = 87.6
+            text = "Well, it's hard to know.  You don't know what to expect, and so--and there's enough social pressure to begin with.  And to be filling out surveys like [unintelligible] the same time is a little awkward.  But..."
+        intervals [23]:
+            xmin = 87.6
+            xmax = 96.8
+            text = ""
+        intervals [24]:
+            xmin = 96.8
+            xmax = 106.6
+            text = "It's like a race every time.  So, what brought you to law and Stanford and this part of the country?  "
+        intervals [25]:
+            xmin = 106.6
+            xmax = 122.8
+            text = ""
+        intervals [26]:
+            xmin = 122.8
+            xmax = 124.6
+            text = "Oh, really?  "
+        intervals [27]:
+            xmin = 124.6
+            xmax = 142.8
+            text = ""
+        intervals [28]:
+            xmin = 142.8
+            xmax = 143.6
+            text = "Oh, really.  "
+        intervals [29]:
+            xmin = 143.6
+            xmax = 150.8
+            text = ""
+        intervals [30]:
+            xmin = 150.8
+            xmax = 151.6
+            text = "Yeah.  "
+        intervals [31]:
+            xmin = 151.6
+            xmax = 167.8
+            text = ""
+        intervals [32]:
+            xmin = 167.8
+            xmax = 174.6
+            text = "Yeah, I, uh, have managed to stay a perpetual grad student, and so that sort of--"
+        intervals [33]:
+            xmin = 174.6
+            xmax = 175.8
+            text = ""
+        intervals [34]:
+            xmin = 175.8
+            xmax = 211.6
+            text = "I'm in a PhD program in philosophy of education, and I did my undergraduate degree in the University of Illinois and was there and actually I did a switch because I was in engineering there for five years and also I double majored in philosophy.  And I really love the philosophy part of it, and I really got burned out on the engineering part of it.  And so philosophy of education was kind of like a way to do applied philosophy and I really like that aspect of it.  So.  That was really fast.  It was really nice meeting you. "
+        intervals [35]:
+            xmin = 211.6
+            xmax = 215.8
+            text = ""
+        intervals [36]:
+            xmin = 215.8
+            xmax = 217.6
+            text = "I will.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 217.6
+intervals: size = 34
+        intervals [1]:
+            xmin = 0.0900000000000001
+            xmax = 2.89
+            text = "Pretend you're male102 [unintelligible].  "
+        intervals [2]:
+            xmin = 2.89
+            xmax = 2.89
+            text = "It's pretty emphatic.  "
+        intervals [3]:
+            xmin = 2.89
+            xmax = 21.09
+            text = ""
+        intervals [4]:
+            xmin = 21.09
+            xmax = 21.89
+            text = "I'm female136."
+        intervals [5]:
+            xmin = 21.89
+            xmax = 23.09
+            text = ""
+        intervals [6]:
+            xmin = 23.09
+            xmax = 24.89
+            text = "It's nice to meet you too.  "
+        intervals [7]:
+            xmin = 24.89
+            xmax = 28.09
+            text = ""
+        intervals [8]:
+            xmin = 28.09
+            xmax = 28.89
+            text = "Law.  "
+        intervals [9]:
+            xmin = 28.89
+            xmax = 31.09
+            text = ""
+        intervals [10]:
+            xmin = 31.09
+            xmax = 31.89
+            text = "There are.  "
+        intervals [11]:
+            xmin = 31.89
+            xmax = 35.09
+            text = ""
+        intervals [12]:
+            xmin = 35.09
+            xmax = 36.89
+            text = "[unintelligible].  "
+        intervals [13]:
+            xmin = 36.89
+            xmax = 44.09
+            text = ""
+        intervals [14]:
+            xmin = 44.09
+            xmax = 57.89
+            text = "The other dates are when we're in exams.  So, that's why, and we definitely chose--and we all decided that we would [unintelligible] it wouldn't have been very practical to take any of the other dating [unintelligible].  "
+        intervals [15]:
+            xmin = 57.89
+            xmax = 59.09
+            text = ""
+        intervals [16]:
+            xmin = 59.09
+            xmax = 60.89
+            text = "How about you?  What program are you in?  "
+        intervals [17]:
+            xmin = 60.89
+            xmax = 72.09
+            text = ""
+        intervals [18]:
+            xmin = 72.09
+            xmax = 72.89
+            text = "Yeah.  "
+        intervals [19]:
+            xmin = 72.89
+            xmax = 73.09
+            text = ""
+        intervals [20]:
+            xmin = 73.09
+            xmax = 75.89
+            text = "And you sort of were [unintelligible] you were like [unintelligible].  "
+        intervals [21]:
+            xmin = 75.89
+            xmax = 88.09
+            text = ""
+        intervals [22]:
+            xmin = 88.09
+            xmax = 96.89
+            text = "In some ways it's--awkward is something like [unintelligible].  What if it came around to players.  So building a lot of [unintelligible] really responding to forums.  "
+        intervals [23]:
+            xmin = 96.89
+            xmax = 107.09
+            text = ""
+        intervals [24]:
+            xmin = 107.09
+            xmax = 122.89
+            text = "The fun and the absolutely beautiful environment brought me to Stanford, and also the fact everything is a lot closer [unintelligible] and opposite reputation.   "
+        intervals [25]:
+            xmin = 122.89
+            xmax = 124.09
+            text = ""
+        intervals [26]:
+            xmin = 124.09
+            xmax = 142.89
+            text = "Like, it's very intellectually [unintelligible], but not in kind of a [unintelligible].  That's what really attracted me [unintelligible].  "
+        intervals [27]:
+            xmin = 142.89
+            xmax = 144.09
+            text = ""
+        intervals [28]:
+            xmin = 144.09
+            xmax = 151.89
+            text = "And I personally don't like [unintelligible] another law.  And nothing sacred rules saying that.  "
+        intervals [29]:
+            xmin = 151.89
+            xmax = 153.09
+            text = ""
+        intervals [30]:
+            xmin = 153.09
+            xmax = 168.89
+            text = "It's really the fit.  I mean I did at work, but I wanted to [unintelligible].  I just felt like it could have been framed a little bit more and set up.  "
+        intervals [31]:
+            xmin = 168.89
+            xmax = 175.09
+            text = ""
+        intervals [32]:
+            xmin = 175.09
+            xmax = 175.89
+            text = "[interposing]  Good for you.  "
+        intervals [33]:
+            xmin = 175.89
+            xmax = 213.09
+            text = ""
+        intervals [34]:
+            xmin = 213.09
+            xmax = 215.89
+            text = "Enjoy the trip.  "

@@ -1,0 +1,400 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 256.01
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 256.01
+intervals: size = 48
+        intervals [1]:
+            xmin = 0
+            xmax = 0.210000000000001
+            text = ""
+        intervals [2]:
+            xmin = 0.210000000000001
+            xmax = 4.01
+            text = "I would suggestion to have a more pleasant signal next time."
+        intervals [3]:
+            xmin = 4.01
+            xmax = 12.21
+            text = ""
+        intervals [4]:
+            xmin = 12.21
+            xmax = 19.01
+            text = "Other than this -- um, it's uh, yeah.  I'm male112 and you are?"
+        intervals [5]:
+            xmin = 19.01
+            xmax = 20.21
+            text = ""
+        intervals [6]:
+            xmin = 20.21
+            xmax = 22.01
+            text = "female126, that's one of my favorite names."
+        intervals [7]:
+            xmin = 22.01
+            xmax = 24.21
+            text = ""
+        intervals [8]:
+            xmin = 24.21
+            xmax = 32.01
+            text = "[Unintelligible - singing] female126, female126 sing for me my angel."
+        intervals [9]:
+            xmin = 32.01
+            xmax = 39.21
+            text = ""
+        intervals [10]:
+            xmin = 39.21
+            xmax = 41.01
+            text = "Ah-huh."
+        intervals [11]:
+            xmin = 41.01
+            xmax = 52.21
+            text = ""
+        intervals [12]:
+            xmin = 52.21
+            xmax = 53.01
+            text = "Ah, --"
+        intervals [13]:
+            xmin = 53.01
+            xmax = 57.21
+            text = ""
+        intervals [14]:
+            xmin = 57.21
+            xmax = 64.01
+            text = "Yeah, it's kind of some lullaby taking appropriate education.  After you all you know singing [unintelligible] or something like that.  "
+        intervals [15]:
+            xmin = 64.01
+            xmax = 65.21
+            text = ""
+        intervals [16]:
+            xmin = 65.21
+            xmax = 78.01
+            text = "[unintelligible] that is a natural bad singer [unintelligible]."
+        intervals [17]:
+            xmin = 78.01
+            xmax = 84.21
+            text = ""
+        intervals [18]:
+            xmin = 84.21
+            xmax = 86.01
+            text = "[unintelligible], yeah."
+        intervals [19]:
+            xmin = 86.01
+            xmax = 89.21
+            text = ""
+        intervals [20]:
+            xmin = 89.21
+            xmax = 90.01
+            text = "Outside of school?"
+        intervals [21]:
+            xmin = 90.01
+            xmax = 91.21
+            text = ""
+        intervals [22]:
+            xmin = 91.21
+            xmax = 105.01
+            text = "Um, taking social dance classes, sometimes I play golf, [unintelligible] running and I like board games [laughter] and I do a little bit of everything."
+        intervals [23]:
+            xmin = 105.01
+            xmax = 108.21
+            text = ""
+        intervals [24]:
+            xmin = 108.21
+            xmax = 116.01
+            text = "I like swing and [unintelligible] in India if [unintelligible]."
+        intervals [25]:
+            xmin = 116.01
+            xmax = 126.21
+            text = ""
+        intervals [26]:
+            xmin = 126.21
+            xmax = 130.01
+            text = "San Francisco is like the Mecca of [unintelligible], yeah."
+        intervals [27]:
+            xmin = 130.01
+            xmax = 140.21
+            text = ""
+        intervals [28]:
+            xmin = 140.21
+            xmax = 141.01
+            text = "Ah-huh"
+        intervals [29]:
+            xmin = 141.01
+            xmax = 149.21
+            text = ""
+        intervals [30]:
+            xmin = 149.21
+            xmax = 155.01
+            text = "No, no.  Hustle is supposedly a lot more difficult than disco swing."
+        intervals [31]:
+            xmin = 155.01
+            xmax = 158.21
+            text = ""
+        intervals [32]:
+            xmin = 158.21
+            xmax = 159.01
+            text = "It's a little tricky."
+        intervals [33]:
+            xmin = 159.01
+            xmax = 163.21
+            text = ""
+        intervals [34]:
+            xmin = 163.21
+            xmax = 165.01
+            text = "Yeah.  Then you know turnaround."
+        intervals [35]:
+            xmin = 165.01
+            xmax = 178.21
+            text = ""
+        intervals [36]:
+            xmin = 178.21
+            xmax = 179.01
+            text = "Ah-huh."
+        intervals [37]:
+            xmin = 179.01
+            xmax = 184.21
+            text = ""
+        intervals [38]:
+            xmin = 184.21
+            xmax = 189.01
+            text = "It's also one of the coolest music for people [unintelligible]."
+        intervals [39]:
+            xmin = 189.01
+            xmax = 212.21
+            text = ""
+        intervals [40]:
+            xmin = 212.21
+            xmax = 213.01
+            text = "Yeah, it's a good exercise."
+        intervals [41]:
+            xmin = 213.01
+            xmax = 228.21
+            text = ""
+        intervals [42]:
+            xmin = 228.21
+            xmax = 237.01
+            text = "I like -- I like [unintelligible] if you've heard of it. "
+        intervals [43]:
+            xmin = 237.01
+            xmax = 244.21
+            text = ""
+        intervals [44]:
+            xmin = 244.21
+            xmax = 245.01
+            text = "It was nice meeting you."
+        intervals [45]:
+            xmin = 245.01
+            xmax = 246.21
+            text = ""
+        intervals [46]:
+            xmin = 246.21
+            xmax = 250.01
+            text = "[unintelligible]."
+        intervals [47]:
+            xmin = 250.01
+            xmax = 252.21
+            text = ""
+        intervals [48]:
+            xmin = 252.21
+            xmax = 254.01
+            text = "Yeah, more than one or two.  Bye."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 256.01
+intervals: size = 47
+        intervals [1]:
+            xmin = 4.21
+            xmax = 13.01
+            text = "[laughter] so other than that how is your speed dating going?  Speed dating --"
+        intervals [2]:
+            xmin = 13.01
+            xmax = 18.21
+            text = ""
+        intervals [3]:
+            xmin = 18.21
+            xmax = 20.01
+            text = "female126."
+        intervals [4]:
+            xmin = 20.01
+            xmax = 22.21
+            text = ""
+        intervals [5]:
+            xmin = 22.21
+            xmax = 24.01
+            text = "Really?  "
+        intervals [6]:
+            xmin = 24.01
+            xmax = 32.21
+            text = ""
+        intervals [7]:
+            xmin = 32.21
+            xmax = 39.01
+            text = "You don't want me to sing for you.  I've been asked frequently to stop singing."
+        intervals [8]:
+            xmin = 39.01
+            xmax = 40.21
+            text = ""
+        intervals [9]:
+            xmin = 40.21
+            xmax = 52.01
+            text = "I wish I could sing, but I'm terrible. I sort of feel like I should go do karaoke because it's the only time people will let me sing publicly, because then it's so cool to be bad.  Right?"
+        intervals [10]:
+            xmin = 52.01
+            xmax = 54.21
+            text = ""
+        intervals [11]:
+            xmin = 54.21
+            xmax = 57.01
+            text = "It's more accepted."
+        intervals [12]:
+            xmin = 57.01
+            xmax = 63.21
+            text = ""
+        intervals [13]:
+            xmin = 63.21
+            xmax = 65.01
+            text = "Yeah."
+        intervals [14]:
+            xmin = 65.01
+            xmax = 77.21
+            text = ""
+        intervals [15]:
+            xmin = 77.21
+            xmax = 84.01
+            text = "Unfortunately, while I would really love to be able to sing now, but other things are higher on my list of things to do."
+        intervals [16]:
+            xmin = 84.01
+            xmax = 86.21
+            text = ""
+        intervals [17]:
+            xmin = 86.21
+            xmax = 89.01
+            text = "So what do you do outside of school?"
+        intervals [18]:
+            xmin = 89.01
+            xmax = 89.21
+            text = ""
+        intervals [19]:
+            xmin = 89.21
+            xmax = 91.01
+            text = "Yeah, hobbies."
+        intervals [20]:
+            xmin = 91.01
+            xmax = 105.21
+            text = ""
+        intervals [21]:
+            xmin = 105.21
+            xmax = 109.01
+            text = "What is your favorite band?"
+        intervals [22]:
+            xmin = 109.01
+            xmax = 115.21
+            text = ""
+        intervals [23]:
+            xmin = 115.21
+            xmax = 126.01
+            text = "Unfortunately, I never learned [unintelligible] and so I feel like they do that a lot around here.  So I really need to take lessons on [unintelligible].  So --"
+        intervals [24]:
+            xmin = 126.01
+            xmax = 129.21
+            text = ""
+        intervals [25]:
+            xmin = 129.21
+            xmax = 140.01
+            text = "I learned east coast [unintelligible].  My first dance was Salsa and that's actually a lot of fun and then we did [unintelligible].  "
+        intervals [26]:
+            xmin = 140.01
+            xmax = 140.21
+            text = ""
+        intervals [27]:
+            xmin = 140.21
+            xmax = 150.01
+            text = "And then I learned the hustle.  I love the hustle.  It's so fun and there's lots of [unintelligible].  No, no hustle for you."
+        intervals [28]:
+            xmin = 150.01
+            xmax = 155.21
+            text = ""
+        intervals [29]:
+            xmin = 155.21
+            xmax = 158.01
+            text = "It's a little I mean --"
+        intervals [30]:
+            xmin = 158.01
+            xmax = 158.21
+            text = ""
+        intervals [31]:
+            xmin = 158.21
+            xmax = 164.01
+            text = "It's a little, the rhythm is slightly different.  "
+        intervals [32]:
+            xmin = 164.01
+            xmax = 165.21
+            text = ""
+        intervals [33]:
+            xmin = 165.21
+            xmax = 178.01
+            text = "Yeah.  I do remember when they went through the arms it took me a long time to learn it, but I can still do the arms -- the first arm pattern I learned I think I can do that, I still remember the order that my arms go."
+        intervals [34]:
+            xmin = 178.01
+            xmax = 179.21
+            text = ""
+        intervals [35]:
+            xmin = 179.21
+            xmax = 185.01
+            text = "So I really like that, but if you don't do it very often, so the I went to this --"
+        intervals [36]:
+            xmin = 185.01
+            xmax = 189.21
+            text = ""
+        intervals [37]:
+            xmin = 189.21
+            xmax = 212.01
+            text = "Yeah and then I learned -- I went to the, I don't know who put it on but the swing dance a couple of weeks ago I went to that and I learned the polka.  It's such an easy dance.  It's not you know because it's not it's so [unintelligible] right steps.  Polka is so fast and you're just moving the whole time and no one notices that you do the wrong step."
+        intervals [38]:
+            xmin = 212.01
+            xmax = 213.21
+            text = ""
+        intervals [39]:
+            xmin = 213.21
+            xmax = 229.01
+            text = "Oh, definitely exercise.  Because, I remember that was my -- I don't remember this, but I've been told that was my parents wedding dance.  [unintelligible] and that's stupid the Polka, but it was actually a lot of fun.  What board games do you like?"
+        intervals [40]:
+            xmin = 229.01
+            xmax = 237.21
+            text = ""
+        intervals [41]:
+            xmin = 237.21
+            xmax = 242.01
+            text = "No [horn].  I'm not very good at it, but I've heard of it.  Well --"
+        intervals [42]:
+            xmin = 242.01
+            xmax = 244.21
+            text = ""
+        intervals [43]:
+            xmin = 244.21
+            xmax = 246.01
+            text = "Oh, it was nice meeting you."
+        intervals [44]:
+            xmin = 246.01
+            xmax = 250.21
+            text = ""
+        intervals [45]:
+            xmin = 250.21
+            xmax = 252.01
+            text = "I would love to."
+        intervals [46]:
+            xmin = 252.01
+            xmax = 254.21
+            text = ""
+        intervals [47]:
+            xmin = 254.21
+            xmax = 256.01
+            text = "Bye."

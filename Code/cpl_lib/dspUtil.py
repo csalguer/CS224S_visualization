@@ -38,7 +38,7 @@ import scipy
 scipy.factorial = scipy.misc.factorial
 import scipy.signal
 
-from scipy import weave as weave
+import weave
 	
 ######################################################################
 

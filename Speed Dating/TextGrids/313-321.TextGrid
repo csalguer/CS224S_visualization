@@ -1,0 +1,584 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 250.347
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 250.347
+intervals: size = 68
+        intervals [1]:
+            xmin = 0
+            xmax = 5.1
+            text = ""
+        intervals [2]:
+            xmin = 5.1
+            xmax = 5.3
+            text = "Hi.  I'm male313."
+        intervals [3]:
+            xmin = 5.3
+            xmax = 7.7
+            text = ""
+        intervals [4]:
+            xmin = 7.7
+            xmax = 8.5
+            text = "How are things going?  "
+        intervals [5]:
+            xmin = 8.5
+            xmax = 9.5
+            text = ""
+        intervals [6]:
+            xmin = 9.5
+            xmax = 10.1
+            text = "Yeah. "
+        intervals [7]:
+            xmin = 10.1
+            xmax = 11.8
+            text = ""
+        intervals [8]:
+            xmin = 11.8
+            xmax = 14
+            text = "Yeah.  It's, I guess it's a unique experience. "
+        intervals [9]:
+            xmin = 14
+            xmax = 15
+            text = ""
+        intervals [10]:
+            xmin = 15
+            xmax = 16
+            text = "Yeah.  Well. "
+        intervals [11]:
+            xmin = 16
+            xmax = 16.6
+            text = ""
+        intervals [12]:
+            xmin = 16.6
+            xmax = 17.2
+            text = "It's very random. "
+        intervals [13]:
+            xmin = 17.2
+            xmax = 18.3
+            text = ""
+        intervals [14]:
+            xmin = 18.3
+            xmax = 19.4
+            text = "Kind of awkward.  Okay. "
+        intervals [15]:
+            xmin = 19.4
+            xmax = 29.1
+            text = ""
+        intervals [16]:
+            xmin = 29.1
+            xmax = 30.7
+            text = "So people around you can't say what they want? "
+        intervals [17]:
+            xmin = 30.7
+            xmax = 35.5
+            text = ""
+        intervals [18]:
+            xmin = 35.5
+            xmax = 36.3
+            text = "But you say it anyway. "
+        intervals [19]:
+            xmin = 36.3
+            xmax = 38.7
+            text = ""
+        intervals [20]:
+            xmin = 38.7
+            xmax = 39.4
+            text = "Well, yeah. "
+        intervals [21]:
+            xmin = 39.4
+            xmax = 46.4
+            text = ""
+        intervals [22]:
+            xmin = 46.4
+            xmax = 47
+            text = "What department are you in? "
+        intervals [23]:
+            xmin = 47
+            xmax = 48.1
+            text = ""
+        intervals [24]:
+            xmin = 48.1
+            xmax = 49.5
+            text = "So are you friends with [unintelligible]? "
+        intervals [25]:
+            xmin = 49.5
+            xmax = 50.1
+            text = ""
+        intervals [26]:
+            xmin = 50.1
+            xmax = 53.8
+            text = "I actually met her at one of these things a couple times. "
+        intervals [27]:
+            xmin = 53.8
+            xmax = 54.3
+            text = ""
+        intervals [28]:
+            xmin = 54.3
+            xmax = 56.8
+            text = "I'm just tying to help her get more women for tonight. "
+        intervals [29]:
+            xmin = 56.8
+            xmax = 57.3
+            text = ""
+        intervals [30]:
+            xmin = 57.3
+            xmax = 59.9
+            text = "Yeah [unintelligible]. "
+        intervals [31]:
+            xmin = 59.9
+            xmax = 105.5
+            text = ""
+        intervals [32]:
+            xmin = 105.5
+            xmax = 106
+            text = "So Jamacian literature. "
+        intervals [33]:
+            xmin = 106
+            xmax = 108.9
+            text = ""
+        intervals [34]:
+            xmin = 108.9
+            xmax = 109.8
+            text = "Yeah. "
+        intervals [35]:
+            xmin = 109.8
+            xmax = 110.7
+            text = ""
+        intervals [36]:
+            xmin = 110.7
+            xmax = 111.8
+            text = "Well lots of people have done Milton haven't they? "
+        intervals [37]:
+            xmin = 111.8
+            xmax = 113.1
+            text = ""
+        intervals [38]:
+            xmin = 113.1
+            xmax = 114.1
+            text = "[interposing] I mean what else is left? "
+        intervals [39]:
+            xmin = 114.1
+            xmax = 121.5
+            text = ""
+        intervals [40]:
+            xmin = 121.5
+            xmax = 121.9
+            text = "That's unfortunate. "
+        intervals [41]:
+            xmin = 121.9
+            xmax = 147.7
+            text = ""
+        intervals [42]:
+            xmin = 147.7
+            xmax = 153.4
+            text = "I see.  So are you counting the external factors or it's going to be internal decision making?  Should I go to grad school?  Where should I go."
+        intervals [43]:
+            xmin = 153.4
+            xmax = 182.8
+            text = ""
+        intervals [44]:
+            xmin = 182.8
+            xmax = 185.1
+            text = "Are there any surprises in what they said? "
+        intervals [45]:
+            xmin = 185.1
+            xmax = 201.5
+            text = ""
+        intervals [46]:
+            xmin = 201.5
+            xmax = 202.8
+            text = "That's interesting. "
+        intervals [47]:
+            xmin = 202.8
+            xmax = 203.1
+            text = ""
+        intervals [48]:
+            xmin = 203.1
+            xmax = 205.2
+            text = "Did he tell you what he thought you wanted to hear? "
+        intervals [49]:
+            xmin = 205.2
+            xmax = 207.7
+            text = ""
+        intervals [50]:
+            xmin = 207.7
+            xmax = 208.9
+            text = "Huh. "
+        intervals [51]:
+            xmin = 208.9
+            xmax = 209.8
+            text = ""
+        intervals [52]:
+            xmin = 209.8
+            xmax = 211.2
+            text = "That's interesting. "
+        intervals [53]:
+            xmin = 211.2
+            xmax = 212.5
+            text = ""
+        intervals [54]:
+            xmin = 212.5
+            xmax = 213.2
+            text = "Ah, CS. "
+        intervals [55]:
+            xmin = 213.2
+            xmax = 215.4
+            text = ""
+        intervals [56]:
+            xmin = 215.4
+            xmax = 215.8
+            text = "Yeah. "
+        intervals [57]:
+            xmin = 215.8
+            xmax = 217.6
+            text = ""
+        intervals [58]:
+            xmin = 217.6
+            xmax = 219.5
+            text = "[laughter]."
+        intervals [59]:
+            xmin = 219.5
+            xmax = 222.3
+            text = "So more like the scientific sort of mindset, I guess. "
+        intervals [60]:
+            xmin = 222.3
+            xmax = 224.3
+            text = ""
+        intervals [61]:
+            xmin = 224.3
+            xmax = 226.4
+            text = "[unintelligible] without using--"
+        intervals [62]:
+            xmin = 226.4
+            xmax = 233.5
+            text = ""
+        intervals [63]:
+            xmin = 233.5
+            xmax = 234.1
+            text = "Hmm. "
+        intervals [64]:
+            xmin = 234.1
+            xmax = 245.7
+            text = ""
+        intervals [65]:
+            xmin = 245.7
+            xmax = 247
+            text = "Yeah.  I love that stuff too. "
+        intervals [66]:
+            xmin = 247
+            xmax = 248.3
+            text = "Great. Well good meeting you. "
+        intervals [67]:
+            xmin = 248.3
+            xmax = 249.2
+            text = ""
+        intervals [68]:
+            xmin = 249.2
+            xmax = 250.3
+            text = "Good luck. "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 250.347
+intervals: size = 73
+        intervals [1]:
+            xmin = 4.047
+            xmax = 4.647
+            text = "Hi, my name's female321."
+        intervals [2]:
+            xmin = 4.647
+            xmax = 6.047
+            text = ""
+        intervals [3]:
+            xmin = 6.047
+            xmax = 6.547
+            text = "Nice to meet you. "
+        intervals [4]:
+            xmin = 6.547
+            xmax = 8.347
+            text = ""
+        intervals [5]:
+            xmin = 8.347
+            xmax = 8.847
+            text = "They're pretty good."
+        intervals [6]:
+            xmin = 8.847
+            xmax = 10.047
+            text = ""
+        intervals [7]:
+            xmin = 10.047
+            xmax = 11.047
+            text = "This is interesting. "
+        intervals [8]:
+            xmin = 11.047
+            xmax = 13.747
+            text = ""
+        intervals [9]:
+            xmin = 13.747
+            xmax = 14.947
+            text = "Random. "
+        intervals [10]:
+            xmin = 14.947
+            xmax = 16.047
+            text = ""
+        intervals [11]:
+            xmin = 16.047
+            xmax = 16.647
+            text = "Cool, weird. "
+        intervals [12]:
+            xmin = 16.647
+            xmax = 16.947
+            text = ""
+        intervals [13]:
+            xmin = 16.947
+            xmax = 18.247
+            text = "Yeah.  I'm really artsy. "
+        intervals [14]:
+            xmin = 18.247
+            xmax = 19.447
+            text = ""
+        intervals [15]:
+            xmin = 19.447
+            xmax = 29.347
+            text = "I'm really like um, like to have fun and just say what I want.  And I'm really sensitive and I never--it's a weird paradox.  It's like I'll say whatever I want but I'm also super sensitive. "
+        intervals [16]:
+            xmin = 29.347
+            xmax = 30.947
+            text = ""
+        intervals [17]:
+            xmin = 30.947
+            xmax = 35.047
+            text = "No, no.  I'm just like paranoid that I might offend someone after I say whatever I want to say. "
+        intervals [18]:
+            xmin = 35.047
+            xmax = 36.447
+            text = ""
+        intervals [19]:
+            xmin = 36.447
+            xmax = 38.947
+            text = "Well not anything.  Like I'm not a jerk. "
+        intervals [20]:
+            xmin = 38.947
+            xmax = 39.847
+            text = ""
+        intervals [21]:
+            xmin = 39.847
+            xmax = 46.247
+            text = "But like having that kind of consciousness but then that also, that free flow of thought expressed is interesting."
+        intervals [22]:
+            xmin = 46.247
+            xmax = 47.347
+            text = ""
+        intervals [23]:
+            xmin = 47.347
+            xmax = 47.847
+            text = "Education. "
+        intervals [24]:
+            xmin = 47.847
+            xmax = 49.247
+            text = ""
+        intervals [25]:
+            xmin = 49.247
+            xmax = 50.047
+            text = "Yes. "
+        intervals [26]:
+            xmin = 50.047
+            xmax = 53.847
+            text = ""
+        intervals [27]:
+            xmin = 53.847
+            xmax = 54.847
+            text = "Oh, cool. "
+        intervals [28]:
+            xmin = 54.847
+            xmax = 56.747
+            text = ""
+        intervals [29]:
+            xmin = 56.747
+            xmax = 57.447
+            text = "Yeah. "
+        intervals [30]:
+            xmin = 57.447
+            xmax = 59.647
+            text = ""
+        intervals [31]:
+            xmin = 59.647
+            xmax = 105.247
+            text = "Yeah.  Um, I'm definately a friend [unintelligible].  And um, my specializations in um, higher education focusing on women of color who are applying to graduate school.  Just like what is, what are the polic-, what are the political issues that they face when they apply.  Specifically humanities because um, it tends to be that when a lot of minorities are in the humanities they choose specializations, and when it comes to literature, that are either the traditional canon or the, the marginalized ethnic literature that's not.  For example if I were like Jamacian-American or whatever.  Then I might focus--it would be almost a stereotype that I would focus on my ethnicity as my specialty."
+        intervals [32]:
+            xmin = 105.247
+            xmax = 106.547
+            text = ""
+        intervals [33]:
+            xmin = 106.547
+            xmax = 109.347
+            text = "Yeah.  Or somehting as apposed to oh I'm going to do Milton. "
+        intervals [34]:
+            xmin = 109.347
+            xmax = 109.647
+            text = ""
+        intervals [35]:
+            xmin = 109.647
+            xmax = 110.247
+            text = "Or somehting. "
+        intervals [36]:
+            xmin = 110.247
+            xmax = 111.647
+            text = ""
+        intervals [37]:
+            xmin = 111.647
+            xmax = 113.447
+            text = "Absolutely.  But most--"
+        intervals [38]:
+            xmin = 113.447
+            xmax = 114.347
+            text = ""
+        intervals [39]:
+            xmin = 114.347
+            xmax = 121.047
+            text = "Right.  Most people though associate people of color with just doing people of color stuff. "
+        intervals [40]:
+            xmin = 121.047
+            xmax = 122.047
+            text = ""
+        intervals [41]:
+            xmin = 122.047
+            xmax = 147.347
+            text = "Yeah. So I mean, without imposing my bias, I just think it's interesting to just look at that and see what, just what choices are available.  Because there's somehting called job market availablity that can um, really--is affected by what your idenity is.  Like if you're doing a certain feild that involves that kind of stuff then sometimes you're more marketable depending on how aligned your ethniticiy is with ethnic work you're doing."
+        intervals [42]:
+            xmin = 147.347
+            xmax = 153.447
+            text = ""
+        intervals [43]:
+            xmin = 153.447
+            xmax = 182.647
+            text = "I'm looking at--I interveiwed some people--professors who have experience screening applications in that kind of humanities department.  So I kind of got my conclusions based off of what they thought.  Not their personal feelings, but what was reflective of what their department might say.  Because they would say oh we would do this, we would do that, we wouldn't like this, whatever.  But still it's a novice kind of research thing.  I'm kind of like just charting whatever, creating a new path.  But like it's not necessarily the cleanest, nicest path. "
+        intervals [44]:
+            xmin = 182.647
+            xmax = 184.947
+            text = ""
+        intervals [45]:
+            xmin = 184.947
+            xmax = 201.447
+            text = "Um, yes because um, I had five statements of purpose, two informants.  First informant was actually involved with um, that, that individual gave me reverse responses than what actually occured in the application process.  Because I had--"
+        intervals [46]:
+            xmin = 201.447
+            xmax = 202.147
+            text = ""
+        intervals [47]:
+            xmin = 202.147
+            xmax = 202.347
+            text = "Yeah."
+        intervals [48]:
+            xmin = 202.347
+            xmax = 205.647
+            text = ""
+        intervals [49]:
+            xmin = 205.647
+            xmax = 208.047
+            text = "Um, no.  I think totally sincere. "
+        intervals [50]:
+            xmin = 208.047
+            xmax = 208.747
+            text = ""
+        intervals [51]:
+            xmin = 208.747
+            xmax = 209.947
+            text = "I don't know.  It was weird. "
+        intervals [52]:
+            xmin = 209.947
+            xmax = 211.247
+            text = ""
+        intervals [53]:
+            xmin = 211.247
+            xmax = 212.347
+            text = "What, what school are you in? "
+        intervals [54]:
+            xmin = 212.347
+            xmax = 213.247
+            text = ""
+        intervals [55]:
+            xmin = 213.247
+            xmax = 215.047
+            text = "Um, computer science. "
+        intervals [56]:
+            xmin = 215.047
+            xmax = 215.647
+            text = ""
+        intervals [57]:
+            xmin = 215.647
+            xmax = 217.047
+            text = "I'm tired [laughter] whatever. "
+        intervals [58]:
+            xmin = 217.047
+            xmax = 217.647
+            text = ""
+        intervals [59]:
+            xmin = 217.647
+            xmax = 218.647
+            text = "I'm like, whatever. "
+        intervals [60]:
+            xmin = 218.647
+            xmax = 219.447
+            text = ""
+        intervals [61]:
+            xmin = 219.447
+            xmax = 220.147
+            text = "I'm not going to pretend. "
+        intervals [62]:
+            xmin = 220.147
+            xmax = 222.047
+            text = ""
+        intervals [63]:
+            xmin = 222.047
+            xmax = 224.547
+            text = "I suck at tech stuff. "
+        intervals [64]:
+            xmin = 224.547
+            xmax = 226.947
+            text = ""
+        intervals [65]:
+            xmin = 226.947
+            xmax = 233.247
+            text = "[interposing] Thank you.  I appreciate that because we've had a lot of debates in our classes about how scientic is, is qualitative research verses quantitative. "
+        intervals [66]:
+            xmin = 233.247
+            xmax = 234.347
+            text = ""
+        intervals [67]:
+            xmin = 234.347
+            xmax = 245.147
+            text = "Um, but that's a long story.  Um, do you know I'm not traditional techy, I'm [unintelligible] techy.  I love to do a video film, like short movies and stuff, edit."
+        intervals [68]:
+            xmin = 245.147
+            xmax = 247.447
+            text = ""
+        intervals [69]:
+            xmin = 247.447
+            xmax = 247.847
+            text = "It's cool. "
+        intervals [70]:
+            xmin = 247.847
+            xmax = 248.547
+            text = ""
+        intervals [71]:
+            xmin = 248.547
+            xmax = 249.047
+            text = "Good to meet you too. "
+        intervals [72]:
+            xmin = 249.047
+            xmax = 249.947
+            text = ""
+        intervals [73]:
+            xmin = 249.947
+            xmax = 250.347
+            text = "Thanks. "

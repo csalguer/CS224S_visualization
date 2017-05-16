@@ -1,0 +1,492 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 19800.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 19800.6
+intervals: size = 60
+        intervals [1]:
+            xmin = 0
+            xmax = 8.8
+            text = ""
+        intervals [2]:
+            xmin = 8.8
+            xmax = 9.6
+            text = "What's going on?    "
+        intervals [3]:
+            xmin = 9.6
+            xmax = 10.8
+            text = ""
+        intervals [4]:
+            xmin = 10.8
+            xmax = 11.6
+            text = "male303."
+        intervals [5]:
+            xmin = 11.6
+            xmax = 11.8
+            text = ""
+        intervals [6]:
+            xmin = 11.8
+            xmax = 13.6
+            text = "female330.  What's going on?  "
+        intervals [7]:
+            xmin = 13.6
+            xmax = 18.8
+            text = ""
+        intervals [8]:
+            xmin = 18.8
+            xmax = 19.6
+            text = "Pretty much.  "
+        intervals [9]:
+            xmin = 19.6
+            xmax = 20.8
+            text = ""
+        intervals [10]:
+            xmin = 20.8
+            xmax = 22.6
+            text = "Yeah.  I've never done [unintelligible].  "
+        intervals [11]:
+            xmin = 22.6
+            xmax = 22.8
+            text = ""
+        intervals [12]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "[unintelligible].  You?"
+        intervals [13]:
+            xmin = 24.6
+            xmax = 27.8
+            text = ""
+        intervals [14]:
+            xmin = 27.8
+            xmax = 29.6
+            text = "It's kind of heavy.  "
+        intervals [15]:
+            xmin = 29.6
+            xmax = 54.8
+            text = ""
+        intervals [16]:
+            xmin = 54.8
+            xmax = 59.6
+            text = "What kind of research do you like?  What do you [unintelligible] education areas?  "
+        intervals [17]:
+            xmin = 59.6
+            xmax = 71.8
+            text = ""
+        intervals [18]:
+            xmin = 71.8
+            xmax = 72.6
+            text = "Earth sciences?  "
+        intervals [19]:
+            xmin = 72.6
+            xmax = 74.8
+            text = ""
+        intervals [20]:
+            xmin = 74.8
+            xmax = 75.6
+            text = "You're a water person?  "
+        intervals [21]:
+            xmin = 75.6
+            xmax = 76.8
+            text = ""
+        intervals [22]:
+            xmin = 76.8
+            xmax = 78.6
+            text = "What does it mean to be a water person?  "
+        intervals [23]:
+            xmin = 78.6
+            xmax = 89.8
+            text = ""
+        intervals [24]:
+            xmin = 89.8
+            xmax = 92.6
+            text = "[unintelligible] working there?  "
+        intervals [25]:
+            xmin = 92.6
+            xmax = 93.8
+            text = ""
+        intervals [26]:
+            xmin = 93.8
+            xmax = 94.6
+            text = "[unintelligible]"
+        intervals [27]:
+            xmin = 94.6
+            xmax = 117.8
+            text = ""
+        intervals [28]:
+            xmin = 117.8
+            xmax = 120.6
+            text = "What do you do when you're not cleaning their water?  "
+        intervals [29]:
+            xmin = 120.6
+            xmax = 125.8
+            text = ""
+        intervals [30]:
+            xmin = 125.8
+            xmax = 126.6
+            text = "What do I do?  "
+        intervals [31]:
+            xmin = 126.6
+            xmax = 126.8
+            text = ""
+        intervals [32]:
+            xmin = 126.8
+            xmax = 132.6
+            text = "I'm in the business school.  Uh, what do I do for fun, I--"
+        intervals [33]:
+            xmin = 132.6
+            xmax = 132.8
+            text = ""
+        intervals [34]:
+            xmin = 132.8
+            xmax = 153.6
+            text = "I'm just finishing my first year.  Um, hanging out with friends, um, working out and exercising a lot.  [unintelligible] kind of enjoy.  This place is so crazy that every hour of every day there's someone running, you know.  It's actually kind of daunting after a while.  It's still, like, fun, um...  "
+        intervals [35]:
+            xmin = 153.6
+            xmax = 155.8
+            text = ""
+        intervals [36]:
+            xmin = 155.8
+            xmax = 156.6
+            text = "Where do you think I'm from?  "
+        intervals [37]:
+            xmin = 156.6
+            xmax = 163.8
+            text = ""
+        intervals [38]:
+            xmin = 163.8
+            xmax = 165.6
+            text = "No.  "
+        intervals [39]:
+            xmin = 165.6
+            xmax = 172.8
+            text = ""
+        intervals [40]:
+            xmin = 172.8
+            xmax = 175.6
+            text = "Um, my dad is Mexican.  "
+        intervals [41]:
+            xmin = 175.6
+            xmax = 176.8
+            text = ""
+        intervals [42]:
+            xmin = 176.8
+            xmax = 182.6
+            text = "And my mom is, uh, she's from Eastern European Jewish descent.  "
+        intervals [43]:
+            xmin = 182.6
+            xmax = 185.8
+            text = ""
+        intervals [44]:
+            xmin = 185.8
+            xmax = 186.6
+            text = "Where are you from?  "
+        intervals [45]:
+            xmin = 186.6
+            xmax = 190.8
+            text = ""
+        intervals [46]:
+            xmin = 190.8
+            xmax = 193.6
+            text = "Wait, you're Korean but based in Argentina?  "
+        intervals [47]:
+            xmin = 193.6
+            xmax = 195.8
+            text = ""
+        intervals [48]:
+            xmin = 195.8
+            xmax = 198.6
+            text = "[unintelligible]"
+        intervals [49]:
+            xmin = 198.6
+            xmax = 219.8
+            text = ""
+        intervals [50]:
+            xmin = 219.8
+            xmax = 221.6
+            text = "What kind of music do you listen to?  "
+        intervals [51]:
+            xmin = 221.6
+            xmax = 224.8
+            text = ""
+        intervals [52]:
+            xmin = 224.8
+            xmax = 225.6
+            text = "[unintelligible].  "
+        intervals [53]:
+            xmin = 225.6
+            xmax = 225.8
+            text = ""
+        intervals [54]:
+            xmin = 225.8
+            xmax = 227.6
+            text = "You don't have to talk fast.  "
+        intervals [55]:
+            xmin = 227.6
+            xmax = 249.8
+            text = ""
+        intervals [56]:
+            xmin = 249.8
+            xmax = 251.6
+            text = "[unintelligible]."
+        intervals [57]:
+            xmin = 251.6
+            xmax = 251.8
+            text = ""
+        intervals [58]:
+            xmin = 251.8
+            xmax = 253.6
+            text = "[unintelligible]."
+        intervals [59]:
+            xmin = 253.6
+            xmax = 265.8
+            text = ""
+        intervals [60]:
+            xmin = 265.8
+            xmax = 266.6
+            text = "No."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 19800.6
+intervals: size = 58
+        intervals [1]:
+            xmin = 1.8
+            xmax = 6.6
+            text = "[unintelligible] actually trying to guess.  "
+        intervals [2]:
+            xmin = 6.6
+            xmax = 8.8
+            text = ""
+        intervals [3]:
+            xmin = 8.8
+            xmax = 10.6
+            text = "Hiya.  "
+        intervals [4]:
+            xmin = 10.6
+            xmax = 10.8
+            text = ""
+        intervals [5]:
+            xmin = 10.8
+            xmax = 12.6
+            text = "female330.  Nice to meet you.  "
+        intervals [6]:
+            xmin = 12.6
+            xmax = 12.8
+            text = ""
+        intervals [7]:
+            xmin = 12.8
+            xmax = 18.6
+            text = "Uh, nothing much.  Are you enjoying your speed dating experience?  Is it what you expected?  "
+        intervals [8]:
+            xmin = 18.6
+            xmax = 19.8
+            text = ""
+        intervals [9]:
+            xmin = 19.8
+            xmax = 21.6
+            text = "First time?  "
+        intervals [10]:
+            xmin = 21.6
+            xmax = 22.8
+            text = ""
+        intervals [11]:
+            xmin = 22.8
+            xmax = 24.6
+            text = "Why'd you come?  "
+        intervals [12]:
+            xmin = 24.6
+            xmax = 28.6
+            text = "Um, yeah.  I came because my professor's actually organizing [unintelligible] for this.  "
+        intervals [13]:
+            xmin = 28.6
+            xmax = 28.8
+            text = ""
+        intervals [14]:
+            xmin = 28.8
+            xmax = 54.6
+            text = "Yeah, basically.  [laughter]  Yeah, it was really fun.  He had these slides during class and he inserted, like, uh, subtle messages between the slides that will be for half a second, for, like, speed dating is fun.  Go speed dating.  If you don't go speed dating you'll fail the class.  So there was pretty strong incentive to come, I guess.  Especially 'cause I want to do research with him [unintelligible].  I had to come.  "
+        intervals [15]:
+            xmin = 54.6
+            xmax = 59.8
+            text = ""
+        intervals [16]:
+            xmin = 59.8
+            xmax = 71.6
+            text = "Well, I've done network theory, uh, which is [unintelligible].  So I'm doing work in social entrepreneurship, uh, but in a program that's within earth sciences.  "
+        intervals [17]:
+            xmin = 71.6
+            xmax = 72.8
+            text = ""
+        intervals [18]:
+            xmin = 72.8
+            xmax = 74.6
+            text = "Yeah.  But I'm a water person.  "
+        intervals [19]:
+            xmin = 74.6
+            xmax = 75.8
+            text = ""
+        intervals [20]:
+            xmin = 75.8
+            xmax = 76.6
+            text = "Uh-huh.  "
+        intervals [21]:
+            xmin = 76.6
+            xmax = 78.8
+            text = ""
+        intervals [22]:
+            xmin = 78.8
+            xmax = 90.6
+            text = "I look for, um, low cost technologies to bring clean water to people in developing countries.  Especially Latin America.  I work in Central America, South America, so.  "
+        intervals [23]:
+            xmin = 90.6
+            xmax = 91.8
+            text = ""
+        intervals [24]:
+            xmin = 91.8
+            xmax = 93.6
+            text = "I'm going to Guatemala. "
+        intervals [25]:
+            xmin = 93.6
+            xmax = 93.8
+            text = ""
+        intervals [26]:
+            xmin = 93.8
+            xmax = 116.6
+            text = "Yeah.  I'm excited.  It should be fun.  We have this really nice house, um, at a lake, at the [unintelligible], which is great.  It's very beautiful and then you get to go to talk to people in the [unintelligible] communities and, um, have a lot of problems but also they have really strong, you know, traditional cultures from which I would love to learn something, so.  "
+        intervals [27]:
+            xmin = 116.6
+            xmax = 120.8
+            text = ""
+        intervals [28]:
+            xmin = 120.8
+            xmax = 124.6
+            text = "Why don't you, what do you do?  I've been talking all the time.  "
+        intervals [29]:
+            xmin = 124.6
+            xmax = 125.8
+            text = ""
+        intervals [30]:
+            xmin = 125.8
+            xmax = 126.6
+            text = "Uh-huh.  "
+        intervals [31]:
+            xmin = 126.6
+            xmax = 131.8
+            text = ""
+        intervals [32]:
+            xmin = 131.8
+            xmax = 133.6
+            text = "First year or second year?  "
+        intervals [33]:
+            xmin = 133.6
+            xmax = 153.8
+            text = ""
+        intervals [34]:
+            xmin = 153.8
+            xmax = 156.6
+            text = "Where are you from?  I'm trying to--"
+        intervals [35]:
+            xmin = 156.6
+            xmax = 164.6
+            text = "I don't know.  I'm really suffering with the ethnicity.  Do you have any Lebanese in your family?  "
+        intervals [36]:
+            xmin = 164.6
+            xmax = 164.8
+            text = ""
+        intervals [37]:
+            xmin = 164.8
+            xmax = 173.6
+            text = "No.  Italian?  Yeah, I'm super baffled.  I can't place you 'ethnicalistic' anyway.  "
+        intervals [38]:
+            xmin = 173.6
+            xmax = 175.8
+            text = ""
+        intervals [39]:
+            xmin = 175.8
+            xmax = 177.6
+            text = "Oh, wow.  Interesting.  "
+        intervals [40]:
+            xmin = 177.6
+            xmax = 183.8
+            text = ""
+        intervals [41]:
+            xmin = 183.8
+            xmax = 186.6
+            text = "Yeah, yeah.  I couldn't tell.  "
+        intervals [42]:
+            xmin = 186.6
+            xmax = 186.8
+            text = ""
+        intervals [43]:
+            xmin = 186.8
+            xmax = 191.6
+            text = "I'm Korean, raised in Argentina.  That's why I speak Spanish.  "
+        intervals [44]:
+            xmin = 191.6
+            xmax = 192.8
+            text = ""
+        intervals [45]:
+            xmin = 192.8
+            xmax = 197.6
+            text = "Yeah.  Raised and based, basically.  My whole family--"
+        intervals [46]:
+            xmin = 197.6
+            xmax = 199.8
+            text = ""
+        intervals [47]:
+            xmin = 199.8
+            xmax = 219.6
+            text = "I don't know.  When I was six it was [unintelligible].  There was a lot of issues, there were a lot of issues with North Korea and South Korea, Cold War, atomic bombs.  I don't know.  A lot of people left and they ended up in South America.  That's why I happen to be there.  "
+        intervals [48]:
+            xmin = 219.6
+            xmax = 221.8
+            text = ""
+        intervals [49]:
+            xmin = 221.8
+            xmax = 224.6
+            text = "[laughter] [unintelligible] um, I like--  "
+        intervals [50]:
+            xmin = 224.6
+            xmax = 225.8
+            text = ""
+        intervals [51]:
+            xmin = 225.8
+            xmax = 227.6
+            text = "Huh?  "
+        intervals [52]:
+            xmin = 227.6
+            xmax = 227.8
+            text = ""
+        intervals [53]:
+            xmin = 227.8
+            xmax = 250.6
+            text = "No, I know, I know.  I just--I'm just making fun of this.  I was making fun of this Spanish guy who was--sit in before you and he, like, kept, you know, asking questions on a typical [unintelligible], kind of like, you know, what do you do for fun or do you come here often or something like that so I was really, like, okay.  I listen to pretty much everything except for [unintelligible]."
+        intervals [54]:
+            xmin = 250.6
+            xmax = 250.8
+            text = ""
+        intervals [55]:
+            xmin = 250.8
+            xmax = 252.6
+            text = "Well, I do like--"
+        intervals [56]:
+            xmin = 252.6
+            xmax = 253.8
+            text = ""
+        intervals [57]:
+            xmin = 253.8
+            xmax = 266.6
+            text = "I like, uh, like, Coldplay, for example, U2.  I like Latin music.  I love Quantas [phonetic].  Do you know them?  Whoops.  Yeah.  And rock, like, uh, do you know any Argentinean rock?  "
+        intervals [58]:
+            xmin = 266.6
+            xmax = 270.6
+            text = "Well, a lot of Argentinean rock that's pretty [unintelligible].  "

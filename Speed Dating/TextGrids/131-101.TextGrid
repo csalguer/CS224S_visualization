@@ -1,0 +1,324 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 181.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 181.6
+intervals: size = 36
+        intervals [1]:
+            xmin = 0
+            xmax = 1.6
+            text = "Absolutely all off.  Yeah.  "
+        intervals [2]:
+            xmin = 1.6
+            xmax = 21.8
+            text = ""
+        intervals [3]:
+            xmin = 21.8
+            xmax = 23.6
+            text = "That was my Mom.  "
+        intervals [4]:
+            xmin = 23.6
+            xmax = 25.8
+            text = ""
+        intervals [5]:
+            xmin = 25.8
+            xmax = 35.6
+            text = "Yes.  Yeah.  I [unintelligible].  "
+        intervals [6]:
+            xmin = 35.6
+            xmax = 39.8
+            text = ""
+        intervals [7]:
+            xmin = 39.8
+            xmax = 41.6
+            text = "[unintelligible]. "
+        intervals [8]:
+            xmin = 41.6
+            xmax = 44.8
+            text = ""
+        intervals [9]:
+            xmin = 44.8
+            xmax = 46.6
+            text = "Where is nameX?  Do you want to talk to her?  "
+        intervals [10]:
+            xmin = 46.6
+            xmax = 64.8
+            text = ""
+        intervals [11]:
+            xmin = 64.8
+            xmax = 66.6
+            text = "Uh-huh.  "
+        intervals [12]:
+            xmin = 66.6
+            xmax = 71.8
+            text = ""
+        intervals [13]:
+            xmin = 71.8
+            xmax = 78.6
+            text = "Uhm, it's good, like a lot.  I'm sort of on [unintelligible] with that.  "
+        intervals [14]:
+            xmin = 78.6
+            xmax = 79.8
+            text = ""
+        intervals [15]:
+            xmin = 79.8
+            xmax = 82.6
+            text = "I grew up [unintelligible].  "
+        intervals [16]:
+            xmin = 82.6
+            xmax = 85.6
+            text = "I figured that out [unintelligible] multiple.  "
+        intervals [17]:
+            xmin = 85.6
+            xmax = 90.6
+            text = "I grew [unintelligible].  "
+        intervals [18]:
+            xmin = 90.6
+            xmax = 110.8
+            text = ""
+        intervals [19]:
+            xmin = 110.8
+            xmax = 122.6
+            text = "I think I prefer to do more of the research.  Where at?  What are you going to do?  "
+        intervals [20]:
+            xmin = 122.6
+            xmax = 125.8
+            text = ""
+        intervals [21]:
+            xmin = 125.8
+            xmax = 127.6
+            text = "I do [unintelligible].  "
+        intervals [22]:
+            xmin = 127.6
+            xmax = 127.8
+            text = ""
+        intervals [23]:
+            xmin = 127.8
+            xmax = 130.6
+            text = "Alna [phonetic]?  "
+        intervals [24]:
+            xmin = 130.6
+            xmax = 131.6
+            text = "Yeah.  "
+        intervals [25]:
+            xmin = 131.6
+            xmax = 131.8
+            text = ""
+        intervals [26]:
+            xmin = 131.8
+            xmax = 134.6
+            text = "It's, uhm, you know what [unintelligible] is?  "
+        intervals [27]:
+            xmin = 134.6
+            xmax = 137.8
+            text = ""
+        intervals [28]:
+            xmin = 137.8
+            xmax = 139.6
+            text = "Yeah.  "
+        intervals [29]:
+            xmin = 139.6
+            xmax = 143.8
+            text = ""
+        intervals [30]:
+            xmin = 143.8
+            xmax = 144.6
+            text = "Yeah, I know where that one is.  "
+        intervals [31]:
+            xmin = 144.6
+            xmax = 160.8
+            text = ""
+        intervals [32]:
+            xmin = 160.8
+            xmax = 161.6
+            text = "Where did you go to?"
+        intervals [33]:
+            xmin = 161.6
+            xmax = 167.8
+            text = ""
+        intervals [34]:
+            xmin = 167.8
+            xmax = 169.6
+            text = "Yeah, we've got [unintelligible].  "
+        intervals [35]:
+            xmin = 169.6
+            xmax = 178.8
+            text = ""
+        intervals [36]:
+            xmin = 178.8
+            xmax = 179.6
+            text = "Bye-bye.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 181.6
+intervals: size = 40
+        intervals [1]:
+            xmin = 1.8
+            xmax = 20.6
+            text = "Oh, that would be awful.  We always give it at some point, right.  Oh, what is it, [unintelligible], I'm sorry.  I have a new phone.  It takes so long for [unintelligible].  "
+        intervals [2]:
+            xmin = 20.6
+            xmax = 24.8
+            text = ""
+        intervals [3]:
+            xmin = 24.8
+            xmax = 26.6
+            text = "Do you want water?  "
+        intervals [4]:
+            xmin = 26.6
+            xmax = 35.8
+            text = ""
+        intervals [5]:
+            xmin = 35.8
+            xmax = 39.6
+            text = "At school, or [unintelligible]?  I'm [unintelligible].  How about you?  "
+        intervals [6]:
+            xmin = 39.6
+            xmax = 40.8
+            text = ""
+        intervals [7]:
+            xmin = 40.8
+            xmax = 44.6
+            text = "Okay.  Okay, cool.  "
+        intervals [8]:
+            xmin = 44.6
+            xmax = 46.8
+            text = ""
+        intervals [9]:
+            xmin = 46.8
+            xmax = 65.6
+            text = "Uhm, I do actually.  I do.  [unintelligible] wasn't like anything I could say about the last [unintelligible].  I mean basically it was like [unintelligible].  Uh, but uhm, so [unintelligible].  I mean these are people that Stanford [unintelligible] people who got picked who have a good time.  And so they got the more physical [unintelligible].  "
+        intervals [10]:
+            xmin = 65.6
+            xmax = 65.8
+            text = ""
+        intervals [11]:
+            xmin = 65.8
+            xmax = 72.6
+            text = "So, [unintelligible].  So, like how are you [unintelligible] from now?  "
+        intervals [12]:
+            xmin = 72.6
+            xmax = 77.8
+            text = ""
+        intervals [13]:
+            xmin = 77.8
+            xmax = 79.6
+            text = "Oh, wow.  "
+        intervals [14]:
+            xmin = 79.6
+            xmax = 81.8
+            text = ""
+        intervals [15]:
+            xmin = 81.8
+            xmax = 84.6
+            text = "So, you [unintelligible].  "
+        intervals [16]:
+            xmin = 84.6
+            xmax = 85.6
+            text = "What did you do?  "
+        intervals [17]:
+            xmin = 85.6
+            xmax = 89.8
+            text = ""
+        intervals [18]:
+            xmin = 89.8
+            xmax = 110.6
+            text = "I was also telling you that my dad would be able to talk about that.  My dad is a counselor [unintelligible], but he is--he [unintelligible] recent [unintelligible] on magnetics.  But I'm sure like I won't even try to explain it because I'll just embarrass myself.  So, are you doing it and going into technology with that background, or are you going to do more research?  "
+        intervals [19]:
+            xmin = 110.6
+            xmax = 121.8
+            text = ""
+        intervals [20]:
+            xmin = 121.8
+            xmax = 125.6
+            text = "Let's just [unintelligible] here.  I'm going to [unintelligible].  "
+        intervals [21]:
+            xmin = 125.6
+            xmax = 126.8
+            text = ""
+        intervals [22]:
+            xmin = 126.8
+            xmax = 128.6
+            text = "Oh, what town are you from?  "
+        intervals [23]:
+            xmin = 128.6
+            xmax = 129.8
+            text = ""
+        intervals [24]:
+            xmin = 129.8
+            xmax = 130.6
+            text = "Alna?  "
+        intervals [25]:
+            xmin = 130.6
+            xmax = 130.8
+            text = ""
+        intervals [26]:
+            xmin = 130.8
+            xmax = 131.6
+            text = "What's that?  "
+        intervals [27]:
+            xmin = 131.6
+            xmax = 133.8
+            text = ""
+        intervals [28]:
+            xmin = 133.8
+            xmax = 136.6
+            text = "Uh-huh, yeah.  [unintelligible].  "
+        intervals [29]:
+            xmin = 136.6
+            xmax = 136.8
+            text = ""
+        intervals [30]:
+            xmin = 136.8
+            xmax = 138.6
+            text = "Okay, but it's a small town, yeah.  "
+        intervals [31]:
+            xmin = 138.6
+            xmax = 139.8
+            text = ""
+        intervals [32]:
+            xmin = 139.8
+            xmax = 143.6
+            text = "Had you been to [unintelligible]?  "
+        intervals [33]:
+            xmin = 143.6
+            xmax = 144.8
+            text = ""
+        intervals [34]:
+            xmin = 144.8
+            xmax = 160.6
+            text = "Okay, yeah we lived there for a long time.  [laughter]  You do?  [unintelligible] Yeah, I'm going to see what happens when I get back from California.  I've been gone for a long time.  "
+        intervals [35]:
+            xmin = 160.6
+            xmax = 161.8
+            text = ""
+        intervals [36]:
+            xmin = 161.8
+            xmax = 167.6
+            text = "For undergrad?  I was overheard that's all.  "
+        intervals [37]:
+            xmin = 167.6
+            xmax = 169.8
+            text = ""
+        intervals [38]:
+            xmin = 169.8
+            xmax = 178.6
+            text = "I was assigned, but I was definitely a [unintelligible] that height.  You go [unintelligible].  "
+        intervals [39]:
+            xmin = 178.6
+            xmax = 179.8
+            text = ""
+        intervals [40]:
+            xmin = 179.8
+            xmax = 181.6
+            text = "Bye. That was male101.  "

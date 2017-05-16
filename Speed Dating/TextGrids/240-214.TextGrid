@@ -1,0 +1,568 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 210.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 210.6
+intervals: size = 70
+        intervals [1]:
+            xmin = 0
+            xmax = 0.8
+            text = ""
+        intervals [2]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "That's okay."
+        intervals [3]:
+            xmin = 2.6
+            xmax = 5.8
+            text = ""
+        intervals [4]:
+            xmin = 5.8
+            xmax = 8.6
+            text = "Nice to meet you.  So, female240, what kind of name is that?"
+        intervals [5]:
+            xmin = 8.6
+            xmax = 9.8
+            text = ""
+        intervals [6]:
+            xmin = 9.8
+            xmax = 11.6
+            text = "Chinese, okay.  What part of China?"
+        intervals [7]:
+            xmin = 11.6
+            xmax = 14.8
+            text = ""
+        intervals [8]:
+            xmin = 14.8
+            xmax = 20.6
+            text = "Oh, okay, okay, both.  So, did, do you're parents both speak like Mandarin and Cantonese?"
+        intervals [9]:
+            xmin = 20.6
+            xmax = 25.8
+            text = ""
+        intervals [10]:
+            xmin = 25.8
+            xmax = 29.6
+            text = "Okay, okay.  So, so your mom is from the southern part of China?"
+        intervals [11]:
+            xmin = 29.6
+            xmax = 30.8
+            text = ""
+        intervals [12]:
+            xmin = 30.8
+            xmax = 34.6
+            text = "But I thought, okay, oh yeah, I see.  Sorry."
+        intervals [13]:
+            xmin = 34.6
+            xmax = 41.8
+            text = ""
+        intervals [14]:
+            xmin = 41.8
+            xmax = 43.6
+            text = "Oh, okay, okay."
+        intervals [15]:
+            xmin = 43.6
+            xmax = 45.8
+            text = ""
+        intervals [16]:
+            xmin = 45.8
+            xmax = 47.6
+            text = "Right, cool."
+        intervals [17]:
+            xmin = 47.6
+            xmax = 47.8
+            text = ""
+        intervals [18]:
+            xmin = 47.8
+            xmax = 59.6
+            text = "I'm from Houston.  My parents are from India.  I'm Indian [laughter].  And right now I'm doing a master's in aerospace and a master's in mechanical engineering so I'm trying to do two things."
+        intervals [19]:
+            xmin = 59.6
+            xmax = 62.8
+            text = ""
+        intervals [20]:
+            xmin = 62.8
+            xmax = 66.6
+            text = "You know, I've, I've, I've seen the name, nameX, nameX nameX."
+        intervals [21]:
+            xmin = 66.6
+            xmax = 66.8
+            text = ""
+        intervals [22]:
+            xmin = 66.8
+            xmax = 68.6
+            text = "Does he have glasses?  No."
+        intervals [23]:
+            xmin = 68.6
+            xmax = 68.8
+            text = ""
+        intervals [24]:
+            xmin = 68.8
+            xmax = 72.6
+            text = "Okay then,  I, I think I've seen his name, but I just don't know.  I've met a lot of people so."
+        intervals [25]:
+            xmin = 72.6
+            xmax = 72.8
+            text = ""
+        intervals [26]:
+            xmin = 72.8
+            xmax = 74.6
+            text = "Okay."
+        intervals [27]:
+            xmin = 74.6
+            xmax = 76.8
+            text = ""
+        intervals [28]:
+            xmin = 76.8
+            xmax = 79.6
+            text = "It is, I, I just joined aerospace so."
+        intervals [29]:
+            xmin = 79.6
+            xmax = 79.8
+            text = ""
+        intervals [30]:
+            xmin = 79.8
+            xmax = 82.6
+            text = "I'm finishing mech [phonetic] E and I'm starting aero this, this quarter."
+        intervals [31]:
+            xmin = 82.6
+            xmax = 83.8
+            text = ""
+        intervals [32]:
+            xmin = 83.8
+            xmax = 90.6
+            text = "And then I, I walk this, you know, at the end of the quarter, so I'm really excited about that to get one degree over. "
+        intervals [33]:
+            xmin = 90.6
+            xmax = 91.8
+            text = ""
+        intervals [34]:
+            xmin = 91.8
+            xmax = 102.6
+            text = "Oh, well sorry, I, I meant I'm going to finish my degree in mechanical engineering at the end of this quarter.  And so I officially start aerospace next year.  But I'm starting anyway this quarter to get some classes out of the way."
+        intervals [35]:
+            xmin = 102.6
+            xmax = 103.8
+            text = ""
+        intervals [36]:
+            xmin = 103.8
+            xmax = 104.6
+            text = "What are you studying?"
+        intervals [37]:
+            xmin = 104.6
+            xmax = 104.8
+            text = ""
+        intervals [38]:
+            xmin = 104.8
+            xmax = 106.6
+            text = "Law, oh, okay."
+        intervals [39]:
+            xmin = 106.6
+            xmax = 106.8
+            text = ""
+        intervals [40]:
+            xmin = 106.8
+            xmax = 108.6
+            text = "Great, so what year are you?"
+        intervals [41]:
+            xmin = 108.6
+            xmax = 109.8
+            text = ""
+        intervals [42]:
+            xmin = 109.8
+            xmax = 112.6
+            text = "Law is, is that a three year program?"
+        intervals [43]:
+            xmin = 112.6
+            xmax = 112.6
+            text = "Okay, okay."
+        intervals [44]:
+            xmin = 112.6
+            xmax = 112.8
+            text = ""
+        intervals [45]:
+            xmin = 112.8
+            xmax = 114.6
+            text = "Do you know what you want to do afterwards?"
+        intervals [46]:
+            xmin = 114.6
+            xmax = 115.8
+            text = ""
+        intervals [47]:
+            xmin = 115.8
+            xmax = 117.6
+            text = "In New York, wow, that's exciting."
+        intervals [48]:
+            xmin = 117.6
+            xmax = 123.8
+            text = ""
+        intervals [49]:
+            xmin = 123.8
+            xmax = 127.6
+            text = "Right, oh wow.  Did you practice debate in high school?"
+        intervals [50]:
+            xmin = 127.6
+            xmax = 130.8
+            text = ""
+        intervals [51]:
+            xmin = 130.8
+            xmax = 132.6
+            text = "Oh, I see, I see."
+        intervals [52]:
+            xmin = 132.6
+            xmax = 133.8
+            text = ""
+        intervals [53]:
+            xmin = 133.8
+            xmax = 135.6
+            text = "Right."
+        intervals [54]:
+            xmin = 135.6
+            xmax = 135.8
+            text = ""
+        intervals [55]:
+            xmin = 135.8
+            xmax = 138.6
+            text = "Yeah, I, I did debate for two years in high school."
+        intervals [56]:
+            xmin = 138.6
+            xmax = 138.8
+            text = ""
+        intervals [57]:
+            xmin = 138.8
+            xmax = 140.6
+            text = "I had a really good time."
+        intervals [58]:
+            xmin = 140.6
+            xmax = 141.8
+            text = ""
+        intervals [59]:
+            xmin = 141.8
+            xmax = 150.6
+            text = "My partner and I weren't the best debaters [laughter].  But I mean we had, we, we were having a lot of fun."
+        intervals [60]:
+            xmin = 150.6
+            xmax = 189.8
+            text = ""
+        intervals [61]:
+            xmin = 189.8
+            xmax = 190.6
+            text = "I see."
+        intervals [62]:
+            xmin = 190.6
+            xmax = 190.8
+            text = ""
+        intervals [63]:
+            xmin = 190.8
+            xmax = 192.6
+            text = "[interposing] Where did you, where did you, what was your hometown?"
+        intervals [64]:
+            xmin = 192.6
+            xmax = 193.8
+            text = ""
+        intervals [65]:
+            xmin = 193.8
+            xmax = 195.6
+            text = "Oh, okay close by."
+        intervals [66]:
+            xmin = 195.6
+            xmax = 196.6
+            text = "Cool."
+        intervals [67]:
+            xmin = 196.6
+            xmax = 198.8
+            text = ""
+        intervals [68]:
+            xmin = 198.8
+            xmax = 205.6
+            text = "Yeah.  Yeah, I was in high school and there was a lot of cheating too.  It's, it was competitive and people always wanted the edge."
+        intervals [69]:
+            xmin = 205.6
+            xmax = 207.8
+            text = ""
+        intervals [70]:
+            xmin = 207.8
+            xmax = 209.6
+            text = "Yeah.  Nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 210.6
+intervals: size = 67
+        intervals [1]:
+            xmin = 1.6
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 3.6
+            text = "I probably should, sorry."
+        intervals [3]:
+            xmin = 3.6
+            xmax = 8.8
+            text = ""
+        intervals [4]:
+            xmin = 8.8
+            xmax = 10.6
+            text = "Chinese."
+        intervals [5]:
+            xmin = 10.6
+            xmax = 10.8
+            text = ""
+        intervals [6]:
+            xmin = 10.8
+            xmax = 17.6
+            text = "Um, well, my mom is from northern China and my dad is from Southern, so it kind of, kind of [unintelligible] [laughter]."
+        intervals [7]:
+            xmin = 17.6
+            xmax = 19.8
+            text = ""
+        intervals [8]:
+            xmin = 19.8
+            xmax = 26.6
+            text = "Yeah, my, both of my parents speak Mandarin.  My mom speaks Taiwanese and my dad speaks Cantonese."
+        intervals [9]:
+            xmin = 26.6
+            xmax = 28.8
+            text = ""
+        intervals [10]:
+            xmin = 28.8
+            xmax = 31.6
+            text = "No, my dad is, yeah."
+        intervals [11]:
+            xmin = 31.6
+            xmax = 32.8
+            text = ""
+        intervals [12]:
+            xmin = 32.8
+            xmax = 44.6
+            text = "[laughter] no, no, no, no, it's, I'm mean, it's not even like completely accurate because my parents um moved to China, or, or moved to Taiwan when they were like really, really young and so [laughter]."
+        intervals [13]:
+            xmin = 44.6
+            xmax = 46.6
+            text = "Like my mom, you know has never really seen China."
+        intervals [14]:
+            xmin = 46.6
+            xmax = 47.6
+            text = "How about you, where are you from?"
+        intervals [15]:
+            xmin = 47.6
+            xmax = 58.8
+            text = ""
+        intervals [16]:
+            xmin = 58.8
+            xmax = 61.6
+            text = "Whoa.  Do you know, um, nameX nameX?"
+        intervals [17]:
+            xmin = 61.6
+            xmax = 65.8
+            text = ""
+        intervals [18]:
+            xmin = 65.8
+            xmax = 67.6
+            text = "He's French."
+        intervals [19]:
+            xmin = 67.6
+            xmax = 67.8
+            text = ""
+        intervals [20]:
+            xmin = 67.8
+            xmax = 69.6
+            text = "No, no."
+        intervals [21]:
+            xmin = 69.6
+            xmax = 71.8
+            text = ""
+        intervals [22]:
+            xmin = 71.8
+            xmax = 74.6
+            text = "He's in aerospace [laughter]."
+        intervals [23]:
+            xmin = 74.6
+            xmax = 78.6
+            text = "I just thought it was kind of a smaller discipline, maybe you guys would know each other."
+        intervals [24]:
+            xmin = 78.6
+            xmax = 78.8
+            text = ""
+        intervals [25]:
+            xmin = 78.8
+            xmax = 81.6
+            text = "Oh, okay so you [unintelligible]."
+        intervals [26]:
+            xmin = 81.6
+            xmax = 82.8
+            text = ""
+        intervals [27]:
+            xmin = 82.8
+            xmax = 84.6
+            text = "Oh, okay, cool, cool."
+        intervals [28]:
+            xmin = 84.6
+            xmax = 88.8
+            text = ""
+        intervals [29]:
+            xmin = 88.8
+            xmax = 91.6
+            text = "Oh, you're only going to spend one quarter in aerospace?"
+        intervals [30]:
+            xmin = 91.6
+            xmax = 102.8
+            text = ""
+        intervals [31]:
+            xmin = 102.8
+            xmax = 104.6
+            text = "Oh, well, cool, cool."
+        intervals [32]:
+            xmin = 104.6
+            xmax = 104.8
+            text = ""
+        intervals [33]:
+            xmin = 104.8
+            xmax = 105.6
+            text = "Law."
+        intervals [34]:
+            xmin = 105.6
+            xmax = 105.8
+            text = ""
+        intervals [35]:
+            xmin = 105.8
+            xmax = 108.6
+            text = "I'm going to be a lawyer [laughter]."
+        intervals [36]:
+            xmin = 108.6
+            xmax = 108.8
+            text = ""
+        intervals [37]:
+            xmin = 108.8
+            xmax = 110.6
+            text = "Um, third."
+        intervals [38]:
+            xmin = 110.6
+            xmax = 111.8
+            text = ""
+        intervals [39]:
+            xmin = 111.8
+            xmax = 112.6
+            text = "Yeah."
+        intervals [40]:
+            xmin = 112.6
+            xmax = 112.8
+            text = ""
+        intervals [41]:
+            xmin = 112.8
+            xmax = 114.6
+            text = "So I graduate in two weeks."
+        intervals [42]:
+            xmin = 114.6
+            xmax = 116.6
+            text = "Yeah, I'm going to be an attorney in New York."
+        intervals [43]:
+            xmin = 116.6
+            xmax = 117.8
+            text = ""
+        intervals [44]:
+            xmin = 117.8
+            xmax = 124.6
+            text = "Yeah, yeah, so, I'm going to be a litigator which means that, kind of like the ones that you see on TV, like the people who get up and argue.  That's what litigators do [laughter]."
+        intervals [45]:
+            xmin = 124.6
+            xmax = 127.8
+            text = ""
+        intervals [46]:
+            xmin = 127.8
+            xmax = 132.6
+            text = "Um, no actually I didn't.  I did speech because missed speech and debate and [unintelligible]. "
+        intervals [47]:
+            xmin = 132.6
+            xmax = 132.8
+            text = ""
+        intervals [48]:
+            xmin = 132.8
+            xmax = 134.6
+            text = "They're like two branches of the same thing so."
+        intervals [49]:
+            xmin = 134.6
+            xmax = 134.8
+            text = ""
+        intervals [50]:
+            xmin = 134.8
+            xmax = 136.6
+            text = "[Inaudible]."
+        intervals [51]:
+            xmin = 136.6
+            xmax = 137.8
+            text = ""
+        intervals [52]:
+            xmin = 137.8
+            xmax = 139.6
+            text = "Oh, cool, how did you--"
+        intervals [53]:
+            xmin = 139.6
+            xmax = 139.8
+            text = ""
+        intervals [54]:
+            xmin = 139.8
+            xmax = 141.6
+            text = "Oh, awesome, awesome."
+        intervals [55]:
+            xmin = 141.6
+            xmax = 149.8
+            text = ""
+        intervals [56]:
+            xmin = 149.8
+            xmax = 189.6
+            text = "Yeah, I know, I mean, that's what high schools all about.  Like I think high school these days like there's way too much pressure on kids to like [laughter] do these like amazing things.  And you're only like 16 years old; you're just like, um.  Yeah, um, that's not really realistic um, but I mean I guess it's like the drive to get into a good college like [laughter].  It's kind of sad really because the high school that I went to was like a, a competitive one and um, after I left actually they had this cheating scandal.  And usually when you think of people cheating you think that it's, you know people who are like, getting F's and you just want to get a C.  But like, it's actually like kids who were getting B's who were changing their grades to A's.  And so it's just like, you know what does that say, you know [laughter]."
+        intervals [57]:
+            xmin = 189.6
+            xmax = 189.8
+            text = ""
+        intervals [58]:
+            xmin = 189.8
+            xmax = 191.6
+            text = "That like--"
+        intervals [59]:
+            xmin = 191.6
+            xmax = 192.8
+            text = ""
+        intervals [60]:
+            xmin = 192.8
+            xmax = 194.6
+            text = "San Jose."
+        intervals [61]:
+            xmin = 194.6
+            xmax = 195.6
+            text = "So, yeah."
+        intervals [62]:
+            xmin = 195.6
+            xmax = 196.8
+            text = ""
+        intervals [63]:
+            xmin = 196.8
+            xmax = 198.6
+            text = "It's only like 20 minutes away from here."
+        intervals [64]:
+            xmin = 198.6
+            xmax = 205.8
+            text = ""
+        intervals [65]:
+            xmin = 205.8
+            xmax = 207.6
+            text = "Ah, too bad [laughter]."
+        intervals [66]:
+            xmin = 207.6
+            xmax = 208.8
+            text = ""
+        intervals [67]:
+            xmin = 208.8
+            xmax = 210.6
+            text = "Yeah, you too."

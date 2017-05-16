@@ -1,0 +1,412 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 19800.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 19800.6
+intervals: size = 50
+        intervals [1]:
+            xmin = 0
+            xmax = 4.8
+            text = ""
+        intervals [2]:
+            xmin = 4.8
+            xmax = 5.6
+            text = "Hi."
+        intervals [3]:
+            xmin = 5.6
+            xmax = 5.8
+            text = ""
+        intervals [4]:
+            xmin = 5.8
+            xmax = 7.6
+            text = "Fine.  How are you?  "
+        intervals [5]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 8.6
+            text = "Uh, [unintelligible]."
+        intervals [7]:
+            xmin = 8.6
+            xmax = 8.8
+            text = ""
+        intervals [8]:
+            xmin = 8.8
+            xmax = 9.6
+            text = "[unintelligible]."
+        intervals [9]:
+            xmin = 9.6
+            xmax = 13.8
+            text = ""
+        intervals [10]:
+            xmin = 13.8
+            xmax = 15.6
+            text = "I see you have only one C in it?  "
+        intervals [11]:
+            xmin = 15.6
+            xmax = 23.8
+            text = ""
+        intervals [12]:
+            xmin = 23.8
+            xmax = 25.6
+            text = "Did you grow up there?"
+        intervals [13]:
+            xmin = 25.6
+            xmax = 27.8
+            text = ""
+        intervals [14]:
+            xmin = 27.8
+            xmax = 28.6
+            text = "Which city?"
+        intervals [15]:
+            xmin = 28.6
+            xmax = 44.8
+            text = ""
+        intervals [16]:
+            xmin = 44.8
+            xmax = 46.6
+            text = "Buenos Aires.  "
+        intervals [17]:
+            xmin = 46.6
+            xmax = 48.8
+            text = ""
+        intervals [18]:
+            xmin = 48.8
+            xmax = 50.6
+            text = "China.  "
+        intervals [19]:
+            xmin = 50.6
+            xmax = 51.8
+            text = ""
+        intervals [20]:
+            xmin = 51.8
+            xmax = 55.6
+            text = "Um, I'm doing a Ph.D. in physics here.  "
+        intervals [21]:
+            xmin = 55.6
+            xmax = 56.8
+            text = ""
+        intervals [22]:
+            xmin = 56.8
+            xmax = 62.6
+            text = "Uh, [unintelligible] there's no science lab, so I'm doing microphysics.  "
+        intervals [23]:
+            xmin = 62.6
+            xmax = 65.8
+            text = ""
+        intervals [24]:
+            xmin = 65.8
+            xmax = 93.6
+            text = "Uh, I work on combining two [unintelligible] systems to have a hybrid system.  One is MR and the other one is X-Ray, um, so, um, by having a hybrid system some [unintelligible] procedures can benefit from such a system.  My work is to understand how the systems will deal with each other and, uh, trying to come up with a solution for them. "
+        intervals [25]:
+            xmin = 93.6
+            xmax = 95.8
+            text = ""
+        intervals [26]:
+            xmin = 95.8
+            xmax = 101.6
+            text = "Uh, I've been here for more than five years, so.  In about five years.  "
+        intervals [27]:
+            xmin = 101.6
+            xmax = 104.8
+            text = ""
+        intervals [28]:
+            xmin = 104.8
+            xmax = 116.6
+            text = "I'm trying to find a job in research lab, uh, a big company.  So I'd like to work on research.    "
+        intervals [29]:
+            xmin = 116.6
+            xmax = 117.8
+            text = ""
+        intervals [30]:
+            xmin = 117.8
+            xmax = 122.6
+            text = "Uh, like, G.E. or Phillips, Siemens."
+        intervals [31]:
+            xmin = 122.6
+            xmax = 125.8
+            text = ""
+        intervals [32]:
+            xmin = 125.8
+            xmax = 131.6
+            text = "Um, they also have some research labs here in the States.  "
+        intervals [33]:
+            xmin = 131.6
+            xmax = 133.8
+            text = ""
+        intervals [34]:
+            xmin = 133.8
+            xmax = 135.6
+            text = "You should come to [unintelligible]."
+        intervals [35]:
+            xmin = 135.6
+            xmax = 139.8
+            text = ""
+        intervals [36]:
+            xmin = 139.8
+            xmax = 141.6
+            text = "IPER?  "
+        intervals [37]:
+            xmin = 141.6
+            xmax = 163.8
+            text = ""
+        intervals [38]:
+            xmin = 163.8
+            xmax = 165.6
+            text = "A lot of work.  "
+        intervals [39]:
+            xmin = 165.6
+            xmax = 166.8
+            text = ""
+        intervals [40]:
+            xmin = 166.8
+            xmax = 170.6
+            text = "You don't have much time for fun.  "
+        intervals [41]:
+            xmin = 170.6
+            xmax = 183.8
+            text = ""
+        intervals [42]:
+            xmin = 183.8
+            xmax = 184.6
+            text = "Right.  "
+        intervals [43]:
+            xmin = 184.6
+            xmax = 184.8
+            text = ""
+        intervals [44]:
+            xmin = 184.8
+            xmax = 187.6
+            text = "Do you tend to go back home in the summer?  "
+        intervals [45]:
+            xmin = 187.6
+            xmax = 199.8
+            text = ""
+        intervals [46]:
+            xmin = 199.8
+            xmax = 202.6
+            text = "So it's winter in Argentina right now.  "
+        intervals [47]:
+            xmin = 202.6
+            xmax = 232.8
+            text = ""
+        intervals [48]:
+            xmin = 232.8
+            xmax = 238.6
+            text = "Yeah, we do not have a lot of rain here in the summer.  Rain is, uh, is mostly in the winter.    "
+        intervals [49]:
+            xmin = 238.6
+            xmax = 245.8
+            text = ""
+        intervals [50]:
+            xmin = 245.8
+            xmax = 247.6
+            text = "Very nice to meet you.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 19800.6
+intervals: size = 48
+        intervals [1]:
+            xmin = 4.535
+            xmax = 6.335
+            text = "Hi.  How are you?  "
+        intervals [2]:
+            xmin = 6.335
+            xmax = 6.535
+            text = ""
+        intervals [3]:
+            xmin = 6.535
+            xmax = 8.335
+            text = "How do you pronounce your name?  "
+        intervals [4]:
+            xmin = 8.335
+            xmax = 8.535
+            text = ""
+        intervals [5]:
+            xmin = 8.535
+            xmax = 10.335
+            text = "[unintelligible]?"
+        intervals [6]:
+            xmin = 10.335
+            xmax = 12.335
+            text = "I'm female330.  Nice to meet you.  "
+        intervals [7]:
+            xmin = 12.335
+            xmax = 15.535
+            text = ""
+        intervals [8]:
+            xmin = 15.535
+            xmax = 23.335
+            text = "Oh, yeah, you noticed. Um, it's Spanish.  I'm from Argentina.  So in Spanish you write female330 with only one C."
+        intervals [9]:
+            xmin = 23.335
+            xmax = 25.535
+            text = ""
+        intervals [10]:
+            xmin = 25.535
+            xmax = 27.335
+            text = "Hm?  I'm sorry?  "
+        intervals [11]:
+            xmin = 27.335
+            xmax = 29.535
+            text = ""
+        intervals [12]:
+            xmin = 29.535
+            xmax = 45.335
+            text = "In Argentina.  Buenos Aires.  The capital city, yeah.  It's, um, a third of the country lives in Buenos Aires so most likely when you meet somebody from Argentina here in the States, it will be basically, um--"
+        intervals [13]:
+            xmin = 45.335
+            xmax = 46.535
+            text = ""
+        intervals [14]:
+            xmin = 46.535
+            xmax = 48.335
+            text = "Yeah.  That's right.  So you're from?  "
+        intervals [15]:
+            xmin = 48.335
+            xmax = 49.535
+            text = ""
+        intervals [16]:
+            xmin = 49.535
+            xmax = 52.335
+            text = "China.  Okay.  What are you doing here?  "
+        intervals [17]:
+            xmin = 52.335
+            xmax = 54.535
+            text = ""
+        intervals [18]:
+            xmin = 54.535
+            xmax = 56.335
+            text = "Okay.  What lab?  "
+        intervals [19]:
+            xmin = 56.335
+            xmax = 61.535
+            text = ""
+        intervals [20]:
+            xmin = 61.535
+            xmax = 66.335
+            text = "Oh, medical firms.  That's interesting.  So what are you working on?  "
+        intervals [21]:
+            xmin = 66.335
+            xmax = 92.535
+            text = ""
+        intervals [22]:
+            xmin = 92.535
+            xmax = 95.335
+            text = "Okay.  Oh, what year are you?  "
+        intervals [23]:
+            xmin = 95.335
+            xmax = 99.535
+            text = ""
+        intervals [24]:
+            xmin = 99.535
+            xmax = 104.335
+            text = "Okay.  And, uh, academia or English [unintelligible]?"
+        intervals [25]:
+            xmin = 104.335
+            xmax = 114.535
+            text = ""
+        intervals [26]:
+            xmin = 114.535
+            xmax = 118.335
+            text = "Okay.  Like which companies would have enough [unintelligible]?  "
+        intervals [27]:
+            xmin = 118.335
+            xmax = 121.535
+            text = ""
+        intervals [28]:
+            xmin = 121.535
+            xmax = 126.335
+            text = "Okay.  You should go to Germany and Siemens.  "
+        intervals [29]:
+            xmin = 126.335
+            xmax = 130.535
+            text = ""
+        intervals [30]:
+            xmin = 130.535
+            xmax = 132.335
+            text = "I know.  "
+        intervals [31]:
+            xmin = 132.335
+            xmax = 135.535
+            text = ""
+        intervals [32]:
+            xmin = 135.535
+            xmax = 139.335
+            text = "I'm in a program called IPER, I-P-E-R.  "
+        intervals [33]:
+            xmin = 139.335
+            xmax = 139.535
+            text = ""
+        intervals [34]:
+            xmin = 139.535
+            xmax = 164.335
+            text = "Yeah.  It's within the earth sciences department and IPER stands for Interdisciplinary Program in Environment and Resources.  So I work with water projects in developing countries.  Um, and I study social entrepreneurship.  So...  Second year, getting my proposal ready so it's kind of stressful now.  "
+        intervals [35]:
+            xmin = 164.335
+            xmax = 164.535
+            text = ""
+        intervals [36]:
+            xmin = 164.535
+            xmax = 167.335
+            text = "Oh, yeah.  I'm tired.  "
+        intervals [37]:
+            xmin = 167.335
+            xmax = 169.535
+            text = ""
+        intervals [38]:
+            xmin = 169.535
+            xmax = 182.335
+            text = "No.  Not this quarter.  Like, it's been really good up until last quarter, but this quarter has been pretty, you know, work all the time.  But vacation is coming up, right?  "
+        intervals [39]:
+            xmin = 182.335
+            xmax = 182.535
+            text = ""
+        intervals [40]:
+            xmin = 182.535
+            xmax = 184.335
+            text = "It's almost June.  "
+        intervals [41]:
+            xmin = 184.335
+            xmax = 186.535
+            text = ""
+        intervals [42]:
+            xmin = 186.535
+            xmax = 198.335
+            text = "I usually do.  So I'm going to go to Guatemala this summer and then I'm going to go to probably Argentina for a week or something and then work for the rest of the summer in Seattle.  "
+        intervals [43]:
+            xmin = 198.335
+            xmax = 201.535
+            text = ""
+        intervals [44]:
+            xmin = 201.535
+            xmax = 232.335
+            text = "That's right.  Yeah.  So it's a bummer.  I think last year, actually, I spent the whole year in winter because I--when it was summer here I was traveling in South America and in Africa and in both places it was winter.  When I came back I went to Seattle and it rained for all the time, like, every day, every frigging day it rained.  So I missed out on summer last year.  Like it really affects me.  I like summer and the beach and, you know, the sun, and no clouds of any kind.  "
+        intervals [45]:
+            xmin = 232.335
+            xmax = 237.535
+            text = ""
+        intervals [46]:
+            xmin = 237.535
+            xmax = 243.335
+            text = "Exactly.  Although the spring [unintelligible] I hate it.  "
+        intervals [47]:
+            xmin = 243.335
+            xmax = 244.535
+            text = ""
+        intervals [48]:
+            xmin = 244.535
+            xmax = 249.335
+            text = "Nice to meet you.  Yeah.  Good luck with your program.  Yeah, have fun.  "

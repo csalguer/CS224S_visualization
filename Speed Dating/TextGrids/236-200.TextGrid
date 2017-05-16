@@ -1,0 +1,392 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 220.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 220.6
+intervals: size = 46
+        intervals [1]:
+            xmin = 0
+            xmax = 1.8
+            text = ""
+        intervals [2]:
+            xmin = 1.8
+            xmax = 2.6
+            text = "Hi, I'm male200.  "
+        intervals [3]:
+            xmin = 2.6
+            xmax = 5.8
+            text = ""
+        intervals [4]:
+            xmin = 5.8
+            xmax = 7.6
+            text = "Nice to meet you.  "
+        intervals [5]:
+            xmin = 7.6
+            xmax = 7.8
+            text = ""
+        intervals [6]:
+            xmin = 7.8
+            xmax = 9.6
+            text = "So how are you enjoying this?  "
+        intervals [7]:
+            xmin = 9.6
+            xmax = 11.8
+            text = ""
+        intervals [8]:
+            xmin = 11.8
+            xmax = 12.6
+            text = "Uh-huh.  "
+        intervals [9]:
+            xmin = 12.6
+            xmax = 13.8
+            text = ""
+        intervals [10]:
+            xmin = 13.8
+            xmax = 15.6
+            text = "Yeah it's a lot of people.  "
+        intervals [11]:
+            xmin = 15.6
+            xmax = 23.8
+            text = ""
+        intervals [12]:
+            xmin = 23.8
+            xmax = 32.6
+            text = "This is the first one I've been to, this and so I've been looking forward to doing this whole thing.  I'm an engineering student.  "
+        intervals [13]:
+            xmin = 32.6
+            xmax = 42.8
+            text = ""
+        intervals [14]:
+            xmin = 42.8
+            xmax = 47.6
+            text = "Wow.   Yeah well it's good to know there's [unintelligible].  "
+        intervals [15]:
+            xmin = 47.6
+            xmax = 47.8
+            text = ""
+        intervals [16]:
+            xmin = 47.8
+            xmax = 48.6
+            text = "How about yourself?  "
+        intervals [17]:
+            xmin = 48.6
+            xmax = 49.8
+            text = ""
+        intervals [18]:
+            xmin = 49.8
+            xmax = 52.6
+            text = "Well [unintelligible].  "
+        intervals [19]:
+            xmin = 52.6
+            xmax = 57.8
+            text = ""
+        intervals [20]:
+            xmin = 57.8
+            xmax = 61.6
+            text = "So how long have you been in the [unintelligible]?  "
+        intervals [21]:
+            xmin = 61.6
+            xmax = 63.8
+            text = ""
+        intervals [22]:
+            xmin = 63.8
+            xmax = 66.6
+            text = "Oh, two more years to go?  "
+        intervals [23]:
+            xmin = 66.6
+            xmax = 77.8
+            text = ""
+        intervals [24]:
+            xmin = 77.8
+            xmax = 88.6
+            text = "So, what do you like to do for fun as an educational project student?  Do you do anything for fun or is it all just study, study, study?  "
+        intervals [25]:
+            xmin = 88.6
+            xmax = 100.8
+            text = ""
+        intervals [26]:
+            xmin = 100.8
+            xmax = 101.6
+            text = "Okay.  "
+        intervals [27]:
+            xmin = 101.6
+            xmax = 104.8
+            text = ""
+        intervals [28]:
+            xmin = 104.8
+            xmax = 116.6
+            text = "Personally I go home myself and relax and watch some TV.  I watch [unintelligible] very not much thought is required.  I work hard in the lab and go home and [unintelligible].  "
+        intervals [29]:
+            xmin = 116.6
+            xmax = 121.8
+            text = ""
+        intervals [30]:
+            xmin = 121.8
+            xmax = 127.6
+            text = "[unintelligible] read the news, see what's out there on the internet, I'm always amazed what's on the internet.  "
+        intervals [31]:
+            xmin = 127.6
+            xmax = 141.8
+            text = ""
+        intervals [32]:
+            xmin = 141.8
+            xmax = 148.6
+            text = "But you know, sometimes you have to waste that time just to relax so that you can do really good the next day.  "
+        intervals [33]:
+            xmin = 148.6
+            xmax = 149.8
+            text = ""
+        intervals [34]:
+            xmin = 149.8
+            xmax = 150.6
+            text = "Too much work just wears you down.  "
+        intervals [35]:
+            xmin = 150.6
+            xmax = 153.8
+            text = ""
+        intervals [36]:
+            xmin = 153.8
+            xmax = 156.6
+            text = "No, no, well you can try, but it doesn't work very well.  "
+        intervals [37]:
+            xmin = 156.6
+            xmax = 158.8
+            text = ""
+        intervals [38]:
+            xmin = 158.8
+            xmax = 183.6
+            text = "Let's see, I grew up in Colorado on a farm, so a lot of little of no where, I came out here, so a small family, I have a brother and a sister.  I really enjoy it out here, the weather is nice.  I really like the people I work with here and [unintelligible].  How about yourself?  "
+        intervals [39]:
+            xmin = 183.6
+            xmax = 187.8
+            text = ""
+        intervals [40]:
+            xmin = 187.8
+            xmax = 189.6
+            text = "Yeah.  "
+        intervals [41]:
+            xmin = 189.6
+            xmax = 197.8
+            text = ""
+        intervals [42]:
+            xmin = 197.8
+            xmax = 204.6
+            text = "Been to any good movies?  Like you said you like to go, have you see any good movies lately?  Can you recommend any movies?  "
+        intervals [43]:
+            xmin = 204.6
+            xmax = 207.8
+            text = ""
+        intervals [44]:
+            xmin = 207.8
+            xmax = 210.6
+            text = "Was it good?  I haven't seen it.  "
+        intervals [45]:
+            xmin = 210.6
+            xmax = 212.8
+            text = ""
+        intervals [46]:
+            xmin = 212.8
+            xmax = 216.6
+            text = "I really enjoy 'Shrek', 'Shrek II' and all of that.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 220.6
+intervals: size = 47
+        intervals [1]:
+            xmin = 0.8
+            xmax = 1.6
+            text = "Hi.  "
+        intervals [2]:
+            xmin = 1.6
+            xmax = 2.8
+            text = ""
+        intervals [3]:
+            xmin = 2.8
+            xmax = 4.6
+            text = "female236.  "
+        intervals [4]:
+            xmin = 4.6
+            xmax = 6.8
+            text = ""
+        intervals [5]:
+            xmin = 6.8
+            xmax = 8.6
+            text = "Nice to meet you.  "
+        intervals [6]:
+            xmin = 8.6
+            xmax = 10.8
+            text = ""
+        intervals [7]:
+            xmin = 10.8
+            xmax = 12.6
+            text = "Frankly speaking?  "
+        intervals [8]:
+            xmin = 12.6
+            xmax = 12.8
+            text = ""
+        intervals [9]:
+            xmin = 12.8
+            xmax = 14.6
+            text = "I'm getting a bit tired.  "
+        intervals [10]:
+            xmin = 14.6
+            xmax = 17.8
+            text = ""
+        intervals [11]:
+            xmin = 17.8
+            xmax = 23.6
+            text = "So, but now after break I'm better, yeah [laughter].  "
+        intervals [12]:
+            xmin = 23.6
+            xmax = 32.8
+            text = ""
+        intervals [13]:
+            xmin = 32.8
+            xmax = 42.6
+            text = "Oh, lots of engineering, it's like electronic engineering, computer science, chemical engineering, geophysics.  "
+        intervals [14]:
+            xmin = 42.6
+            xmax = 46.8
+            text = ""
+        intervals [15]:
+            xmin = 46.8
+            xmax = 47.6
+            text = "Yeah really.  "
+        intervals [16]:
+            xmin = 47.6
+            xmax = 48.8
+            text = ""
+        intervals [17]:
+            xmin = 48.8
+            xmax = 50.6
+            text = "I'm in education.  "
+        intervals [18]:
+            xmin = 50.6
+            xmax = 53.8
+            text = ""
+        intervals [19]:
+            xmin = 53.8
+            xmax = 56.6
+            text = "And yeah I know lots of people in education in this room.  "
+        intervals [20]:
+            xmin = 56.6
+            xmax = 61.8
+            text = ""
+        intervals [21]:
+            xmin = 61.8
+            xmax = 63.6
+            text = "This is my second year.	"
+        intervals [22]:
+            xmin = 63.6
+            xmax = 65.8
+            text = ""
+        intervals [23]:
+            xmin = 65.8
+            xmax = 74.6
+            text = "Yeah, no, no, no that's my ambitious plan.  But like if I do slower, I will do like three years.  "
+        intervals [24]:
+            xmin = 74.6
+            xmax = 88.8
+            text = ""
+        intervals [25]:
+            xmin = 88.8
+            xmax = 100.6
+            text = "No way, I can't study all the time [laughter].  So I do like -- but what I do is nothing special.  "
+        intervals [26]:
+            xmin = 100.6
+            xmax = 100.8
+            text = ""
+        intervals [27]:
+            xmin = 100.8
+            xmax = 103.6
+            text = "Just like watch movies and --  "
+        intervals [28]:
+            xmin = 103.6
+            xmax = 116.8
+            text = ""
+        intervals [29]:
+            xmin = 116.8
+            xmax = 121.6
+            text = "I -- oh right, I sometimes just browse the websites.  I just [unintelligible] [laughter].  "
+        intervals [30]:
+            xmin = 121.6
+            xmax = 127.8
+            text = ""
+        intervals [31]:
+            xmin = 127.8
+            xmax = 142.6
+            text = "[laughter] yeah, so but sometimes I feel like we spend too much time like looking at the websites, like whom married whom, Britney's having a baby [laughter].  "
+        intervals [32]:
+            xmin = 142.6
+            xmax = 147.8
+            text = ""
+        intervals [33]:
+            xmin = 147.8
+            xmax = 150.6
+            text = "Yeah that's true, yeah.  "
+        intervals [34]:
+            xmin = 150.6
+            xmax = 150.8
+            text = ""
+        intervals [35]:
+            xmin = 150.8
+            xmax = 153.6
+            text = "Exactly, like you can't work all the time right?  "
+        intervals [36]:
+            xmin = 153.6
+            xmax = 155.8
+            text = ""
+        intervals [37]:
+            xmin = 155.8
+            xmax = 158.6
+            text = "[laughter].  "
+        intervals [38]:
+            xmin = 158.6
+            xmax = 183.8
+            text = ""
+        intervals [39]:
+            xmin = 183.8
+            xmax = 188.6
+            text = "I'm an education major.  "
+        intervals [40]:
+            xmin = 188.6
+            xmax = 189.8
+            text = ""
+        intervals [41]:
+            xmin = 189.8
+            xmax = 195.6
+            text = "And I'm -- yeah second --   "
+        intervals [42]:
+            xmin = 195.6
+            xmax = 204.8
+            text = ""
+        intervals [43]:
+            xmin = 204.8
+            xmax = 208.6
+            text = "Well the list of movies, 'Robots'.  "
+        intervals [44]:
+            xmin = 208.6
+            xmax = 209.8
+            text = ""
+        intervals [45]:
+            xmin = 209.8
+            xmax = 212.6
+            text = "I like cartoon movies you know.  "
+        intervals [46]:
+            xmin = 212.6
+            xmax = 217.8
+            text = ""
+        intervals [47]:
+            xmin = 217.8
+            xmax = 220.6
+            text = "So yeah -- very nice to meet you."

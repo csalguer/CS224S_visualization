@@ -1,0 +1,592 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 253.043
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 253.043
+intervals: size = 70
+        intervals [1]:
+            xmin = 0
+            xmax = 0.243
+            text = ""
+        intervals [2]:
+            xmin = 0.243
+            xmax = 1.043
+            text = "Hello. "
+        intervals [3]:
+            xmin = 1.043
+            xmax = 4.243
+            text = ""
+        intervals [4]:
+            xmin = 4.243
+            xmax = 5.043
+            text = "nameX. "
+        intervals [5]:
+            xmin = 5.043
+            xmax = 9.243
+            text = ""
+        intervals [6]:
+            xmin = 9.243
+            xmax = 12.043
+            text = "It's been fun. I'm liking it. "
+        intervals [7]:
+            xmin = 12.043
+            xmax = 16.243
+            text = ""
+        intervals [8]:
+            xmin = 16.243
+            xmax = 17.043
+            text = "[unintelligible]  "
+        intervals [9]:
+            xmin = 17.043
+            xmax = 18.243
+            text = ""
+        intervals [10]:
+            xmin = 18.243
+            xmax = 19.043
+            text = "Let's not do this.   "
+        intervals [11]:
+            xmin = 19.043
+            xmax = 21.243
+            text = ""
+        intervals [12]:
+            xmin = 21.243
+            xmax = 23.043
+            text = "What's more important, body or brains?  "
+        intervals [13]:
+            xmin = 23.043
+            xmax = 25.243
+            text = ""
+        intervals [14]:
+            xmin = 25.243
+            xmax = 31.043
+            text = "What's more important, rank this personality, brains, body.  "
+        intervals [15]:
+            xmin = 31.043
+            xmax = 31.243
+            text = ""
+        intervals [16]:
+            xmin = 31.243
+            xmax = 33.043
+            text = "In order of importance.  "
+        intervals [17]:
+            xmin = 33.043
+            xmax = 47.243
+            text = ""
+        intervals [18]:
+            xmin = 47.243
+            xmax = 48.043
+            text = "Just answer the question, damn it.   "
+        intervals [19]:
+            xmin = 48.043
+            xmax = 53.243
+            text = ""
+        intervals [20]:
+            xmin = 53.243
+            xmax = 54.043
+            text = "Wow.  "
+        intervals [21]:
+            xmin = 54.043
+            xmax = 54.243
+            text = ""
+        intervals [22]:
+            xmin = 54.243
+            xmax = 55.043
+            text = "That's a very PC answer.  "
+        intervals [23]:
+            xmin = 55.043
+            xmax = 67.243
+            text = ""
+        intervals [24]:
+            xmin = 67.243
+            xmax = 70.043
+            text = "I think it's a package, but I'm asking the questions here.  "
+        intervals [25]:
+            xmin = 70.043
+            xmax = 74.243
+            text = ""
+        intervals [26]:
+            xmin = 74.243
+            xmax = 76.043
+            text = "Because I'm being assertive.  Um--"
+        intervals [27]:
+            xmin = 76.043
+            xmax = 79.243
+            text = ""
+        intervals [28]:
+            xmin = 79.243
+            xmax = 80.043
+            text = "Uh--"
+        intervals [29]:
+            xmin = 80.043
+            xmax = 81.243
+            text = ""
+        intervals [30]:
+            xmin = 81.243
+            xmax = 86.043
+            text = "Uh, definitely for me, personality, body, attractive, body and [unintelligible]. "
+        intervals [31]:
+            xmin = 86.043
+            xmax = 88.243
+            text = ""
+        intervals [32]:
+            xmin = 88.243
+            xmax = 89.043
+            text = "Yeah.  "
+        intervals [33]:
+            xmin = 89.043
+            xmax = 96.243
+            text = ""
+        intervals [34]:
+            xmin = 96.243
+            xmax = 99.043
+            text = "When was the last relationship you were in? "
+        intervals [35]:
+            xmin = 99.043
+            xmax = 103.243
+            text = ""
+        intervals [36]:
+            xmin = 103.243
+            xmax = 104.043
+            text = "How long was that relationship? "
+        intervals [37]:
+            xmin = 104.043
+            xmax = 109.243
+            text = ""
+        intervals [38]:
+            xmin = 109.243
+            xmax = 115.043
+            text = "I have been in and out of a relationship for eight months.  "
+        intervals [39]:
+            xmin = 115.043
+            xmax = 116.243
+            text = ""
+        intervals [40]:
+            xmin = 116.243
+            xmax = 117.043
+            text = "I just got out of it. "
+        intervals [41]:
+            xmin = 117.043
+            xmax = 118.243
+            text = ""
+        intervals [42]:
+            xmin = 118.243
+            xmax = 123.043
+            text = "Nah.  I broke up before tonight and I just had to quit.   "
+        intervals [43]:
+            xmin = 123.043
+            xmax = 124.243
+            text = ""
+        intervals [44]:
+            xmin = 124.243
+            xmax = 125.043
+            text = "[laughter] "
+        intervals [45]:
+            xmin = 125.043
+            xmax = 130.243
+            text = ""
+        intervals [46]:
+            xmin = 130.243
+            xmax = 132.043
+            text = "Would you date someone at the business school? "
+        intervals [47]:
+            xmin = 132.043
+            xmax = 134.243
+            text = ""
+        intervals [48]:
+            xmin = 134.243
+            xmax = 139.043
+            text = "Have you been interested in people at the business school before?  Have you dated at the business school?  "
+        intervals [49]:
+            xmin = 139.043
+            xmax = 148.243
+            text = ""
+        intervals [50]:
+            xmin = 148.243
+            xmax = 149.043
+            text = "A lie.   "
+        intervals [51]:
+            xmin = 149.043
+            xmax = 167.243
+            text = ""
+        intervals [52]:
+            xmin = 167.243
+            xmax = 170.043
+            text = "I've dated at the GSB.  It's a horrible idea.   "
+        intervals [53]:
+            xmin = 170.043
+            xmax = 179.243
+            text = ""
+        intervals [54]:
+            xmin = 179.243
+            xmax = 180.043
+            text = "Everyone talks.  "
+        intervals [55]:
+            xmin = 180.043
+            xmax = 186.243
+            text = ""
+        intervals [56]:
+            xmin = 186.243
+            xmax = 187.043
+            text = "What difference does it make?  "
+        intervals [57]:
+            xmin = 187.043
+            xmax = 187.243
+            text = ""
+        intervals [58]:
+            xmin = 187.243
+            xmax = 188.043
+            text = "What does the real difference that it makes to them? "
+        intervals [59]:
+            xmin = 188.043
+            xmax = 200.243
+            text = ""
+        intervals [60]:
+            xmin = 200.243
+            xmax = 203.043
+            text = "You should not give a shit.   "
+        intervals [61]:
+            xmin = 203.043
+            xmax = 207.243
+            text = ""
+        intervals [62]:
+            xmin = 207.243
+            xmax = 209.043
+            text = "Why haven't you dated--why haven't you been in a relationship since college?  "
+        intervals [63]:
+            xmin = 209.043
+            xmax = 209.243
+            text = ""
+        intervals [64]:
+            xmin = 209.243
+            xmax = 213.043
+            text = "Oh I see.  How long ago was college?  "
+        intervals [65]:
+            xmin = 213.043
+            xmax = 215.243
+            text = ""
+        intervals [66]:
+            xmin = 215.243
+            xmax = 216.043
+            text = "Wow.  "
+        intervals [67]:
+            xmin = 216.043
+            xmax = 220.243
+            text = ""
+        intervals [68]:
+            xmin = 220.243
+            xmax = 223.043
+            text = "Why do you feel like you need to be out? Maybe you should just be the master.  "
+        intervals [69]:
+            xmin = 223.043
+            xmax = 246.243
+            text = ""
+        intervals [70]:
+            xmin = 246.243
+            xmax = 248.043
+            text = "You're a great test, just do it.  I'm serious.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 253.043
+intervals: size = 73
+        intervals [1]:
+            xmin = 1.243
+            xmax = 2.043
+            text = "The buzzer hasn't gone--"
+        intervals [2]:
+            xmin = 2.043
+            xmax = 3.243
+            text = ""
+        intervals [3]:
+            xmin = 3.243
+            xmax = 4.043
+            text = "All right. "
+        intervals [4]:
+            xmin = 4.043
+            xmax = 5.243
+            text = ""
+        intervals [5]:
+            xmin = 5.243
+            xmax = 9.043
+            text = "So how's it going?  Have you met any cool people?  Has it been worth your while? "
+        intervals [6]:
+            xmin = 9.043
+            xmax = 12.243
+            text = ""
+        intervals [7]:
+            xmin = 12.243
+            xmax = 16.043
+            text = "It moves really fast.  I'm just like mid-story and then--"
+        intervals [8]:
+            xmin = 16.043
+            xmax = 17.243
+            text = ""
+        intervals [9]:
+            xmin = 17.243
+            xmax = 18.043
+            text = "What? "
+        intervals [10]:
+            xmin = 18.043
+            xmax = 19.243
+            text = ""
+        intervals [11]:
+            xmin = 19.243
+            xmax = 21.043
+            text = "No, right.  "
+        intervals [12]:
+            xmin = 21.043
+            xmax = 23.243
+            text = ""
+        intervals [13]:
+            xmin = 23.243
+            xmax = 25.043
+            text = "Say it again?  What's more important? "
+        intervals [14]:
+            xmin = 25.043
+            xmax = 31.243
+            text = ""
+        intervals [15]:
+            xmin = 31.243
+            xmax = 32.043
+            text = "Mm.  "
+        intervals [16]:
+            xmin = 32.043
+            xmax = 33.243
+            text = ""
+        intervals [17]:
+            xmin = 33.243
+            xmax = 47.043
+            text = "Personality, hmm., well like body--are we assuming there's minimum standards of like not egregious like, one way or another?  "
+        intervals [18]:
+            xmin = 47.043
+            xmax = 48.243
+            text = ""
+        intervals [19]:
+            xmin = 48.243
+            xmax = 53.043
+            text = "[laughter] All right, so personality, intelligence, body. "
+        intervals [20]:
+            xmin = 53.043
+            xmax = 54.243
+            text = ""
+        intervals [21]:
+            xmin = 54.243
+            xmax = 55.043
+            text = "But it depends. "
+        intervals [22]:
+            xmin = 55.043
+            xmax = 55.243
+            text = ""
+        intervals [23]:
+            xmin = 55.243
+            xmax = 67.043
+            text = "Well, but you said body, and I think that's very male, [laughter], because I say looks is like different then body, in my mind.  Is it different for you?  "
+        intervals [24]:
+            xmin = 67.043
+            xmax = 70.243
+            text = ""
+        intervals [25]:
+            xmin = 70.243
+            xmax = 74.043
+            text = "[laughter] Why are you asking the questions here?  What about you? "
+        intervals [26]:
+            xmin = 74.043
+            xmax = 76.243
+            text = ""
+        intervals [27]:
+            xmin = 76.243
+            xmax = 79.043
+            text = "[laughter] Assertive--well I'll write you right here, check."
+        intervals [28]:
+            xmin = 79.043
+            xmax = 79.243
+            text = ""
+        intervals [29]:
+            xmin = 79.243
+            xmax = 81.043
+            text = "Oh this is the other person."
+        intervals [30]:
+            xmin = 81.043
+            xmax = 86.243
+            text = ""
+        intervals [31]:
+            xmin = 86.243
+            xmax = 88.043
+            text = "Well if you're saying body is like attractiveness too--"
+        intervals [32]:
+            xmin = 88.043
+            xmax = 88.243
+            text = ""
+        intervals [33]:
+            xmin = 88.243
+            xmax = 96.043
+            text = "--just overall attractiveness, I'd rank it in second too.  I agree.  Um, any other burning questions?  "
+        intervals [34]:
+            xmin = 96.043
+            xmax = 99.243
+            text = ""
+        intervals [35]:
+            xmin = 99.243
+            xmax = 103.043
+            text = "It's been a long time.  Damn long time, too long.  College. "
+        intervals [36]:
+            xmin = 103.043
+            xmax = 104.243
+            text = ""
+        intervals [37]:
+            xmin = 104.243
+            xmax = 109.043
+            text = "Short.  [laughter] Two months.  What about you? "
+        intervals [38]:
+            xmin = 109.043
+            xmax = 115.243
+            text = ""
+        intervals [39]:
+            xmin = 115.243
+            xmax = 116.043
+            text = "You're in a relationship right now aren't you?  "
+        intervals [40]:
+            xmin = 116.043
+            xmax = 117.243
+            text = ""
+        intervals [41]:
+            xmin = 117.243
+            xmax = 118.043
+            text = "Admit it.  [laughter] "
+        intervals [42]:
+            xmin = 118.043
+            xmax = 123.243
+            text = ""
+        intervals [43]:
+            xmin = 123.243
+            xmax = 124.043
+            text = "You knew this was coming up, so--"
+        intervals [44]:
+            xmin = 124.043
+            xmax = 125.243
+            text = ""
+        intervals [45]:
+            xmin = 125.243
+            xmax = 130.043
+            text = "--she's waiting in the wings.  [laughter] Um--"
+        intervals [46]:
+            xmin = 130.043
+            xmax = 132.243
+            text = ""
+        intervals [47]:
+            xmin = 132.243
+            xmax = 134.043
+            text = "Would I?  Yeah.  "
+        intervals [48]:
+            xmin = 134.043
+            xmax = 139.243
+            text = ""
+        intervals [49]:
+            xmin = 139.243
+            xmax = 148.043
+            text = "No.  Well the thing is, it's like, it's the fishbowl thing, right?  You know, like everybody knows, everybody talks.  I've heard that the guys have this E-mail list that they send around."
+        intervals [50]:
+            xmin = 148.043
+            xmax = 149.243
+            text = ""
+        intervals [51]:
+            xmin = 149.243
+            xmax = 167.043
+            text = "I have people like confirm, but I've never seen it myself, but it's just, it's hard because it is such a small class that you know, if it's, if it's exploratory dating then--I think exploratory dating is impossible.  But you've been here longer, what do you think?  "
+        intervals [52]:
+            xmin = 167.043
+            xmax = 170.243
+            text = ""
+        intervals [53]:
+            xmin = 170.243
+            xmax = 179.043
+            text = "[laughter] See, my suspicions have been confirmed.   What's horrible about it?  Just because of like what I was saying?  "
+        intervals [54]:
+            xmin = 179.043
+            xmax = 179.243
+            text = ""
+        intervals [55]:
+            xmin = 179.243
+            xmax = 186.043
+            text = "Yeah, it's impossible to go out for like a casual thing and if people see you--"
+        intervals [56]:
+            xmin = 186.043
+            xmax = 186.243
+            text = ""
+        intervals [57]:
+            xmin = 186.243
+            xmax = 187.043
+            text = "--they turn it into something--"
+        intervals [58]:
+            xmin = 187.043
+            xmax = 188.243
+            text = ""
+        intervals [59]:
+            xmin = 188.243
+            xmax = 200.043
+            text = "It doesn't really make a difference but it makes it hard for a relationship to progress naturally because it's like reality TV, it's like public consumption right, so people are turning it into something that it's not, when it's not necessarily at that stage.  "
+        intervals [60]:
+            xmin = 200.043
+            xmax = 203.243
+            text = ""
+        intervals [61]:
+            xmin = 203.243
+            xmax = 207.043
+            text = "I'm not saying I do.  [laughter] I'm saying that this is in general.  I haven't dated.  "
+        intervals [62]:
+            xmin = 207.043
+            xmax = 209.243
+            text = ""
+        intervals [63]:
+            xmin = 209.243
+            xmax = 210.043
+            text = "I haven't been asked.  "
+        intervals [64]:
+            xmin = 210.043
+            xmax = 213.243
+            text = ""
+        intervals [65]:
+            xmin = 213.243
+            xmax = 215.043
+            text = "Long time ago, five years. "
+        intervals [66]:
+            xmin = 215.043
+            xmax = 216.243
+            text = ""
+        intervals [67]:
+            xmin = 216.243
+            xmax = 220.043
+            text = "It's sad isn't it?  Well because I was working in investment banking, and that does not lend itself--"
+        intervals [68]:
+            xmin = 220.043
+            xmax = 223.243
+            text = ""
+        intervals [69]:
+            xmin = 223.243
+            xmax = 236.043
+            text = "[laughter] That's a good point.  Are you my mother?  Did my mother send you here?  [laughter] Um, no I think I'm a, I'm a little bit more reserved in the whole asking--"
+        intervals [70]:
+            xmin = 236.043
+            xmax = 236.243
+            text = ""
+        intervals [71]:
+            xmin = 236.243
+            xmax = 246.043
+            text = "--someone out situation.  I mean it's just hard at the business school, because if like the whole, you know, its get escalated in importance right?  "
+        intervals [72]:
+            xmin = 246.043
+            xmax = 248.243
+            text = ""
+        intervals [73]:
+            xmin = 248.243
+            xmax = 253.043
+            text = "[laughter] I'll see you later."

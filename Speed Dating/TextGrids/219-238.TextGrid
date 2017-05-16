@@ -1,0 +1,712 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 255.981
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 255.981
+intervals: size = 86
+        intervals [1]:
+            xmin = 0
+            xmax = 1.181
+            text = ""
+        intervals [2]:
+            xmin = 1.181
+            xmax = 2.981
+            text = "This should be the last one I think.  "
+        intervals [3]:
+            xmin = 2.981
+            xmax = 7.181
+            text = ""
+        intervals [4]:
+            xmin = 7.181
+            xmax = 7.981
+            text = "I'm male219."
+        intervals [5]:
+            xmin = 7.981
+            xmax = 10.181
+            text = ""
+        intervals [6]:
+            xmin = 10.181
+            xmax = 10.981
+            text = "Hi, how are you?"
+        intervals [7]:
+            xmin = 10.981
+            xmax = 14.181
+            text = ""
+        intervals [8]:
+            xmin = 14.181
+            xmax = 15.981
+            text = "You'll be done.  I'm it, that's it, no more."
+        intervals [9]:
+            xmin = 15.981
+            xmax = 19.181
+            text = ""
+        intervals [10]:
+            xmin = 19.181
+            xmax = 20.981
+            text = "You're not an introvert.  Seriously --"
+        intervals [11]:
+            xmin = 20.981
+            xmax = 22.181
+            text = ""
+        intervals [12]:
+            xmin = 22.181
+            xmax = 23.981
+            text = "Are you, what are your four letters?"
+        intervals [13]:
+            xmin = 23.981
+            xmax = 29.181
+            text = ""
+        intervals [14]:
+            xmin = 29.181
+            xmax = 29.981
+            text = "I mean --"
+        intervals [15]:
+            xmin = 29.981
+            xmax = 34.181
+            text = ""
+        intervals [16]:
+            xmin = 34.181
+            xmax = 35.981
+            text = "P or J, I perceive I don't judge."
+        intervals [17]:
+            xmin = 35.981
+            xmax = 36.181
+            text = ""
+        intervals [18]:
+            xmin = 36.181
+            xmax = 37.981
+            text = "[laughter] you're INFP and I'm ENFP."
+        intervals [19]:
+            xmin = 37.981
+            xmax = 41.181
+            text = ""
+        intervals [20]:
+            xmin = 41.181
+            xmax = 42.981
+            text = "Extroverted, --"
+        intervals [21]:
+            xmin = 42.981
+            xmax = 48.181
+            text = ""
+        intervals [22]:
+            xmin = 48.181
+            xmax = 48.981
+            text = "Possibilities."
+        intervals [23]:
+            xmin = 48.981
+            xmax = 53.181
+            text = ""
+        intervals [24]:
+            xmin = 53.181
+            xmax = 53.981
+            text = "Yeah, I go with feel."
+        intervals [25]:
+            xmin = 53.981
+            xmax = 58.181
+            text = ""
+        intervals [26]:
+            xmin = 58.181
+            xmax = 62.981
+            text = "So you think ENFP is bad -- is a weird one."
+        intervals [27]:
+            xmin = 62.981
+            xmax = 74.181
+            text = ""
+        intervals [28]:
+            xmin = 74.181
+            xmax = 79.981
+            text = "Wow, it seems like you've looked into this quite a bit.  I'm trying myself, I couldn't find whether it was working for me or not."
+        intervals [29]:
+            xmin = 79.981
+            xmax = 81.181
+            text = ""
+        intervals [30]:
+            xmin = 81.181
+            xmax = 84.981
+            text = "But anyways.  So what is this mean, what does --?"
+        intervals [31]:
+            xmin = 84.981
+            xmax = 89.181
+            text = ""
+        intervals [32]:
+            xmin = 89.181
+            xmax = 90.981
+            text = "Okay.  That's very --"
+        intervals [33]:
+            xmin = 90.981
+            xmax = 92.181
+            text = ""
+        intervals [34]:
+            xmin = 92.181
+            xmax = 93.981
+            text = "Okay [laughter]."
+        intervals [35]:
+            xmin = 93.981
+            xmax = 96.181
+            text = ""
+        intervals [36]:
+            xmin = 96.181
+            xmax = 97.981
+            text = "[laughter] I don't have my own, I couldn't tell you."
+        intervals [37]:
+            xmin = 97.981
+            xmax = 99.181
+            text = ""
+        intervals [38]:
+            xmin = 99.181
+            xmax = 105.981
+            text = "No, it's not actually [laughter].  I try to be clever like that, but no I'm not really that clever.  No."
+        intervals [39]:
+            xmin = 105.981
+            xmax = 107.181
+            text = ""
+        intervals [40]:
+            xmin = 107.181
+            xmax = 108.981
+            text = "Ah, yeah, it's Penn, I didn't go there though."
+        intervals [41]:
+            xmin = 108.981
+            xmax = 110.181
+            text = ""
+        intervals [42]:
+            xmin = 110.181
+            xmax = 111.981
+            text = "Where did you go to undergrad?"
+        intervals [43]:
+            xmin = 111.981
+            xmax = 112.181
+            text = ""
+        intervals [44]:
+            xmin = 112.181
+            xmax = 113.981
+            text = "Oh, cool.  Did you like D.C.?"
+        intervals [45]:
+            xmin = 113.981
+            xmax = 114.181
+            text = ""
+        intervals [46]:
+            xmin = 114.181
+            xmax = 115.981
+            text = "Really, okay."
+        intervals [47]:
+            xmin = 115.981
+            xmax = 118.181
+            text = ""
+        intervals [48]:
+            xmin = 118.181
+            xmax = 119.981
+            text = "Is that where you are from?"
+        intervals [49]:
+            xmin = 119.981
+            xmax = 128.181
+            text = ""
+        intervals [50]:
+            xmin = 128.181
+            xmax = 128.981
+            text = "Red state?"
+        intervals [51]:
+            xmin = 128.981
+            xmax = 132.181
+            text = ""
+        intervals [52]:
+            xmin = 132.181
+            xmax = 134.981
+            text = "So you've been to Cincinnati, D.C. and --"
+        intervals [53]:
+            xmin = 134.981
+            xmax = 136.181
+            text = ""
+        intervals [54]:
+            xmin = 136.181
+            xmax = 137.981
+            text = "And out of them all you like D.C., huh?"
+        intervals [55]:
+            xmin = 137.981
+            xmax = 141.181
+            text = ""
+        intervals [56]:
+            xmin = 141.181
+            xmax = 141.981
+            text = "Right, right."
+        intervals [57]:
+            xmin = 141.981
+            xmax = 151.181
+            text = ""
+        intervals [58]:
+            xmin = 151.181
+            xmax = 153.981
+            text = "[laughter] right, right.  Well you know, you never know, he might come along."
+        intervals [59]:
+            xmin = 153.981
+            xmax = 156.181
+            text = ""
+        intervals [60]:
+            xmin = 156.181
+            xmax = 163.981
+            text = "Right, right.  So, what is there to do in D.C. doing this?  I mean I've never stayed in D.C. for a long time."
+        intervals [61]:
+            xmin = 163.981
+            xmax = 176.181
+            text = ""
+        intervals [62]:
+            xmin = 176.181
+            xmax = 177.981
+            text = "Right, right. "
+        intervals [63]:
+            xmin = 177.981
+            xmax = 185.181
+            text = ""
+        intervals [64]:
+            xmin = 185.181
+            xmax = 187.981
+            text = "Right.  And New York is kind of like, you have to go back to your skyscraper, small little apartment."
+        intervals [65]:
+            xmin = 187.981
+            xmax = 195.181
+            text = ""
+        intervals [66]:
+            xmin = 195.181
+            xmax = 195.981
+            text = "Right."
+        intervals [67]:
+            xmin = 195.981
+            xmax = 198.181
+            text = ""
+        intervals [68]:
+            xmin = 198.181
+            xmax = 198.981
+            text = "That's true."
+        intervals [69]:
+            xmin = 198.981
+            xmax = 200.181
+            text = ""
+        intervals [70]:
+            xmin = 200.181
+            xmax = 203.981
+            text = "So then how does Cincinnati compare then to D.C. places, D.C. and here?"
+        intervals [71]:
+            xmin = 203.981
+            xmax = 218.181
+            text = ""
+        intervals [72]:
+            xmin = 218.181
+            xmax = 219.981
+            text = "Not a good place -- not to have fun, no."
+        intervals [73]:
+            xmin = 219.981
+            xmax = 222.181
+            text = ""
+        intervals [74]:
+            xmin = 222.181
+            xmax = 225.981
+            text = "What are the crazy thing you like to do now in your youth?"
+        intervals [75]:
+            xmin = 225.981
+            xmax = 229.181
+            text = ""
+        intervals [76]:
+            xmin = 229.181
+            xmax = 229.981
+            text = "Really."
+        intervals [77]:
+            xmin = 229.981
+            xmax = 231.181
+            text = ""
+        intervals [78]:
+            xmin = 231.181
+            xmax = 232.981
+            text = "Well, what do you like to do [laughter]?"
+        intervals [79]:
+            xmin = 232.981
+            xmax = 239.181
+            text = ""
+        intervals [80]:
+            xmin = 239.181
+            xmax = 244.981
+            text = "Right, right, 401K make sure that you know you're getting the right ROFT, roll-over conversions."
+        intervals [81]:
+            xmin = 244.981
+            xmax = 246.181
+            text = ""
+        intervals [82]:
+            xmin = 246.181
+            xmax = 247.981
+            text = "Right, right [horn]."
+        intervals [83]:
+            xmin = 247.981
+            xmax = 251.181
+            text = ""
+        intervals [84]:
+            xmin = 251.181
+            xmax = 251.981
+            text = "Not a big deal."
+        intervals [85]:
+            xmin = 251.981
+            xmax = 253.181
+            text = ""
+        intervals [86]:
+            xmin = 253.181
+            xmax = 254.981
+            text = "You too, take care."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 255.981
+intervals: size = 87
+        intervals [1]:
+            xmin = 0.181
+            xmax = 0.981
+            text = "Are we almost done?"
+        intervals [2]:
+            xmin = 0.981
+            xmax = 2.181
+            text = ""
+        intervals [3]:
+            xmin = 2.181
+            xmax = 6.981
+            text = "Yeah, that was my first day there [horn] so.  How are you doing?"
+        intervals [4]:
+            xmin = 6.981
+            xmax = 8.181
+            text = ""
+        intervals [5]:
+            xmin = 8.181
+            xmax = 9.981
+            text = "Hi, male219.  I'm female238."
+        intervals [6]:
+            xmin = 9.981
+            xmax = 11.181
+            text = ""
+        intervals [7]:
+            xmin = 11.181
+            xmax = 13.981
+            text = "Okay.  A little overwhelmed with people at this point."
+        intervals [8]:
+            xmin = 13.981
+            xmax = 16.181
+            text = ""
+        intervals [9]:
+            xmin = 16.181
+            xmax = 18.981
+            text = "Okay.  I'm kind of an introvert though.  I can't handle talking this much."
+        intervals [10]:
+            xmin = 18.981
+            xmax = 21.181
+            text = ""
+        intervals [11]:
+            xmin = 21.181
+            xmax = 21.981
+            text = "[unintelligible], definitely."
+        intervals [12]:
+            xmin = 21.981
+            xmax = 24.181
+            text = ""
+        intervals [13]:
+            xmin = 24.181
+            xmax = 28.981
+            text = "INFP, introvert, intuitive --"
+        intervals [14]:
+            xmin = 28.981
+            xmax = 30.181
+            text = ""
+        intervals [15]:
+            xmin = 30.181
+            xmax = 33.981
+            text = "You are?"
+        intervals [16]:
+            xmin = 33.981
+            xmax = 35.181
+            text = ""
+        intervals [17]:
+            xmin = 35.181
+            xmax = 36.981
+            text = "Good [unintelligible]."
+        intervals [18]:
+            xmin = 36.981
+            xmax = 38.181
+            text = ""
+        intervals [19]:
+            xmin = 38.181
+            xmax = 40.981
+            text = "ENFP is kind of a weird combination."
+        intervals [20]:
+            xmin = 40.981
+            xmax = 43.181
+            text = ""
+        intervals [21]:
+            xmin = 43.181
+            xmax = 47.981
+            text = "Intuitive, which intuitive versus sensing which is you focus on possibilities or what's there right then."
+        intervals [22]:
+            xmin = 47.981
+            xmax = 49.181
+            text = ""
+        intervals [23]:
+            xmin = 49.181
+            xmax = 52.981
+            text = "And then thinking versus feelings, do you go with your head or your gut."
+        intervals [24]:
+            xmin = 52.981
+            xmax = 54.181
+            text = ""
+        intervals [25]:
+            xmin = 54.181
+            xmax = 57.981
+            text = "And then perceiving versus judging, how quickly do you come to a decision about things and so."
+        intervals [26]:
+            xmin = 57.981
+            xmax = 63.181
+            text = ""
+        intervals [27]:
+            xmin = 63.181
+            xmax = 73.981
+            text = "Um, I don't know.  I guess I don't think -- I don't find E and P that often.  I think people that are kind of live more outside their heads come to decisions more quickly.  But, --"
+        intervals [28]:
+            xmin = 73.981
+            xmax = 80.181
+            text = ""
+        intervals [29]:
+            xmin = 80.181
+            xmax = 80.981
+            text = "Yeah."
+        intervals [30]:
+            xmin = 80.981
+            xmax = 85.181
+            text = ""
+        intervals [31]:
+            xmin = 85.181
+            xmax = 88.981
+            text = "It doesn't mean anything.  It means it keeps flipping over."
+        intervals [32]:
+            xmin = 88.981
+            xmax = 91.181
+            text = ""
+        intervals [33]:
+            xmin = 91.181
+            xmax = 92.981
+            text = "It matches my skirt."
+        intervals [34]:
+            xmin = 92.981
+            xmax = 95.181
+            text = ""
+        intervals [35]:
+            xmin = 95.181
+            xmax = 95.981
+            text = "Yeah, um."
+        intervals [36]:
+            xmin = 95.981
+            xmax = 97.181
+            text = ""
+        intervals [37]:
+            xmin = 97.181
+            xmax = 98.981
+            text = "What's the P for is it for male219?"
+        intervals [38]:
+            xmin = 98.981
+            xmax = 106.181
+            text = ""
+        intervals [39]:
+            xmin = 106.181
+            xmax = 106.981
+            text = "Is it a school?"
+        intervals [40]:
+            xmin = 106.981
+            xmax = 109.181
+            text = ""
+        intervals [41]:
+            xmin = 109.181
+            xmax = 109.981
+            text = "Oh, okay."
+        intervals [42]:
+            xmin = 109.981
+            xmax = 111.181
+            text = ""
+        intervals [43]:
+            xmin = 111.181
+            xmax = 111.981
+            text = "Georgetown."
+        intervals [44]:
+            xmin = 111.981
+            xmax = 113.181
+            text = ""
+        intervals [45]:
+            xmin = 113.181
+            xmax = 114.981
+            text = "I did.  I loved it.  I'm moving back actually."
+        intervals [46]:
+            xmin = 114.981
+            xmax = 116.181
+            text = ""
+        intervals [47]:
+            xmin = 116.181
+            xmax = 117.981
+            text = "I'm leaving sunny California to go back to D.C. --"
+        intervals [48]:
+            xmin = 117.981
+            xmax = 119.181
+            text = ""
+        intervals [49]:
+            xmin = 119.181
+            xmax = 127.981
+            text = "No, but um, but I couldn't move back to where I'm from because it's Cincinnati and it's just entirely too red state."
+        intervals [50]:
+            xmin = 127.981
+            xmax = 129.181
+            text = ""
+        intervals [51]:
+            xmin = 129.181
+            xmax = 131.981
+            text = "Yeah.  So, I don't think I could take it."
+        intervals [52]:
+            xmin = 131.981
+            xmax = 135.181
+            text = ""
+        intervals [53]:
+            xmin = 135.181
+            xmax = 135.981
+            text = "And here."
+        intervals [54]:
+            xmin = 135.981
+            xmax = 137.181
+            text = ""
+        intervals [55]:
+            xmin = 137.181
+            xmax = 139.981
+            text = "I actually like it better here, but I just don't think I can afford to settle down here."
+        intervals [56]:
+            xmin = 139.981
+            xmax = 142.181
+            text = ""
+        intervals [57]:
+            xmin = 142.181
+            xmax = 150.981
+            text = "Like, I'm going to be a teacher and I'm never going to be able to buy a house.  So, unless I marry a millionaire and date a couple of other ones, you know so.  And I'm not -- I don't know how I feel about that."
+        intervals [58]:
+            xmin = 150.981
+            xmax = 154.181
+            text = ""
+        intervals [59]:
+            xmin = 154.181
+            xmax = 155.981
+            text = "They, they might come along."
+        intervals [60]:
+            xmin = 155.981
+            xmax = 164.181
+            text = ""
+        intervals [61]:
+            xmin = 164.181
+            xmax = 175.981
+            text = "I really like it.  It's got beautiful architecture.  It's really diverse, um, it's got all the stuff that like New York or Chicago has, but like not nearly as on an intimidating scale as New York for me. "
+        intervals [62]:
+            xmin = 175.981
+            xmax = 178.181
+            text = ""
+        intervals [63]:
+            xmin = 178.181
+            xmax = 184.981
+            text = "Like I'm from the Midwest, I can't handle New York.  Like I go I have a good time, but I want to go home as soon as I'm done, so."
+        intervals [64]:
+            xmin = 184.981
+            xmax = 188.181
+            text = ""
+        intervals [65]:
+            xmin = 188.181
+            xmax = 194.981
+            text = "Yeah.  So, it's the seat of government, you know.  There are all kinds of great museums and it has a kind of certain majesty to it."
+        intervals [66]:
+            xmin = 194.981
+            xmax = 196.181
+            text = ""
+        intervals [67]:
+            xmin = 196.181
+            xmax = 197.981
+            text = "You know, it's cool."
+        intervals [68]:
+            xmin = 197.981
+            xmax = 199.181
+            text = ""
+        intervals [69]:
+            xmin = 199.181
+            xmax = 199.981
+            text = "So, I like it."
+        intervals [70]:
+            xmin = 199.981
+            xmax = 204.181
+            text = ""
+        intervals [71]:
+            xmin = 204.181
+            xmax = 217.981
+            text = "Whole different world.  People just get married out of high school and you know, it's a Midwestern town, it's you know.  But it is a good place to raise kids and good place to grow up, you know --"
+        intervals [72]:
+            xmin = 217.981
+            xmax = 219.181
+            text = ""
+        intervals [73]:
+            xmin = 219.181
+            xmax = 221.981
+            text = "Not and have fun, yeah, so yeah."
+        intervals [74]:
+            xmin = 221.981
+            xmax = 226.181
+            text = ""
+        intervals [75]:
+            xmin = 226.181
+            xmax = 228.981
+            text = "The crazy things.  I don't do crazy things.  No, I'm a very sensible girl."
+        intervals [76]:
+            xmin = 228.981
+            xmax = 230.181
+            text = ""
+        intervals [77]:
+            xmin = 230.181
+            xmax = 230.981
+            text = "Yes."
+        intervals [78]:
+            xmin = 230.981
+            xmax = 233.181
+            text = ""
+        intervals [79]:
+            xmin = 233.181
+            xmax = 237.981
+            text = "I do sensible things like darn my socks and invest in mutual funds."
+        intervals [80]:
+            xmin = 237.981
+            xmax = 245.181
+            text = ""
+        intervals [81]:
+            xmin = 245.181
+            xmax = 245.981
+            text = "Right, sensible things like that."
+        intervals [82]:
+            xmin = 245.981
+            xmax = 247.181
+            text = ""
+        intervals [83]:
+            xmin = 247.181
+            xmax = 250.981
+            text = "But I didn't get to hear anything about you, I'm sorry.  Um, --"
+        intervals [84]:
+            xmin = 250.981
+            xmax = 252.181
+            text = ""
+        intervals [85]:
+            xmin = 252.181
+            xmax = 253.981
+            text = "Right, well I hope you had a good evening."
+        intervals [86]:
+            xmin = 253.981
+            xmax = 254.181
+            text = ""
+        intervals [87]:
+            xmin = 254.181
+            xmax = 255.981
+            text = "I think we get to sit here right?  What do we do?  What?"

@@ -1,0 +1,720 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 250.765
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 250.765
+intervals: size = 90
+        intervals [1]:
+            xmin = 0
+            xmax = 4.8
+            text = ""
+        intervals [2]:
+            xmin = 4.8
+            xmax = 6.6
+            text = "Hi.  I'm male318 [phonetic]."
+        intervals [3]:
+            xmin = 6.6
+            xmax = 7.8
+            text = ""
+        intervals [4]:
+            xmin = 7.8
+            xmax = 8.6
+            text = "Nice to meet you."
+        intervals [5]:
+            xmin = 8.6
+            xmax = 9.8
+            text = ""
+        intervals [6]:
+            xmin = 9.8
+            xmax = 12.6
+            text = "Uh I study engineering and physics."
+        intervals [7]:
+            xmin = 12.6
+            xmax = 13.8
+            text = ""
+        intervals [8]:
+            xmin = 13.8
+            xmax = 25.6
+            text = "Uh medical physics engineering.  So um my work is to bring to medical engineering systems together.  One is x-ray.  The other one is MRI."
+        intervals [9]:
+            xmin = 25.6
+            xmax = 26.8
+            text = ""
+        intervals [10]:
+            xmin = 26.8
+            xmax = 30.6
+            text = "One is x-ray.  The other one is MRI, magnetic resonance imaging."
+        intervals [11]:
+            xmin = 30.6
+            xmax = 30.8
+            text = ""
+        intervals [12]:
+            xmin = 30.8
+            xmax = 38.6
+            text = "Um so um one--so [unintelligible] actually the fluoroscopic system in the MRI--"
+        intervals [13]:
+            xmin = 38.6
+            xmax = 38.8
+            text = ""
+        intervals [14]:
+            xmin = 38.8
+            xmax = 46.6
+            text = "--that can benefit a lot of um uh inventional [phonetic] procedures [unintelligible] and to be with each other.  My work is--"
+        intervals [15]:
+            xmin = 46.6
+            xmax = 50.8
+            text = ""
+        intervals [16]:
+            xmin = 50.8
+            xmax = 54.6
+            text = "Uh we are trying to put an x-ray system in the MRI system."
+        intervals [17]:
+            xmin = 54.6
+            xmax = 56.8
+            text = ""
+        intervals [18]:
+            xmin = 56.8
+            xmax = 62.6
+            text = "Right.  So the patient can be um--can be scanned by MRI--"
+        intervals [19]:
+            xmin = 62.6
+            xmax = 62.6
+            text = "--and also--"
+        intervals [20]:
+            xmin = 62.6
+            xmax = 63.8
+            text = ""
+        intervals [21]:
+            xmin = 63.8
+            xmax = 67.6
+            text = "--get x-ray exposure.  Probably not at the same time 'cause [unintelligible]--"
+        intervals [22]:
+            xmin = 67.6
+            xmax = 68.8
+            text = ""
+        intervals [23]:
+            xmin = 68.8
+            xmax = 72.6
+            text = "--so the patient doesn't have to--doesn't have to be repositioned."
+        intervals [24]:
+            xmin = 72.6
+            xmax = 73.8
+            text = ""
+        intervals [25]:
+            xmin = 73.8
+            xmax = 77.6
+            text = "So uh the doctor can switch back and forth very conveniently."
+        intervals [26]:
+            xmin = 77.6
+            xmax = 83.8
+            text = ""
+        intervals [27]:
+            xmin = 83.8
+            xmax = 93.6
+            text = "Uh actually radio fluoroscopies is not probably as much as uh uh CT.  So on CT you get a lot of exposure from--"
+        intervals [28]:
+            xmin = 93.6
+            xmax = 94.6
+            text = "--not--not so--"
+        intervals [29]:
+            xmin = 94.6
+            xmax = 95.8
+            text = ""
+        intervals [30]:
+            xmin = 95.8
+            xmax = 96.6
+            text = "Right.  Okay."
+        intervals [31]:
+            xmin = 96.6
+            xmax = 96.8
+            text = ""
+        intervals [32]:
+            xmin = 96.8
+            xmax = 98.6
+            text = "Uh not being x-ray--"
+        intervals [33]:
+            xmin = 98.6
+            xmax = 99.8
+            text = ""
+        intervals [34]:
+            xmin = 99.8
+            xmax = 100.6
+            text = "MRI doesn't--"
+        intervals [35]:
+            xmin = 100.6
+            xmax = 100.8
+            text = ""
+        intervals [36]:
+            xmin = 100.8
+            xmax = 101.6
+            text = "--doesn't--"
+        intervals [37]:
+            xmin = 101.6
+            xmax = 101.8
+            text = ""
+        intervals [38]:
+            xmin = 101.8
+            xmax = 103.6
+            text = "No, no."
+        intervals [39]:
+            xmin = 103.6
+            xmax = 104.8
+            text = ""
+        intervals [40]:
+            xmin = 104.8
+            xmax = 106.6
+            text = "Not at--not at all.  But--"
+        intervals [41]:
+            xmin = 106.6
+            xmax = 106.8
+            text = ""
+        intervals [42]:
+            xmin = 106.8
+            xmax = 110.6
+            text = "--I don't think they allow pregnant women to be scanned--"
+        intervals [43]:
+            xmin = 110.6
+            xmax = 110.8
+            text = ""
+        intervals [44]:
+            xmin = 110.8
+            xmax = 111.6
+            text = "--with MRI."
+        intervals [45]:
+            xmin = 111.6
+            xmax = 113.8
+            text = ""
+        intervals [46]:
+            xmin = 113.8
+            xmax = 117.6
+            text = "We do not totally understand the long-term effect."
+        intervals [47]:
+            xmin = 117.6
+            xmax = 117.8
+            text = ""
+        intervals [48]:
+            xmin = 117.8
+            xmax = 119.6
+            text = "And so we have to be cautious about that."
+        intervals [49]:
+            xmin = 119.6
+            xmax = 120.8
+            text = ""
+        intervals [50]:
+            xmin = 120.8
+            xmax = 122.6
+            text = "How about you?"
+        intervals [51]:
+            xmin = 122.6
+            xmax = 132.8
+            text = ""
+        intervals [52]:
+            xmin = 132.8
+            xmax = 134.6
+            text = "Did you say you sell skirts?"
+        intervals [53]:
+            xmin = 134.6
+            xmax = 134.8
+            text = ""
+        intervals [54]:
+            xmin = 134.8
+            xmax = 135.6
+            text = "Oh, okay."
+        intervals [55]:
+            xmin = 135.6
+            xmax = 135.8
+            text = ""
+        intervals [56]:
+            xmin = 135.8
+            xmax = 136.6
+            text = "Okay."
+        intervals [57]:
+            xmin = 136.6
+            xmax = 138.8
+            text = ""
+        intervals [58]:
+            xmin = 138.8
+            xmax = 139.6
+            text = "[interposing] Okay."
+        intervals [59]:
+            xmin = 139.6
+            xmax = 141.8
+            text = ""
+        intervals [60]:
+            xmin = 141.8
+            xmax = 144.6
+            text = "So you have a fashion show?"
+        intervals [61]:
+            xmin = 144.6
+            xmax = 149.8
+            text = ""
+        intervals [62]:
+            xmin = 149.8
+            xmax = 150.6
+            text = "Okay."
+        intervals [63]:
+            xmin = 150.6
+            xmax = 158.8
+            text = ""
+        intervals [64]:
+            xmin = 158.8
+            xmax = 159.6
+            text = "Okay."
+        intervals [65]:
+            xmin = 159.6
+            xmax = 165.8
+            text = ""
+        intervals [66]:
+            xmin = 165.8
+            xmax = 167.6
+            text = "Sounds uh a lot of fun."
+        intervals [67]:
+            xmin = 167.6
+            xmax = 180.8
+            text = ""
+        intervals [68]:
+            xmin = 180.8
+            xmax = 182.6
+            text = "So what program are you in?"
+        intervals [69]:
+            xmin = 182.6
+            xmax = 183.8
+            text = ""
+        intervals [70]:
+            xmin = 183.8
+            xmax = 184.6
+            text = "Oh masters?"
+        intervals [71]:
+            xmin = 184.6
+            xmax = 186.8
+            text = ""
+        intervals [72]:
+            xmin = 186.8
+            xmax = 187.6
+            text = "[interposing] Okay."
+        intervals [73]:
+            xmin = 187.6
+            xmax = 190.8
+            text = ""
+        intervals [74]:
+            xmin = 190.8
+            xmax = 194.6
+            text = "Yeah.  There's no metal involved in your--"
+        intervals [75]:
+            xmin = 194.6
+            xmax = 199.8
+            text = ""
+        intervals [76]:
+            xmin = 199.8
+            xmax = 200.6
+            text = "Okay."
+        intervals [77]:
+            xmin = 200.6
+            xmax = 205.8
+            text = ""
+        intervals [78]:
+            xmin = 205.8
+            xmax = 210.6
+            text = "Okay.  That sounds--what your interest is."
+        intervals [79]:
+            xmin = 210.6
+            xmax = 215.8
+            text = ""
+        intervals [80]:
+            xmin = 215.8
+            xmax = 217.6
+            text = "[interposing] So when are you going to graduate?"
+        intervals [81]:
+            xmin = 217.6
+            xmax = 223.8
+            text = ""
+        intervals [82]:
+            xmin = 223.8
+            xmax = 224.6
+            text = "Uh-huh."
+        intervals [83]:
+            xmin = 224.6
+            xmax = 225.8
+            text = ""
+        intervals [84]:
+            xmin = 225.8
+            xmax = 226.6
+            text = "[interposing] Okay."
+        intervals [85]:
+            xmin = 226.6
+            xmax = 236.8
+            text = ""
+        intervals [86]:
+            xmin = 236.8
+            xmax = 237.6
+            text = "Oh."
+        intervals [87]:
+            xmin = 237.6
+            xmax = 238.8
+            text = ""
+        intervals [88]:
+            xmin = 238.8
+            xmax = 240.6
+            text = "Sounds like a great plan."
+        intervals [89]:
+            xmin = 240.6
+            xmax = 249.8
+            text = ""
+        intervals [90]:
+            xmin = 249.8
+            xmax = 250.6
+            text = "Nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 250.765
+intervals: size = 85
+        intervals [1]:
+            xmin = 6.965
+            xmax = 8.765
+            text = "male318?  female329."
+        intervals [2]:
+            xmin = 8.765
+            xmax = 9.765
+            text = "Nice to meet you.  What do you study?"
+        intervals [3]:
+            xmin = 9.765
+            xmax = 11.965
+            text = ""
+        intervals [4]:
+            xmin = 11.965
+            xmax = 13.765
+            text = "Engineering and physics.  What kind of engineering?"
+        intervals [5]:
+            xmin = 13.765
+            xmax = 24.965
+            text = ""
+        intervals [6]:
+            xmin = 24.965
+            xmax = 25.765
+            text = "One is what?"
+        intervals [7]:
+            xmin = 25.765
+            xmax = 28.965
+            text = ""
+        intervals [8]:
+            xmin = 28.965
+            xmax = 30.765
+            text = "Oh, Okay.  Uh-huh.  Yeah, yeah, yeah."
+        intervals [9]:
+            xmin = 30.765
+            xmax = 37.965
+            text = ""
+        intervals [10]:
+            xmin = 37.965
+            xmax = 38.765
+            text = "[interposing] Uh-huh."
+        intervals [11]:
+            xmin = 38.765
+            xmax = 44.965
+            text = ""
+        intervals [12]:
+            xmin = 44.965
+            xmax = 50.765
+            text = "Wait, wait, wait.  Okay.  So explain that to me again.  Okay.  So like--so what--what is it trying to do?"
+        intervals [13]:
+            xmin = 50.765
+            xmax = 53.965
+            text = ""
+        intervals [14]:
+            xmin = 53.965
+            xmax = 56.765
+            text = "In the MRI.  So it does both at the same time?"
+        intervals [15]:
+            xmin = 56.765
+            xmax = 60.965
+            text = ""
+        intervals [16]:
+            xmin = 60.965
+            xmax = 61.765
+            text = "[interposing] Uh-huh."
+        intervals [17]:
+            xmin = 61.765
+            xmax = 61.965
+            text = ""
+        intervals [18]:
+            xmin = 61.965
+            xmax = 63.765
+            text = "[interposing] Get x-rayed at the same time."
+        intervals [19]:
+            xmin = 63.765
+            xmax = 66.965
+            text = ""
+        intervals [20]:
+            xmin = 66.965
+            xmax = 67.765
+            text = "[interposing] Dangerous."
+        intervals [21]:
+            xmin = 67.765
+            xmax = 71.965
+            text = ""
+        intervals [22]:
+            xmin = 71.965
+            xmax = 73.765
+            text = "Oh."
+        intervals [23]:
+            xmin = 73.765
+            xmax = 76.965
+            text = ""
+        intervals [24]:
+            xmin = 76.965
+            xmax = 82.765
+            text = "Oh.  That's a lot of uh radioactive stuff on a person at one time."
+        intervals [25]:
+            xmin = 82.765
+            xmax = 91.965
+            text = ""
+        intervals [26]:
+            xmin = 91.965
+            xmax = 92.765
+            text = "[interposing] Yeah."
+        intervals [27]:
+            xmin = 92.765
+            xmax = 92.965
+            text = ""
+        intervals [28]:
+            xmin = 92.965
+            xmax = 94.765
+            text = "[interposing] But not so much with the MRI."
+        intervals [29]:
+            xmin = 94.765
+            xmax = 94.965
+            text = ""
+        intervals [30]:
+            xmin = 94.965
+            xmax = 96.765
+            text = "Really?"
+        intervals [31]:
+            xmin = 96.765
+            xmax = 96.965
+            text = ""
+        intervals [32]:
+            xmin = 96.965
+            xmax = 98.765
+            text = "[interposing] Yeah, 'cause MRI doesn't?"
+        intervals [33]:
+            xmin = 98.765
+            xmax = 98.965
+            text = ""
+        intervals [34]:
+            xmin = 98.965
+            xmax = 100.765
+            text = "[interposing] MRI is magnetic."
+        intervals [35]:
+            xmin = 100.765
+            xmax = 102.765
+            text = "[interposing] Is that bad for you than MRI?"
+        intervals [36]:
+            xmin = 102.765
+            xmax = 102.965
+            text = ""
+        intervals [37]:
+            xmin = 102.965
+            xmax = 103.765
+            text = "Really?  Not at all?"
+        intervals [38]:
+            xmin = 103.765
+            xmax = 105.965
+            text = ""
+        intervals [39]:
+            xmin = 105.965
+            xmax = 106.765
+            text = "[interposing] Huh."
+        intervals [40]:
+            xmin = 106.765
+            xmax = 109.965
+            text = ""
+        intervals [41]:
+            xmin = 109.965
+            xmax = 110.765
+            text = "[interposing] Yeah."
+        intervals [42]:
+            xmin = 110.765
+            xmax = 110.965
+            text = ""
+        intervals [43]:
+            xmin = 110.965
+            xmax = 113.765
+            text = "Because for your research just in case."
+        intervals [44]:
+            xmin = 113.765
+            xmax = 114.965
+            text = ""
+        intervals [45]:
+            xmin = 114.965
+            xmax = 116.765
+            text = "Yeah, what is the effect on babies."
+        intervals [46]:
+            xmin = 116.765
+            xmax = 117.965
+            text = ""
+        intervals [47]:
+            xmin = 117.965
+            xmax = 119.765
+            text = "Yeah, I would--it makes sense."
+        intervals [48]:
+            xmin = 119.765
+            xmax = 120.965
+            text = ""
+        intervals [49]:
+            xmin = 120.965
+            xmax = 131.765
+            text = "Bizarre.  Um I do product design.  I make things.  I currently sew.  I sew skirts.  [laughter]."
+        intervals [50]:
+            xmin = 131.765
+            xmax = 132.965
+            text = ""
+        intervals [51]:
+            xmin = 132.965
+            xmax = 134.765
+            text = "I sew skirts."
+        intervals [52]:
+            xmin = 134.765
+            xmax = 135.765
+            text = "I make them."
+        intervals [53]:
+            xmin = 135.765
+            xmax = 135.965
+            text = ""
+        intervals [54]:
+            xmin = 135.965
+            xmax = 138.765
+            text = "I sit at home at a sewing machine and I sew skirts--"
+        intervals [55]:
+            xmin = 138.765
+            xmax = 138.965
+            text = ""
+        intervals [56]:
+            xmin = 138.965
+            xmax = 142.765
+            text = "--all day long, 24 hours a day, seven days a week."
+        intervals [57]:
+            xmin = 142.765
+            xmax = 149.765
+            text = "[laughter].  End of the year.  It's not a fashion--I will--it will be my presentation for thesis."
+        intervals [58]:
+            xmin = 149.765
+            xmax = 158.765
+            text = "'Cause I'm currently working on--for the next five weeks, I'm working on making skirts for girls in business and girls going out dancing and girls that go between business to dance--like work to dance.  "
+        intervals [59]:
+            xmin = 158.765
+            xmax = 158.965
+            text = ""
+        intervals [60]:
+            xmin = 158.965
+            xmax = 163.765
+            text = "Um so I like--I'm making a lot of skirts.  So yeah, it's what I'm doing right now."
+        intervals [61]:
+            xmin = 163.765
+            xmax = 166.965
+            text = ""
+        intervals [62]:
+            xmin = 166.965
+            xmax = 179.765
+            text = "Yeah, it is pretty fun actually.  It's fun [unintelligible] music.  So yeah.  So that's what I do right now.  I also make other things, but that's what--that's my main focus.  So--so yeah."
+        intervals [63]:
+            xmin = 179.765
+            xmax = 180.965
+            text = ""
+        intervals [64]:
+            xmin = 180.965
+            xmax = 182.765
+            text = "Um product science."
+        intervals [65]:
+            xmin = 182.765
+            xmax = 182.965
+            text = ""
+        intervals [66]:
+            xmin = 182.965
+            xmax = 186.765
+            text = "Yeah.  It's actually mechanical engineering--"
+        intervals [67]:
+            xmin = 186.765
+            xmax = 186.965
+            text = ""
+        intervals [68]:
+            xmin = 186.965
+            xmax = 190.765
+            text = "--which doesn't make much sense 'cause it's not--obviously not an engineering project."
+        intervals [69]:
+            xmin = 190.765
+            xmax = 192.965
+            text = ""
+        intervals [70]:
+            xmin = 192.965
+            xmax = 197.765
+            text = "[interposing] Yeah, there's no metal.  There's no wood.  There's really nothing but fabric and a sewing machine.  "
+        intervals [71]:
+            xmin = 197.765
+            xmax = 199.965
+            text = ""
+        intervals [72]:
+            xmin = 199.965
+            xmax = 204.765
+            text = "So I'm going to graduate with a masters in mechanical engineering and I'm a seamstress."
+        intervals [73]:
+            xmin = 204.765
+            xmax = 208.965
+            text = ""
+        intervals [74]:
+            xmin = 208.965
+            xmax = 215.765
+            text = "[laughter].  It is.  It's just--"
+        intervals [75]:
+            xmin = 215.765
+            xmax = 216.965
+            text = ""
+        intervals [76]:
+            xmin = 216.965
+            xmax = 223.765
+            text = "Um so technically I am going to finish all my requirements this year, for the second year."
+        intervals [77]:
+            xmin = 223.765
+            xmax = 225.765
+            text = "But I'm actually going to stay around next year and take a couple more classes--"
+        intervals [78]:
+            xmin = 225.765
+            xmax = 225.965
+            text = ""
+        intervals [79]:
+            xmin = 225.965
+            xmax = 235.765
+            text = "--'cause I don't really want to work.  I'm lazy, and so I figure if I stay here longer, I could procrastinate and not work for longer.  So I'm going to work part time and take classes part time next year."
+        intervals [80]:
+            xmin = 235.765
+            xmax = 236.965
+            text = ""
+        intervals [81]:
+            xmin = 236.965
+            xmax = 237.765
+            text = "Just basically be a bum."
+        intervals [82]:
+            xmin = 237.765
+            xmax = 238.965
+            text = ""
+        intervals [83]:
+            xmin = 238.965
+            xmax = 240.765
+            text = "Yeah, it's a great plan.  [laughter].  So."
+        intervals [84]:
+            xmin = 240.765
+            xmax = 249.965
+            text = ""
+        intervals [85]:
+            xmin = 249.965
+            xmax = 250.765
+            text = "Nice to meet you."

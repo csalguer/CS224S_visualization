@@ -1,0 +1,448 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 0.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 0.6
+intervals: size = 54
+        intervals [1]:
+            xmin = 0
+            xmax = 2.6
+            text = "It's all right.  Take your time."
+        intervals [2]:
+            xmin = 2.6
+            xmax = 11.8
+            text = ""
+        intervals [3]:
+            xmin = 11.8
+            xmax = 12.6
+            text = "What's your program?"
+        intervals [4]:
+            xmin = 12.6
+            xmax = 12.8
+            text = ""
+        intervals [5]:
+            xmin = 12.8
+            xmax = 16.6
+            text = "male102, yeah I crossed that out."
+        intervals [6]:
+            xmin = 16.6
+            xmax = 31.8
+            text = ""
+        intervals [7]:
+            xmin = 31.8
+            xmax = 32.6
+            text = "Yeah."
+        intervals [8]:
+            xmin = 32.6
+            xmax = 32.8
+            text = ""
+        intervals [9]:
+            xmin = 32.8
+            xmax = 36.6
+            text = "To call me male102 would just throw you off."
+        intervals [10]:
+            xmin = 36.6
+            xmax = 36.8
+            text = ""
+        intervals [11]:
+            xmin = 36.8
+            xmax = 42.6
+            text = "It throws me off sometimes too, when my extended family calls male102 and I'm not used to it."
+        intervals [12]:
+            xmin = 42.6
+            xmax = 46.8
+            text = ""
+        intervals [13]:
+            xmin = 46.8
+            xmax = 50.6
+            text = "See, I might call you female121 only because my sister is female121."
+        intervals [14]:
+            xmin = 50.6
+            xmax = 50.8
+            text = ""
+        intervals [15]:
+            xmin = 50.8
+            xmax = 55.6
+            text = "And I-I call her female121 now sometimes and she's [unintelligible]"
+        intervals [16]:
+            xmin = 55.6
+            xmax = 55.8
+            text = ""
+        intervals [17]:
+            xmin = 55.8
+            xmax = 59.6
+            text = "And it pisses her off sometimes because I still call her female121.  I am female121."
+        intervals [18]:
+            xmin = 59.6
+            xmax = 72.8
+            text = ""
+        intervals [19]:
+            xmin = 72.8
+            xmax = 76.6
+            text = "Yeah, if somebody yelled out male102 I wouldn't be nearly as likely to hear it."
+        intervals [20]:
+            xmin = 76.6
+            xmax = 78.8
+            text = ""
+        intervals [21]:
+            xmin = 78.8
+            xmax = 80.6
+            text = "Because nobody around here knows me as male102."
+        intervals [22]:
+            xmin = 80.6
+            xmax = 83.8
+            text = ""
+        intervals [23]:
+            xmin = 83.8
+            xmax = 88.6
+            text = "They did it right like so on all the forms I fill out, I always put male102."
+        intervals [24]:
+            xmin = 88.6
+            xmax = 90.8
+            text = ""
+        intervals [25]:
+            xmin = 90.8
+            xmax = 97.6
+            text = "But on this one, I'm pretty sure I put male102 and then I put in parentheses male102.  They went with the male102. "
+        intervals [26]:
+            xmin = 97.6
+            xmax = 97.8
+            text = ""
+        intervals [27]:
+            xmin = 97.8
+            xmax = 100.6
+            text = "In fact nameX tried to change it and they were like nope."
+        intervals [28]:
+            xmin = 100.6
+            xmax = 101.8
+            text = ""
+        intervals [29]:
+            xmin = 101.8
+            xmax = 104.6
+            text = "male102, officially.  It would throw off--"
+        intervals [30]:
+            xmin = 104.6
+            xmax = 106.8
+            text = ""
+        intervals [31]:
+            xmin = 106.8
+            xmax = 107.6
+            text = "Exactly."
+        intervals [32]:
+            xmin = 107.6
+            xmax = 115.8
+            text = ""
+        intervals [33]:
+            xmin = 115.8
+            xmax = 131.6
+            text = "I don't know and I worry I'm not giving them very good data.  [laughter] It twinges my conscience but then again it's their fault, they're blowing the horn so--"
+        intervals [34]:
+            xmin = 131.6
+            xmax = 141.8
+            text = ""
+        intervals [35]:
+            xmin = 141.8
+            xmax = 147.6
+            text = "It's weird.  Well I feel like you have to quantify it on sort of narrow dimensions. That's what you're doing."
+        intervals [36]:
+            xmin = 147.6
+            xmax = 147.8
+            text = ""
+        intervals [37]:
+            xmin = 147.8
+            xmax = 152.6
+            text = "And it's you don't know the person, you don't know them and--"
+        intervals [38]:
+            xmin = 152.6
+            xmax = 164.8
+            text = ""
+        intervals [39]:
+            xmin = 164.8
+            xmax = 168.6
+            text = "Yeah, well you're in luck.  This is the last one."
+        intervals [40]:
+            xmin = 168.6
+            xmax = 169.8
+            text = ""
+        intervals [41]:
+            xmin = 169.8
+            xmax = 175.6
+            text = "Yeah, do people tell you you're the second female121 in a row?  Actually it's a female121 right before you."
+        intervals [42]:
+            xmin = 175.6
+            xmax = 181.8
+            text = ""
+        intervals [43]:
+            xmin = 181.8
+            xmax = 184.6
+            text = "I think the names kind of become a blur a little bit too."
+        intervals [44]:
+            xmin = 184.6
+            xmax = 196.8
+            text = ""
+        intervals [45]:
+            xmin = 196.8
+            xmax = 199.6
+            text = "How have you liked it?  Is this what you expected?"
+        intervals [46]:
+            xmin = 199.6
+            xmax = 210.8
+            text = ""
+        intervals [47]:
+            xmin = 210.8
+            xmax = 215.6
+            text = "I had very low expectations.  And it's exceeded them marginally."
+        intervals [48]:
+            xmin = 215.6
+            xmax = 226.8
+            text = ""
+        intervals [49]:
+            xmin = 226.8
+            xmax = 231.6
+            text = "This will be helpful feedback if you're listening to us.  [horn] "
+        intervals [50]:
+            xmin = 231.6
+            xmax = 245.8
+            text = ""
+        intervals [51]:
+            xmin = 245.8
+            xmax = 248.6
+            text = "It is, which-"
+        intervals [52]:
+            xmin = 248.6
+            xmax = 259.6
+            text = "Yes. Well on top of it it's sort of stressful to be going-I mean, it's high on a stress situation to begin with and then to have to evaluate people in a ridiculously short amount of time after that is ultra-stressful."
+        intervals [53]:
+            xmin = 259.6
+            xmax = 262.8
+            text = ""
+        intervals [54]:
+            xmin = 262.8
+            xmax = 264.6
+            text = "What did they just say?  Something important?"
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 0.6
+intervals: size = 53
+        intervals [1]:
+            xmin = 6.96
+            xmax = 11.76
+            text = "So what school are you in, male102? [laughter] "
+        intervals [2]:
+            xmin = 11.76
+            xmax = 11.96
+            text = ""
+        intervals [3]:
+            xmin = 11.96
+            xmax = 13.76
+            text = "male102.  [laughter] "
+        intervals [4]:
+            xmin = 13.76
+            xmax = 14.96
+            text = ""
+        intervals [5]:
+            xmin = 14.96
+            xmax = 31.76
+            text = "I saw you.  It's funny when you know someone has certain name.  Like I know that male102 is something that you're, you know, you said parts of your family call you that but I can't even like, it seems so foreign.  Do you know what I mean?"
+        intervals [6]:
+            xmin = 31.76
+            xmax = 31.96
+            text = ""
+        intervals [7]:
+            xmin = 31.96
+            xmax = 33.76
+            text = "It's just weird, it's weird."
+        intervals [8]:
+            xmin = 33.76
+            xmax = 35.96
+            text = ""
+        intervals [9]:
+            xmin = 35.96
+            xmax = 37.76
+            text = "It does, it throws me off."
+        intervals [10]:
+            xmin = 37.76
+            xmax = 41.96
+            text = ""
+        intervals [11]:
+            xmin = 41.96
+            xmax = 46.76
+            text = "My sister calls me female121 and she's the only person on the whole planet that does that."
+        intervals [12]:
+            xmin = 46.76
+            xmax = 49.96
+            text = ""
+        intervals [13]:
+            xmin = 49.96
+            xmax = 50.76
+            text = "Right."
+        intervals [14]:
+            xmin = 50.76
+            xmax = 54.96
+            text = ""
+        intervals [15]:
+            xmin = 54.96
+            xmax = 56.76
+            text = "Oh she is?"
+        intervals [16]:
+            xmin = 56.76
+            xmax = 59.96
+            text = ""
+        intervals [17]:
+            xmin = 59.96
+            xmax = 73.76
+            text = "[laughter] I just forget.  I mean, I know it's my name but it doesn't ring--like there's something about it that doesn't ring to me.  So when people say it I sort of know they're referencing me but it's like, it doesn't register as much as female121 does."
+        intervals [18]:
+            xmin = 73.76
+            xmax = 75.96
+            text = ""
+        intervals [19]:
+            xmin = 75.96
+            xmax = 78.76
+            text = "Right, right."
+        intervals [20]:
+            xmin = 78.76
+            xmax = 81.96
+            text = ""
+        intervals [21]:
+            xmin = 81.96
+            xmax = 84.76
+            text = "Interesting that they wrote that down.  Who did that?"
+        intervals [22]:
+            xmin = 84.76
+            xmax = 87.96
+            text = ""
+        intervals [23]:
+            xmin = 87.96
+            xmax = 92.76
+            text = "And I put female121 on a lot of them too because it's my formal name."
+        intervals [24]:
+            xmin = 92.76
+            xmax = 96.96
+            text = ""
+        intervals [25]:
+            xmin = 96.96
+            xmax = 98.76
+            text = "They didn't listen."
+        intervals [26]:
+            xmin = 98.76
+            xmax = 101.96
+            text = ""
+        intervals [27]:
+            xmin = 101.96
+            xmax = 103.76
+            text = "Official research."
+        intervals [28]:
+            xmin = 103.76
+            xmax = 104.96
+            text = ""
+        intervals [29]:
+            xmin = 104.96
+            xmax = 106.76
+            text = "Official research."
+        intervals [30]:
+            xmin = 106.76
+            xmax = 106.96
+            text = ""
+        intervals [31]:
+            xmin = 106.96
+            xmax = 115.76
+            text = "I like it.  I'm kind of curious what they do with all of this.  I want to see."
+        intervals [32]:
+            xmin = 115.76
+            xmax = 130.96
+            text = ""
+        intervals [33]:
+            xmin = 130.96
+            xmax = 142.76
+            text = "They are blowing the horn and I feel like the stuff at the bottom.  I hardly [unintelligible].  I feel really badly and especially because that's rating someone.  It's kind of-it's mean isn't it?"
+        intervals [34]:
+            xmin = 142.76
+            xmax = 145.96
+            text = ""
+        intervals [35]:
+            xmin = 145.96
+            xmax = 148.76
+            text = "Yeah, it's true."
+        intervals [36]:
+            xmin = 148.76
+            xmax = 150.96
+            text = ""
+        intervals [37]:
+            xmin = 150.96
+            xmax = 161.76
+            text = "No.  I can't even think anymore."
+        intervals [38]:
+            xmin = 161.76
+            xmax = 167.96
+            text = ""
+        intervals [39]:
+            xmin = 167.96
+            xmax = 169.76
+            text = "The last one, right?"
+        intervals [40]:
+            xmin = 169.76
+            xmax = 174.96
+            text = ""
+        intervals [41]:
+            xmin = 174.96
+            xmax = 180.76
+            text = "No, no one's told me.  That's interesting.  It's interesting also that nobody made that connection."
+        intervals [42]:
+            xmin = 180.76
+            xmax = 183.96
+            text = ""
+        intervals [43]:
+            xmin = 183.96
+            xmax = 188.76
+            text = "They do.  Station A, station A.  [laughter] "
+        intervals [44]:
+            xmin = 188.76
+            xmax = 200.96
+            text = ""
+        intervals [45]:
+            xmin = 200.96
+            xmax = 209.76
+            text = "I guess, yeah kind of.  I didn't really know what to expect. I didn't have any sort of preconceived notion of what I thought it was going to be so."
+        intervals [46]:
+            xmin = 209.76
+            xmax = 215.96
+            text = ""
+        intervals [47]:
+            xmin = 215.96
+            xmax = 229.76
+            text = "Very.  [laughter] I guess--but I think it's too many.  Here, we can critique.  [laughter]"
+        intervals [48]:
+            xmin = 229.76
+            xmax = 231.96
+            text = ""
+        intervals [49]:
+            xmin = 231.96
+            xmax = 246.76
+            text = "No, I think it's too many.  Like I started really--like I think people have started saving by 15 or by even, you know what I mean?  I'm like--so the conversation's like, even if you're a really friendly person you're just like oh my God."
+        intervals [50]:
+            xmin = 246.76
+            xmax = 247.96
+            text = ""
+        intervals [51]:
+            xmin = 247.96
+            xmax = 248.76
+            text = "Right?"
+        intervals [52]:
+            xmin = 248.76
+            xmax = 256.96
+            text = ""
+        intervals [53]:
+            xmin = 256.96
+            xmax = 262.76
+            text = "Yeah, yeah, agreed.  Agreed."

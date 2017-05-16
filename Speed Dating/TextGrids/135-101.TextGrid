@@ -1,0 +1,524 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 242.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 242.6
+intervals: size = 64
+        intervals [1]:
+            xmin = 0
+            xmax = 2.8
+            text = ""
+        intervals [2]:
+            xmin = 2.8
+            xmax = 3.6
+            text = "Nice to meet you too.  "
+        intervals [3]:
+            xmin = 3.6
+            xmax = 7.8
+            text = ""
+        intervals [4]:
+            xmin = 7.8
+            xmax = 9.6
+            text = "I'm in engineering.  "
+        intervals [5]:
+            xmin = 9.6
+            xmax = 13.8
+            text = ""
+        intervals [6]:
+            xmin = 13.8
+            xmax = 14.6
+            text = "[unintelligible].  What about you?"
+        intervals [7]:
+            xmin = 14.6
+            xmax = 16.8
+            text = ""
+        intervals [8]:
+            xmin = 16.8
+            xmax = 19.6
+            text = "Okay, and what year is this for you?  "
+        intervals [9]:
+            xmin = 19.6
+            xmax = 19.8
+            text = ""
+        intervals [10]:
+            xmin = 19.8
+            xmax = 21.6
+            text = "This is my fifth "
+        intervals [11]:
+            xmin = 21.6
+            xmax = 23.8
+            text = ""
+        intervals [12]:
+            xmin = 23.8
+            xmax = 25.6
+            text = "[unintelligible].  "
+        intervals [13]:
+            xmin = 25.6
+            xmax = 26.8
+            text = ""
+        intervals [14]:
+            xmin = 26.8
+            xmax = 29.6
+            text = "I'm supposed to graduate around December.  "
+        intervals [15]:
+            xmin = 29.6
+            xmax = 33.8
+            text = ""
+        intervals [16]:
+            xmin = 33.8
+            xmax = 38.6
+            text = "I study--I'm in materials so I study magnetic materials  "
+        intervals [17]:
+            xmin = 38.6
+            xmax = 41.8
+            text = ""
+        intervals [18]:
+            xmin = 41.8
+            xmax = 42.6
+            text = "Where are you from?  "
+        intervals [19]:
+            xmin = 42.6
+            xmax = 46.8
+            text = ""
+        intervals [20]:
+            xmin = 46.8
+            xmax = 49.6
+            text = "I grew up in the Bay Area. I grew up in East Bay.  "
+        intervals [21]:
+            xmin = 49.6
+            xmax = 53.8
+            text = ""
+        intervals [22]:
+            xmin = 53.8
+            xmax = 57.6
+            text = "Okay.  [unintelligible] Berkley [unintelligible].  "
+        intervals [23]:
+            xmin = 57.6
+            xmax = 65.8
+            text = ""
+        intervals [24]:
+            xmin = 65.8
+            xmax = 66.6
+            text = "Here.  "
+        intervals [25]:
+            xmin = 66.6
+            xmax = 69.8
+            text = ""
+        intervals [26]:
+            xmin = 69.8
+            xmax = 71.6
+            text = "Yes, I'm all Stanford.  "
+        intervals [27]:
+            xmin = 71.6
+            xmax = 76.8
+            text = ""
+        intervals [28]:
+            xmin = 76.8
+            xmax = 79.6
+            text = "Well, I go skiing a lot.  "
+        intervals [29]:
+            xmin = 79.6
+            xmax = 79.8
+            text = ""
+        intervals [30]:
+            xmin = 79.8
+            xmax = 85.6
+            text = "[unintelligible] and that stuff.  What about you?  "
+        intervals [31]:
+            xmin = 85.6
+            xmax = 97.8
+            text = ""
+        intervals [32]:
+            xmin = 97.8
+            xmax = 98.6
+            text = "Okay.  "
+        intervals [33]:
+            xmin = 98.6
+            xmax = 102.8
+            text = ""
+        intervals [34]:
+            xmin = 102.8
+            xmax = 106.6
+            text = "Yeah, [unintelligible].  "
+        intervals [35]:
+            xmin = 106.6
+            xmax = 111.8
+            text = ""
+        intervals [36]:
+            xmin = 111.8
+            xmax = 112.6
+            text = "Yeah, right.  "
+        intervals [37]:
+            xmin = 112.6
+            xmax = 119.8
+            text = ""
+        intervals [38]:
+            xmin = 119.8
+            xmax = 121.6
+            text = "Where in Wisconsin? "
+        intervals [39]:
+            xmin = 121.6
+            xmax = 127.8
+            text = ""
+        intervals [40]:
+            xmin = 127.8
+            xmax = 128.6
+            text = "Okay, lobbying?  "
+        intervals [41]:
+            xmin = 128.6
+            xmax = 134.8
+            text = ""
+        intervals [42]:
+            xmin = 134.8
+            xmax = 138.6
+            text = "Okay.  Where did you say you're from originally?  "
+        intervals [43]:
+            xmin = 138.6
+            xmax = 139.8
+            text = ""
+        intervals [44]:
+            xmin = 139.8
+            xmax = 142.6
+            text = "[interposing]  [unintelligible]."
+        intervals [45]:
+            xmin = 142.6
+            xmax = 151.8
+            text = ""
+        intervals [46]:
+            xmin = 151.8
+            xmax = 153.6
+            text = "Okay.  "
+        intervals [47]:
+            xmin = 153.6
+            xmax = 159.8
+            text = ""
+        intervals [48]:
+            xmin = 159.8
+            xmax = 161.6
+            text = "Yeah, it's hard to leave California.  "
+        intervals [49]:
+            xmin = 161.6
+            xmax = 161.8
+            text = ""
+        intervals [50]:
+            xmin = 161.8
+            xmax = 163.6
+            text = "I really can't picture myself ever leaving California.  "
+        intervals [51]:
+            xmin = 163.6
+            xmax = 163.8
+            text = ""
+        intervals [52]:
+            xmin = 163.8
+            xmax = 164.6
+            text = "Yeah.  "
+        intervals [53]:
+            xmin = 164.6
+            xmax = 171.8
+            text = ""
+        intervals [54]:
+            xmin = 171.8
+            xmax = 187.6
+            text = "I could.  Um, I don't know like [unintelligible] what would I do?  Like [unintelligible].  I like that.  I don't really like LA that much, but I like [unintelligible] Santa Barbara [unintelligible], Central [unintelligible].  "
+        intervals [55]:
+            xmin = 187.6
+            xmax = 189.8
+            text = ""
+        intervals [56]:
+            xmin = 189.8
+            xmax = 194.6
+            text = "Yeah, yeah.  [unintelligible] My friends have a house in San Diego.  "
+        intervals [57]:
+            xmin = 194.6
+            xmax = 196.8
+            text = ""
+        intervals [58]:
+            xmin = 196.8
+            xmax = 198.6
+            text = "A little bit familiar.  "
+        intervals [59]:
+            xmin = 198.6
+            xmax = 205.8
+            text = ""
+        intervals [60]:
+            xmin = 205.8
+            xmax = 226.6
+            text = "My--well, I'd like to--after I graduate I'd like to have a good post doc or preferably a post doc.  I don't want to be [unintelligible].  I'd like to have either a post doc or possibly get a job.  But I prefer a post doc.  "
+        intervals [61]:
+            xmin = 226.6
+            xmax = 233.8
+            text = ""
+        intervals [62]:
+            xmin = 233.8
+            xmax = 237.6
+            text = "I think most people go to industry, but I mean I'm not--I don't know.  "
+        intervals [63]:
+            xmin = 237.6
+            xmax = 240.8
+            text = ""
+        intervals [64]:
+            xmin = 240.8
+            xmax = 242.6
+            text = "Nice to meet you."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 242.6
+intervals: size = 62
+        intervals [1]:
+            xmin = 0.8
+            xmax = 2.6
+            text = "Hi, [unintelligible], nice to meet you.  "
+        intervals [2]:
+            xmin = 2.6
+            xmax = 5.8
+            text = ""
+        intervals [3]:
+            xmin = 5.8
+            xmax = 7.6
+            text = "What do you do?  "
+        intervals [4]:
+            xmin = 7.6
+            xmax = 8.8
+            text = ""
+        intervals [5]:
+            xmin = 8.8
+            xmax = 13.6
+            text = "For markers, or [unintelligible]?  "
+        intervals [6]:
+            xmin = 13.6
+            xmax = 14.8
+            text = ""
+        intervals [7]:
+            xmin = 14.8
+            xmax = 16.6
+            text = "An education PhD."
+        intervals [8]:
+            xmin = 16.6
+            xmax = 18.8
+            text = ""
+        intervals [9]:
+            xmin = 18.8
+            xmax = 20.6
+            text = "First, starting.  "
+        intervals [10]:
+            xmin = 20.6
+            xmax = 21.8
+            text = ""
+        intervals [11]:
+            xmin = 21.8
+            xmax = 23.6
+            text = "Wow, you're getting there.  "
+        intervals [12]:
+            xmin = 23.6
+            xmax = 25.8
+            text = ""
+        intervals [13]:
+            xmin = 25.8
+            xmax = 27.6
+            text = "How much longer do you think?  "
+        intervals [14]:
+            xmin = 27.6
+            xmax = 29.8
+            text = ""
+        intervals [15]:
+            xmin = 29.8
+            xmax = 33.6
+            text = "Awesome.  What do you study?  "
+        intervals [16]:
+            xmin = 33.6
+            xmax = 37.8
+            text = ""
+        intervals [17]:
+            xmin = 37.8
+            xmax = 41.6
+            text = "Oh, cool.  That sounds interesting.  "
+        intervals [18]:
+            xmin = 41.6
+            xmax = 41.8
+            text = ""
+        intervals [19]:
+            xmin = 41.8
+            xmax = 46.6
+            text = "California, in Sacramento, yeah, yeah.  How about you?  "
+        intervals [20]:
+            xmin = 46.6
+            xmax = 48.8
+            text = ""
+        intervals [21]:
+            xmin = 48.8
+            xmax = 54.6
+            text = "Oh, okay.  I did my undergrad at Berkley.  I am very fond of the East Bay.  "
+        intervals [22]:
+            xmin = 54.6
+            xmax = 57.8
+            text = ""
+        intervals [23]:
+            xmin = 57.8
+            xmax = 66.6
+            text = "Yeah, and I'm still feeling a little mixed about that, not so sure.  Where did you do your undergrad?  "
+        intervals [24]:
+            xmin = 66.6
+            xmax = 69.6
+            text = "Oh, so you're all Stanford?  "
+        intervals [25]:
+            xmin = 69.6
+            xmax = 71.8
+            text = ""
+        intervals [26]:
+            xmin = 71.8
+            xmax = 76.6
+            text = "What do you do for fun around here?  You've been here a while you should know the good things.  "
+        intervals [27]:
+            xmin = 76.6
+            xmax = 78.8
+            text = ""
+        intervals [28]:
+            xmin = 78.8
+            xmax = 79.6
+            text = "Oh, cool.  "
+        intervals [29]:
+            xmin = 79.6
+            xmax = 84.8
+            text = ""
+        intervals [30]:
+            xmin = 84.8
+            xmax = 97.6
+            text = "I like to like [unintelligible] but more calm, like more [unintelligible] and, you know, I like the mountain view and I like to [unintelligible].  It's a really nice walking path, just sort of, you know, mellow.  "
+        intervals [31]:
+            xmin = 97.6
+            xmax = 97.8
+            text = ""
+        intervals [32]:
+            xmin = 97.8
+            xmax = 103.6
+            text = "I did it like [unintelligible] Bay and just walk on the beach and sort of go out.  "
+        intervals [33]:
+            xmin = 103.6
+            xmax = 106.8
+            text = ""
+        intervals [34]:
+            xmin = 106.8
+            xmax = 112.6
+            text = "It's nice because there are so many beautiful places around here like within easy access.  "
+        intervals [35]:
+            xmin = 112.6
+            xmax = 112.8
+            text = ""
+        intervals [36]:
+            xmin = 112.8
+            xmax = 120.6
+            text = "Living in Wisconsin, it's really hard to get to the beach, you know.  Nothing.  "
+        intervals [37]:
+            xmin = 120.6
+            xmax = 120.8
+            text = ""
+        intervals [38]:
+            xmin = 120.8
+            xmax = 126.6
+            text = "I did a Master's program there and had a job lobbying."
+        intervals [39]:
+            xmin = 126.6
+            xmax = 127.8
+            text = ""
+        intervals [40]:
+            xmin = 127.8
+            xmax = 134.6
+            text = "Yeah.  The Wisconsin state legislature.  I was lobbying for the AARP, the retired people.  "
+        intervals [41]:
+            xmin = 134.6
+            xmax = 137.8
+            text = ""
+        intervals [42]:
+            xmin = 137.8
+            xmax = 140.6
+            text = "Originally, from here, but like--"
+        intervals [43]:
+            xmin = 140.6
+            xmax = 141.8
+            text = ""
+        intervals [44]:
+            xmin = 141.8
+            xmax = 153.6
+            text = "They offered me a fellowship to go for their like political science program, and so there's a really good fellowship, and I wanted to be able to see a different part of the country and, yeah.  "
+        intervals [45]:
+            xmin = 153.6
+            xmax = 153.8
+            text = ""
+        intervals [46]:
+            xmin = 153.8
+            xmax = 159.6
+            text = "But, you know, after a few years it was like, hum, I think I'll go back to California.  "
+        intervals [47]:
+            xmin = 159.6
+            xmax = 160.8
+            text = ""
+        intervals [48]:
+            xmin = 160.8
+            xmax = 161.6
+            text = "Yeah. "
+        intervals [49]:
+            xmin = 161.6
+            xmax = 163.8
+            text = ""
+        intervals [50]:
+            xmin = 163.8
+            xmax = 164.6
+            text = "Really?  "
+        intervals [51]:
+            xmin = 164.6
+            xmax = 164.8
+            text = ""
+        intervals [52]:
+            xmin = 164.8
+            xmax = 170.6
+            text = "Will you start living on the southern side, or?  "
+        intervals [53]:
+            xmin = 170.6
+            xmax = 186.8
+            text = ""
+        intervals [54]:
+            xmin = 186.8
+            xmax = 190.6
+            text = "My [unintelligible] works at UC San Diego.  She really loves it there.  "
+        intervals [55]:
+            xmin = 190.6
+            xmax = 195.8
+            text = ""
+        intervals [56]:
+            xmin = 195.8
+            xmax = 197.6
+            text = "You're familiar then.  "
+        intervals [57]:
+            xmin = 197.6
+            xmax = 200.8
+            text = ""
+        intervals [58]:
+            xmin = 200.8
+            xmax = 205.6
+            text = "Cool.  Did you want to stay in academics or go with industry, or?  "
+        intervals [59]:
+            xmin = 205.6
+            xmax = 227.8
+            text = ""
+        intervals [60]:
+            xmin = 227.8
+            xmax = 233.6
+            text = "But in your program, what's the split in industry/academic afterwards?  "
+        intervals [61]:
+            xmin = 233.6
+            xmax = 237.8
+            text = ""
+        intervals [62]:
+            xmin = 237.8
+            xmax = 241.6
+            text = "Okay.  [laughter] Nice to meet you."

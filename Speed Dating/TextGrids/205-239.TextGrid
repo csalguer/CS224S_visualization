@@ -1,0 +1,456 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 267.08
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 267.08
+intervals: size = 56
+        intervals [1]:
+            xmin = 0
+            xmax = 1.28
+            text = ""
+        intervals [2]:
+            xmin = 1.28
+            xmax = 3.08
+            text = "How's it going?"
+        intervals [3]:
+            xmin = 3.08
+            xmax = 4.08
+            text = "Yeah."
+        intervals [4]:
+            xmin = 4.08
+            xmax = 10.28
+            text = ""
+        intervals [5]:
+            xmin = 10.28
+            xmax = 12.08
+            text = "I have no problem with that."
+        intervals [6]:
+            xmin = 12.08
+            xmax = 12.28
+            text = ""
+        intervals [7]:
+            xmin = 12.28
+            xmax = 18.08
+            text = "All men think of their female friends on a sexual level in some way, at some point."
+        intervals [8]:
+            xmin = 18.08
+            xmax = 21.28
+            text = ""
+        intervals [9]:
+            xmin = 21.28
+            xmax = 23.08
+            text = "So, what do you want me to do, lie about it?"
+        intervals [10]:
+            xmin = 23.08
+            xmax = 23.28
+            text = ""
+        intervals [11]:
+            xmin = 23.28
+            xmax = 25.08
+            text = "Thanks."
+        intervals [12]:
+            xmin = 25.08
+            xmax = 25.28
+            text = ""
+        intervals [13]:
+            xmin = 25.28
+            xmax = 29.08
+            text = "Might as well, I mean, yes, wait until you see your rating, anyway."
+        intervals [14]:
+            xmin = 29.08
+            xmax = 33.28
+            text = ""
+        intervals [15]:
+            xmin = 33.28
+            xmax = 37.08
+            text = "Huh?  Yeah.  So, yes, so what tactics do you use when you're like, not really happy with the guy?"
+        intervals [16]:
+            xmin = 37.08
+            xmax = 50.28
+            text = ""
+        intervals [17]:
+            xmin = 50.28
+            xmax = 52.08
+            text = "Okay, okay, okay.  "
+        intervals [18]:
+            xmin = 52.08
+            xmax = 63.28
+            text = ""
+        intervals [19]:
+            xmin = 63.28
+            xmax = 67.08
+            text = "Well, you could at least try to make them, like, walk away feeling, like..."
+        intervals [20]:
+            xmin = 67.08
+            xmax = 70.28
+            text = ""
+        intervals [21]:
+            xmin = 70.28
+            xmax = 72.08
+            text = "Okay."
+        intervals [22]:
+            xmin = 72.08
+            xmax = 77.28
+            text = ""
+        intervals [23]:
+            xmin = 77.28
+            xmax = 81.08
+            text = "Oh, man, that's terrible, alright. So what about the guys that have been, like, interesting?"
+        intervals [24]:
+            xmin = 81.08
+            xmax = 82.28
+            text = ""
+        intervals [25]:
+            xmin = 82.28
+            xmax = 84.08
+            text = "Have there been any?"
+        intervals [26]:
+            xmin = 84.08
+            xmax = 84.28
+            text = ""
+        intervals [27]:
+            xmin = 84.28
+            xmax = 86.08
+            text = "Okay."
+        intervals [28]:
+            xmin = 86.08
+            xmax = 108.28
+            text = ""
+        intervals [29]:
+            xmin = 108.28
+            xmax = 111.08
+            text = "Sure, it makes a good first impression."
+        intervals [30]:
+            xmin = 111.08
+            xmax = 114.28
+            text = ""
+        intervals [31]:
+            xmin = 114.28
+            xmax = 122.08
+            text = "Well, so, so I have this thing, I, I told you I lie when I'm bored.  And so, but, but..."
+        intervals [32]:
+            xmin = 122.08
+            xmax = 122.28
+            text = ""
+        intervals [33]:
+            xmin = 122.28
+            xmax = 139.08
+            text = "No, yes, so, I'm not bored with you.  So, I haven't actually had the chance to like really lie.  But like, there was one girl who was like, I'm so tired.  And I'm like, okay, let's make something up.  And she's like, oh okay.  So we just made everything up."
+        intervals [34]:
+            xmin = 139.08
+            xmax = 140.08
+            text = "It was kind of fun."
+        intervals [35]:
+            xmin = 140.08
+            xmax = 140.28
+            text = ""
+        intervals [36]:
+            xmin = 140.28
+            xmax = 170.08
+            text = "Yeah.  So it worked.  And then, and then, like, I know, nameX, very, a little bit, but she's like, oh, I'm so tired already.  I'm like, okay, well, I don't know anything about you, tell me something about yourself.  So, I'm from China, I'm like, nope, tonight your from Japan.  She's like, okay what do you mean?  I'm like, well your Chinese but you grew up in Japan.  And she's like, okay.  And then I'm like, what are you studying?  And she's like, she's starts, no you study particle physics.  And she's like, okay.  And so, I like, I felt I was being helpful."
+        intervals [37]:
+            xmin = 170.08
+            xmax = 171.28
+            text = ""
+        intervals [38]:
+            xmin = 171.28
+            xmax = 174.08
+            text = "Right, so where are you from?"
+        intervals [39]:
+            xmin = 174.08
+            xmax = 180.28
+            text = ""
+        intervals [40]:
+            xmin = 180.28
+            xmax = 190.08
+            text = "I like it.  The Ivory Coast is in the southwest of, or the south, right.  It's like, okay, that could work, okay.  Uh, and, and what are you studying here?"
+        intervals [41]:
+            xmin = 190.08
+            xmax = 197.28
+            text = ""
+        intervals [42]:
+            xmin = 197.28
+            xmax = 201.08
+            text = "Oh, sweet, I like that.  Um, and, uh, what are you going to do when you get out of here?"
+        intervals [43]:
+            xmin = 201.08
+            xmax = 217.28
+            text = ""
+        intervals [44]:
+            xmin = 217.28
+            xmax = 220.08
+            text = "Nice, very nice. Okay, how did you get interested in that?"
+        intervals [45]:
+            xmin = 220.08
+            xmax = 231.28
+            text = ""
+        intervals [46]:
+            xmin = 231.28
+            xmax = 233.08
+            text = "That's good, I like that, yeah.  That was pretty good.  "
+        intervals [47]:
+            xmin = 233.08
+            xmax = 233.28
+            text = ""
+        intervals [48]:
+            xmin = 233.28
+            xmax = 241.08
+            text = "I don't think I could be that creative, alright."
+        intervals [49]:
+            xmin = 241.08
+            xmax = 245.28
+            text = ""
+        intervals [50]:
+            xmin = 245.28
+            xmax = 249.08
+            text = "Last summer I was on a fishing vessel, actually.  I was on a merchant marine vessel."
+        intervals [51]:
+            xmin = 249.08
+            xmax = 249.28
+            text = ""
+        intervals [52]:
+            xmin = 249.28
+            xmax = 252.08
+            text = "I sailed from uh, the Arctic Ocean."
+        intervals [53]:
+            xmin = 252.08
+            xmax = 252.28
+            text = ""
+        intervals [54]:
+            xmin = 252.28
+            xmax = 257.08
+            text = "Al--arctic, or there is no Arctic Ocean, that wouldn't work too well.  Fuck, uh."
+        intervals [55]:
+            xmin = 257.08
+            xmax = 261.28
+            text = ""
+        intervals [56]:
+            xmin = 261.28
+            xmax = 267.08
+            text = "That work, let's lie, it's working so far.  Sorry dude, I owe you an apology.  That's like the second time."
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 267.08
+intervals: size = 53
+        intervals [1]:
+            xmin = 2.28
+            xmax = 4.08
+            text = "Good."
+        intervals [2]:
+            xmin = 4.08
+            xmax = 4.28
+            text = ""
+        intervals [3]:
+            xmin = 4.28
+            xmax = 9.08
+            text = "How are you? [laughter] do you want to rate your friends in attractiveness."
+        intervals [4]:
+            xmin = 9.08
+            xmax = 11.28
+            text = ""
+        intervals [5]:
+            xmin = 11.28
+            xmax = 13.08
+            text = "[laughter]."
+        intervals [6]:
+            xmin = 13.08
+            xmax = 17.28
+            text = ""
+        intervals [7]:
+            xmin = 17.28
+            xmax = 22.08
+            text = "Oh, do they?  Okay, well thank you for blunt, no, that's good.  At least you're honest."
+        intervals [8]:
+            xmin = 22.08
+            xmax = 22.28
+            text = ""
+        intervals [9]:
+            xmin = 22.28
+            xmax = 25.08
+            text = "I'll put you on sincere in the high points."
+        intervals [10]:
+            xmin = 25.08
+            xmax = 27.08
+            text = "[laughter]"
+        intervals [11]:
+            xmin = 27.08
+            xmax = 28.28
+            text = ""
+        intervals [12]:
+            xmin = 28.28
+            xmax = 34.08
+            text = "Oh, [laughter].  Here it is, uh-huh, uh-huh."
+        intervals [13]:
+            xmin = 34.08
+            xmax = 37.28
+            text = ""
+        intervals [14]:
+            xmin = 37.28
+            xmax = 51.08
+            text = "Oh, my god.  Oh, it's been like pulling teeth for you, seriously, oh, some of them.  Um, one I asked like, so what did you do this weekend?  I know, I know, I just.  But when there's like awkwardness, you know."
+        intervals [15]:
+            xmin = 51.08
+            xmax = 52.28
+            text = ""
+        intervals [16]:
+            xmin = 52.28
+            xmax = 64.08
+            text = "Um, I'm trying to think, not, I don't know, I just, I don't even care.  I don't try hard, like, if I realize, like, [laughter], it's not working, it's like.  Why should I try?"
+        intervals [17]:
+            xmin = 64.08
+            xmax = 67.28
+            text = ""
+        intervals [18]:
+            xmin = 67.28
+            xmax = 71.08
+            text = "Oh, no you're right, I do make it seem like you're loved and interesting."
+        intervals [19]:
+            xmin = 71.08
+            xmax = 71.28
+            text = ""
+        intervals [20]:
+            xmin = 71.28
+            xmax = 79.08
+            text = "I do, I'd be like, oh, three cats [laughter]."
+        intervals [21]:
+            xmin = 79.08
+            xmax = 81.28
+            text = ""
+        intervals [22]:
+            xmin = 81.28
+            xmax = 83.08
+            text = "Okay, um."
+        intervals [23]:
+            xmin = 83.08
+            xmax = 83.28
+            text = ""
+        intervals [24]:
+            xmin = 83.28
+            xmax = 85.08
+            text = "There have, there's been like two."
+        intervals [25]:
+            xmin = 85.08
+            xmax = 85.28
+            text = ""
+        intervals [26]:
+            xmin = 85.28
+            xmax = 109.08
+            text = "Um, one guy was like, what did he ask me?  He had like, okay, no he's not that interesting.  He's got no potential, but he actually had, um, on his name, he put like, Jamie Esquire, or something.  And I thought it as funny.  And I'm like, oh, Esquire, are you in law school?  He's like; no I just like to do that because it's funny.  And because I like to do this kind of stuff.  I was thinking about putting James Bond.  And I'm like.  It's like, it was interesting.  At least it got off to a good start.  It was funny."
+        intervals [27]:
+            xmin = 109.08
+            xmax = 109.28
+            text = ""
+        intervals [28]:
+            xmin = 109.28
+            xmax = 115.08
+            text = "Yeah.  And the funny, comedy is up there on my smile thing."
+        intervals [29]:
+            xmin = 115.08
+            xmax = 120.28
+            text = ""
+        intervals [30]:
+            xmin = 120.28
+            xmax = 123.08
+            text = "So you're not male205, okay, sorry."
+        intervals [31]:
+            xmin = 123.08
+            xmax = 138.28
+            text = ""
+        intervals [32]:
+            xmin = 138.28
+            xmax = 140.08
+            text = "Really?"
+        intervals [33]:
+            xmin = 140.08
+            xmax = 141.08
+            text = "That's funny."
+        intervals [34]:
+            xmin = 141.08
+            xmax = 169.28
+            text = ""
+        intervals [35]:
+            xmin = 169.28
+            xmax = 172.08
+            text = "It's good; it's good male205, yeah."
+        intervals [36]:
+            xmin = 172.08
+            xmax = 176.28
+            text = ""
+        intervals [37]:
+            xmin = 176.28
+            xmax = 180.08
+            text = "Um, the western coast of, um, the Ivory Coast.  [laughter]"
+        intervals [38]:
+            xmin = 180.08
+            xmax = 190.28
+            text = ""
+        intervals [39]:
+            xmin = 190.28
+            xmax = 198.08
+            text = "Um, well, Slavic languages [laughter]."
+        intervals [40]:
+            xmin = 198.08
+            xmax = 201.28
+            text = ""
+        intervals [41]:
+            xmin = 201.28
+            xmax = 217.08
+            text = "Oh, uh, rescue the sea turtles and make sure that the eggs, um, get properly buried in the sand of the Jupiter Beach um reserve area in south Florida that sea turtles migrate to."
+        intervals [42]:
+            xmin = 217.08
+            xmax = 220.28
+            text = ""
+        intervals [43]:
+            xmin = 220.28
+            xmax = 232.08
+            text = "Oh, my, my brother was bitten by a dolphin when I was young.  And um, I've, I had this interest in sea creatures, yeah."
+        intervals [44]:
+            xmin = 232.08
+            xmax = 233.28
+            text = ""
+        intervals [45]:
+            xmin = 233.28
+            xmax = 240.08
+            text = "[laughter] okay, yeah, I see, oh, okay, ready? Oh, oh."
+        intervals [46]:
+            xmin = 240.08
+            xmax = 240.28
+            text = ""
+        intervals [47]:
+            xmin = 240.28
+            xmax = 245.08
+            text = "Okay, wait, wait, wait, um, eh, what did you do last summer?"
+        intervals [48]:
+            xmin = 245.08
+            xmax = 248.28
+            text = ""
+        intervals [49]:
+            xmin = 248.28
+            xmax = 250.08
+            text = "Uh, hum."
+        intervals [50]:
+            xmin = 250.08
+            xmax = 251.28
+            text = ""
+        intervals [51]:
+            xmin = 251.28
+            xmax = 253.08
+            text = "Uh-huh."
+        intervals [52]:
+            xmin = 253.08
+            xmax = 257.28
+            text = ""
+        intervals [53]:
+            xmin = 257.28
+            xmax = 263.08
+            text = "That's okay, it's just like, don't even wait, do that, you seem confident because you just..."

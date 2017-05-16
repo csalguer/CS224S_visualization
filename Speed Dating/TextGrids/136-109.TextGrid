@@ -1,0 +1,384 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 247.6
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MALE"
+        xmin = 0
+        xmax = 247.6
+intervals: size = 46
+        intervals [1]:
+            xmin = 0
+            xmax = 3.31
+            text = ""
+        intervals [2]:
+            xmin = 3.31
+            xmax = 11.11
+            text = "Take your time.  What's your name?  [background noise] Sorry about that."
+        intervals [3]:
+            xmin = 11.11
+            xmax = 11.31
+            text = ""
+        intervals [4]:
+            xmin = 11.31
+            xmax = 13.11
+            text = "What's your name?"
+        intervals [5]:
+            xmin = 13.11
+            xmax = 13.31
+            text = ""
+        intervals [6]:
+            xmin = 13.31
+            xmax = 14.11
+            text = "female136?  "
+        intervals [7]:
+            xmin = 14.11
+            xmax = 14.31
+            text = ""
+        intervals [8]:
+            xmin = 14.31
+            xmax = 16.11
+            text = "Nice meeting you, female136.  "
+        intervals [9]:
+            xmin = 16.11
+            xmax = 18.31
+            text = ""
+        intervals [10]:
+            xmin = 18.31
+            xmax = 23.11
+            text = "Studying electrical engineering, second year, MS.  How about you?  "
+        intervals [11]:
+            xmin = 23.11
+            xmax = 31.31
+            text = ""
+        intervals [12]:
+            xmin = 31.31
+            xmax = 38.11
+            text = "[interposing]  No, actually I grew up in Jakarta, Indonesia, and then I came to U.S. for college.  "
+        intervals [13]:
+            xmin = 38.11
+            xmax = 44.31
+            text = ""
+        intervals [14]:
+            xmin = 44.31
+            xmax = 46.11
+            text = "I went to Perdue University in Indiana.  "
+        intervals [15]:
+            xmin = 46.11
+            xmax = 48.31
+            text = ""
+        intervals [16]:
+            xmin = 48.31
+            xmax = 61.11
+            text = "Actually I did mathematics for undergrads and computer science. But I started to do [unintelligible] but not five cents worth.  How about you?  What is your major in undergrad?  "
+        intervals [17]:
+            xmin = 61.11
+            xmax = 70.31
+            text = ""
+        intervals [18]:
+            xmin = 70.31
+            xmax = 73.11
+            text = "French and architectural history?  "
+        intervals [19]:
+            xmin = 73.11
+            xmax = 73.31
+            text = ""
+        intervals [20]:
+            xmin = 73.31
+            xmax = 80.11
+            text = "So, do you study architecture as architecture or more work the history behind the architecture.  "
+        intervals [21]:
+            xmin = 80.11
+            xmax = 84.31
+            text = ""
+        intervals [22]:
+            xmin = 84.31
+            xmax = 89.11
+            text = "That sounds like it is one of the most exotic majors I have ever heard.  "
+        intervals [23]:
+            xmin = 89.11
+            xmax = 96.31
+            text = ""
+        intervals [24]:
+            xmin = 96.31
+            xmax = 97.11
+            text = "Oh, I see.   "
+        intervals [25]:
+            xmin = 97.11
+            xmax = 114.31
+            text = ""
+        intervals [26]:
+            xmin = 114.31
+            xmax = 117.11
+            text = "Oh, I see, like urban planning. I see.  "
+        intervals [27]:
+            xmin = 117.11
+            xmax = 122.31
+            text = ""
+        intervals [28]:
+            xmin = 122.31
+            xmax = 125.11
+            text = "Oh, I see so what did you do before law school?  "
+        intervals [29]:
+            xmin = 125.11
+            xmax = 139.31
+            text = ""
+        intervals [30]:
+            xmin = 139.31
+            xmax = 141.11
+            text = "What's the name of the firm? "
+        intervals [31]:
+            xmin = 141.11
+            xmax = 142.31
+            text = ""
+        intervals [32]:
+            xmin = 142.31
+            xmax = 143.11
+            text = "Yeah, the firm.  "
+        intervals [33]:
+            xmin = 143.11
+            xmax = 145.31
+            text = ""
+        intervals [34]:
+            xmin = 145.31
+            xmax = 152.11
+            text = "Oh, it's a private firm that deals with the government.  Oh, I see, okay.  I thought it's a government [unintelligible].  "
+        intervals [35]:
+            xmin = 152.11
+            xmax = 155.31
+            text = ""
+        intervals [36]:
+            xmin = 155.31
+            xmax = 157.11
+            text = "Oh, really?  "
+        intervals [37]:
+            xmin = 157.11
+            xmax = 157.31
+            text = ""
+        intervals [38]:
+            xmin = 157.31
+            xmax = 162.11
+            text = "Why would you want to work for the government, yeah.  "
+        intervals [39]:
+            xmin = 162.11
+            xmax = 190.31
+            text = ""
+        intervals [40]:
+            xmin = 190.31
+            xmax = 191.11
+            text = "I see.  "
+        intervals [41]:
+            xmin = 191.11
+            xmax = 196.31
+            text = ""
+        intervals [42]:
+            xmin = 196.31
+            xmax = 203.11
+            text = "So, what makes you decide to go to law school instead of MBA or are you just into law?  "
+        intervals [43]:
+            xmin = 203.11
+            xmax = 219.31
+            text = ""
+        intervals [44]:
+            xmin = 219.31
+            xmax = 223.11
+            text = "Commercial, like there is this [unintelligible] and finance.  "
+        intervals [45]:
+            xmin = 223.11
+            xmax = 231.31
+            text = ""
+        intervals [46]:
+            xmin = 231.31
+            xmax = 247.11
+            text = "I think it's just some kind of--actually I don't really know.  I just liked science when I was a kid.  So, that's why everything [unintelligible].  It was a nice talking to you, female136.  "
+    item [2]:
+        class = "IntervalTier"
+        name = "FEMALE"
+        xmin = 0
+        xmax = 247.6
+intervals: size = 45
+        intervals [1]:
+            xmin = 0.8
+            xmax = 1.6
+            text = "Sorry.  "
+        intervals [2]:
+            xmin = 1.6
+            xmax = 11.8
+            text = ""
+        intervals [3]:
+            xmin = 11.8
+            xmax = 12.6
+            text = "female136.  "
+        intervals [4]:
+            xmin = 12.6
+            xmax = 12.8
+            text = ""
+        intervals [5]:
+            xmin = 12.8
+            xmax = 14.6
+            text = "Nice to meet you.  "
+        intervals [6]:
+            xmin = 14.6
+            xmax = 14.8
+            text = ""
+        intervals [7]:
+            xmin = 14.8
+            xmax = 17.6
+            text = "What are you, uh, what are you studying here?  "
+        intervals [8]:
+            xmin = 17.6
+            xmax = 23.8
+            text = ""
+        intervals [9]:
+            xmin = 23.8
+            xmax = 31.6
+            text = "This was my first year in law school, or law school.  And are you--from California?  Are you from--"
+        intervals [10]:
+            xmin = 31.6
+            xmax = 37.8
+            text = ""
+        intervals [11]:
+            xmin = 37.8
+            xmax = 43.6
+            text = "Okay, it's like if you life the country and it's pliable where in the U.S. did you go to school at? "
+        intervals [12]:
+            xmin = 43.6
+            xmax = 45.8
+            text = ""
+        intervals [13]:
+            xmin = 45.8
+            xmax = 48.6
+            text = "Oh, cool.  Did you do engineering there?"
+        intervals [14]:
+            xmin = 48.6
+            xmax = 60.8
+            text = ""
+        intervals [15]:
+            xmin = 60.8
+            xmax = 69.6
+            text = "What is my major?  You're going to laugh.  Um, Um, I majored in French and architectural history.  "
+        intervals [16]:
+            xmin = 69.6
+            xmax = 71.8
+            text = ""
+        intervals [17]:
+            xmin = 71.8
+            xmax = 72.6
+            text = "Yeah. "
+        intervals [18]:
+            xmin = 72.6
+            xmax = 78.8
+            text = ""
+        intervals [19]:
+            xmin = 78.8
+            xmax = 84.6
+            text = "More of the history.  I mean I did--I did send architecture.  "
+        intervals [20]:
+            xmin = 84.6
+            xmax = 88.8
+            text = ""
+        intervals [21]:
+            xmin = 88.8
+            xmax = 96.6
+            text = "I mean I started out thinking that I was going to be an architect.  "
+        intervals [22]:
+            xmin = 96.6
+            xmax = 96.8
+            text = ""
+        intervals [23]:
+            xmin = 96.8
+            xmax = 111.6
+            text = "That I was really interested in so it would be hard and the history.  And I really loved it.  For a long time I thought I would go into like city planning.  "
+        intervals [24]:
+            xmin = 111.6
+            xmax = 114.8
+            text = ""
+        intervals [25]:
+            xmin = 114.8
+            xmax = 122.6
+            text = "But then I worked for a few years after college and decided that I wanted to go to law school.  "
+        intervals [26]:
+            xmin = 122.6
+            xmax = 125.8
+            text = ""
+        intervals [27]:
+            xmin = 125.8
+            xmax = 138.6
+            text = "Nothing related to my major.  I worked--whatever [unintelligible] actually.  I worked for a public affairs firm in DC that did a lot of governmental purchasing work.  "
+        intervals [28]:
+            xmin = 138.6
+            xmax = 140.8
+            text = ""
+        intervals [29]:
+            xmin = 140.8
+            xmax = 141.6
+            text = "The firm?  "
+        intervals [30]:
+            xmin = 141.6
+            xmax = 142.8
+            text = ""
+        intervals [31]:
+            xmin = 142.8
+            xmax = 145.6
+            text = "It's called [unintelligible].  "
+        intervals [32]:
+            xmin = 145.6
+            xmax = 148.8
+            text = ""
+        intervals [33]:
+            xmin = 148.8
+            xmax = 155.6
+            text = "No, but I want to work for the government.  "
+        intervals [34]:
+            xmin = 155.6
+            xmax = 155.8
+            text = ""
+        intervals [35]:
+            xmin = 155.8
+            xmax = 156.6
+            text = "Yeah.  "
+        intervals [36]:
+            xmin = 156.6
+            xmax = 160.8
+            text = ""
+        intervals [37]:
+            xmin = 160.8
+            xmax = 189.6
+            text = "Because I'm really interested in international law, and I think like working for the State Department, for example, would be--I mean they have--it's some of the most interesting international law firms around.  I mean pretty much everything I could do for a firm would be transactions between large companies, one in the U.S. and one in another country.  And that's--to me that's not international law.  That's a transaction between international entities.  "
+        intervals [38]:
+            xmin = 189.6
+            xmax = 189.8
+            text = ""
+        intervals [39]:
+            xmin = 189.8
+            xmax = 194.6
+            text = "But the State Department does more international law. Like U.N. law.  "
+        intervals [40]:
+            xmin = 194.6
+            xmax = 204.8
+            text = ""
+        intervals [41]:
+            xmin = 204.8
+            xmax = 218.6
+            text = "I actually  thought about goals, and I decided I'm going to because I thought it was more--I wanted more of an [unintelligible] experience.  And I'm not saying that an MBA isn't, but it was more to me, uhm--"
+        intervals [42]:
+            xmin = 218.6
+            xmax = 222.8
+            text = ""
+        intervals [43]:
+            xmin = 222.8
+            xmax = 231.6
+            text = "Yeah, that is what I was going to do.  How about you?  I mean how did you know that electrical engineering was what you wanted to do?  "
+        intervals [44]:
+            xmin = 231.6
+            xmax = 245.8
+            text = ""
+        intervals [45]:
+            xmin = 245.8
+            xmax = 247.6
+            text = "Nice talking to you, male109. "
