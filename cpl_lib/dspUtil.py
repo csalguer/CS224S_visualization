@@ -727,6 +727,16 @@ def calculateRMS(data, convertToDb = False):
 	
 	
 ######################################################################
+def calculateRMSOnce(data):
+	size = len(data)
+	dataSum = sum(data)
+	mean = dataSum / float(size)
+	squares = [(x - mean)**2 for x in data]
+	sqSum = sum(squares)
+	meanSquare = sqSum / float(size)
+	return math.sqrt(meanSquare)
+
+######################################################################
 	
 def calculateRmsOfSignal(
 		data, # an array containing the signal
@@ -1284,8 +1294,7 @@ def calculateF0once(
 		dataTmp *= fftWindow
 	
 	# autocorrelation
-	result = numpy.correlate(dataTmp, dataTmp, mode = 'full', \
-		old_behavior = False)
+	result = numpy.correlate(dataTmp, dataTmp, mode = 'full')
 	r = result[result.size/2:] / float(len(data))
 	
 	

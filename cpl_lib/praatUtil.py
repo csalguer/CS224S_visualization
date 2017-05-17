@@ -923,8 +923,8 @@ def calculateF0OfSignal(
 	idx1 = 0
 	idx2 = n
 	if not tStart is None and not tEnd is None:
-		idx1 = int(round(tStart * float(fs)))
-		idx2 = int(round(tEnd * float(fs)))
+		idx1 = int(round(tStart * float(samplingFrequency)))
+		idx2 = int(round(tEnd * float(samplingFrequency)))
 		if idx1 < 0: idx1 = 0
 		if idx2 >= n: idx2 = n
 	if dspUtil.getAbsMax(data) >= 1:
