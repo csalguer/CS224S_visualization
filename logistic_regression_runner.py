@@ -9,11 +9,11 @@ y = pandas.read_csv('all_outcomes.csv')
 
 y = y['label']
 
-X_test = X[X.shape[0] - 21: X.shape[0] - 1][:]
-y_test = y[len(y) - 21:len(y) - 1]
+X_test = X[X.shape[0] - 41: X.shape[0] - 1][:]
+y_test = y[len(y) - 41:len(y) - 1]
 
-X = X[: X.shape[0] - 21][:]
-y = y[:len(y) - 21]
+X = X[: X.shape[0] - 41][:]
+y = y[:len(y) - 41]
 
 # LOGISTIC REGRESSION
 
