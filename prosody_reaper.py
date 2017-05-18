@@ -53,7 +53,7 @@ class ProsodicReaper(object):
         with open(self.fileList) as f:
             content = f.readlines()
         content = [x.strip() for x in content]
-        f = open("features3.csv", 'wt')
+        f = open("features4.csv", 'wt')
         try:
             writer = csv.writer(f)
             for file in content:
@@ -172,5 +172,5 @@ class ProsodicReaper(object):
 
 
 if __name__ == '__main__':
-    prosody = ProsodicReaper(fileList="test_batch3.txt")
+    prosody = ProsodicReaper(fileList="test_batch4.txt")
     prosody.reapFeaturesList()
