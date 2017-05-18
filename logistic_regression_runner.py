@@ -1,39 +1,120 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from sklearn import datasets, linear_model
+from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm
+import csv
+import pandas as pandas
 
-def log_run(dataset):
+X = pandas.read_csv('all_features.csv')
+y = pandas.read_csv('all_outcomes.csv')
 
-	# Use only one feature
-	X = dataset[:, :dataset.shape[1] - 1]
+y = y['label']
 
-	# Split the data into training/testing sets
-	diabetes_X_train = diabetes_X[:-20]
-	diabetes_X_test = diabetes_X[-20:]
+X_test = X[X.shape[0] - 21: X.shape[0] - 1][:]
+y_test = y[len(y) - 21:len(y) - 1]
 
-	# Split the targets into training/testing sets
-	diabetes_y_train = diabetes.target[:-20]
-	diabetes_y_test = diabetes.target[-20:]
+X = X[: X.shape[0] - 21][:]
+y = y[:len(y) - 21]
 
-	# Create linear regression object
-	regr = linear_model.LinearRegression()
+# LOGISTIC REGRESSION
 
-	# Train the model using the training sets
-	regr.fit(diabetes_X_train, diabetes_y_train)
+# fit a logistic regression model to the data
+logistic = linear_model.LogisticRegression()
+logistic.fit(X,y)
+print(logistic)
 
-	# The coefficients
-	print('Coefficients: \n', regr.coef_)
-	# The mean squared error
-	print("Mean squared error: %.2f" 
-		% np.mean((regr.predict(diabetes_X_test) - diabetes_y_test) ** 2))
-	# Explained variance score: 1 is perfect prediction
-	print('Variance score: %.2f' % regr.score(diabetes_X_test, diabetes_y_test))
+# make predictions
+expected = y
+predicted = logistic.predict(X)
 
-	# Plot outputs
-	plt.scatter(diabetes_X_test, diabetes_y_test,  color='black')
-	plt.plot(diabetes_X_test, regr.predict(diabetes_X_test), color='blue', linewidth=3)
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
 
-	plt.xticks(())
-	plt.yticks(())
+expected = y_test
+predicted = logistic.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
 
-	plt.show()
+
+# GAUSSIAN NAIVE BAYES
+
+# fit a Naive Bayes model to the data
+gaussian = naive_bayes.GaussianNB()
+gaussian.fit(X, y)
+print(gaussian)
+
+# make predictions
+expected = y
+predicted = gaussian.predict(X)
+
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+expected = y_test
+predicted = gaussian.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+
+# K-NEAREST NEIGHBORS
+
+# fit a k-nearest neighbor model to the data
+k_neighbors = neighbors.KNeighborsClassifier()
+k_neighbors.fit(X, y)
+print(k_neighbors)
+
+# make predictions
+expected = y
+predicted = k_neighbors.predict(X)
+
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+expected = y_test
+predicted = k_neighbors.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+
+# DECISION TREE CLASSIFIER
+
+# fit a CART model to the data
+decision_tree = tree.DecisionTreeClassifier()
+decision_tree.fit(X, y)
+print(decision_tree)
+
+# make predictions
+expected = y
+predicted = decision_tree.predict(X)
+
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+expected = y_test
+predicted = decision_tree.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+
+# SUPPORT VECTOR MACHINES
+
+# fit a SVM model to the data
+svm = svm.SVC()
+svm.fit(X, y)
+print(svm)
+
+# make predictions
+expected = y
+predicted = svm.predict(X)
+
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+expected = y_test
+predicted = svm.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
