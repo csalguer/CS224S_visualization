@@ -4,7 +4,6 @@ class OutcomesReaper(object):
     """docstring for ProsodicReaper"""
     def __init__(self, fileList=None):
         super(OutcomesReaper, self).__init__()
-        self.fileList = fileList
 
     def setParticipants(self, filename):
         self.filename = filename
@@ -30,13 +29,21 @@ class OutcomesReaper(object):
 
 
     def getAllOutcomes(self):
-        with open(self.fileList) as f:
-            content = f.readlines()
-        content = [x.strip() for x in content]
+        with open("test_batch1.txt") as f:
+            content1 = f.readlines()
+        content1 = [x.strip() for x in content1]
+        with open("test_batch2.txt") as f:
+            content2 = f.readlines()
+        content2 = [x.strip() for x in content2]
         f = open("outcomes.csv", 'wt')
         try:
             writer = csv.writer(f, lineterminator="\n")
-            for file in content:
+            for file in content1:
+                self.setParticipants(file)
+                outcomes = self.getOutcomes()
+                writer.writerow(outcomes["MALE_OUTCOME"])
+                writer.writerow(outcomes["FEMALE_OUTCOME"])
+            for file in content2:
                 self.setParticipants(file)
                 outcomes = self.getOutcomes()
                 writer.writerow(outcomes["MALE_OUTCOME"])
@@ -44,8 +51,7 @@ class OutcomesReaper(object):
         finally:
             f.close()
 
+
 if __name__ == '__main__':
-    outcome_reaper1 = OutcomesReaper(fileList="test_batch1.txt")
-    outcome_reaper1.getAllOutcomes()
-    outcome_reaper2 = OutcomesReaper(fileList="test_batch2.txt")
-    outcome_reaper2.getAllOutcomes()
+    outcome_reaper = OutcomesReaper()
+    outcome_reaper.getAllOutcomes()
