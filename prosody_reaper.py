@@ -4,14 +4,11 @@ import sys
 import os
 sys.path.append(modulePath)
 # now you're good to import the modules
-import generalUtility
 import dspUtil
 import praatTextGrid
-import praatUtil
 import scipy.io.wavfile as wav 
 import myWave
-import matplotlibUtil
-import librosa
+import audioop
 import numpy as np
 import csv
 
@@ -45,6 +42,8 @@ class ProsodicReaper(object):
         print("\tData Array Shape: ", sig[0].shape)
         male_vec = self.calculateFeatures(male_timings, fs, sig[0])
         female_vec = self.calculateFeatures(female_timings, fs, sig[0])
+        male_vec.insert(0, self.participants[0])
+        female_vec.insert(0, self.participants[1])
         return {"MALE":male_vec, "FEMALE":female_vec}
 
 
@@ -85,7 +84,8 @@ class ProsodicReaper(object):
             # result =  dspUtil.calculateF0OfSignal(signal_data, fs_rate, tmpDataPath='temp/', \
             #     tStart=start_t, tEnd=end_t)
             F0_result = dspUtil.calculateF0once(utterance, fs_rate)
-            RMS_result = dspUtil.calculateRMSOnce(utterance)
+            #RMS_result = dspUtil.calculateRMSOnce(utterance)
+            RMS_result = audioop.rms(utterance, 2)
             F0_arr.append(F0_result)
             RMS_arr.append(RMS_result)
             # print("F0: ", F0_result)
@@ -93,7 +93,16 @@ class ProsodicReaper(object):
         vec = self.packageFeatures(F0_arr, RMS_arr)
         print(vec)
         return vec
-    
+
+    def np_audioop_rms(self, data):
+        """audioop.rms() using numpy; avoids another dependency for app"""
+        # _checkParameters(data, width)
+        # if len(data) == 0: return None
+        fromType = (np.int8, np.int16, np.int32)[width // 2]
+        # d = np.frombuffer(data, fromType).astype(np.float)
+        # rms = np.sqrt(np.mean(d ** 2))
+        # return int(rms)
+        return np.power(np.frombuffer(data, dtype=fromType), 2.0).mean() ** .5
 
     def packageFeatures(self, F0, RMS):
         F0_min = min(F0)
@@ -172,5 +181,7 @@ class ProsodicReaper(object):
 
 
 if __name__ == '__main__':
-    prosody = ProsodicReaper(fileList="test_batch4.txt")
-    prosody.reapFeaturesList()
+    #prosody = ProsodicReaper(fileList="test_batch4.txt")
+    #prosody.reapFeaturesList()
+    p = ProsodicReaper('102-122.txt')
+    print(p.reapFeatures())
