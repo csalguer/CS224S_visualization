@@ -1,3 +1,5 @@
+import numpy as np
+
 class FreqReaper(object):
     """docstring for ProsodicReaper"""
     def __init__(self, fileList=None):
@@ -90,24 +92,8 @@ class FreqReaper(object):
             reversed = partial_reversal[1].split(".")[0] + "-" + partial_reversal[0] + ".txt"
             results = self.getUnigramBigram(reversed)
             if results == None:
-                f.write("\n")
-                f.write("\n")
-                return
-        male_unigram_results = results["MALE_UNIGRAM_RESULTS"]
-        for index in sorted(male_unigram_results.keys()):
-            f.write(str(index + 1) + ":" + str(male_unigram_results[index]) + " ")
-        male_bigram_results = results["MALE_BIGRAM_RESULTS"]
-        for index in sorted(male_bigram_results.keys()):
-            f.write(str(len(self.unigrams) + index + 1) + ":" + str(male_bigram_results[index]) + " ")
-        f.write("\n")
-
-        female_unigram_results = results["FEMALE_UNIGRAM_RESULTS"]
-        for index in sorted(female_unigram_results.keys()):
-            f.write(str(index + 1) + ":" + str(female_unigram_results[index]) + " ")
-        female_bigram_results = results["FEMALE_BIGRAM_RESULTS"]
-        for index in sorted(female_bigram_results.keys()):
-            f.write(str(len(self.unigrams) + index + 1) + ":" + str(female_bigram_results[index]) + " ")
-        f.write("\n")
+                return None
+        return results
 
     def calculateUnigramBigrams(self):
         with open("test_batch1.txt") as f:
@@ -119,16 +105,36 @@ class FreqReaper(object):
         with open("test_batch3.txt") as f:
             content3 = f.readlines()
         content3 = [x.strip() for x in content3]
-        f = open("freq_features.csv", "w")
-        try:
-            for file in content1:
-                self.writeUnigramBigramToFile(f, file)
-            for file in content2:
-                self.writeUnigramBigramToFile(f, file)
-            for file in content3:
-                self.writeUnigramBigramToFile(f, file)
-        finally:
-            f.close()
+        self.unprocessed_results = list()
+        for file in content1:
+            self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
+        for file in content2:
+            self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
+        for file in content3:
+            self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
+        self.total_lines = (len(content1) + len(content2) + len(content3)) * 2
+
+    def processFreqFeatures(self):
+        processed_results = np.zeros([self.total_lines, len(self.unigrams) + len(self.bigrams)])
+        for i in range(0, len(self.unprocessed_results)):
+            for key in self.unprocessed_results[i]["MALE_UNIGRAM_RESULTS"].keys():
+                processed_results[i * 2][key] = self.unprocessed_results[i]["MALE_UNIGRAM_RESULTS"][key]
+            for key in self.unprocessed_results[i]["MALE_BIGRAM_RESULTS"].keys():
+                processed_results[i * 2][key + len(self.unigrams)] = self.unprocessed_results[i]["MALE_BIGRAM_RESULTS"][key]
+            for key in self.unprocessed_results[i]["FEMALE_UNIGRAM_RESULTS"].keys():
+                processed_results[i * 2 + 1][key] = self.unprocessed_results[i]["FEMALE_UNIGRAM_RESULTS"][key]
+            for key in self.unprocessed_results[i]["FEMALE_BIGRAM_RESULTS"].keys():
+                processed_results[i * 2 + 1][key + len(self.unigrams)] = self.unprocessed_results[i]["FEMALE_BIGRAM_RESULTS"][key]
+        return processed_results
+
+
+    def runAll(self):
+        self.makeAllUnigramBigramSet("test_batch1.txt")
+        self.makeAllUnigramBigramSet("test_batch2.txt")
+        self.makeAllUnigramBigramSet("test_batch3.txt")
+        self.makeUnigramBigramList()
+        self.calculateUnigramBigrams()
+        return self.processFreqFeatures()
 
 
 if __name__ == '__main__':

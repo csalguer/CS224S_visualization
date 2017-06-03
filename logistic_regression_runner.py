@@ -2,9 +2,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm
 import csv
+from freq_reaper import FreqReaper
 import pandas as pandas
 
+freq_reaper = FreqReaper()
+
 X = pandas.read_csv('all_features.csv')
+#X_append = processFreqFeatures()
+X_append = freq_reaper.runAll()
+X = np.hstack((X, X_append))
 y = pandas.read_csv('all_outcomes.csv')
 
 y = y['label']
@@ -118,3 +124,10 @@ expected = y_test
 predicted = svm.predict(X_test)
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
+
+#def processFreqFeatures():
+#    with open("freq_features.csv") as f:
+#        content = f.readlines()
+#    for line in content:
+#        tokenized_line = line.split()
+#    return None
