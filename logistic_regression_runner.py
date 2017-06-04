@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm
+from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm, neural_network
 import csv
 from freq_reaper import FreqReaper
 import pandas as pandas
@@ -8,7 +8,6 @@ import pandas as pandas
 freq_reaper = FreqReaper()
 
 X = pandas.read_csv('all_features.csv')
-#X_append = processFreqFeatures()
 X_append = freq_reaper.runAll()
 X = np.hstack((X, X_append))
 y = pandas.read_csv('all_outcomes.csv')
@@ -125,9 +124,22 @@ predicted = svm.predict(X_test)
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
 
-#def processFreqFeatures():
-#    with open("freq_features.csv") as f:
-#        content = f.readlines()
-#    for line in content:
-#        tokenized_line = line.split()
-#    return None
+
+#NEURAL NETWORK
+
+nn = neural_network.MLPClassifier()
+nn.fit(X, y)
+print(nn)
+
+# make predictions
+expected = y
+predicted = nn.predict(X)
+
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
+
+expected = y_test
+predicted = nn.predict(X_test)
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
