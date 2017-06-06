@@ -1,9 +1,12 @@
+
 from __future__ import print_function
+from __future__ import with_statement
 from collections import deque
 import sys
 import os
 import csv
 from prosody_reaper import ProsodicReaper
+from multiprocessing import Process,Queue
 
 class BatchProcess(object):
     """docstring for BatchProcess"""
@@ -14,29 +17,42 @@ class BatchProcess(object):
         self.debug = debug
         super(BatchProcess, self).__init__()
 
-    def get_last_row(self, csv_filename):
-        with open(csv_filename, 'r') as f:
-            q = deque(csv.reader(f), 1)
-            lastrow = q[0]
-            participants = lastrow[0]
-            if self.debug:
-                # print("Participants: ", participants)
-                print("Last Row: ", lastrow)
-            return lastrow
-
-    def get_last_participants(self, csv_filename):
-        with open(csv_filename, 'r') as f:
-            q = deque(csv.reader(f), 1)
-            lastrow = q[0]
-            if "EOF" in lastrow:
-                print("FOUND EOF")
-                participants = lastrow.split('|')[1]
-            else:
+    def get_last_row(self):
+        try:
+            with open(self.featdumpFilename, 'r') as f:
+                q = deque(csv.reader(f), 1)
+                lastrow = q[0]
                 participants = lastrow[0]
-            if self.debug:
-                print("Participants: ", participants)
-                # print("Last Row: ", lastrow)
-            return participants
+                if self.debug:
+                    # print("Participants: ", participants)
+                    print("Last Row: ", lastrow)
+                return lastrow
+        except IOError:
+            print("No Known file named: {}".format(self.featdumpFilename))
+            return None
+
+
+    #ONLY TO BE USED WHEN THE LAST TWO ROWS ARE GUARANTEED TO BE PARTICIPANT PAIRS
+    def get_last_participants(self):
+        try:
+            with open(self.featdumpFilename, 'r') as f:
+                q = deque(csv.reader(f), 2)
+                print(q)
+                lastrow = q[0]
+                penultimate = q[1]
+                if "EOF" in lastrow:
+                    print("FOUND EOF")
+                    participants = lastrow.split('|')[1]
+                else:
+                    participants = "{}-{}".format(lastrow[0], penultimate[0])
+                if self.debug:
+                    print("Participants: ", participants)
+                    # print("Last Row: ", lastrow)
+                return participants
+        except IOError:
+            print("No Known file named: {}".format(self.featdumpFilename))
+            return None
+
 
 
     # def reapFeaturesList(self):
@@ -57,18 +73,25 @@ class BatchProcess(object):
 
 
     def process(self):
-        lastrow = self.get_last_row(self.featdumpFilename)
-        participants = self.get_last_participants(self.featdumpFilename)
-        with open(self.fileList) as f:
+        lastrow = self.get_last_row()
+        with open(self.batchFilename) as f:
             batch = f.readlines()
         batch = [x.strip() for x in batch]
-
-        indexStopped = batch.index(participants+".txt")
-        filesRemaining
-        f = open("reaped_features.csv", 'a')
+        if lastrow is None:
+            print("FIRST LAUNCH: COLD START")
+            print("CREATING FILE")
+            filesRemaining = batch
+            indexStopped = len(batch) - 1
+        else:
+            participants = self.get_last_participants()
+            print("PREVIOUS RUNNING DETECTED")
+            print("LEFT OFF ON PARTICIPANTS: [{}]".format(participants))
+            indexStopped = batch.index(participants+".txt")
+            filesRemaining = batch[indexStopped+1:]
+        f = open(self.featdumpFilename, 'a')
         try:
             writer = csv.writer(f)
-            for filename in batch:
+            for filename in filesRemaining:
                 self.reaper.setParticipants(filename)
                 feat = self.reaper.reapFeatures()
                 writer.writerow(feat["MALE"])
@@ -84,9 +107,17 @@ class BatchProcess(object):
 
 
 def main():
-    bp = BatchProcess('test_batch1.txt', 'features.csv')
-    bp.test()
-    bp2.test()
+    try:
+        bp = BatchProcess('consolidated_batch.txt', "prosody_features.csv")
+        queue = Queue()
+        p = Process(target=bp.process)
+        p.start()
+    except MemoryError:
+        print("RECOVERING FROM MEMORY ERROR:")
+        print("ATTEMPTING RESTART")
+
+
+
 
 if __name__ == '__main__':
     main()
