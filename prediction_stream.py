@@ -24,7 +24,7 @@ from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tre
 
 class PredictionStreamer(object):
     """docstring for PredictionStreamer"""
-    def __init__(self, fileName, utterancesDir=None, debug=True):
+    def __init__(self, fileName, utterancesDir=None, debug=False):
         self.fileName = fileName
         if fileName is not None:
             self.participants = fileName.split('.')[0].split('-')
@@ -37,7 +37,7 @@ class PredictionStreamer(object):
         # self.emotion_model = neighbors.KNeighborsClassifier()
         # self.prosody_model = neural_network.MLPClassifier(shuffle=False, random_state=4)
         self.emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
-        self.prosody_model = externals.joblib.load('models/nn2.pkl')
+        self.prosody_model = externals.joblib.load('models/k_neighbors2.pkl')
         self.freq_reaper = FreqReaper()
         # super(PredictionStreamer, self).__init__()
 
@@ -50,13 +50,13 @@ class PredictionStreamer(object):
             ##MAIN METHOD##
             switchPIndices, switchEIndices = self.processTextGridHandler(PFeatOutput, EFeatOutput)
             self.produce(PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices)
-            print("PREDICITONS LIST: ", predictions)
+            # print("PREDICITONS LIST: ", predictions)
 
 
 
     def produce(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices):
         X_prosody = pandas.read_csv(PFeatOutput)
-        print(X_prosody)
+        # print(X_prosody)
         # X_emotions = pandas.read_csv(EFeatOutput)
         #GET FREQS HERE
         # X_append = freq_reaper.runAll()
@@ -67,9 +67,9 @@ class PredictionStreamer(object):
         prsdy_predicted = self.prosody_model.predict(X_prosody)
         # emote_predicted = self.emotion_model.predict(X_emotions)
         # print("EMOTE PREDICTIONS: ", emote_predicted)
-        print("X EMOTIONS: ", X_emotions)
-        print("PRSDY PREDICTIONS: ", prsdy_predicted)
-        print("MATCHING? ", )
+        # print("X EMOTIONS: ", X_emotions)
+        # print("PRSDY PREDICTIONS: ", prsdy_predicted)
+        # print("MATCHING? ")
         
         pPred = prsdy_predicted.tolist()
         ePred = X_emotions.tolist()
@@ -78,6 +78,23 @@ class PredictionStreamer(object):
             pPred[i] = 'switch'
         for i in switchEIndices:
             ePred[i] = 'switch'
+        with open(PPredictionsOutput, "wb") as f1:
+            writer = csv.writer(f1)
+            for elem in pPred:
+                writer.writerow(elem)
+        with open(EPredictionsOutput, "wb") as f2:
+            writer = csv.writer(f2)
+            for elem in ePred:
+                writer.writerow(elem)
+        print("DONE")
+
+
+        # print("PROSODY")
+        # for elem in pPred:
+        #     print(elem)
+        # print("EMOTION")
+        # for elem in ePred:
+        #     print(elem)
         
 
 
@@ -91,9 +108,9 @@ class PredictionStreamer(object):
         male_timings = timingsForDate["MALE"]
         female_timings = timingsForDate["FEMALE"]
         total_timings = male_timings + female_timings
-        print("MALE T: ", male_timings)
-        print("FEMALE: ", female_timings)
-        print("TOTAL: ", total_timings)
+        # print("MALE T: ", male_timings)
+        # print("FEMALE: ", female_timings)
+        # print("TOTAL: ", total_timings)
         sorted_timings = sorted(total_timings, key=lambda tup: tup[0])
         numChannels, numFrames, fs, sig = myWave.readWaveFile(wav_pathname)
         assert numChannels is not 0
@@ -122,8 +139,8 @@ class PredictionStreamer(object):
                 e_vec.append("switch")
                 i += 1
 
-        print(p_vec)
-        print(e_vec)
+        # print(p_vec)
+        # print(e_vec)
 
         switchPIndices = []
         switchEIndices = []
@@ -246,8 +263,18 @@ class PredictionStreamer(object):
 
 
 def main():
-    ps = PredictionStreamer("102-122.txt")
-    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo_p_pred.txt", "demo_e_pred.txt")
+    # ps = PredictionStreamer("102-122.txt")
+    # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo_p_pred.txt", "demo_e_pred.txt")
+
+
+    ps = PredictionStreamer("114-128.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo1_prosody_prediction.txt", "demo1_emotion_prediction.txt")
+    ps = PredictionStreamer("115-136.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo2_prosody_prediction.txt", "demo2_emotion_prediction.txt")
+    ps = PredictionStreamer("117-123.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo3_prosody_prediction.txt", "demo3_emotion_prediction.txt")
+    ps = PredictionStreamer("119-137.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo4_prosody_prediction.txt", "demo4_emotion_prediction.txt")
 
 
 
