@@ -1,6 +1,7 @@
 from __future__ import print_function
 from collections import deque
 from prosody_reaper import ProsodicReaper
+import emotional_reaper as EmoReaper
 import os
 import csv
 import sys
@@ -13,6 +14,7 @@ import audioop
 import dspUtil
 import praatTextGrid
 import numpy as np
+from freq_reaper import FreqReaper
 import scipy.io.wavfile as wav 
 from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm, neural_network, externals
 
@@ -27,21 +29,51 @@ class PredictionStreamer(object):
             self.participants = fileName.split('.')[0].split('-')
         else:
             self.participants = None
+        # DEPRECATED
         self.utterancesDir = utterancesDir
         self.debug = debug
-        self.emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
+        self.emotion_model = neighbors.KNeighborsClassifier()
+        self.prosody_model = neural_network.MLPClassifier(shuffle=False, random_state=4)
+        externals.joblib.load(self.emotion_model, 'models/emotions/k_neighbors.pkl')
+        externals.joblib.load(self.prosody_model, 'models/nn.pkl')
+        self.freq_reaper = FreqReaper()
         super(PredictionStreamer, self).__init__()
 
-    def process(self):
+    def process(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput):
         if self.utterancesDir is not None:
-            predictions = self.processUtterancesDirHandler()
+            p_predictions, e_predictions = self.processUtterancesDirHandler()
             print("PREDICITONS LIST: ", predictions)
             return predictions
         else:
-            predictions = self.processTextGridHandler()
+            ##MAIN METHOD##
+            self.processTextGridHandler(PFeatOutput, EFeatOutput)
+            self.produce(PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput)
             print("PREDICITONS LIST: ", predictions)
 
-    def processTextGridHandler(self):
+
+
+    def produce(self, PFeatOutput, EFeatOutput):
+        X_prosody = pandas.read_csv(PFeatOutput)
+        X_emotions = pandas.read_csv(EFeatOutput)
+        #GET FREQS HERE
+        X_append = freq_reaper.runAll()
+        X = np.hstack((X_prosody, X_append))
+        X_emotions = np.atleast_2d(X_emotions).transpose()
+        
+        
+
+        emote_predicted = self.emotion_model.predict(X_emotions)
+        prsdy_predicted = self.prosody_model.predict(X)
+
+        print("EMOTE PREDICTIONS: ", emote_predicted)
+        print("PRSDY PREDICTIONS: ", prsdy_predicted)
+        
+
+
+
+
+
+    def processTextGridHandler(self, PFeatOutput, EFeatOutput):
         tg_pathname = self.getFilepathForTG()
         wav_pathname = self.getFilepathForWAV()
         timingsForDate = self.getIntervalsFromTG(tg_pathname)
@@ -51,7 +83,8 @@ class PredictionStreamer(object):
         sorted_timings = sorted(total_timings, key=lambda tup: tup[0])
         numChannels, numFrames, fs, sig = myWave.readWaveFile(wav_pathname)
         assert numChannels is not 0
-        predictions = []
+        p_vec = []
+        e_vec = []
         if self.debug is True:
             print(numChannels, numFrames, fs)
             print("\tFrame Sample Rate: ",fs)
@@ -62,14 +95,24 @@ class PredictionStreamer(object):
             end_index = dspUtil.getFrameIndex(end_t, fs)
             assert start_t is not end_t
             utterance = sig[start_index:end_index]
-            predictions.append(self.labelSigByAnimationFrame(fs, sig[0]))
+            e_vec.append(EmoReaper.getFeatFromSign(utterance, fs))
+            p_vec.append(self.labelSigByAnimationFrame(fs, sig[0]))
+            ## PROSODY FEATURES NOW IN P_VEC ##
             if i < len(sorted_timings) - 1:
-                predictions.append("switch")
+                p_vec.append("switch")
                 i += 1
-        return predictions
+        with open(PFeatOutput, "wb") as f1:
+            writer = csv.writer(f1)
+            writer.writerows(p_vec)
+        with open(EFeatOutput, "wb") as f2:
+            writer = csv.writer(f2)
+            writer.writerows(e_vec)
+
 
     # def processUtterancesDirHandler(self):
         # TODO NOW
+
+
 
     def getIntervalsFromTG(self, filepath):
         textGrid = praatTextGrid.PraatTextGrid(0, 0)
@@ -88,7 +131,6 @@ class PredictionStreamer(object):
             speakers[sexOfSpeaker] = intervals
         assert len(speakers) is not 0
         return speakers
-                
 
 
     def labelSigByAnimationFrame(self, fs_rate, signal_data):
@@ -131,14 +173,12 @@ class PredictionStreamer(object):
         F0_std = np.std(F0)
         F0_range = F0_max - F0_min
 
-
         RMS_min = min(RMS)
         RMS_max = max(RMS)
         RSum = sum(RMS)
         RMS_mean = RSum/len(RMS)
         RMS_std = np.std(RMS)
         RMS_range = RMS_max - RMS_min
-
         return [F0_min, F0_max, F0_mean, F0_std, F0_range, RMS_min, RMS_max, RMS_mean, RMS_std, RMS_range]
 
     def getFilepathForTG(self, rev=False):
@@ -161,7 +201,7 @@ class PredictionStreamer(object):
 
 def main():
     ps = PredictionStreamer("102-122.txt")
-    ps.process()
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo_p_pred.txt", "demo_e_pred.txt")
 
 
 

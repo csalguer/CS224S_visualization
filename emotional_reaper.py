@@ -43,6 +43,21 @@ def calculateFeatures(wav_pathname):
    vec = packageFeatures(F0_arr, RMS_arr)
    return vec
 
+
+def getFeatFromSign(signal_data, fs_rate):
+  
+  F0_arr = []
+  RMS_arr = []
+  F0_result = dspUtil.calculateF0once(signal_data, fs_rate)
+  #RMS_result = dspUtil.calculateRMSOnce(utterance)
+  RMS_result = audioop.rms(signal_data, 2)
+  F0_arr.append(F0_result)
+  RMS_arr.append(RMS_result)
+  # print("F0: ", F0_result)
+  # print("RMS: ", RMS_result)
+  vec = packageFeatures(F0_arr, RMS_arr)
+  return vec
+
 def packageFeatures(F0, RMS):
         F0_min = min(F0)
         F0_max = max(F0)
