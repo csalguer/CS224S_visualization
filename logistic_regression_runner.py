@@ -10,12 +10,12 @@ import pandas as pandas
 freq_reaper = FreqReaper()
 
 X = pandas.read_csv('prosody_features_np.csv')
-X_append = freq_reaper.runAll()
+# X_append = freq_reaper.runAll()
 emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
 X_emotions = emotion_model.predict(X)
 X_emotions = np.atleast_2d(X_emotions).transpose()
-X = np.hstack((X, X_append))
-#X = np.hstack((X, X_emotions))
+# X = np.hstack((X, X_append))
+# X = np.hstack((X, X_emotions))
 
 y = pandas.read_csv('all_outcomes.csv')
 

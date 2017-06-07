@@ -1,7 +1,7 @@
 from __future__ import print_function
 from collections import deque
 from prosody_reaper import ProsodicReaper
-import emotional_reaper as EmoReaper
+from emotional_reaper import getFeatFromSign
 import os
 import csv
 import sys
@@ -16,6 +16,7 @@ import praatTextGrid
 import numpy as np
 from freq_reaper import FreqReaper
 import scipy.io.wavfile as wav 
+import pandas as pandas
 from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm, neural_network, externals
 
 
@@ -32,12 +33,13 @@ class PredictionStreamer(object):
         # DEPRECATED
         self.utterancesDir = utterancesDir
         self.debug = debug
-        self.emotion_model = neighbors.KNeighborsClassifier()
-        self.prosody_model = neural_network.MLPClassifier(shuffle=False, random_state=4)
-        externals.joblib.load(self.emotion_model, 'models/emotions/k_neighbors.pkl')
-        externals.joblib.load(self.prosody_model, 'models/nn.pkl')
+        # CODE BELOW FOR DUMPING, loading creates the specific Classifier() instance
+        # self.emotion_model = neighbors.KNeighborsClassifier()
+        # self.prosody_model = neural_network.MLPClassifier(shuffle=False, random_state=4)
+        self.emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
+        self.prosody_model = externals.joblib.load('models/nn2.pkl')
         self.freq_reaper = FreqReaper()
-        super(PredictionStreamer, self).__init__()
+        # super(PredictionStreamer, self).__init__()
 
     def process(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput):
         if self.utterancesDir is not None:
@@ -46,26 +48,31 @@ class PredictionStreamer(object):
             return predictions
         else:
             ##MAIN METHOD##
-            self.processTextGridHandler(PFeatOutput, EFeatOutput)
-            self.produce(PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput)
+            switchPIndices, switchEIndices = self.processTextGridHandler(PFeatOutput, EFeatOutput)
+            self.produce(PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices)
             print("PREDICITONS LIST: ", predictions)
 
 
 
-    def produce(self, PFeatOutput, EFeatOutput):
+    def produce(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices):
         X_prosody = pandas.read_csv(PFeatOutput)
-        X_emotions = pandas.read_csv(EFeatOutput)
+        # X_emotions = pandas.read_csv(EFeatOutput)
         #GET FREQS HERE
-        X_append = freq_reaper.runAll()
-        X = np.hstack((X_prosody, X_append))
+        # X_append = freq_reaper.runAll()
+        # X = np.hstack((X_prosody, X_append))
+        X_emotions = self.emotion_model.predict(X_prosody)
         X_emotions = np.atleast_2d(X_emotions).transpose()
-        
-        
-
+        # X = np.hstack((X_prosody, X_emotions))
+        prsdy_predicted = self.prosody_model.predict(X_prosody)
         emote_predicted = self.emotion_model.predict(X_emotions)
-        prsdy_predicted = self.prosody_model.predict(X)
+        
 
+        for i in switchPIndices:
+            prsdy_predicted[i] = 'switch'
+        for i in switchEIndices:
+            emote_predicted[i] = 'switch'
         print("EMOTE PREDICTIONS: ", emote_predicted)
+        print("X EMOTIONS: ", X_emotions)
         print("PRSDY PREDICTIONS: ", prsdy_predicted)
         
 
@@ -80,6 +87,9 @@ class PredictionStreamer(object):
         male_timings = timingsForDate["MALE"]
         female_timings = timingsForDate["FEMALE"]
         total_timings = male_timings + female_timings
+        print("MALE T: ", male_timings)
+        print("FEMALE: ", female_timings)
+        print("TOTAL: ", total_timings)
         sorted_timings = sorted(total_timings, key=lambda tup: tup[0])
         numChannels, numFrames, fs, sig = myWave.readWaveFile(wav_pathname)
         assert numChannels is not 0
@@ -89,26 +99,54 @@ class PredictionStreamer(object):
             print(numChannels, numFrames, fs)
             print("\tFrame Sample Rate: ",fs)
             print("\tData Array Shape: ", sig[0].shape)
-            i = 0
+            print("\tSORTED Timings ...")
+            for t in sorted_timings:
+                print("\t\t{}".format(t))
+        i = 0
+        signal_data = sig[0]
         for (start_t, end_t) in sorted_timings:
             start_index = dspUtil.getFrameIndex(start_t, fs)
             end_index = dspUtil.getFrameIndex(end_t, fs)
             assert start_t is not end_t
-            utterance = sig[start_index:end_index]
-            e_vec.append(EmoReaper.getFeatFromSign(utterance, fs))
-            p_vec.append(self.labelSigByAnimationFrame(fs, sig[0]))
+            utterance = signal_data[start_index:end_index]
+            # print(len(utterance))
+            e_vec += self.getFeatForFrameAnimation(utterance, fs, emotionFlag=True)
+            p_vec += self.getFeatForFrameAnimation(utterance, fs)
             ## PROSODY FEATURES NOW IN P_VEC ##
             if i < len(sorted_timings) - 1:
                 p_vec.append("switch")
+                e_vec.append("switch")
                 i += 1
+
+        print(p_vec)
+        print(e_vec)
+
+        switchPIndices = []
+        switchEIndices = []
+        dummy = [0] * 10
+        header = 'feature1 feature2 feature3 feature4 feature5 feature6 feature7 feature8 feature9 feature10'.split(" ")
         with open(PFeatOutput, "wb") as f1:
             writer = csv.writer(f1)
-            writer.writerows(p_vec)
+            for (i, elem) in enumerate(p_vec):
+                if i is 0:
+                    writer.writerow(header)
+                if elem is "switch":
+                    switchPIndices.append(i)
+                    writer.writerow(dummy)
+                else:
+                    writer.writerow(elem)
         with open(EFeatOutput, "wb") as f2:
             writer = csv.writer(f2)
-            writer.writerows(e_vec)
+            for (i, elem) in enumerate(p_vec):
+                if i is 0:
+                    writer.writerow(header)
+                if elem is "switch":
+                    switchEIndices.append(i)
+                    writer.writerow(dummy)
+                else:
+                    writer.writerow(elem)
 
-
+        return switchPIndices, switchEIndices
     # def processUtterancesDirHandler(self):
         # TODO NOW
 
@@ -133,7 +171,7 @@ class PredictionStreamer(object):
         return speakers
 
 
-    def labelSigByAnimationFrame(self, fs_rate, signal_data):
+    def getFeatForFrameAnimation(self,signal_data, fs_rate, emotionFlag=False):
         ret = []
         frames_per_sec = 15.0
         samples_per_frame = fs_rate/frames_per_sec
@@ -144,8 +182,12 @@ class PredictionStreamer(object):
             snippet = signal_data[start_index:end_index]
             #print("[{},{}]:".format(start_index, end_index))
             #print(snippet[0:10])
-            vec = self.calculateSubFrameStats(snippet, fs_rate)
-            ret.append(vec)
+            if emotionFlag:
+                vec = getFeatFromSign(snippet, fs_rate)
+                ret.append(vec)
+            else:
+                vec = self.calculateSubFrameStats(snippet, fs_rate)
+                ret.append(vec)
         return ret
 
 
