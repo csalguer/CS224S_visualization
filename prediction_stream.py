@@ -56,6 +56,7 @@ class PredictionStreamer(object):
 
     def produce(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices):
         X_prosody = pandas.read_csv(PFeatOutput)
+        print(X_prosody)
         # X_emotions = pandas.read_csv(EFeatOutput)
         #GET FREQS HERE
         # X_append = freq_reaper.runAll()
@@ -64,16 +65,19 @@ class PredictionStreamer(object):
         X_emotions = np.atleast_2d(X_emotions).transpose()
         # X = np.hstack((X_prosody, X_emotions))
         prsdy_predicted = self.prosody_model.predict(X_prosody)
-        emote_predicted = self.emotion_model.predict(X_emotions)
-        
-
-        for i in switchPIndices:
-            prsdy_predicted[i] = 'switch'
-        for i in switchEIndices:
-            emote_predicted[i] = 'switch'
-        print("EMOTE PREDICTIONS: ", emote_predicted)
+        # emote_predicted = self.emotion_model.predict(X_emotions)
+        # print("EMOTE PREDICTIONS: ", emote_predicted)
         print("X EMOTIONS: ", X_emotions)
         print("PRSDY PREDICTIONS: ", prsdy_predicted)
+        print("MATCHING? ", )
+        
+        pPred = prsdy_predicted.tolist()
+        ePred = X_emotions.tolist()
+
+        for i in switchPIndices:
+            pPred[i] = 'switch'
+        for i in switchEIndices:
+            ePred[i] = 'switch'
         
 
 
