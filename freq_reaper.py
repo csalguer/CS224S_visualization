@@ -96,23 +96,13 @@ class FreqReaper(object):
         return results
 
     def calculateUnigramBigrams(self):
-        with open("test_batch1.txt") as f:
-            content1 = f.readlines()
-        content1 = [x.strip() for x in content1]
-        with open("test_batch2.txt") as f:
-            content2 = f.readlines()
-        content2 = [x.strip() for x in content2]
-        with open("test_batch3.txt") as f:
-            content3 = f.readlines()
-        content3 = [x.strip() for x in content3]
+        with open("consolidated_batch.txt") as f:
+            content = f.readlines()
+        content = [x.strip() for x in content]
         self.unprocessed_results = list()
-        for file in content1:
+        for file in content:
             self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
-        for file in content2:
-            self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
-        for file in content3:
-            self.unprocessed_results.append(self.writeUnigramBigramToFile(f, file))
-        self.total_lines = (len(content1) + len(content2) + len(content3)) * 2
+        self.total_lines = len(content) * 2
 
     def processFreqFeatures(self):
         processed_results = np.zeros([self.total_lines, len(self.unigrams) + len(self.bigrams)])
@@ -140,8 +130,6 @@ class FreqReaper(object):
 
 if __name__ == '__main__':
     freq_reaper = FreqReaper()
-    freq_reaper.makeAllUnigramBigramSet("test_batch1.txt")
-    freq_reaper.makeAllUnigramBigramSet("test_batch2.txt")
-    freq_reaper.makeAllUnigramBigramSet("test_batch3.txt")
+    freq_reaper.makeAllUnigramBigramSet("consolidated_batch.txt")
     freq_reaper.makeUnigramBigramList()
     freq_reaper.calculateUnigramBigrams()

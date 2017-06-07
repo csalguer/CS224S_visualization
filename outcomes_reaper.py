@@ -29,29 +29,13 @@ class OutcomesReaper(object):
 
 
     def getAllOutcomes(self):
-        with open("test_batch1.txt") as f:
-            content1 = f.readlines()
-        content1 = [x.strip() for x in content1]
-        with open("test_batch2.txt") as f:
-            content2 = f.readlines()
-        content2 = [x.strip() for x in content2]
-        with open("test_batch3.txt") as f:
-            content3 = f.readlines()
-        content3 = [x.strip() for x in content3]
-        f = open("outcomes.csv", 'wt')
+        with open("consolidated_batch.txt") as f:
+            content = f.readlines()
+        content = [x.strip() for x in content]
+        f = open("all_outcomes.csv", 'wt')
         try:
             writer = csv.writer(f, lineterminator="\n")
-            for file in content1:
-                self.setParticipants(file)
-                outcomes = self.getOutcomes()
-                writer.writerow(outcomes["MALE_OUTCOME"])
-                writer.writerow(outcomes["FEMALE_OUTCOME"])
-            for file in content2:
-                self.setParticipants(file)
-                outcomes = self.getOutcomes()
-                writer.writerow(outcomes["MALE_OUTCOME"])
-                writer.writerow(outcomes["FEMALE_OUTCOME"])
-            for file in content3:
+            for file in content:
                 self.setParticipants(file)
                 outcomes = self.getOutcomes()
                 writer.writerow(outcomes["MALE_OUTCOME"])
