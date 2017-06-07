@@ -104,14 +104,25 @@ class BatchProcess(object):
         participants = self.get_last_participants(self.featdumpFilename)
 
 
+    def getOutputWithoutParticipants(self):
+        with open(self.featdumpFilename,"rb") as source:
+            rdr= csv.reader( source )
+            with open("prosody_features_np.csv","wb") as result:
+                wtr= csv.writer( result )
+                for r in rdr:
+                    if len(r) > 0:
+                        print(r)
+                        wtr.writerow( (r[1], r[2], r[3], r[4], r[5], r[6], r[7], r[8], r[9], r[10]) )
+
 
 
 def main():
     try:
         bp = BatchProcess('consolidated_batch.txt', "prosody_features.csv")
-        queue = Queue()
-        p = Process(target=bp.process)
-        p.start()
+        # queue = Queue()
+        # p = Process(target=bp.process)
+        # p.start()
+        bp.getOutputWithoutParticipants()
     except MemoryError:
         print("RECOVERING FROM MEMORY ERROR:")
         print("ATTEMPTING RESTART")

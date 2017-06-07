@@ -14,6 +14,7 @@ import dspUtil
 import praatTextGrid
 import numpy as np
 import scipy.io.wavfile as wav 
+from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tree, svm, neural_network, externals
 
 
 
@@ -28,6 +29,7 @@ class PredictionStreamer(object):
             self.participants = None
         self.utterancesDir = utterancesDir
         self.debug = debug
+        self.emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
         super(PredictionStreamer, self).__init__()
 
     def process(self):

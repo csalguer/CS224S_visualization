@@ -9,7 +9,7 @@ import pandas as pandas
 
 freq_reaper = FreqReaper()
 
-X = pandas.read_csv('all_features.csv')
+X = pandas.read_csv('prosody_features_np.csv')
 X_append = freq_reaper.runAll()
 emotion_model = externals.joblib.load('models/emotions/k_neighbors.pkl')
 X_emotions = emotion_model.predict(X)
@@ -32,7 +32,7 @@ y = y[:len(y) - 41]
 # fit a logistic regression model to the data
 logistic = linear_model.LogisticRegression()
 logistic.fit(X,y)
-externals.joblib.dump(logistic, 'models/logistic.pkl')
+externals.joblib.dump(logistic, 'models/logistic2.pkl')
 print(logistic)
 
 # make predictions
@@ -54,7 +54,7 @@ print(metrics.confusion_matrix(expected, predicted))
 # fit a Naive Bayes model to the data
 gaussian = naive_bayes.GaussianNB()
 gaussian.fit(X, y)
-externals.joblib.dump(gaussian, 'models/gaussian.pkl')
+externals.joblib.dump(gaussian, 'models/gaussian2.pkl')
 print(gaussian)
 
 # make predictions
@@ -76,7 +76,7 @@ print(metrics.confusion_matrix(expected, predicted))
 # fit a k-nearest neighbor model to the data
 k_neighbors = neighbors.KNeighborsClassifier()
 k_neighbors.fit(X, y)
-externals.joblib.dump(k_neighbors, 'models/k_neighbors.pkl')
+externals.joblib.dump(k_neighbors, 'models/k_neighbors2.pkl')
 print(k_neighbors)
 
 # make predictions
@@ -98,7 +98,7 @@ print(metrics.confusion_matrix(expected, predicted))
 # fit a CART model to the data
 decision_tree = tree.DecisionTreeClassifier()
 decision_tree.fit(X, y)
-externals.joblib.dump(decision_tree, 'models/decision_tree.pkl')
+externals.joblib.dump(decision_tree, 'models/decision2_tree.pkl')
 print(decision_tree)
 
 # make predictions
@@ -120,7 +120,7 @@ print(metrics.confusion_matrix(expected, predicted))
 # fit a SVM model to the data
 svm = svm.SVC()
 svm.fit(X, y)
-externals.joblib.dump(svm, 'models/svm.pkl')
+externals.joblib.dump(svm, 'models/svm2.pkl')
 print(svm)
 
 # make predictions
@@ -141,7 +141,7 @@ print(metrics.confusion_matrix(expected, predicted))
 
 nn = neural_network.MLPClassifier(shuffle=False, random_state=4)
 nn.fit(X, y)
-externals.joblib.dump(nn, 'models/nn.pkl')
+externals.joblib.dump(nn, 'models/nn2.pkl')
 print(nn)
 
 # make predictions

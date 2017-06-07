@@ -129,9 +129,10 @@ class FreqReaper(object):
 
 
     def runAll(self):
-        self.makeAllUnigramBigramSet("test_batch1.txt")
-        self.makeAllUnigramBigramSet("test_batch2.txt")
-        self.makeAllUnigramBigramSet("test_batch3.txt")
+        # self.makeAllUnigramBigramSet("test_batch1.txt")
+        # self.makeAllUnigramBigramSet("test_batch2.txt")
+        # self.makeAllUnigramBigramSet("test_batch3.txt")
+        self.makeAllUnigramBigramSet("consolidated_batch.txt")
         self.makeUnigramBigramList()
         self.calculateUnigramBigrams()
         return self.processFreqFeatures()
