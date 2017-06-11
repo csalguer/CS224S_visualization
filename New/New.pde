@@ -61,8 +61,8 @@ int prosody_count = 0;
 int emotion_count = 0;
 int debug_count = 0;
  
-boolean recording;
-PGraphicsPDF pdf;
+//boolean recording;
+//PGraphicsPDF pdf;
  
 
 /*
@@ -142,12 +142,6 @@ int nextSpark = 0;
  */
 int skipCount = 0;
 
-/**
- * When the mouse is dragged, create a new spark at the mouse position with a
- * velocity based on the drag speed and direction.
- *
- * @author Gregory Bush
- */
 void create_sparks(float x, float y) {
   if (skipCount >= EMISSION_PERIOD) {
     /*
@@ -189,7 +183,7 @@ long lastFrameDrawn = millis();
 float averageElapsedMillis = 20.0;
  
  
-void keyPressed() {
+/*void keyPressed() {
   if (key == 'r') {
     beginRecord(pdf);
       println("Recording started.");
@@ -202,7 +196,7 @@ void keyPressed() {
       recording = false;
     exit();
   }  
-}
+}*/
 
 void settings() {
   //width = 2560;
@@ -211,8 +205,9 @@ void settings() {
 }
 
 void setup() {
-  pdf = (PGraphicsPDF) createGraphics(width, height, PDF, "pause-resume.pdf");
+  //pdf = (PGraphicsPDF) createGraphics(width, height, PDF, "pause-resume.pdf");
   frameRate(60);
+  //println(frameCount);
   lover_one_previous_x = 0;
   lover_one_previous_y = height/2;
   lover_two_previous_x = width;
@@ -230,7 +225,7 @@ void setup() {
     sparks[i] = new Particle(255, 255, 255);
   }
   
-  String[] lines = loadStrings("demo2_prosody_prediction.txt");
+  String[] lines = loadStrings("demo6_prosody_prediction.txt");
   prosody_values = new int[lines.length];
   for (int i = 0 ; i < lines.length; i++) {
     if (lines[i].equals(switch_label) == false) {
@@ -240,7 +235,7 @@ void setup() {
     }
   }
   
-  lines = loadStrings("demo2_emotion_prediction.txt");
+  lines = loadStrings("demo6_emotion_prediction.txt");
   emotion_values = new int[lines.length];
   for (int i = 0 ; i < lines.length; i++) {
     if (lines[i].equals(switch_label) == false) {
@@ -254,25 +249,25 @@ void setup() {
   //file.play();
   //file.rate(0.25);
   minim = new Minim(this); 
-  kick = minim.loadSample("sound2.wav", 512); 
+  kick = minim.loadSample("sound6.wav", 512); 
   kick.trigger(); 
 }
 
 void draw() {
-  println(frameCount);
+  //println(frameCount);
   //background(0);
   fill(0,0,0,10);
   noStroke();
   fill(0,0,0,10);
   rect(0,0,width,height);
-  if(colorCount <= 185) {
+  if(colorCount <= 190) {
     lover_difference_x = lover_two_previous_x - lover_one_previous_x;
     lover_difference_y = lover_two_previous_y - lover_one_previous_y; 
     if(abs(lover_difference_x) < 30 && abs(lover_difference_y) < 30) {
       create_sparks(lover_one_previous_x + lover_difference_x/2, lover_one_previous_y + lover_difference_y/2); 
-      colorCount += 2*0.2;
+      colorCount += 5*0.2;
       if (cohesion < 1) {
-        cohesion += 2*cohesion_step;
+        cohesion += 5*cohesion_step;
       }
     }
     strokeWeight(4);
@@ -294,13 +289,13 @@ void draw() {
     
     //WILLINGNESS
     
-    if (frameCount % 1 == 0 && colorCount <= 165) {
+    if (frameCount % 15 == 0 && colorCount <= 165) {
       //println(debug_count);
       debug_count++;
       if (lover_one_speaking) {
         if (prosody_values[prosody_count] == -1) {
           lover_one_speaking = false;
-          println("switch");
+          //println("switch");
           prosody_count++;
         } else if (prosody_values[prosody_count] == 0) {
           willingness_one = 1;
@@ -313,7 +308,7 @@ void draw() {
         if (prosody_values[prosody_count] == -1) {
           lover_one_speaking = true;
           prosody_count++;
-          println("switch");
+          //println("switch");
         } else if (prosody_values[prosody_count] == 0) {
           willingness_two = 1;
           prosody_count++;
@@ -331,15 +326,15 @@ void draw() {
       random_two_y = random(-4,4);
     } 
     
-    lover_one_new_x = lover_one_previous_x  + lover_one_right*1*willingness_one;
-    lover_one_new_y = lover_one_previous_y  - 5*cos(frameCount/10)*lover_one_up*1*willingness_one;
-    lover_two_new_x = lover_two_previous_x  + lover_two_right*1*willingness_two;
-    lover_two_new_y = lover_two_previous_y  - 5*sin(frameCount/10)*lover_two_up*1*willingness_two;
+    //lover_one_new_x = lover_one_previous_x  + lover_one_right*1*willingness_one;
+    //lover_one_new_y = lover_one_previous_y  - 5*cos(frameCount/10)*lover_one_up*1*willingness_one;
+    //lover_two_new_x = lover_two_previous_x  + lover_two_right*1*willingness_two;
+    //lover_two_new_y = lover_two_previous_y  - 5*sin(frameCount/10)*lover_two_up*1*willingness_two;
     
-    //lover_one_new_x = lover_one_previous_x  + random_one_x + lover_one_right*2*willingness_one;
-    //lover_one_new_y = lover_one_previous_y  + random_one_y - 5*cos(frameCount/10)*lover_one_up*rate*willingness_one;
-    //lover_two_new_x = lover_two_previous_x  + random_two_x + lover_two_right*2*willingness_two;
-    //lover_two_new_y = lover_two_previous_y  + random_two_y - 5*sin(frameCount/10)*lover_two_up*rate*willingness_two;
+    lover_one_new_x = lover_one_previous_x  + random_one_x + lover_one_right*2*willingness_one;
+    lover_one_new_y = lover_one_previous_y  + random_one_y - 5*cos(frameCount/10)*lover_one_up*rate*willingness_one;
+    lover_two_new_x = lover_two_previous_x  + random_two_x + lover_two_right*2*willingness_two;
+    lover_two_new_y = lover_two_previous_y  + random_two_y - 5*sin(frameCount/10)*lover_two_up*rate*willingness_two;
     
   } else {
     willingness_one = 1;
