@@ -5,12 +5,14 @@ class OutcomesReaper(object):
     def __init__(self, fileList=None):
         super(OutcomesReaper, self).__init__()
 
+    # set the internal notion of the participants in the conversation
     def setParticipants(self, filename):
         self.filename = filename
         participants = filename.split('.')[0].split('-')
         print(participants)
         self.participants = participants
 
+    # iterate through the file of outcomes to locate the outcomes for this particular conversation and return them
     def getOutcomes(self):
         assert self.participants is not None
         f = open("speeddating_corpus/speeddateoutcomes.csv", "r")
@@ -27,7 +29,8 @@ class OutcomesReaper(object):
                 break
         return {"MALE_OUTCOME": male_outcome, "FEMALE_OUTCOME": female_outcome}
 
-
+    # open the list of conversations, iterate through all the conversations in the list, extract the outcome of
+    # the conversation and write it to a file
     def getAllOutcomes(self):
         with open("consolidated_batch.txt") as f:
             content = f.readlines()
