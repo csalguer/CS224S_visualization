@@ -28,6 +28,7 @@ class ProsodicReaper(object):
 
     
 
+    #REAPS THE TWO FEATURE VECTORS PRESENT FROM A SINGLE SPEED DATING FILE
     def reapFeatures(self):
         tg_pathname = self.getFilepathForTG()
         wav_pathname = self.getFilepathForWAV()
@@ -47,6 +48,11 @@ class ProsodicReaper(object):
         return {"MALE":male_vec, "FEMALE":female_vec}
 
 
+    #INITIAL WAY OF PROCESSING BATCHES, USED IN OTHER REAPER CODE BUT NOT FOR FINAL USE
+    #TO BE DEPRECATED WITH BATCH_PROCESS.PY TO ALLOW FOR EASY RESUMING OF PROCESSING 
+    #UPON INTERRUPT DUE TO MEMORY LEAK IN DSPUTILS LIBRARY USED FOR THE F0 CALCULATION
+    #WHICH USES A DEEPCOPY FOR OPERATIONS: 
+    #               NOTE: WE DID NOT TOUCH ANY BROKEN CODE IN THE LIBRARY, INCLUDING THIS MEMORY LEAK
     def reapFeaturesList(self):
         assert self.fileList is not None
         with open(self.fileList) as f:
@@ -71,6 +77,7 @@ class ProsodicReaper(object):
         self.participants = participants
 
 
+    #MAIN METHOD USED TO PERFORM THE F0 AND RMS CALCULATIONS
     def calculateFeatures(self, timings, fs_rate, signal_data):
         F0_arr = []
         RMS_arr = []
@@ -94,16 +101,16 @@ class ProsodicReaper(object):
         print(vec)
         return vec
 
+
+    #REWRITTEN METHOD FOR CALCULATING RMS: NATIVE PYTHON IMPLEMENTATION, NOT THROUGH PRAAT
     def np_audioop_rms(self, data):
         """audioop.rms() using numpy; avoids another dependency for app"""
         # _checkParameters(data, width)
-        # if len(data) == 0: return None
         fromType = (np.int8, np.int16, np.int32)[width // 2]
-        # d = np.frombuffer(data, fromType).astype(np.float)
-        # rms = np.sqrt(np.mean(d ** 2))
-        # return int(rms)
         return np.power(np.frombuffer(data, dtype=fromType), 2.0).mean() ** .5
 
+    #HELPER METHOD TO RETURN A FULLY PACKAGED FEATURE VECTOR CONTAINING ALL THE STATISTICS GIVEN TWO LISTS
+    #CONTAINING THE VALUE DISTRIBUTIONS FOR F0 AND RMS
     def packageFeatures(self, F0, RMS):
         F0_min = min(F0)
         F0_max = max(F0)
@@ -119,16 +126,11 @@ class ProsodicReaper(object):
         RMS_mean = RSum/len(RMS)
         RMS_std = np.std(RMS)
         RMS_range = RMS_max - RMS_min
-
-        # print(F0_min, F0_max, F0_mean, F0_std, F0_range)
-        # print(RMS_min, RMS_max, RMS_mean, RMS_std, RMS_range)
-        # (rate,sigData) = wav.read(pathname)
-        # print(rate, sigData)
-        # numChannels, numFrames, fs, data = myWave.readWaveFile(pathname)
-        # print(numChannels, numFrames, fs)
         return [F0_min, F0_max, F0_mean, F0_std, F0_range, RMS_min, RMS_max, RMS_mean, RMS_std, RMS_range]
 
 
+
+    #METHOD TO RETRIEVE ALL UTTERANCE TIMINGS AS DEFINED IN THE TEXTGRID
     def getIntervalsFromTG(self, filepath):
         textGrid = praatTextGrid.PraatTextGrid(0, 0)
         # arrTiers is an array of objects (either PraatIntervalTier or PraatPointTier)
@@ -154,7 +156,8 @@ class ProsodicReaper(object):
                 
 
 
-
+    #HELPER METHOD TO GET FILENAME FOR THE TEXTGRID FOR THE FILENAME GIVEN UPON INIT. ASSUMES THE FILE HAS A
+    #STRUCTURE TO THAT OF THE SPEEDDATING CORPUS WITH THE FORM "(PARTICIPANT_ONE)-(PARTICIPANT_TWO).*"
     def getFilepathForTG(self, rev=False):
         assert self.participants is not None
         filepath = 'speeddating_corpus/textgrids/' + "-".join(self.participants) + ".TextGrid"
@@ -162,7 +165,8 @@ class ProsodicReaper(object):
         if rev:
             return rev_filepath
         return filepath
-
+    #HELPER METHOD TO GET FILENAME FOR THE AUDIO FOR THE FILENAME GIVEN UPON INIT. ASSUMES THE FILE HAS A
+    #STRUCTURE TO THAT OF THE SPEEDDATING CORPUS WITH THE FORM "(PARTICIPANT_ONE)-(PARTICIPANT_TWO).*""
     def getFilepathForWAV(self, rev=False):
         assert self.participants is not None
         filepath = 'speeddating_corpus/wavefiles/' + "_".join(self.participants) + ".wav"

@@ -17,6 +17,9 @@ class BatchProcess(object):
         self.debug = debug
         super(BatchProcess, self).__init__()
 
+
+    #HELPER METHOD TO GET THE LAST ROW OF THE CSV DUMP FILE WHERE ALL THE FEATURES
+    #ARE BEING PLACED. USED TO HELP RESTART OF PROCESSING FOR INTERRUPS
     def get_last_row(self):
         try:
             with open(self.featdumpFilename, 'r') as f:
@@ -31,7 +34,8 @@ class BatchProcess(object):
             print("No Known file named: {}".format(self.featdumpFilename))
             return None
 
-
+    #HELPER METHOD TO GET THE PARTICIPANTS ASSUMING THE FILENAME FOLLOWS THE SPEEDDATING CORPUS
+    #CONVENTIONS FOR NAMING, THAT IS: "(PARTICIPANT_ONE)-(PARTICIPANT_TWO).*"
     #ONLY TO BE USED WHEN THE LAST TWO ROWS ARE GUARANTEED TO BE PARTICIPANT PAIRS
     def get_last_participants(self):
         try:
@@ -55,23 +59,8 @@ class BatchProcess(object):
 
 
 
-    # def reapFeaturesList(self):
-    #     assert self.fileList is not None
-    #     with open(self.fileList) as f:
-    #         content = f.readlines()
-    #     content = [x.strip() for x in content]
-    #     f = open("features4.csv", 'wt')
-    #     try:
-    #         writer = csv.writer(f)
-    #         for file in content:
-    #             self.setParticipants(file)
-    #             feat = self.reapFeatures()
-    #             writer.writerow(feat["MALE"])
-    #             writer.writerow(feat["FEMALE"])
-        
-
-
-
+    #PROVIDES THE RESTART FRAMEWORK THAT CHECKS THE FINAL ROW TO ALLOW RESUMING OF 
+    #PROCESSING IN CASE OF AN INTERRUPTION OR A RESTART. 
     def process(self):
         lastrow = self.get_last_row()
         with open(self.batchFilename) as f:
@@ -104,6 +93,8 @@ class BatchProcess(object):
         participants = self.get_last_participants(self.featdumpFilename)
 
 
+    #HELPER METHOD TO STRIP THE PARTICIPANT NAMES FROM THE FEATURES FILE TO AVOID DIMENSION ERRORS IN REAPER CODE
+    #THAT DUMPS MODELS
     def getOutputWithoutParticipants(self):
         with open(self.featdumpFilename,"rb") as source:
             rdr= csv.reader( source )
@@ -115,7 +106,7 @@ class BatchProcess(object):
                         wtr.writerow( (r[1], r[2], r[3], r[4], r[5], r[6], r[7], r[8], r[9], r[10]) )
 
 
-
+#DEFAULT USAGE: PROCESSES A FILE NAMED CONSOLIDATED_BATCH.PY AND OUTPUTS TO PROSODY FEATURES CSV
 def main():
     try:
         bp = BatchProcess('consolidated_batch.txt', "prosody_features.csv")

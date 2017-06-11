@@ -24,6 +24,10 @@ from sklearn import datasets, metrics, linear_model, naive_bayes, neighbors, tre
 
 class PredictionStreamer(object):
     """docstring for PredictionStreamer"""
+
+    #Saves the location of the filename, by default set to process a file with an associated TextGrid
+    #Functionality to process a directory of utterances is deprecated. Loads the saved models as part
+    #Of the init
     def __init__(self, fileName, utterancesDir=None, debug=False):
         self.fileName = fileName
         if fileName is not None:
@@ -41,6 +45,9 @@ class PredictionStreamer(object):
         self.freq_reaper = FreqReaper()
         # super(PredictionStreamer, self).__init__()
 
+
+    #Provides the wrapper method which simplifies the call to process a single file
+    #or a whole directory of utterance audio files
     def process(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput):
         if self.utterancesDir is not None:
             p_predictions, e_predictions = self.processUtterancesDirHandler()
@@ -54,11 +61,14 @@ class PredictionStreamer(object):
 
 
 
+
+    # Performs the actual prediction of the data using whichever model was loaded by the object
+    # Both emotional and willingness(referred to as prosody) labels are produced and written to a CSV
     def produce(self, PFeatOutput, EFeatOutput, PPredictionsOutput, EPredictionsOutput, switchPIndices, switchEIndices):
         X_prosody = pandas.read_csv(PFeatOutput)
         # print(X_prosody)
         # X_emotions = pandas.read_csv(EFeatOutput)
-        #GET FREQS HERE
+        #GET FREQS HERE FOR BI/UNIGRAMS
         # X_append = freq_reaper.runAll()
         # X = np.hstack((X_prosody, X_append))
         X_emotions = self.emotion_model.predict(X_prosody)
@@ -66,10 +76,11 @@ class PredictionStreamer(object):
         # X = np.hstack((X_prosody, X_emotions))
         prsdy_predicted = self.prosody_model.predict(X_prosody)
         # emote_predicted = self.emotion_model.predict(X_emotions)
-        # print("EMOTE PREDICTIONS: ", emote_predicted)
-        # print("X EMOTIONS: ", X_emotions)
-        # print("PRSDY PREDICTIONS: ", prsdy_predicted)
-        # print("MATCHING? ")
+        if self.debug is True:
+            print("EMOTE PREDICTIONS: ", emote_predicted)
+            print("X EMOTIONS: ", X_emotions)
+            print("PRSDY PREDICTIONS: ", prsdy_predicted)
+            print("MATCHING? ")
         
         pPred = prsdy_predicted.tolist()
         ePred = X_emotions.tolist()
@@ -88,22 +99,24 @@ class PredictionStreamer(object):
                 writer.writerow(elem)
         print("DONE")
 
-
-        # print("PROSODY")
-        # for elem in pPred:
-        #     print(elem)
-        # print("EMOTION")
-        # for elem in ePred:
-        #     print(elem)
-        
-
+        if self.debug is True:
+            print("PROSODY")
+            for elem in pPred:
+                print(elem)
+            print("EMOTION")
+            for elem in ePred:
+                print(elem)
 
 
 
 
+    # This is the main method that processes the audio for the visualization
+    # using its associated TextGrid. Performs the entire 
     def processTextGridHandler(self, PFeatOutput, EFeatOutput):
         tg_pathname = self.getFilepathForTG()
         wav_pathname = self.getFilepathForWAV()
+
+        #GET TIMINGS FOR UTTERANCES AND JOIN BOTH PARTIES' AND SORT
         timingsForDate = self.getIntervalsFromTG(tg_pathname)
         male_timings = timingsForDate["MALE"]
         female_timings = timingsForDate["FEMALE"]
@@ -112,8 +125,11 @@ class PredictionStreamer(object):
         # print("FEMALE: ", female_timings)
         # print("TOTAL: ", total_timings)
         sorted_timings = sorted(total_timings, key=lambda tup: tup[0])
+
         numChannels, numFrames, fs, sig = myWave.readWaveFile(wav_pathname)
         assert numChannels is not 0
+
+        #PREPARE FOR PER FRAME FEATURE vECTOR CALCULATION
         p_vec = []
         e_vec = []
         if self.debug is True:
@@ -125,6 +141,8 @@ class PredictionStreamer(object):
                 print("\t\t{}".format(t))
         i = 0
         signal_data = sig[0]
+
+        #FOR EACH UTTERANCE IN OUR TIMINGS LIST
         for (start_t, end_t) in sorted_timings:
             start_index = dspUtil.getFrameIndex(start_t, fs)
             end_index = dspUtil.getFrameIndex(end_t, fs)
@@ -134,6 +152,8 @@ class PredictionStreamer(object):
             e_vec += self.getFeatForFrameAnimation(utterance, fs, emotionFlag=True)
             p_vec += self.getFeatForFrameAnimation(utterance, fs)
             ## PROSODY FEATURES NOW IN P_VEC ##
+
+            #IF WE'RE AT THE END OF THE UTTERANCE, APPEND THE SENTINEL 'switch'
             if i < len(sorted_timings) - 1:
                 p_vec.append("switch")
                 e_vec.append("switch")
@@ -142,6 +162,8 @@ class PredictionStreamer(object):
         # print(p_vec)
         # print(e_vec)
 
+        #REPLACE ALL 'switch' SENTINELS WITH DUMMY ZERO VECTOR TO KEEP TRACK OF INDICES OF SPEARKERS SWITCHINGS
+        #WHILE STILL ALLOWING US TO PASS THE ENTIRE LIST TO THE MODEL WITHOUT BREAKING
         switchPIndices = []
         switchEIndices = []
         dummy = [0] * 10
@@ -168,11 +190,13 @@ class PredictionStreamer(object):
                     writer.writerow(elem)
 
         return switchPIndices, switchEIndices
+
+
     # def processUtterancesDirHandler(self):
-        # TODO NOW
+        # DEPRECATED
 
 
-
+    #METHOD TO RETRIEVE ALL TIMINGS AS DEFINED IN THE TEXTGRID
     def getIntervalsFromTG(self, filepath):
         textGrid = praatTextGrid.PraatTextGrid(0, 0)
         arrTiers = textGrid.readFromFile(filepath)
@@ -192,6 +216,9 @@ class PredictionStreamer(object):
         return speakers
 
 
+    # PERFORMS THE ITERATION OVER SUBFRAMES GIVEN THE SIGNAL DATA FOR A SINGLE UTTERANCE, COLLECTING
+    # THE ALL THE FEATURE VECTORS FOR EACH FRAME OVER THE ENTIRE UTTERANCE
+    # RETURNS AN ARRAY CONTAINING ALL VECTORS FOR EACH FRAME OF THE UTTERANCE
     def getFeatForFrameAnimation(self,signal_data, fs_rate, emotionFlag=False):
         ret = []
         frames_per_sec = 15.0
@@ -211,11 +238,13 @@ class PredictionStreamer(object):
                 ret.append(vec)
         return ret
 
-
+    #SUBDIVIDES THE GIVEN FRAME INTO SUB FRAMES AND COMPUTES THE F0 AND RMS VALUE FOR EACH OF THESE
+    #SUBFRAMES
     def calculateSubFrameStats(self, snippet, fs_rate):
         F0_arr = []
         RMS_arr = []
-        segments = 3
+        # segments = 3
+        segments = 5
         samples_per_seg = len(snippet)/segments
         iterations = int(math.ceil(len(snippet) / samples_per_seg))
         for i in xrange(iterations):
@@ -228,6 +257,9 @@ class PredictionStreamer(object):
             RMS_arr.append(RMS_result)
         return self.packageFeatures(F0_arr, RMS_arr)
 
+
+    #HELPER METHOD TO RETURN A FULLY PACKAGED FEATURE VECTOR CONTAINING ALL THE STATISTICS GIVEN TWO LISTS
+    #CONTAINING THE VALUE DISTRIBUTIONS FOR F0 AND RMS
     def packageFeatures(self, F0, RMS):
         F0_min = min(F0)
         F0_max = max(F0)
@@ -244,6 +276,9 @@ class PredictionStreamer(object):
         RMS_range = RMS_max - RMS_min
         return [F0_min, F0_max, F0_mean, F0_std, F0_range, RMS_min, RMS_max, RMS_mean, RMS_std, RMS_range]
 
+
+    #HELPER METHOD TO GET FILENAME FOR THE TEXTGRID FOR THE FILENAME GIVEN UPON INIT. ASSUMES THE FILE HAS A
+    #STRUCTURE TO THAT OF THE SPEEDDATING CORPUS WITH THE FORM "(PARTICIPANT_ONE)-(PARTICIPANT_TWO).*""
     def getFilepathForTG(self, rev=False):
         participants = self.fileName.split('.')[0]
         filepath = 'speeddating_corpus/textgrids/' + "-".join(self.participants) + ".TextGrid"
@@ -251,7 +286,9 @@ class PredictionStreamer(object):
         if rev:
             return rev_filepath
         return filepath
-
+        
+    #HELPER METHOD TO GET FILENAME FOR THE AUDIO FOR THE FILENAME GIVEN UPON INIT. ASSUMES THE FILE HAS A
+    #STRUCTURE TO THAT OF THE SPEEDDATING CORPUS WITH THE FORM "(PARTICIPANT_ONE)-(PARTICIPANT_TWO).*""
     def getFilepathForWAV(self, rev=False):
         assert self.participants is not None
         filepath = 'speeddating_corpus/wavefiles/' + "_".join(self.participants) + ".wav"
@@ -265,16 +302,18 @@ class PredictionStreamer(object):
 def main():
     # ps = PredictionStreamer("102-122.txt")
     # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo_p_pred.txt", "demo_e_pred.txt")
-
-
-    ps = PredictionStreamer("114-128.txt")
-    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo1_prosody_prediction.txt", "demo1_emotion_prediction.txt")
-    ps = PredictionStreamer("115-136.txt")
-    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo2_prosody_prediction.txt", "demo2_emotion_prediction.txt")
-    ps = PredictionStreamer("117-123.txt")
-    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo3_prosody_prediction.txt", "demo3_emotion_prediction.txt")
-    ps = PredictionStreamer("119-137.txt")
-    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo4_prosody_prediction.txt", "demo4_emotion_prediction.txt")
+    ps = PredictionStreamer("301-323.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo5_prosody_prediction.txt", "demo5_emotion_prediction.txt")
+    ps = PredictionStreamer("321-302.txt")
+    ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo6_prosody_prediction.txt", "demo6_emotion_prediction.txt")
+    # ps = PredictionStreamer("114-128.txt")
+    # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo1_prosody_prediction.txt", "demo1_emotion_prediction.txt")
+    # ps = PredictionStreamer("115-136.txt")
+    # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo2_prosody_prediction.txt", "demo2_emotion_prediction.txt")
+    # ps = PredictionStreamer("117-123.txt")
+    # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo3_prosody_prediction.txt", "demo3_emotion_prediction.txt")
+    # ps = PredictionStreamer("119-137.txt")
+    # ps.process("demo_prosody_feat.csv", "demo_emotion_feat.csv", "demo4_prosody_prediction.txt", "demo4_emotion_prediction.txt")
 
 
 
